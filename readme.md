@@ -1,6 +1,6 @@
-# TechiDaily
+# Ai Driven Video Production Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://ai-driven-video-production.techidaily.com](https://ai-driven-video-production.techidaily.com)
 
 ## Publish
 
