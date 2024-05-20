@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The TikTok Creators Guide to Aspect Ratio
-date: 2024-04-29T19:32:40.598Z
-updated: 2024-04-30T19:32:40.598Z
+date: 2024-05-19T11:47:54.148Z
+updated: 2024-05-20T11:47:54.148Z
 tags: 
   - video editing software
   - video editing
@@ -2115,4 +2115,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Nokia C22 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Unlock the Power of the Ken Burns Effect A Beginners Guide
-date: 2024-04-29T19:35:53.159Z
-updated: 2024-04-30T19:35:53.159Z
+date: 2024-05-19T11:48:06.783Z
+updated: 2024-05-20T11:48:06.783Z
 tags: 
   - video editing software
   - video editing
@@ -2049,4 +2049,5 @@ Follow @Shanoon Cox
 <li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-12-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus 12</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-zte-blade-a73-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your ZTE Blade A73 5G Device</u></a></li>
 </ul></div>
+
 

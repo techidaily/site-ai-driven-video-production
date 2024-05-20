@@ -1,7 +1,7 @@
 ---
 title: Best Apps for Editing Vertical Videos on Your Smartphone
-date: 2024-04-29T19:15:20.777Z
-updated: 2024-04-30T19:15:20.777Z
+date: 2024-05-19T11:46:44.130Z
+updated: 2024-05-20T11:46:44.130Z
 tags: 
   - video editing software
   - video editing
@@ -2254,4 +2254,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-music-infused-video-editing-top-picks-for-android-and-iphone/"><u>Updated In 2024, Music-Infused Video Editing Top Picks for Android and iPhone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y100-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y100 Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

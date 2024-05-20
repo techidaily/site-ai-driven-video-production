@@ -1,7 +1,7 @@
 ---
 title: In 2024, FCP X Effects for Beginners A Quick and Easy 3-Step Process
-date: 2024-04-29T19:24:46.238Z
-updated: 2024-04-30T19:24:46.238Z
+date: 2024-05-19T11:47:24.081Z
+updated: 2024-05-20T11:47:24.081Z
 tags: 
   - video editing software
   - video editing
@@ -1498,4 +1498,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-add-background-to-video-withwithout-a-green-screen/"><u>New In 2024, How to Add Background to Video With/Without a Green Screen</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Twitter Video Dimensions A Quick Guide to Getting It Right
-date: 2024-04-29T19:17:58.983Z
-updated: 2024-04-30T19:17:58.983Z
+date: 2024-05-19T11:46:53.408Z
+updated: 2024-05-20T11:46:53.408Z
 tags: 
   - video editing software
   - video editing
@@ -3234,4 +3234,5 @@ Step 4\. Finally, click on the Export button to start file processing.
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-detailed-steps-to-rotate-videos-using-obs/"><u>Updated 2024 Approved Detailed Steps to Rotate Videos Using OBS</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-poco-f5-pro-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Poco F5 Pro 5G.</u></a></li>
 </ul></div>
+
 

@@ -3295,3 +3295,4 @@ Follow @Benjamin Arango
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Motorola Moto G04? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Change Video Aspect Ratio in Final Cut Pro Easy Instructions for Beginners
-date: 2024-04-29T19:22:22.044Z
-updated: 2024-04-30T19:22:22.044Z
+date: 2024-05-19T11:47:14.334Z
+updated: 2024-05-20T11:47:14.334Z
 tags: 
   - video editing software
   - video editing
@@ -2425,4 +2425,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a15-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A15 4G without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-13-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi 13 Ultra for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

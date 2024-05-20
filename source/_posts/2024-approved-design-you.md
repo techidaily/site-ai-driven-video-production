@@ -2058,3 +2058,4 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-z50-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Z50 Ultra Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Unlock Pro-Quality Jump Cuts in Final Cut Pro X
-date: 2024-04-29T19:15:09.938Z
-updated: 2024-04-30T19:15:09.938Z
+date: 2024-05-19T11:46:43.609Z
+updated: 2024-05-20T11:46:43.609Z
 tags: 
   - video editing software
   - video editing
@@ -1685,4 +1685,5 @@ Follow @Liza Brown
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 without Passcode or Face ID | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-7-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 7 online without jailbreak</u></a></li>
 </ul></div>
+
 

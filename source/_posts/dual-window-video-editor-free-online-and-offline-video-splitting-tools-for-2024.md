@@ -1,7 +1,7 @@
 ---
 title: Dual-Window Video Editor Free Online and Offline Video Splitting Tools for 2024
-date: 2024-04-29T19:23:51.379Z
-updated: 2024-04-30T19:23:51.380Z
+date: 2024-05-19T11:47:20.220Z
+updated: 2024-05-20T11:47:20.220Z
 tags: 
   - video editing software
   - video editing
@@ -4431,4 +4431,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-vdieo-software.techidaily.com/transform-your-videos-with-these-12-innovative-online-animation-makers/"><u>Transform Your Videos with These 12 Innovative Online Animation Makers</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-looking-for-the-steps-to-add-transitions-effects-in-premiere-pro-here-are-the-steps-to-add-and-edit-transitions-in-premiere-pro-and-an-alternative-way-t/"><u>New Looking for the Steps to Add Transitions Effects in Premiere Pro? Here Are the Steps to Add and Edit Transitions in Premiere Pro and an Alternative Way to Video Transitions</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Bring Back the 80S Best VHS-Style Filter Apps for iPhone and Android
-date: 2024-04-29T19:15:29.354Z
-updated: 2024-04-30T19:15:29.354Z
+date: 2024-05-19T11:46:44.650Z
+updated: 2024-05-20T11:46:44.650Z
 tags: 
   - video editing software
   - video editing
@@ -2380,4 +2380,5 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo V27 | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-edge-40-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Edge 40 Pro Phones with/without a PC</u></a></li>
 </ul></div>
+
 

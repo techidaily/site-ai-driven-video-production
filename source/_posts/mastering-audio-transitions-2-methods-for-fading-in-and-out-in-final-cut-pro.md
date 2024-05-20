@@ -1,7 +1,7 @@
 ---
 title: Mastering Audio Transitions 2 Methods for Fading In and Out in Final Cut Pro
-date: 2024-04-29T19:16:45.818Z
-updated: 2024-04-30T19:16:45.818Z
+date: 2024-05-19T11:46:48.831Z
+updated: 2024-05-20T11:46:48.831Z
 tags: 
   - video editing software
   - video editing
@@ -2124,4 +2124,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://howto.techidaily.com/fix-nubia-red-magic-9-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nubia Red Magic 9 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-se-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone SE When You Forget the Passcode?</u></a></li>
 </ul></div>
+
 

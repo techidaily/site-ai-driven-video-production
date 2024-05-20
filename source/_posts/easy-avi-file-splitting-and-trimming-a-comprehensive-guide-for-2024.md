@@ -1,7 +1,7 @@
 ---
 title: Easy AVI File Splitting and Trimming A Comprehensive Guide for 2024
-date: 2024-04-29T19:23:56.762Z
-updated: 2024-04-30T19:23:56.762Z
+date: 2024-05-19T11:47:20.542Z
+updated: 2024-05-20T11:47:20.542Z
 tags: 
   - video editing software
   - video editing
@@ -1954,4 +1954,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-infinix-note-30-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Infinix Note 30</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Hot 30 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

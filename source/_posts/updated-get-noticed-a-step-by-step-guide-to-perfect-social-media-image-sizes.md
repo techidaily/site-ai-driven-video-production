@@ -1,7 +1,7 @@
 ---
 title: Updated Get Noticed A Step-by-Step Guide to Perfect Social Media Image Sizes
-date: 2024-04-29T19:26:45.032Z
-updated: 2024-04-30T19:26:45.032Z
+date: 2024-05-19T11:47:31.394Z
+updated: 2024-05-20T11:47:31.394Z
 tags: 
   - video editing software
   - video editing
@@ -1971,4 +1971,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-mkv-video-cutters-the-ultimate-2023-roundup/"><u>New In 2024, Free MKV Video Cutters The Ultimate 2023 Roundup</u></a></li>
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-find-x6-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo Find X6 Pro? Here Are All Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

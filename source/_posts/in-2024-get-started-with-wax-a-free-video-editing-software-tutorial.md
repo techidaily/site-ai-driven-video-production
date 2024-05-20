@@ -1,7 +1,7 @@
 ---
 title: In 2024, Get Started with Wax A Free Video Editing Software Tutorial
-date: 2024-04-29T19:26:56.841Z
-updated: 2024-04-30T19:26:56.841Z
+date: 2024-05-19T11:47:32.182Z
+updated: 2024-05-20T11:47:32.182Z
 tags: 
   - video editing software
   - video editing
@@ -2286,4 +2286,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/how-to-record-video-in-slow-motion-comprehending-important-points-for-2024/"><u>How To Record Video in Slow Motion Comprehending Important Points for 2024</u></a></li>
 <li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-play-40c-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor Play 40C</u></a></li>
 </ul></div>
+
 

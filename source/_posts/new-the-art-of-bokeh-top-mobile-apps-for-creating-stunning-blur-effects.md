@@ -1,7 +1,7 @@
 ---
 title: New The Art of Bokeh Top Mobile Apps for Creating Stunning Blur Effects
-date: 2024-04-29T19:31:45.466Z
-updated: 2024-04-30T19:31:45.466Z
+date: 2024-05-19T11:47:49.702Z
+updated: 2024-05-20T11:47:49.702Z
 tags: 
   - video editing software
   - video editing
@@ -2174,4 +2174,5 @@ Follow @Benjamin Arango
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-itel-p55-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Itel P55 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-12-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 12 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
 </ul></div>
+
 

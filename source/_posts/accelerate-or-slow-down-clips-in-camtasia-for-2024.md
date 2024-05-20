@@ -1,7 +1,7 @@
 ---
 title: Accelerate or Slow Down Clips in Camtasia for 2024
-date: 2024-04-29T19:19:04.712Z
-updated: 2024-04-30T19:19:04.712Z
+date: 2024-05-19T11:46:58.432Z
+updated: 2024-05-20T11:46:58.432Z
 tags: 
   - video editing software
   - video editing
@@ -1652,4 +1652,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-6-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 6 Plus Activation Lock without Previous Owner?</u></a></li>
 </ul></div>
+
 

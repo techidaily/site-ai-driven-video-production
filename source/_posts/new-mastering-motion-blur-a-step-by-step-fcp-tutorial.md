@@ -1,7 +1,7 @@
 ---
 title: New Mastering Motion Blur A Step-by-Step FCP Tutorial
-date: 2024-04-29T19:28:40.420Z
-updated: 2024-04-30T19:28:40.420Z
+date: 2024-05-19T11:47:38.739Z
+updated: 2024-05-20T11:47:38.739Z
 tags: 
   - video editing software
   - video editing
@@ -2620,4 +2620,5 @@ For macOS 10.12 or later
 <li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-14-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 14 Properly</u></a></li>
 <li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-google-pixel-7a-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Google Pixel 7a</u></a></li>
 </ul></div>
+
 

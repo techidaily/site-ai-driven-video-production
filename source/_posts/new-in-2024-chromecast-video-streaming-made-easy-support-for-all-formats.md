@@ -2308,3 +2308,4 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-y100i-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo Y100i Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
 
+

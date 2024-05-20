@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved From Landscape to Portrait The Art of Resizing Videos for Social Media
-date: 2024-04-29T19:26:14.569Z
-updated: 2024-04-30T19:26:14.569Z
+date: 2024-05-19T11:47:29.515Z
+updated: 2024-05-20T11:47:29.515Z
 tags: 
   - video editing software
   - video editing
@@ -2439,4 +2439,5 @@ Follow @Ollie Mattison
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone 7 Plus</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-c51-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme C51 to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

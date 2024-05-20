@@ -1,7 +1,7 @@
 ---
 title: New Your Greatest Tip to Resize Social Media Vertical Video Ratio
-date: 2024-04-29T19:20:49.412Z
-updated: 2024-04-30T19:20:49.412Z
+date: 2024-05-19T11:47:08.925Z
+updated: 2024-05-20T11:47:08.925Z
 tags: 
   - video editing software
   - video editing
@@ -3745,4 +3745,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-voice-clone.techidaily.com/10-free-football-streaming-sites-to-bookmark/"><u>10 Free Football Streaming Sites To Bookmark</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Aspect Ratio Essentials A Beginners Guide to Social Media Visuals
-date: 2024-04-29T19:15:15.940Z
-updated: 2024-04-30T19:15:15.940Z
+date: 2024-05-19T11:46:43.854Z
+updated: 2024-05-20T11:46:43.854Z
 tags: 
   - video editing software
   - video editing
@@ -3270,4 +3270,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/have-you-been-looking-for-online-youtube-video-trimmer-you-will-be-introduced-to-different-ways-to-trim-youtube-videos-as-introduced-by-youtube-itself-and-s/"><u>Have You Been Looking for Online YouTube Video Trimmer? You Will Be Introduced to Different Ways to Trim YouTube Videos as Introduced by YouTube Itself and some Online and Desktop Software to Help You Learn Video Trimming in This Article</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-3gp-video-format-what-is-3gp-format-and-how-to-open-it-in-2024/"><u>New 3GP Video Format What Is 3GP Format And How To Open It, In 2024</u></a></li>
 </ul></div>
+
 

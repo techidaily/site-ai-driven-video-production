@@ -1,7 +1,7 @@
 ---
 title: Updated Little Directors, Big Ideas Teaching Kids to Make Movies
-date: 2024-04-29T19:27:59.569Z
-updated: 2024-04-30T19:27:59.569Z
+date: 2024-05-19T11:47:35.984Z
+updated: 2024-05-20T11:47:35.984Z
 tags: 
   - video editing software
   - video editing
@@ -2503,4 +2503,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-gt-neo-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Realme GT Neo 5 without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Android devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

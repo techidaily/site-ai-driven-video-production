@@ -1,7 +1,7 @@
 ---
 title: New Take Your Editing to the Next Level Advanced Jump Cuts in Final Cut Pro X
-date: 2024-04-29T19:31:38.458Z
-updated: 2024-04-30T19:31:38.458Z
+date: 2024-05-19T11:47:49.389Z
+updated: 2024-05-20T11:47:49.389Z
 tags: 
   - video editing software
   - video editing
@@ -1949,4 +1949,5 @@ The modern video editing software comes with the feature of smart auto reframing
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-90-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Honor 90.</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone XS Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

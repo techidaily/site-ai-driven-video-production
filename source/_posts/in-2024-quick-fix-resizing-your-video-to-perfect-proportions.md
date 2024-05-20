@@ -1,7 +1,7 @@
 ---
 title: In 2024, Quick Fix Resizing Your Video to Perfect Proportions
-date: 2024-04-29T19:29:58.074Z
-updated: 2024-04-30T19:29:58.074Z
+date: 2024-05-19T11:47:43.298Z
+updated: 2024-05-20T11:47:43.298Z
 tags: 
   - video editing software
   - video editing
@@ -2561,4 +2561,5 @@ Step 4\. Finally, click on the Export button to start file processing.
 <li><a href="https://ai-voice-clone.techidaily.com/how-to-create-marketing-videos-in-2024/"><u>How to Create Marketing Videos, In 2024</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

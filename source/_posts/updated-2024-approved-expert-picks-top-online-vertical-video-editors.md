@@ -2760,3 +2760,4 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://ai-editing-video.techidaily.com/updated-if-you-want-to-color-grading-your-video-adobe-lightroom-will-be-the-right-choice-this-article-will-teach-you-how-to-use-lightroom-to-apply-color-gra/"><u>Updated If You Want to Color Grading Your Video, Adobe Lightroom Will Be the Right Choice. This Article Will Teach You How to Use Lightroom to Apply Color Grading to Videos with Ease</u></a></li>
 </ul></div>
 
+

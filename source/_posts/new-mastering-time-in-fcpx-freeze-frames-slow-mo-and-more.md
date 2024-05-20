@@ -1,7 +1,7 @@
 ---
 title: New Mastering Time in FCPX Freeze Frames, Slow-Mo, and More
-date: 2024-04-29T19:28:42.354Z
-updated: 2024-04-30T19:28:42.354Z
+date: 2024-05-19T11:47:38.864Z
+updated: 2024-05-20T11:47:38.864Z
 tags: 
   - video editing software
   - video editing
@@ -1736,4 +1736,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Lava Yuva 3 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-pop-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Pop 8</u></a></li>
 </ul></div>
+
 

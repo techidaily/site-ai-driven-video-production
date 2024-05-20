@@ -1,7 +1,7 @@
 ---
 title: FCPX Cinematography How to Create Visually Stunning Videos
-date: 2024-04-29T19:16:01.292Z
-updated: 2024-04-30T19:16:01.292Z
+date: 2024-05-19T11:46:46.538Z
+updated: 2024-05-20T11:46:46.538Z
 tags: 
   - video editing software
   - video editing
@@ -2002,4 +2002,5 @@ Follow @Liza Brown
 <li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-14-plus-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 14 Plus IMEI Checker</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Tecno Spark 20C | Dr.fone</u></a></li>
 </ul></div>
+
 

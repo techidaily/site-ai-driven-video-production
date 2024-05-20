@@ -1,7 +1,7 @@
 ---
 title: New Microsoft Video Editor for Dummies A Step-by-Step Guide
-date: 2024-04-29T19:28:53.132Z
-updated: 2024-04-30T19:28:53.132Z
+date: 2024-05-19T11:47:39.227Z
+updated: 2024-05-20T11:47:39.227Z
 tags: 
   - video editing software
   - video editing
@@ -2320,4 +2320,5 @@ chief Editor
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nokia-c12-plus-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nokia C12 Plus?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-craft-unique-invites-with-these-top-video-maker-apps/"><u>Updated 2024 Approved Craft Unique Invites with These Top Video Maker Apps</u></a></li>
 </ul></div>
+
 

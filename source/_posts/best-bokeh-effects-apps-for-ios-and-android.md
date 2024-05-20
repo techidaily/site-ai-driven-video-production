@@ -1,7 +1,7 @@
 ---
 title: Best Bokeh Effects Apps for iOS and Android
-date: 2024-04-29T19:14:55.463Z
-updated: 2024-04-30T19:14:55.463Z
+date: 2024-05-19T11:46:42.915Z
+updated: 2024-05-20T11:46:42.915Z
 tags: 
   - video editing software
   - video editing
@@ -2195,4 +2195,5 @@ For macOS 10.14 or later
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-create-and-use-adjustment-layers-in-after-effects/"><u>Updated In 2024, How to Create and Use Adjustment Layers in After Effects</u></a></li>
 <li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo V30 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

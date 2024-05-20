@@ -1867,3 +1867,4 @@ Follow @Ollie Mattison
 <li><a href="https://animation-videos.techidaily.com/2024-approved-animate-pictures-in-canva/"><u>2024 Approved Animate Pictures in Canva</u></a></li>
 </ul></div>
 
+

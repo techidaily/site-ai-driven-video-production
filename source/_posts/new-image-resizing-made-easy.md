@@ -1,7 +1,7 @@
 ---
 title: New Image Resizing Made Easy
-date: 2024-04-29T19:27:32.913Z
-updated: 2024-04-30T19:27:32.913Z
+date: 2024-05-19T11:47:34.428Z
+updated: 2024-05-20T11:47:34.428Z
 tags: 
   - video editing software
   - video editing
@@ -2224,4 +2224,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-where-to-find-the-best-free-canon-luts-learn-more/"><u>2024 Approved Where To Find The Best Free Canon LUTs? Learn More</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

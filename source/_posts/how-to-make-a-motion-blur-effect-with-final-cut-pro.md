@@ -1,7 +1,7 @@
 ---
 title: How to Make a Motion Blur Effect with Final Cut Pro?
-date: 2024-04-29T19:14:52.328Z
-updated: 2024-04-30T19:14:52.328Z
+date: 2024-05-19T11:46:42.471Z
+updated: 2024-05-20T11:46:42.471Z
 tags: 
   - video editing software
   - video editing
@@ -2484,4 +2484,5 @@ Even if you don’t use video stabilizers for stabilizing videos for your busine
 <li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-videos-a-beginners-guide-to-using-ken-burns-effect-in-final-cut-pro/"><u>New Elevate Your Videos A Beginners Guide to Using Ken Burns Effect in Final Cut Pro</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-samsung-galaxy-s23-tactical-edition-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Samsung Galaxy S23 Tactical Edition using Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

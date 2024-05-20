@@ -1,7 +1,7 @@
 ---
 title: Updated How to Stabilize Shaky Videos in After Effects
-date: 2024-04-29T19:19:25.727Z
-updated: 2024-04-30T19:19:25.727Z
+date: 2024-05-19T11:46:59.482Z
+updated: 2024-05-20T11:46:59.482Z
 tags: 
   - video editing software
   - video editing
@@ -2090,4 +2090,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-top-6-mp4-mergers-to-join-videos-easily/"><u>In 2024, Top 6 MP4 Mergers to Join Videos Easily</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-s24-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy S24 Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 

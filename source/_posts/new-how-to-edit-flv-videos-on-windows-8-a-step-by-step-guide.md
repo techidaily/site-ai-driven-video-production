@@ -1,7 +1,7 @@
 ---
 title: New How to Edit FLV Videos on Windows 8 A Step-by-Step Guide
-date: 2024-04-29T19:27:24.465Z
-updated: 2024-04-30T19:27:24.465Z
+date: 2024-05-19T11:47:34.182Z
+updated: 2024-05-20T11:47:34.182Z
 tags: 
   - video editing software
   - video editing
@@ -1048,4 +1048,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/a-guide-to-speed-up-a-video-on-splice-for-2024/"><u>A Guide to Speed up a Video on Splice for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-flying-objects-in-wondershare-filmora/"><u>2024 Approved How to Make Flying Objects in Wondershare Filmora</u></a></li>
 </ul></div>
+
 

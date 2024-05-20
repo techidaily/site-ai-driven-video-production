@@ -1,7 +1,7 @@
 ---
 title: Updated Get Noticed The Importance of Aspect Ratios in Social Media Design
-date: 2024-04-29T19:26:47.196Z
-updated: 2024-04-30T19:26:47.196Z
+date: 2024-05-19T11:47:31.561Z
+updated: 2024-05-20T11:47:31.561Z
 tags: 
   - video editing software
   - video editing
@@ -2347,4 +2347,5 @@ Using this versatile software you can add animations, motion tracking, zooming f
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-huawei-nova-y71-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Huawei Nova Y71 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-asus-rog-phone-7-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Asus ROG Phone 7 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

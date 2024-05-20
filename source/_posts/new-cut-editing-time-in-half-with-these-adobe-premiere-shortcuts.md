@@ -1,7 +1,7 @@
 ---
 title: New Cut Editing Time in Half with These Adobe Premiere Shortcuts
-date: 2024-04-29T19:23:07.591Z
-updated: 2024-04-30T19:23:07.591Z
+date: 2024-05-19T11:47:17.983Z
+updated: 2024-05-20T11:47:17.983Z
 tags: 
   - video editing software
   - video editing
@@ -2834,4 +2834,5 @@ Shaky footage is almost inescapable once you go handheld. If you don't have a ma
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-oppo-find-n3-phone-by-drfone-android/"><u>How to Reset a Locked Oppo Find N3 Phone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-top-10-best-and-fast-ways-to-turn-image-into-gif/"><u>New In 2024, Top 10 Best and Fast Ways to Turn Image Into Gif</u></a></li>
 </ul></div>
+
 

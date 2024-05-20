@@ -1,7 +1,7 @@
 ---
 title: Video Editing on a Budget Top Free Special Effects Apps for Mobile
-date: 2024-04-29T19:18:11.243Z
-updated: 2024-04-30T19:18:11.243Z
+date: 2024-05-19T11:46:53.701Z
+updated: 2024-05-20T11:46:53.701Z
 tags: 
   - video editing software
   - video editing
@@ -3560,4 +3560,5 @@ Follow @Shanoon Cox
 <li><a href="https://blog-min.techidaily.com/how-to-remove-iphone-se-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove iPhone SE Face ID?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-nubia-red-magic-9-proplus-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Nubia Red Magic 9 Pro+ Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

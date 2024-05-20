@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Create Split-Screen Videos for Free Online and Offline Editors
-date: 2024-04-29T19:22:51.398Z
-updated: 2024-04-30T19:22:51.398Z
+date: 2024-05-19T11:47:16.975Z
+updated: 2024-05-20T11:47:16.975Z
 tags: 
   - video editing software
   - video editing
@@ -3919,4 +3919,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-15-best-free-mp4-video-rotators-windows-mac-android-iphone-and-online/"><u>2024 Approved Top 15 Best Free MP4 Video Rotators Windows, Mac， Android, iPhone & Online</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo V30 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

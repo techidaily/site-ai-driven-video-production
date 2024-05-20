@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Tutorial Changing Aspect Ratio for Social Media and More
-date: 2024-04-29T19:25:05.780Z
-updated: 2024-04-30T19:25:05.780Z
+date: 2024-05-19T11:47:24.760Z
+updated: 2024-05-20T11:47:24.760Z
 tags: 
   - video editing software
   - video editing
@@ -4162,4 +4162,5 @@ To rotate an AVI video online, you need to be extremely picky, as even most onli
 <li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy S24+ | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-13-mini-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 13 mini? How to Fix</u></a></li>
 </ul></div>
+
 

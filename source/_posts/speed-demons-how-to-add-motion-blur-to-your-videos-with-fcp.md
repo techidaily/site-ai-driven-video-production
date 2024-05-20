@@ -1,7 +1,7 @@
 ---
 title: Speed Demons How to Add Motion Blur to Your Videos with FCP
-date: 2024-04-29T19:17:14.634Z
-updated: 2024-04-30T19:17:14.634Z
+date: 2024-05-19T11:46:50.475Z
+updated: 2024-05-20T11:46:50.475Z
 tags: 
   - video editing software
   - video editing
@@ -2326,4 +2326,5 @@ Follow @Ollie Mattison
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor X7b? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/top-5-best-free-wmv-video-splitters-for-2024/"><u>Top 5 Best Free WMV Video Splitters for 2024</u></a></li>
 </ul></div>
+
 

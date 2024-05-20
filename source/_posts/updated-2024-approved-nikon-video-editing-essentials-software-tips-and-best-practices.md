@@ -1913,3 +1913,4 @@ For Windows system users, Windows Movie Maker is the first and default choice wh
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola Moto G73 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: FCP X Effects for Beginners A Quick and Easy 3-Step Process
-date: 2024-04-29T19:16:00.430Z
-updated: 2024-04-30T19:16:00.430Z
+date: 2024-05-19T11:46:46.477Z
+updated: 2024-05-20T11:46:46.477Z
 tags: 
   - video editing software
   - video editing
@@ -1621,4 +1621,5 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-6-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 6 without Security Questions?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-p55-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel P55</u></a></li>
 </ul></div>
+
 

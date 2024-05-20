@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Videos The Secrets to Great Lower Thirds in FCPX
-date: 2024-04-29T19:15:56.334Z
-updated: 2024-04-30T19:15:56.334Z
+date: 2024-05-19T11:46:46.281Z
+updated: 2024-05-20T11:46:46.281Z
 tags: 
   - video editing software
   - video editing
@@ -2239,4 +2239,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-a-video-with-my-phone/"><u>In 2024, How to Make a Video with My Phone</u></a></li>
 </ul></div>
+
 

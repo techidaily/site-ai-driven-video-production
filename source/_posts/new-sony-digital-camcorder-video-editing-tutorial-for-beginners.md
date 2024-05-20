@@ -1,7 +1,7 @@
 ---
 title: New Sony Digital Camcorder Video Editing Tutorial for Beginners
-date: 2024-04-29T19:31:12.631Z
-updated: 2024-04-30T19:31:12.631Z
+date: 2024-05-19T11:47:47.737Z
+updated: 2024-05-20T11:47:47.737Z
 tags: 
   - video editing software
   - video editing
@@ -2779,4 +2779,5 @@ Filmora unleashed some new features for advanced editing capabilities.
 <li><a href="https://techidaily.com/how-to-hard-reset-infinix-smart-8-plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Smart 8 Plus Without Password | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

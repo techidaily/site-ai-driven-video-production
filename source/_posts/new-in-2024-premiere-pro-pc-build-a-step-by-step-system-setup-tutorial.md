@@ -2514,3 +2514,4 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo A2 | Dr.fone</u></a></li>
 </ul></div>
 
+

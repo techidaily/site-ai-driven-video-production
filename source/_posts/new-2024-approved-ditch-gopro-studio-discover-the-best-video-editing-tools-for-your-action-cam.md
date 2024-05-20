@@ -2678,3 +2678,4 @@ The best video resolution varies with different platforms. But it will help in t
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a23-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy A23 5G to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
 
+

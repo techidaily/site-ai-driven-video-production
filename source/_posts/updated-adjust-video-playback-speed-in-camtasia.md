@@ -1,7 +1,7 @@
 ---
 title: Updated Adjust Video Playback Speed in Camtasia
-date: 2024-04-29T19:19:09.859Z
-updated: 2024-04-30T19:19:09.859Z
+date: 2024-05-19T11:46:58.573Z
+updated: 2024-05-20T11:46:58.573Z
 tags: 
   - video editing software
   - video editing
@@ -1756,4 +1756,5 @@ When selecting the software to use for [editing video](https://tools.techidaily.
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-motorola-edge-40-pro-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Motorola Edge 40 Pro</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-8-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 8 iCloud Lock</u></a></li>
 </ul></div>
+
 

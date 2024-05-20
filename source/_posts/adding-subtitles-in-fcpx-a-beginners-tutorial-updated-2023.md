@@ -1,7 +1,7 @@
 ---
 title: Adding Subtitles in FCPX A Beginners Tutorial (Updated 2023)
-date: 2024-04-29T19:14:48.729Z
-updated: 2024-04-30T19:14:48.729Z
+date: 2024-05-19T11:46:42.327Z
+updated: 2024-05-20T11:46:42.327Z
 tags: 
   - video editing software
   - video editing
@@ -2543,4 +2543,5 @@ The last of the tools on this list, Freemake, is another Windows-only software! 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Oppo A1 5G | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-f04-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy F04 to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

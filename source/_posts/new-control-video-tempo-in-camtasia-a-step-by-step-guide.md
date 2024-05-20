@@ -1,7 +1,7 @@
 ---
 title: New Control Video Tempo in Camtasia A Step-by-Step Guide
-date: 2024-04-29T19:22:36.167Z
-updated: 2024-04-30T19:22:36.167Z
+date: 2024-05-19T11:47:16.399Z
+updated: 2024-05-20T11:47:16.399Z
 tags: 
   - video editing software
   - video editing
@@ -2719,4 +2719,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-g310-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia G310 Devices | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-6s-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 6s and iPad Securely</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock the Power of Slow Motion A Kapwing Video Editing Tutorial
-date: 2024-04-29T19:15:10.370Z
-updated: 2024-04-30T19:15:10.370Z
+date: 2024-05-19T11:46:43.622Z
+updated: 2024-05-20T11:46:43.622Z
 tags: 
   - video editing software
   - video editing
@@ -1699,4 +1699,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Itel A05s | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-edge-40-neo-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Edge 40 Neo Location | Dr.fone</u></a></li>
 </ul></div>
+
 

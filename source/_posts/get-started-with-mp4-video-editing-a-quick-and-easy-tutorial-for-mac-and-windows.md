@@ -1,7 +1,7 @@
 ---
 title: Get Started with MP4 Video Editing A Quick and Easy Tutorial for Mac and Windows
-date: 2024-04-29T19:16:28.649Z
-updated: 2024-04-30T19:16:28.649Z
+date: 2024-05-19T11:46:48.353Z
+updated: 2024-05-20T11:46:48.353Z
 tags: 
   - video editing software
   - video editing
@@ -2814,4 +2814,5 @@ Follow @Liza Brown
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-ext-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a {{ext}} Using DigiSigner</u></a></li>
 </ul></div>
+
 

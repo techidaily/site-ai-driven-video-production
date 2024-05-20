@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved FCP X Pro Tutorials Creating Realistic Green Screen Effects
-date: 2024-04-29T19:24:47.299Z
-updated: 2024-04-30T19:24:47.299Z
+date: 2024-05-19T11:47:24.105Z
+updated: 2024-05-20T11:47:24.105Z
 tags: 
   - video editing software
   - video editing
@@ -1798,4 +1798,5 @@ Do magic with Filmora. Try it now.
 <li><a href="https://howto.techidaily.com/why-your-infinix-hot-40i-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Hot 40i Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-make-your-presentation-more-attractive-with-best-google-slideshows-templates-how-to-make-a-google-slideshow-in-simple-step-in-2024-do-you-know-how-to-cr/"><u>New Make Your Presentation More Attractive with Best Google Slideshows Templates. How to Make a Google Slideshow in Simple Step, In 2024 Do You Know How to Create Google Images Slideshow?</u></a></li>
 </ul></div>
+
 

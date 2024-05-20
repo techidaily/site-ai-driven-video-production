@@ -1896,3 +1896,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-a15-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy A15 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

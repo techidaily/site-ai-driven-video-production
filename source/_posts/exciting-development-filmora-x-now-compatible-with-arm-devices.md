@@ -1,7 +1,7 @@
 ---
 title: Exciting Development Filmora X Now Compatible with ARM Devices
-date: 2024-04-29T19:15:57.203Z
-updated: 2024-04-30T19:15:57.203Z
+date: 2024-05-19T11:46:46.333Z
+updated: 2024-05-20T11:46:46.333Z
 tags: 
   - video editing software
   - video editing
@@ -1850,4 +1850,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-customize-powerpoint-slideshow-icon-in-simple-ways/"><u>Updated 2024 Approved Customize PowerPoint Slideshow Icon in Simple Ways</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-nokia-130-music-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -2981,3 +2981,4 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-hot-40i-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Hot 40i Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

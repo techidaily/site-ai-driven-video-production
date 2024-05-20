@@ -1,7 +1,7 @@
 ---
 title: New Quickly Edit Video Speed in Camtasia
-date: 2024-04-29T19:29:59.147Z
-updated: 2024-04-30T19:29:59.147Z
+date: 2024-05-19T11:47:43.330Z
+updated: 2024-05-20T11:47:43.330Z
 tags: 
   - video editing software
   - video editing
@@ -1935,4 +1935,5 @@ Get started easily with Filmora's powerful engine, intuitive interface, and thou
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor X50i | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nokia-c32-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Nokia C32 | Dr.fone</u></a></li>
 </ul></div>
+
 

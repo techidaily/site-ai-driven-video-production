@@ -1,7 +1,7 @@
 ---
 title: The Complete Facebook Video Aspect Ratio Cheat Sheet
-date: 2024-04-29T19:17:28.392Z
-updated: 2024-04-30T19:17:28.392Z
+date: 2024-05-19T11:46:51.338Z
+updated: 2024-05-20T11:46:51.338Z
 tags: 
   - video editing software
   - video editing
@@ -2019,4 +2019,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Gionee F3 Pro | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Splitting Videos in Windows Live Movie Maker (2023 Edition)
-date: 2024-04-29T19:17:37.210Z
-updated: 2024-04-30T19:17:37.210Z
+date: 2024-05-19T11:46:51.897Z
+updated: 2024-05-20T11:46:51.897Z
 tags: 
   - video editing software
   - video editing
@@ -2257,4 +2257,5 @@ Filmora unleashed some new features for advanced editing capabilities.
 <li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-12-mini-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 12 mini Backup Unlocker Top 4 Alternatives</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-12-mini-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 12 mini If Youve Tried Everything</u></a></li>
 </ul></div>
+
 

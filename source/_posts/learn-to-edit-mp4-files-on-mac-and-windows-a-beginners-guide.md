@@ -1,7 +1,7 @@
 ---
 title: Learn to Edit MP4 Files on Mac and Windows A Beginners Guide
-date: 2024-04-29T19:16:38.172Z
-updated: 2024-04-30T19:16:38.172Z
+date: 2024-05-19T11:46:48.591Z
+updated: 2024-05-20T11:46:48.591Z
 tags: 
   - video editing software
   - video editing
@@ -1712,4 +1712,5 @@ It is pretty convenient to reduce the playback speed in VLC media player regardl
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m54-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M54 5G Phone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-strobe-light-text-effect/"><u>Updated In 2024, How to Make Strobe Light Text Effect?</u></a></li>
 </ul></div>
+
 

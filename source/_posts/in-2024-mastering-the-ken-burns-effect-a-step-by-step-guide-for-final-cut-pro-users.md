@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users
-date: 2024-04-29T19:20:10.257Z
-updated: 2024-04-30T19:20:10.257Z
+date: 2024-05-19T11:47:04.122Z
+updated: 2024-05-20T11:47:04.122Z
 tags: 
   - video editing software
   - video editing
@@ -2751,4 +2751,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/hard-resetting-an-nokia-xr21-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia XR21 Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-nokia-xr21-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Nokia XR21 by Name | Dr.fone</u></a></li>
 </ul></div>
+
 

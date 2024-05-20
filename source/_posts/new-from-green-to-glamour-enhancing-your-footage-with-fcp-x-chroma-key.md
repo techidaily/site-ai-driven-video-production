@@ -1,7 +1,7 @@
 ---
 title: New From Green to Glamour Enhancing Your Footage with FCP X Chroma Key
-date: 2024-04-29T19:26:12.464Z
-updated: 2024-04-30T19:26:12.464Z
+date: 2024-05-19T11:47:29.447Z
+updated: 2024-05-20T11:47:29.447Z
 tags: 
   - video editing software
   - video editing
@@ -2400,4 +2400,5 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Google Pixel 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-ace-2v-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus Ace 2V to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

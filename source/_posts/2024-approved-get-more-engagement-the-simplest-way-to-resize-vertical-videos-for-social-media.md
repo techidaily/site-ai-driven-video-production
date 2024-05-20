@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Get More Engagement The Simplest Way to Resize Vertical Videos for Social Media
-date: 2024-04-29T19:26:41.791Z
-updated: 2024-04-30T19:26:41.791Z
+date: 2024-05-19T11:47:31.118Z
+updated: 2024-05-20T11:47:31.118Z
 tags: 
   - video editing software
   - video editing
@@ -2665,4 +2665,5 @@ Follow @Ollie Mattison
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-itel-p55-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Itel P55 5Gwith/without a PC</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s23plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S23+ Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

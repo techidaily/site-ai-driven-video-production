@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect
-date: 2024-04-29T19:25:05.136Z
-updated: 2024-04-30T19:25:05.136Z
+date: 2024-05-19T11:47:24.737Z
+updated: 2024-05-20T11:47:24.737Z
 tags: 
   - video editing software
   - video editing
@@ -2920,4 +2920,5 @@ Zamzar Is one of the most popular online converting tools. It does not just have
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-xs-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone XS?</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-change-video-speed-easily-best-free-and-paid-tools-for-pc-mac-and-online/"><u>New Change Video Speed Easily Best Free and Paid Tools for PC, Mac, and Online</u></a></li>
 </ul></div>
+
 

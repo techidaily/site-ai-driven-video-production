@@ -1,7 +1,7 @@
 ---
 title: How to Resize and Crop Images in FCPX 2023 Update
-date: 2024-04-29T19:16:32.676Z
-updated: 2024-04-30T19:16:32.676Z
+date: 2024-05-19T11:46:48.464Z
+updated: 2024-05-20T11:46:48.464Z
 tags: 
   - video editing software
   - video editing
@@ -5420,4 +5420,5 @@ To rotate an AVI video online, you need to be extremely picky, as even most onli
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on OnePlus 12R | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Motorola Edge 40? | Dr.fone</u></a></li>
 </ul></div>
+
 

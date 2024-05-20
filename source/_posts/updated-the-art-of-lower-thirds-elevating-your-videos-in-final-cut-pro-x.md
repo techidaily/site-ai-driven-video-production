@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Lower Thirds Elevating Your Videos in Final Cut Pro X
-date: 2024-04-29T19:31:47.496Z
-updated: 2024-04-30T19:31:47.496Z
+date: 2024-05-19T11:47:49.885Z
+updated: 2024-05-20T11:47:49.885Z
 tags: 
   - video editing software
   - video editing
@@ -2264,4 +2264,5 @@ Using this versatile software you can add animations, motion tracking, zooming f
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-green-screen-like-a-pro-fcp-x-chroma-keying-essentials/"><u>Updated 2024 Approved Green Screen Like a Pro FCP X Chroma Keying Essentials</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-hot-40i-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Hot 40i? 8 Solutions Inside | Dr.fone</u></a></li>
 </ul></div>
+
 

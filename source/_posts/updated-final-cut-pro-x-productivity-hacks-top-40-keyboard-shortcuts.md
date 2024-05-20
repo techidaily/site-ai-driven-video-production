@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro X Productivity Hacks Top 40 Keyboard Shortcuts
-date: 2024-04-29T19:19:55.836Z
-updated: 2024-04-30T19:19:55.836Z
+date: 2024-05-19T11:47:03.415Z
+updated: 2024-05-20T11:47:03.415Z
 tags: 
   - video editing software
   - video editing
@@ -1791,4 +1791,5 @@ If you need subtitles for your videos, it is important to find the best subtitle
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola G24 Power | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-everything-that-you-need-to-know-about-video-montages-ideas-techniques-and-software-for-2024/"><u>New Everything That You Need to Know About Video Montages- Ideas, Techniques, and Software for 2024</u></a></li>
 </ul></div>
+
 

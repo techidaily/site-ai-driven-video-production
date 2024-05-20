@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro X Jump Cuts From Beginner to Pro in No Time
-date: 2024-04-29T19:16:04.048Z
-updated: 2024-04-30T19:16:04.048Z
+date: 2024-05-19T11:46:46.674Z
+updated: 2024-05-20T11:46:46.674Z
 tags: 
   - video editing software
   - video editing
@@ -2167,4 +2167,5 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-top-best-free-luts-for-premiere-pro/"><u>2024 Approved Top Best Free LUTs For Premiere Pro</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-tecno-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Tecno using Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

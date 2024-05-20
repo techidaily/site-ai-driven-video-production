@@ -1,7 +1,7 @@
 ---
 title: Master Video Editing on Mac with MKVtoolnix A Step-by-Step Guide 2023
-date: 2024-04-29T19:16:45.610Z
-updated: 2024-04-30T19:16:45.610Z
+date: 2024-05-19T11:46:48.822Z
+updated: 2024-05-20T11:46:48.822Z
 tags: 
   - video editing software
   - video editing
@@ -2031,4 +2031,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/new-adding-a-spooky-shadow-effect-with-filmora/"><u>New Adding a Spooky Shadow Effect with Filmora</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oneplus-nord-n30-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your OnePlus Nord N30 5G Phone Hassle-Free</u></a></li>
 </ul></div>
+
 

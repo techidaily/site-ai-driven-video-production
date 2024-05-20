@@ -1,7 +1,7 @@
 ---
 title: Online Video Editing Made Easy Trimming with Kapwing Editor
-date: 2024-04-29T19:16:56.493Z
-updated: 2024-04-30T19:16:56.493Z
+date: 2024-05-19T11:46:49.484Z
+updated: 2024-05-20T11:46:49.484Z
 tags: 
   - video editing software
   - video editing
@@ -1896,4 +1896,5 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-v30-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo V30 Pro?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-magic-5-lite-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor Magic 5 Lite to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

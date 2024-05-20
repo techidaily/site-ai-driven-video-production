@@ -1207,3 +1207,4 @@ Follow @Liza Brown
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-tecno-spark-20-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Tecno Spark 20</u></a></li>
 </ul></div>
 
+

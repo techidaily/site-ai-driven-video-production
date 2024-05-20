@@ -1,7 +1,7 @@
 ---
 title: In 2024, Crop, Trim, and Share A Quick Guide to Kapwings Video Editor
-date: 2024-04-29T19:23:02.967Z
-updated: 2024-04-30T19:23:02.967Z
+date: 2024-05-19T11:47:17.732Z
+updated: 2024-05-20T11:47:17.732Z
 tags: 
   - video editing software
   - video editing
@@ -2277,4 +2277,5 @@ Now, you can make and [edit videos](https://tools.techidaily.com/wondershare/fil
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-yuva-2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Lava Yuva 2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-mirror-a-video-clip-in-premiere-pro/"><u>2024 Approved How To Mirror a Video Clip in Premiere Pro</u></a></li>
 </ul></div>
+
 

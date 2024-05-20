@@ -2227,3 +2227,4 @@ Follow @Ollie Mattison
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-animate-graphics-in-canva/"><u>Updated How To Animate Graphics in Canva</u></a></li>
 </ul></div>
 
+

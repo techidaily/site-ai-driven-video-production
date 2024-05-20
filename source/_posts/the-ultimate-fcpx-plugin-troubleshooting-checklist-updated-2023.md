@@ -1,7 +1,7 @@
 ---
 title: The Ultimate FCPX Plugin Troubleshooting Checklist (Updated 2023)
-date: 2024-04-29T19:17:33.369Z
-updated: 2024-04-30T19:17:33.369Z
+date: 2024-05-19T11:46:51.631Z
+updated: 2024-05-20T11:46:51.631Z
 tags: 
   - video editing software
   - video editing
@@ -4240,4 +4240,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-an-ai-video-generator/"><u>New In 2024, What Is an AI Video Generator?</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

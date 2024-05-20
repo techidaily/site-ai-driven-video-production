@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Workflow 40 Essential FCPX Keyboard Shortcuts
-date: 2024-04-29T19:17:17.579Z
-updated: 2024-04-30T19:17:17.579Z
+date: 2024-05-19T11:46:50.671Z
+updated: 2024-05-20T11:46:50.671Z
 tags: 
   - video editing software
   - video editing
@@ -4890,4 +4890,5 @@ MAC and Windows users can download Filmora to cut videos for free. Filmora also 
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-discord-gif-avatar-in-depth-guide/"><u>New How to Create Discord GIF Avatar in Depth Guide</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-infinix-smart-7-hd-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Infinix Smart 7 HD Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
 

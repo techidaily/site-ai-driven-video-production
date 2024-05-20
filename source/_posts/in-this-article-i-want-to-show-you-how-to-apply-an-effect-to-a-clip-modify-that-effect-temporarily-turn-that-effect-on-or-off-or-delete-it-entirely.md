@@ -1,7 +1,7 @@
 ---
 title: In This Article, I Want to Show You How to Apply an Effect to a Clip, Modify that Effect, Temporarily Turn that Effect on or Off, or Delete It Entirely
-date: 2024-04-29T19:16:33.931Z
-updated: 2024-04-30T19:16:33.931Z
+date: 2024-05-19T11:46:48.495Z
+updated: 2024-05-20T11:46:48.495Z
 tags: 
   - video editing software
   - video editing
@@ -1336,4 +1336,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo A18 | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-12-pro-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 12 Pro Smoothly</u></a></li>
 </ul></div>
+
 

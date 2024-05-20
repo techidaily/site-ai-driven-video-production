@@ -1,7 +1,7 @@
 ---
 title: Resize, Reformat, Repeat The Ultimate Guide to Social Media Video
-date: 2024-04-29T19:17:03.708Z
-updated: 2024-04-30T19:17:03.708Z
+date: 2024-05-19T11:46:49.842Z
+updated: 2024-05-20T11:46:49.842Z
 tags: 
   - video editing software
   - video editing
@@ -1698,4 +1698,5 @@ Various **pixel calculator ratios**, both paid and free, have popped up on the w
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-xls-files-document-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a .xls files document electronically</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-13-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 13 | Dr.fone</u></a></li>
 </ul></div>
+
 

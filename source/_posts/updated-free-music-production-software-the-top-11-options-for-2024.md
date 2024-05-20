@@ -4474,3 +4474,4 @@ The Filmora assists you in changing the aspect ratio of the project after downlo
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-lumafusion-what-is-it-and-the-best-alternative-to-use/"><u>2024 Approved LumaFusion – What Is It and the Best Alternative to Use</u></a></li>
 </ul></div>
 
+

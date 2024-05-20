@@ -1,7 +1,7 @@
 ---
 title: New Add Emotional Depth Learn to Create a Ken Burns Effect in Minutes
-date: 2024-04-29T19:19:07.709Z
-updated: 2024-04-30T19:19:07.709Z
+date: 2024-05-19T11:46:58.504Z
+updated: 2024-05-20T11:46:58.504Z
 tags: 
   - video editing software
   - video editing
@@ -3199,4 +3199,5 @@ Follow @Liza Brown
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-s17e-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo S17e FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-6-end-screen-makers/"><u>New In 2024, Top 6 End Screen Makers</u></a></li>
 </ul></div>
+
 

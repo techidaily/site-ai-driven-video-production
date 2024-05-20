@@ -1,7 +1,7 @@
 ---
 title: New Ratio Rebellion Learn to Resize Images with Ease
-date: 2024-04-29T19:30:03.595Z
-updated: 2024-04-30T19:30:03.595Z
+date: 2024-05-19T11:47:43.897Z
+updated: 2024-05-20T11:47:43.897Z
 tags: 
   - video editing software
   - video editing
@@ -2591,4 +2591,5 @@ Follow @Shanoon Cox
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-note-12r-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi Note 12R Phones with/without a PC</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-best-tips-for-better-event-videography/"><u>Updated Best Tips for Better Event Videography</u></a></li>
 </ul></div>
+
 

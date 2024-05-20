@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock Slow Motion Playback on VLC Media Player
-date: 2024-04-29T19:35:48.704Z
-updated: 2024-04-30T19:35:48.704Z
+date: 2024-05-19T11:48:06.440Z
+updated: 2024-05-20T11:48:06.440Z
 tags: 
   - video editing software
   - video editing
@@ -4057,4 +4057,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oppo-a18-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Oppo A18</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-4-methods-to-merge-mp4-and-mp3-for-2024/"><u>Updated 4 Methods to Merge MP4 and MP3 for 2024</u></a></li>
 </ul></div>
+
 

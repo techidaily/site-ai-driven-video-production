@@ -1,7 +1,7 @@
 ---
 title: New Chroma Keying in FCP X Tips, Tricks, and Best Practices
-date: 2024-04-29T19:22:24.639Z
-updated: 2024-04-30T19:22:24.639Z
+date: 2024-05-19T11:47:14.405Z
+updated: 2024-05-20T11:47:14.405Z
 tags: 
   - video editing software
   - video editing
@@ -2308,4 +2308,5 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-n30-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord N30 5GFRP Lock</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-f34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy F34 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

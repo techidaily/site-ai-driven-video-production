@@ -2586,3 +2586,4 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/does-sony-xperia-1-v-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Sony Xperia 1 V support MOV videos ?</u></a></li>
 </ul></div>
 
+

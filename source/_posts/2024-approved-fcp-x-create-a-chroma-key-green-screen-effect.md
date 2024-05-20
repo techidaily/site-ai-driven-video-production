@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved FCP X Create a Chroma-Key (Green-Screen) Effect
-date: 2024-04-29T19:19:54.769Z
-updated: 2024-04-30T19:19:54.769Z
+date: 2024-05-19T11:47:03.353Z
+updated: 2024-05-20T11:47:03.353Z
 tags: 
   - video editing software
   - video editing
@@ -3683,4 +3683,5 @@ Note: Offline editing refers to editing a [proxy file of the original source mat
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-huawei-nova-y91-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Huawei Nova Y91 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-find-x7-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo Find X7 Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

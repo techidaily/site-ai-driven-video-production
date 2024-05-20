@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Break Down AVI Files Into Smaller Clips A Simple Tutorial
-date: 2024-04-29T19:27:19.077Z
-updated: 2024-04-30T19:27:19.077Z
+date: 2024-05-19T11:47:33.987Z
+updated: 2024-05-20T11:47:33.987Z
 tags: 
   - video editing software
   - video editing
@@ -1812,4 +1812,5 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-sony-xperia-10-v-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Sony Xperia 10 V Without Power Button | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y56 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

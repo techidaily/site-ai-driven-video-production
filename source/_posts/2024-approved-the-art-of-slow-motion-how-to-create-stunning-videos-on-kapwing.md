@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Art of Slow Motion How to Create Stunning Videos on Kapwing
-date: 2024-04-29T19:31:49.479Z
-updated: 2024-04-30T19:31:49.479Z
+date: 2024-05-19T11:47:49.935Z
+updated: 2024-05-20T11:47:49.935Z
 tags: 
   - video editing software
   - video editing
@@ -1933,4 +1933,5 @@ Follow @Ollie Mattison
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-14-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 14 Pro?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature app</u></a></li>
 </ul></div>
+
 

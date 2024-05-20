@@ -1,7 +1,7 @@
 ---
 title: New Getting Started with HD Video Understanding Pixel Size and Resolution
-date: 2024-04-29T19:27:05.491Z
-updated: 2024-04-30T19:27:05.491Z
+date: 2024-05-19T11:47:32.806Z
+updated: 2024-05-20T11:47:32.806Z
 tags: 
   - video editing software
   - video editing
@@ -1759,4 +1759,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-8t-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 8T by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-a15-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy A15 5G to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

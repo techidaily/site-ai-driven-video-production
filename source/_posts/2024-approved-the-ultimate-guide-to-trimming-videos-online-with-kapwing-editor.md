@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate Guide to Trimming Videos Online with Kapwing Editor
-date: 2024-04-29T19:33:16.245Z
-updated: 2024-04-30T19:33:16.245Z
+date: 2024-05-19T11:47:55.955Z
+updated: 2024-05-20T11:47:55.955Z
 tags: 
   - video editing software
   - video editing
@@ -2875,4 +2875,5 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/best-mts-video-editors-top-picks-and-reviews-for-2024/"><u>Best MTS Video Editors Top Picks and Reviews for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo S18? | Dr.fone</u></a></li>
 </ul></div>
+
 

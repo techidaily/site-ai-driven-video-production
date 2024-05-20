@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro X Tutorial Cropping Images for Video Editing for 2024
-date: 2024-04-29T19:25:07.739Z
-updated: 2024-04-30T19:25:07.739Z
+date: 2024-05-19T11:47:24.834Z
+updated: 2024-05-20T11:47:24.834Z
 tags: 
   - video editing software
   - video editing
@@ -2354,4 +2354,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-cut-trim-and-edit-mp4-videos-with-these-free-editors-for-2024/"><u>New Cut, Trim, and Edit MP4 Videos with These Free Editors for 2024</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Huawei P60 | Dr.fone</u></a></li>
 </ul></div>
+
 

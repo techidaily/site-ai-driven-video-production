@@ -1,7 +1,7 @@
 ---
 title: New Cut Editing Time in Half 40 Final Cut Pro X Keyboard Shortcuts
-date: 2024-04-29T19:23:07.379Z
-updated: 2024-04-30T19:23:07.379Z
+date: 2024-05-19T11:47:17.978Z
+updated: 2024-05-20T11:47:17.978Z
 tags: 
   - video editing software
   - video editing
@@ -3235,4 +3235,5 @@ The Filmora also assists you in changing the project aspect ratio after launchin
 <li><a href="https://animation-videos.techidaily.com/new-tutorials-to-make-animated-images-even-if-youre-just-starting-out/"><u>New Tutorials to Make Animated Images – Even if Youre Just Starting Out</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-x-flip-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo X Flip? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

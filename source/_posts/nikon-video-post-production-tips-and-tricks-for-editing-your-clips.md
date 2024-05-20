@@ -1,7 +1,7 @@
 ---
 title: Nikon Video Post-Production Tips and Tricks for Editing Your Clips
-date: 2024-04-29T19:16:53.755Z
-updated: 2024-04-30T19:16:53.755Z
+date: 2024-05-19T11:46:49.273Z
+updated: 2024-05-20T11:46:49.273Z
 tags: 
   - video editing software
   - video editing
@@ -1626,4 +1626,5 @@ Follow @Benjamin Arango
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-c51-by-fonelab-android-recover-video/"><u>How to recover old videos from your C51</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/best-vivo-y77t-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo Y77t Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Ken Burns Effect Made Easy Follow These Simple Steps
-date: 2024-04-29T19:20:07.291Z
-updated: 2024-04-30T19:20:07.291Z
+date: 2024-05-19T11:47:03.968Z
+updated: 2024-05-20T11:47:03.968Z
 tags: 
   - video editing software
   - video editing
@@ -2273,4 +2273,5 @@ Note: Offline editing refers to editing a [proxy file of the original source mat
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-x50-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Honor X50.</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Oppo Reno 10 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

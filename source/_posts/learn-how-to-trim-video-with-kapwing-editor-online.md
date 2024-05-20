@@ -1,7 +1,7 @@
 ---
 title: Learn How to Trim Video with Kapwing Editor Online
-date: 2024-04-29T19:15:00.598Z
-updated: 2024-04-30T19:15:00.598Z
+date: 2024-05-19T11:46:43.153Z
+updated: 2024-05-20T11:46:43.153Z
 tags: 
   - video editing software
   - video editing
@@ -2939,4 +2939,5 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor X50i+ | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-find-x7-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo Find X7.</u></a></li>
 </ul></div>
+
 

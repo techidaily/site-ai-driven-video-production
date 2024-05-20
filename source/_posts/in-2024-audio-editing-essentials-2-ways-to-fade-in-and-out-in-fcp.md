@@ -1,7 +1,7 @@
 ---
 title: In 2024, Audio Editing Essentials 2 Ways to Fade In and Out in FCP
-date: 2024-04-29T19:21:04.352Z
-updated: 2024-04-30T19:21:04.352Z
+date: 2024-05-19T11:47:09.501Z
+updated: 2024-05-20T11:47:09.501Z
 tags: 
   - video editing software
   - video editing
@@ -2452,4 +2452,5 @@ Follow @Ollie Mattison
 <li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-tecno-camon-30-pro-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Tecno Camon 30 Pro 5G FRP</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-11-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 11</u></a></li>
 </ul></div>
+
 

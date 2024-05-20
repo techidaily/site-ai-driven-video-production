@@ -1,7 +1,7 @@
 ---
 title: New From Jump Cuts to Smooth Moves 3 Final Cut Pro Transition Methods
-date: 2024-04-29T19:26:13.944Z
-updated: 2024-04-30T19:26:13.944Z
+date: 2024-05-19T11:47:29.498Z
+updated: 2024-05-20T11:47:29.498Z
 tags: 
   - video editing software
   - video editing
@@ -1376,4 +1376,5 @@ After reading all the features mentioned in this article, you might be looking f
 <li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-memes-on-iphone-and-android-for-2024/"><u>Updated How to Make Memes on iPhone and Android for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-s18-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo S18 to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

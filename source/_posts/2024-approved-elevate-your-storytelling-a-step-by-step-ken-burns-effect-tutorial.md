@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial
-date: 2024-04-29T19:24:20.131Z
-updated: 2024-04-30T19:24:20.131Z
+date: 2024-05-19T11:47:22.309Z
+updated: 2024-05-20T11:47:22.309Z
 tags: 
   - video editing software
   - video editing
@@ -2385,4 +2385,5 @@ Last, but not least, is Convertio We circle back with this fourth and last onlin
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-vacation-slideshow-in-5-minutes-for-2024/"><u>New How to Make a Vacation Slideshow in 5 Minutes for 2024</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-nokia-130-music-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Nokia 130 Music FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Motion Blur Mastery Tips, Tricks, and Techniques
-date: 2024-04-29T19:19:55.197Z
-updated: 2024-04-30T19:19:55.197Z
+date: 2024-05-19T11:47:03.377Z
+updated: 2024-05-20T11:47:03.377Z
 tags: 
   - video editing software
   - video editing
@@ -1935,4 +1935,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-xiaomi-redmi-note-12t-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Xiaomi Redmi Note 12T Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

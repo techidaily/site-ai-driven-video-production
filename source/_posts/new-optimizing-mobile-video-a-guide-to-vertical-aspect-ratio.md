@@ -1,7 +1,7 @@
 ---
 title: New Optimizing Mobile Video A Guide to Vertical Aspect Ratio
-date: 2024-04-29T19:29:37.545Z
-updated: 2024-04-30T19:29:37.545Z
+date: 2024-05-19T11:47:41.847Z
+updated: 2024-05-20T11:47:41.847Z
 tags: 
   - video editing software
   - video editing
@@ -3112,4 +3112,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/why-your-vivo-s17-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo S17 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/in-2024-making-triggered-memes-with-filmora-video-editor/"><u>In 2024, Making Triggered Memes with Filmora Video Editor</u></a></li>
 </ul></div>
+
 

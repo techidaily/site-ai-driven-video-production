@@ -2269,3 +2269,4 @@ The best video resolution varies with different platforms. But it will help in t
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate FCP X Green Screen Tutorial From Basics to Advanced
-date: 2024-04-29T19:17:32.721Z
-updated: 2024-04-30T19:17:32.721Z
+date: 2024-05-19T11:46:51.610Z
+updated: 2024-05-20T11:46:51.610Z
 tags: 
   - video editing software
   - video editing
@@ -2634,4 +2634,5 @@ As said above, trimming the unnecessary parts of the video is the need of the ho
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-a18-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo A18 to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi 13 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

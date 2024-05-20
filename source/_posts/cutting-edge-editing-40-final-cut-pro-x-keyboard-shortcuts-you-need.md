@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge Editing 40 Final Cut Pro X Keyboard Shortcuts You Need
-date: 2024-04-29T19:15:42.835Z
-updated: 2024-04-30T19:15:42.835Z
+date: 2024-05-19T11:46:45.371Z
+updated: 2024-05-20T11:46:45.371Z
 tags: 
   - video editing software
   - video editing
@@ -1948,4 +1948,5 @@ Follow @Liza Brown
 <li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-6s-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 6s Without a Passcode | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-6-plus-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 6 Plus? Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

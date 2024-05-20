@@ -1,7 +1,7 @@
 ---
 title: Top 10 Free Face Blurring Tools for Photos and Videos
-date: 2024-04-29T19:17:47.447Z
-updated: 2024-04-30T19:17:47.447Z
+date: 2024-05-19T11:46:52.581Z
+updated: 2024-05-20T11:46:52.581Z
 tags: 
   - video editing software
   - video editing
@@ -3153,4 +3153,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://animation-videos.techidaily.com/the-15-most-efficient-photo-to-cartoon-apps-for-android-for-2024/"><u>The 15 Most Efficient Photo to Cartoon Apps for Android for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-5-simple-tools-to-merge-video-and-audio-online/"><u>New 2024 Approved 5 Simple Tools to Merge Video and Audio Online</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Record Your Desktop in Minutes A Quick Start Guide to Filmora Scrn
-date: 2024-04-29T19:17:02.644Z
-updated: 2024-04-30T19:17:02.644Z
+date: 2024-05-19T11:46:49.796Z
+updated: 2024-05-20T11:46:49.796Z
 tags: 
   - video editing software
   - video editing
@@ -4543,4 +4543,5 @@ The Filmora assists you in changing the aspect ratio of the project after downlo
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-go-2024-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark Go (2024)? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-poco-f5-pro-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Poco F5 Pro 5G FRP</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2024-04-29T19:17:32.932Z
-updated: 2024-04-30T19:17:32.932Z
+date: 2024-05-19T11:46:51.619Z
+updated: 2024-05-20T11:46:51.619Z
 tags: 
   - video editing software
   - video editing
@@ -2159,4 +2159,5 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://howto.techidaily.com/how-to-fix-it-sony-xperia-10-v-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Sony Xperia 10 V Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/if-you-have-a-low-budget-but-want-to-create-a-filmy-appearance-of-the-video-then-read-6-ways-to-get-professional-filming-equipment-by-using-household-object/"><u>If You Have a Low Budget but Want to Create a Filmy Appearance of the Video, Then Read 6 Ways to Get Professional Filming Equipment by Using Household Objects</u></a></li>
 </ul></div>
+
 

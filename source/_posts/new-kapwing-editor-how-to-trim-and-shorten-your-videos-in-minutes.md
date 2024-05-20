@@ -1,7 +1,7 @@
 ---
 title: New Kapwing Editor How to Trim and Shorten Your Videos in Minutes
-date: 2024-04-29T19:27:46.550Z
-updated: 2024-04-30T19:27:46.550Z
+date: 2024-05-19T11:47:35.142Z
+updated: 2024-05-20T11:47:35.142Z
 tags: 
   - video editing software
   - video editing
@@ -1994,4 +1994,5 @@ Follow @Liza Brown
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nubia-red-magic-8s-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nubia Red Magic 8S Pro Phone?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-poco-x6-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Poco X6 Pro Phone?</u></a></li>
 </ul></div>
+
 

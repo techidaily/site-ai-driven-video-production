@@ -1,7 +1,7 @@
 ---
 title: Capture Your Screen A Beginners Guide to Recording with Filmora Scrn
-date: 2024-04-29T19:15:32.005Z
-updated: 2024-04-30T19:15:32.005Z
+date: 2024-05-19T11:46:44.757Z
+updated: 2024-05-20T11:46:44.757Z
 tags: 
   - video editing software
   - video editing
@@ -3282,4 +3282,5 @@ Follow @Ollie Mattison
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-reno-9a-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Reno 9A Phone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme 11 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

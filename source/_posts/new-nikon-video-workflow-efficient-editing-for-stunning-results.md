@@ -1,7 +1,7 @@
 ---
 title: New Nikon Video Workflow Efficient Editing for Stunning Results
-date: 2024-04-29T19:29:15.586Z
-updated: 2024-04-30T19:29:15.586Z
+date: 2024-05-19T11:47:40.229Z
+updated: 2024-05-20T11:47:40.229Z
 tags: 
   - video editing software
   - video editing
@@ -1969,4 +1969,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your OnePlus 12R | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/sbv-to-srt-how-to-convert-youtube-sbv-subtitle-to-srt-format/"><u>SBV to SRT How to Convert YouTube SBV Subtitle to SRT Format</u></a></li>
 </ul></div>
+
 

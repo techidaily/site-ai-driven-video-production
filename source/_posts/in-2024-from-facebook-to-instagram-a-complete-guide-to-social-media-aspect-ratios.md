@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Facebook to Instagram A Complete Guide to Social Media Aspect Ratios
-date: 2024-04-29T19:26:09.675Z
-updated: 2024-04-30T19:26:09.675Z
+date: 2024-05-19T11:47:29.348Z
+updated: 2024-05-20T11:47:29.348Z
 tags: 
   - video editing software
   - video editing
@@ -2213,4 +2213,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-instagram-video-size-tips-for-engagement-and-visibility/"><u>New In 2024, Instagram Video Size Tips for Engagement and Visibility</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-uncensored-top-10-plus-free-streaming-sites/"><u>Updated In 2024, Uncensored Top 10 + Free Streaming Sites</u></a></li>
 </ul></div>
+
 

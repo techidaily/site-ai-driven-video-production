@@ -1,7 +1,7 @@
 ---
 title: Get Moving with Final Cut Pro A Beginners Guide to Motion Blur for 2024
-date: 2024-04-29T19:26:43.295Z
-updated: 2024-04-30T19:26:43.295Z
+date: 2024-05-19T11:47:31.263Z
+updated: 2024-05-20T11:47:31.263Z
 tags: 
   - video editing software
   - video editing
@@ -2447,4 +2447,5 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-15-pro-maxwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 15 Pro Max/Windows/Mac</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-x-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone X</u></a></li>
 </ul></div>
+
 

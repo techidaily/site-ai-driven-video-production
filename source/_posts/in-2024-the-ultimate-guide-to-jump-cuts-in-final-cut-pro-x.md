@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Jump Cuts in Final Cut Pro X
-date: 2024-04-29T19:33:08.783Z
-updated: 2024-04-30T19:33:08.783Z
+date: 2024-05-19T11:47:55.608Z
+updated: 2024-05-20T11:47:55.608Z
 tags: 
   - video editing software
   - video editing
@@ -1942,4 +1942,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Hot 40 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-10-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark 10 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

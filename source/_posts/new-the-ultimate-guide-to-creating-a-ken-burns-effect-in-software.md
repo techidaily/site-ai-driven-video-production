@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Creating a Ken Burns Effect in Software
-date: 2024-04-29T19:33:01.299Z
-updated: 2024-04-30T19:33:01.299Z
+date: 2024-05-19T11:47:55.171Z
+updated: 2024-05-20T11:47:55.171Z
 tags: 
   - video editing software
   - video editing
@@ -1639,4 +1639,5 @@ Follow @Benjamin Arango
 <li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nubia-red-magic-9-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nubia Red Magic 9 Pro</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

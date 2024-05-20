@@ -1,7 +1,7 @@
 ---
 title: Updated Reduce MPEG2 File Size with VirtualDub A Beginners Guide
-date: 2024-04-29T19:30:05.935Z
-updated: 2024-04-30T19:30:05.935Z
+date: 2024-05-19T11:47:43.991Z
+updated: 2024-05-20T11:47:43.991Z
 tags: 
   - video editing software
   - video editing
@@ -2635,4 +2635,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-k70-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi K70 Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-premiere-pro-cs6-for-mac-instant-download-no-cost-for-2024/"><u>Updated Premiere Pro CS6 for Mac - Instant Download, No Cost for 2024</u></a></li>
 </ul></div>
+
 

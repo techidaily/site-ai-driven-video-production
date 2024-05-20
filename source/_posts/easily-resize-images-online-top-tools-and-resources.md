@@ -1,7 +1,7 @@
 ---
 title: Easily Resize Images Online Top Tools and Resources
-date: 2024-04-29T19:15:49.448Z
-updated: 2024-04-30T19:15:49.448Z
+date: 2024-05-19T11:46:45.852Z
+updated: 2024-05-20T11:46:45.852Z
 tags: 
   - video editing software
   - video editing
@@ -1756,4 +1756,5 @@ Follow @Shanoon Cox
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-se-2020-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone SE (2020) Without Data Loss? | Dr.fone</u></a></li>
 </ul></div>
+
 

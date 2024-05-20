@@ -1,7 +1,7 @@
 ---
 title: New FCP Editing Mastery 3 Advanced Transition Techniques
-date: 2024-04-29T19:24:44.116Z
-updated: 2024-04-30T19:24:44.116Z
+date: 2024-05-19T11:47:23.971Z
+updated: 2024-05-20T11:47:23.971Z
 tags: 
   - video editing software
   - video editing
@@ -2361,4 +2361,5 @@ Key features
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-fixed-final-cut-pro-x-crash-issues-for-2024/"><u>New Fixed Final Cut Pro X Crash Issues for 2024</u></a></li>
 </ul></div>
+
 

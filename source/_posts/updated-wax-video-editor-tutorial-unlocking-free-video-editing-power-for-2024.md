@@ -1838,3 +1838,4 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s23-fe-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy S23 FE has native HEVC support?</u></a></li>
 </ul></div>
 
+

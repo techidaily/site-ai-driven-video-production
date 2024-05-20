@@ -1,7 +1,7 @@
 ---
 title: New Video Dimension Adjustment Made Easy and Fast
-date: 2024-04-29T19:36:10.226Z
-updated: 2024-04-30T19:36:10.226Z
+date: 2024-05-19T11:48:08.110Z
+updated: 2024-05-20T11:48:08.110Z
 tags: 
   - video editing software
   - video editing
@@ -2761,4 +2761,5 @@ Note: Offline editing refers to editing a [proxy file of the original source mat
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-g04-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto G04 | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone X | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Change Video Dimensions Quickly and Easily for 2024
-date: 2024-04-29T19:22:22.255Z
-updated: 2024-04-30T19:22:22.255Z
+date: 2024-05-19T11:47:14.348Z
+updated: 2024-05-20T11:47:14.348Z
 tags: 
   - video editing software
   - video editing
@@ -2222,4 +2222,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-se-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone SE without Passcode or Face ID</u></a></li>
 </ul></div>
+
 

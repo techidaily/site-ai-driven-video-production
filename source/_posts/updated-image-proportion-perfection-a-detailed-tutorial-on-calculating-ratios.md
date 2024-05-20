@@ -1,7 +1,7 @@
 ---
 title: Updated Image Proportion Perfection A Detailed Tutorial on Calculating Ratios
-date: 2024-04-29T19:27:32.699Z
-updated: 2024-04-30T19:27:32.699Z
+date: 2024-05-19T11:47:34.423Z
+updated: 2024-05-20T11:47:34.423Z
 tags: 
   - video editing software
   - video editing
@@ -2826,4 +2826,5 @@ A few are geared for pros (such as Lightworks, HitFilm Express, and Blender), wh
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-14-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Online? Here are 6 Easy Ways</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-poco-f5-pro-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Poco F5 Pro 5G to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

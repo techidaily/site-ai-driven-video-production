@@ -1,7 +1,7 @@
 ---
 title: The VHS Effect in FCP A Beginners Guide to Retro Editing
-date: 2024-04-29T19:17:44.903Z
-updated: 2024-04-30T19:17:44.903Z
+date: 2024-05-19T11:46:52.423Z
+updated: 2024-05-20T11:46:52.423Z
 tags: 
   - video editing software
   - video editing
@@ -3451,4 +3451,5 @@ Follow @Ollie Mattison
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor X7b | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-motorola-moto-g23-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Motorola Moto G23 For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
+
 

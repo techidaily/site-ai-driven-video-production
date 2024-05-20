@@ -1,7 +1,7 @@
 ---
 title: From Still to Stunning How to Achieve the Ken Burns Effect
-date: 2024-04-29T19:16:21.447Z
-updated: 2024-04-30T19:16:21.447Z
+date: 2024-05-19T11:46:47.628Z
+updated: 2024-05-20T11:46:47.628Z
 tags: 
   - video editing software
   - video editing
@@ -2244,4 +2244,5 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x90s-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X90S to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 13 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
 </ul></div>
+
 

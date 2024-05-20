@@ -1,7 +1,7 @@
 ---
 title: In 2024, 20 Must-Know Adobe Premiere Pro Shortcuts for Editors
-date: 2024-04-29T19:18:50.345Z
-updated: 2024-04-30T19:18:50.345Z
+date: 2024-05-19T11:46:56.958Z
+updated: 2024-05-20T11:46:56.958Z
 tags: 
   - video editing software
   - video editing
@@ -2163,4 +2163,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Google Pixel 8 Pro? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/samsung-galaxy-m34-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy M34 5G won’t play AVCHD .mts files</u></a></li>
 </ul></div>
+
 

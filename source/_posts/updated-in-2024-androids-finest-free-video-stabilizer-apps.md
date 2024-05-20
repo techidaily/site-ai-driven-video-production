@@ -1687,3 +1687,4 @@ For macOS 10.12 or later
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-a54-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy A54 5G? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: TikTok Resolution and Aspect Ratio Everything You Need to Know
-date: 2024-04-29T19:17:45.757Z
-updated: 2024-04-30T19:17:45.757Z
+date: 2024-05-19T11:46:52.491Z
+updated: 2024-05-20T11:46:52.491Z
 tags: 
   - video editing software
   - video editing
@@ -3904,4 +3904,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-7-plus-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 7 Plus | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-samsung-galaxy-a24-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Samsung Galaxy A24.</u></a></li>
 </ul></div>
+
 

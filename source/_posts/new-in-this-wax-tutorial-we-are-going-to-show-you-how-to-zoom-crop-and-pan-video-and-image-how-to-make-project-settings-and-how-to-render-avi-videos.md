@@ -1,7 +1,7 @@
 ---
 title: New In This Wax Tutorial, We Are Going to Show You How to Zoom, Crop and Pan Video and Image, How to Make Project Settings and How to Render AVI Videos
-date: 2024-04-29T19:27:37.462Z
-updated: 2024-04-30T19:27:37.462Z
+date: 2024-05-19T11:47:34.615Z
+updated: 2024-05-20T11:47:34.615Z
 tags: 
   - video editing software
   - video editing
@@ -1278,4 +1278,5 @@ Follow @Richard Bennett
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone XS | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-gionee-f3-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Gionee F3 Pro Location on Twitter | Dr.fone</u></a></li>
 </ul></div>
+
 

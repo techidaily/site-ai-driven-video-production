@@ -1,7 +1,7 @@
 ---
 title: In 2024, FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts
-date: 2024-04-29T19:24:54.558Z
-updated: 2024-04-30T19:24:54.558Z
+date: 2024-05-19T11:47:24.359Z
+updated: 2024-05-20T11:47:24.359Z
 tags: 
   - video editing software
   - video editing
@@ -1842,4 +1842,5 @@ However, if you're searching for a less expensive solution but still concerned a
 <li><a href="https://ai-vdieo-software.techidaily.com/webm-to-mp3-made-easy-10-reliable-converter-options/"><u>WebM to MP3 Made Easy 10 Reliable Converter Options</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-lost-data-from-itel-p40-by-fonelab-android-recover-data/"><u>Recover lost data from Itel P40</u></a></li>
 </ul></div>
+
 

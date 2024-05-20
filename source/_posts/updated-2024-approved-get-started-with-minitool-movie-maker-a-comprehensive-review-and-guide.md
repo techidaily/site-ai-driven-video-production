@@ -1679,3 +1679,4 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/step-by-step-to-crop-a-video-with-cyberlink-powerdirector-for-2024/"><u>Step by Step to Crop a Video with CyberLink PowerDirector for 2024</u></a></li>
 </ul></div>
 
+

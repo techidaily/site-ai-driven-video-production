@@ -2837,3 +2837,4 @@ In place of Sony Vegas Pro, any of these options would also give you a great use
 <li><a href="https://phone-solutions.techidaily.com/forgot-your-infinix-smart-8-hd-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Infinix Smart 8 HD lock screen pattern, PIN or password? Here’s what to do</u></a></li>
 </ul></div>
 
+

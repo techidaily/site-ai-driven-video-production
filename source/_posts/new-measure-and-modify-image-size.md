@@ -1,7 +1,7 @@
 ---
 title: New Measure and Modify Image Size
-date: 2024-04-29T19:28:50.110Z
-updated: 2024-04-30T19:28:50.110Z
+date: 2024-05-19T11:47:39.139Z
+updated: 2024-05-20T11:47:39.139Z
 tags: 
   - video editing software
   - video editing
@@ -2680,4 +2680,5 @@ Follow @Max Wales
 <li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy S24 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-xiaomi-redmi-note-12r-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi Redmi Note 12R Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

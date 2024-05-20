@@ -1,7 +1,7 @@
 ---
 title: Pro-Level Jump Cuts Made Easy A Final Cut Pro X Tutorial for 2024
-date: 2024-04-29T19:29:51.582Z
-updated: 2024-04-30T19:29:51.582Z
+date: 2024-05-19T11:47:42.831Z
+updated: 2024-05-20T11:47:42.831Z
 tags: 
   - video editing software
   - video editing
@@ -2130,4 +2130,5 @@ Follow @Shanoon Cox
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-15-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 15 Pro How to Bypass?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-realme-11x-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Realme 11X 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

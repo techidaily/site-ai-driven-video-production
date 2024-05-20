@@ -2316,3 +2316,4 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-huawei-nova-y71-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Huawei Nova Y71 to PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

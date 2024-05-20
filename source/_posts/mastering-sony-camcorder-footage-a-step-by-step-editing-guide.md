@@ -1,7 +1,7 @@
 ---
 title: Mastering Sony Camcorder Footage A Step-by-Step Editing Guide
-date: 2024-04-29T19:16:46.445Z
-updated: 2024-04-30T19:16:46.445Z
+date: 2024-05-19T11:46:48.897Z
+updated: 2024-05-20T11:46:48.897Z
 tags: 
   - video editing software
   - video editing
@@ -2734,4 +2734,5 @@ Follow @Liza Brown
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-apple-iphone-14-by-drfone-ios/"><u>How to Bypass iCloud Lock from Apple iPhone 14</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

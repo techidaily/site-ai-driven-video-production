@@ -1,7 +1,7 @@
 ---
 title: New Timer Tutorial How to Create a Countdown in FCPX Fast
-date: 2024-04-29T19:33:53.747Z
-updated: 2024-04-30T19:33:53.747Z
+date: 2024-05-19T11:47:59.129Z
+updated: 2024-05-20T11:47:59.129Z
 tags: 
   - video editing software
   - video editing
@@ -1774,4 +1774,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-11-pro-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 11 Pro to ZTE Phones | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New FCPX Tutorial Trimming Images to Perfection
-date: 2024-04-29T19:24:54.773Z
-updated: 2024-04-30T19:24:54.773Z
+date: 2024-05-19T11:47:24.363Z
+updated: 2024-05-20T11:47:24.363Z
 tags: 
   - video editing software
   - video editing
@@ -2380,4 +2380,5 @@ Follow @Liza Brown
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Poco X6 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-meizu-21-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Meizu 21 Phone</u></a></li>
 </ul></div>
+
 

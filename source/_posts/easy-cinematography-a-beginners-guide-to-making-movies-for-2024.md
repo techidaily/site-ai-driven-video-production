@@ -1,7 +1,7 @@
 ---
 title: Easy Cinematography A Beginners Guide to Making Movies for 2024
-date: 2024-04-29T19:23:57.412Z
-updated: 2024-04-30T19:23:57.412Z
+date: 2024-05-19T11:47:20.609Z
+updated: 2024-05-20T11:47:20.609Z
 tags: 
   - video editing software
   - video editing
@@ -1718,4 +1718,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo S17 Pro? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

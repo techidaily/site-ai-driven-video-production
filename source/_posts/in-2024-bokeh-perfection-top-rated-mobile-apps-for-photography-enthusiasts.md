@@ -1,7 +1,7 @@
 ---
 title: In 2024, Bokeh Perfection Top-Rated Mobile Apps for Photography Enthusiasts
-date: 2024-04-29T19:22:00.964Z
-updated: 2024-04-30T19:22:00.964Z
+date: 2024-05-19T11:47:13.056Z
+updated: 2024-05-20T11:47:13.056Z
 tags: 
   - video editing software
   - video editing
@@ -2363,4 +2363,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-ways-to-make-canva-collages/"><u>New 2024 Approved Ways to Make Canva Collages</u></a></li>
 <li><a href="https://techidaily.com/tecno-data-retrieval-tool-restore-lost-data-from-tecno-pova-6-pro-5g-by-fonelab-android-recover-data/"><u>Tecno Data Retrieval tool – restore lost data from Tecno Pova 6 Pro 5G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Essentials How to Use the Ken Burns Effect to Enhance Your Video Storytelling
-date: 2024-04-29T19:25:02.750Z
-updated: 2024-04-30T19:25:02.750Z
+date: 2024-05-19T11:47:24.634Z
+updated: 2024-05-20T11:47:24.634Z
 tags: 
   - video editing software
   - video editing
@@ -2546,4 +2546,5 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y02T | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-a1-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Oppo A1 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

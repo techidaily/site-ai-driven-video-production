@@ -2152,3 +2152,4 @@ Using this versatile software you can add animations, motion tracking, zooming f
 <li><a href="https://ai-editing-video.techidaily.com/premiere-pro-text-effects-beginner-guide/"><u>Premiere Pro Text Effects Beginner Guide</u></a></li>
 </ul></div>
 
+

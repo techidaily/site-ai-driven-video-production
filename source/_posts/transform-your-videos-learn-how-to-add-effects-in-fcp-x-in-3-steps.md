@@ -1,7 +1,7 @@
 ---
 title: Transform Your Videos Learn How to Add Effects in FCP X in 3 Steps
-date: 2024-04-29T19:17:57.063Z
-updated: 2024-04-30T19:17:57.063Z
+date: 2024-05-19T11:46:53.380Z
+updated: 2024-05-20T11:46:53.380Z
 tags: 
   - video editing software
   - video editing
@@ -1702,4 +1702,5 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Redmi K70</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-itel-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Itel FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

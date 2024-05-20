@@ -1,7 +1,7 @@
 ---
 title: New The VHS Effect in FCP A Beginners Guide to Retro Editing
-date: 2024-04-29T19:33:47.102Z
-updated: 2024-04-30T19:33:47.102Z
+date: 2024-05-19T11:47:58.913Z
+updated: 2024-05-20T11:47:58.913Z
 tags: 
   - video editing software
   - video editing
@@ -2850,4 +2850,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-official-method-to-unlock-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Pro Max Official Method to Unlock Your iPhone 13 Pro Max</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme GT 5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

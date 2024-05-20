@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Video Accessibility Adding Subtitles and Captions
-date: 2024-04-29T19:24:54.988Z
-updated: 2024-04-30T19:24:54.988Z
+date: 2024-05-19T11:47:24.367Z
+updated: 2024-05-20T11:47:24.367Z
 tags: 
   - video editing software
   - video editing
@@ -1607,4 +1607,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Asus ROG Phone 7 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-samsung-galaxy-a23-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Samsung Galaxy A23 5G without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

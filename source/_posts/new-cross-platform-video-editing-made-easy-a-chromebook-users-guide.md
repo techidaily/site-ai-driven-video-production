@@ -1,7 +1,7 @@
 ---
 title: New Cross-Platform Video Editing Made Easy A Chromebook Users Guide
-date: 2024-04-29T19:23:03.810Z
-updated: 2024-04-30T19:23:03.810Z
+date: 2024-05-19T11:47:17.787Z
+updated: 2024-05-20T11:47:17.787Z
 tags: 
   - video editing software
   - video editing
@@ -1898,4 +1898,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-reset-a-realme-v30t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme V30T Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-note-50-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme Note 50 Lock Screen Password?</u></a></li>
 </ul></div>
+
 

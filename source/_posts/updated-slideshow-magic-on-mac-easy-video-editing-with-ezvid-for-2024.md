@@ -1603,3 +1603,4 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-an-instant-slideshow-on-mac/"><u>2024 Approved How to Make an Instant Slideshow on Mac</u></a></li>
 </ul></div>
 
+

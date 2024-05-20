@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering FCPX Tips and Tricks for Overcoming Common Obstacles
-date: 2024-04-29T19:28:38.685Z
-updated: 2024-04-30T19:28:38.685Z
+date: 2024-05-19T11:47:38.684Z
+updated: 2024-05-20T11:47:38.684Z
 tags: 
   - video editing software
   - video editing
@@ -3151,4 +3151,5 @@ However, a quality video to GIF converter is a must-have tool. You can obtain mo
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-12-mini-by-drfone-ios/"><u>How to Unlock Verizon iPhone 12 mini</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-remove-motion-blur-in-photoshop/"><u>Updated In 2024, How to Remove Motion Blur In Photoshop</u></a></li>
 </ul></div>
+
 

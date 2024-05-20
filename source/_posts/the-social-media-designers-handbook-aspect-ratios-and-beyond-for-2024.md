@@ -1,7 +1,7 @@
 ---
 title: The Social Media Designers Handbook Aspect Ratios and Beyond for 2024
-date: 2024-04-29T19:32:39.752Z
-updated: 2024-04-30T19:32:39.752Z
+date: 2024-05-19T11:47:54.124Z
+updated: 2024-05-20T11:47:54.124Z
 tags: 
   - video editing software
   - video editing
@@ -3383,4 +3383,5 @@ Audio Tool Set makes the last of the **audio converters** on this list (as well 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-8t-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 8T 5G by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/get-closer-to-the-artistic-marvels-of-ai-portrait-generator/"><u>Get Closer to the Artistic Marvels of AI Portrait Generator</u></a></li>
 </ul></div>
+
 

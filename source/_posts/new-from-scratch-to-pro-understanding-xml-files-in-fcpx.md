@@ -1,7 +1,7 @@
 ---
 title: New From Scratch to Pro Understanding XML Files in FCPX
-date: 2024-04-29T19:26:19.178Z
-updated: 2024-04-30T19:26:19.178Z
+date: 2024-05-19T11:47:29.678Z
+updated: 2024-05-20T11:47:29.678Z
 tags: 
   - video editing software
   - video editing
@@ -2236,4 +2236,5 @@ Using Wondershare Filmora will provide you with the option to adjust the video r
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor 90? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-animations-in-the-classroom-top-picks-for-2024/"><u>New Animations in the Classroom Top Picks for 2024</u></a></li>
 </ul></div>
+
 

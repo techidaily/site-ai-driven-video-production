@@ -1,7 +1,7 @@
 ---
 title: Mastering Time Manipulation in FCPX
-date: 2024-04-29T19:16:46.864Z
-updated: 2024-04-30T19:16:46.864Z
+date: 2024-05-19T11:46:48.910Z
+updated: 2024-05-20T11:46:48.910Z
 tags: 
   - video editing software
   - video editing
@@ -3330,4 +3330,5 @@ Kapwing is an efficient online video editor. The best part is, the tool doesn’
 <li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A24</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-how-to-stream-your-favorite-games-online/"><u>New 2024 Approved How To Stream Your Favorite Games Online</u></a></li>
 </ul></div>
+
 

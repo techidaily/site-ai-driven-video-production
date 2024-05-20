@@ -1,7 +1,7 @@
 ---
 title: Protect Your Creative Assets A Quick Guide to Saving FCP Projects
-date: 2024-04-29T19:17:01.345Z
-updated: 2024-04-30T19:17:01.345Z
+date: 2024-05-19T11:46:49.730Z
+updated: 2024-05-20T11:46:49.730Z
 tags: 
   - video editing software
   - video editing
@@ -1867,4 +1867,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Moto G24 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-vivo-y28-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo Y28 5G Face Lock?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Top Video Invitation Creators for Mobile Devices
-date: 2024-04-29T19:17:54.094Z
-updated: 2024-04-30T19:17:54.094Z
+date: 2024-05-19T11:46:53.327Z
+updated: 2024-05-20T11:46:53.327Z
 tags: 
   - video editing software
   - video editing
@@ -2847,4 +2847,5 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/tecno-phantom-v-fold-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Phantom V Fold Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
+
 

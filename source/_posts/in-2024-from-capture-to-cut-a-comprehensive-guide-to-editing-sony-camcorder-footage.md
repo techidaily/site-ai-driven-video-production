@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Capture to Cut A Comprehensive Guide to Editing Sony Camcorder Footage
-date: 2024-04-29T19:26:05.477Z
-updated: 2024-04-30T19:26:05.477Z
+date: 2024-05-19T11:47:29.203Z
+updated: 2024-05-20T11:47:29.203Z
 tags: 
   - video editing software
   - video editing
@@ -1776,4 +1776,5 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-15-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 15 Pro Max How to Bypass?</u></a></li>
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-motorola-moto-g14-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Motorola Moto G14</u></a></li>
 </ul></div>
+
 

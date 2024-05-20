@@ -1,7 +1,7 @@
 ---
 title: The Complete XML Handbook for FCPX Editors and Creatives for 2024
-date: 2024-04-29T19:32:20.433Z
-updated: 2024-04-30T19:32:20.433Z
+date: 2024-05-19T11:47:53.069Z
+updated: 2024-05-20T11:47:53.069Z
 tags: 
   - video editing software
   - video editing
@@ -2237,4 +2237,5 @@ Follow @Max Wales
 <li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone SE</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-lava-storm-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Lava Storm 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

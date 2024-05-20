@@ -2395,3 +2395,4 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

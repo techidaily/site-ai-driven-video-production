@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Video Editing Splitting Videos in Windows Live Movie Maker
-date: 2024-04-29T19:17:38.309Z
-updated: 2024-04-30T19:17:38.309Z
+date: 2024-05-19T11:46:51.921Z
+updated: 2024-05-20T11:46:51.921Z
 tags: 
   - video editing software
   - video editing
@@ -2156,4 +2156,5 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Without Passcode?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-s17-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo S17 Pro</u></a></li>
 </ul></div>
+
 

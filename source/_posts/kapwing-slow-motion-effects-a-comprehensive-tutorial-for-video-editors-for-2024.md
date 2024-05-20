@@ -1,7 +1,7 @@
 ---
 title: Kapwing Slow Motion Effects A Comprehensive Tutorial for Video Editors for 2024
-date: 2024-04-29T19:27:46.970Z
-updated: 2024-04-30T19:27:46.970Z
+date: 2024-05-19T11:47:35.193Z
+updated: 2024-05-20T11:47:35.193Z
 tags: 
   - video editing software
   - video editing
@@ -2151,4 +2151,5 @@ Follow @Liza Brown
 <li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y100t | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-14-pro-max-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 14 Pro Max and iPad?</u></a></li>
 </ul></div>
+
 

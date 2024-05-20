@@ -1,7 +1,7 @@
 ---
 title: Updated The Vertical Video Revolution One Simple Trick to Resize for Social Media
-date: 2024-04-29T19:33:46.889Z
-updated: 2024-04-30T19:33:46.889Z
+date: 2024-05-19T11:47:58.472Z
+updated: 2024-05-20T11:47:58.472Z
 tags: 
   - video editing software
   - video editing
@@ -2936,4 +2936,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-learn-how-to-use-and-download-kinemaster-templates-like-a-pro-discover-alternative-video-templates-to-elevate-your-video-creation/"><u>2024 Approved Learn How to Use and Download KineMaster Templates Like a Pro. Discover Alternative Video Templates to Elevate Your Video Creation</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme 11X 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

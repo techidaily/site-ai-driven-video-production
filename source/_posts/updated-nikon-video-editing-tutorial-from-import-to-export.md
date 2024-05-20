@@ -1,7 +1,7 @@
 ---
 title: Updated Nikon Video Editing Tutorial From Import to Export
-date: 2024-04-29T19:29:14.952Z
-updated: 2024-04-30T19:29:14.952Z
+date: 2024-05-19T11:47:40.207Z
+updated: 2024-05-20T11:47:40.207Z
 tags: 
   - video editing software
   - video editing
@@ -1962,4 +1962,5 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy Z Flip 5</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f54-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy F54 5G Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

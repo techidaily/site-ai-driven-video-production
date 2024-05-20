@@ -1,7 +1,7 @@
 ---
 title: Ken Burns Effect in Minutes Quick and Easy Tutorial for 2024
-date: 2024-04-29T19:27:50.208Z
-updated: 2024-04-30T19:27:50.208Z
+date: 2024-05-19T11:47:35.303Z
+updated: 2024-05-20T11:47:35.303Z
 tags: 
   - video editing software
   - video editing
@@ -2135,4 +2135,5 @@ Follow @Ollie Mattison
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco Device</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-windows-11-video-editing-a-comprehensive-list-of-free-and-paid-solutions/"><u>In 2024, Windows 11 Video Editing A Comprehensive List of Free and Paid Solutions</u></a></li>
 </ul></div>
+
 

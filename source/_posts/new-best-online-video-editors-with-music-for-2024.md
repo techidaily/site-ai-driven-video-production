@@ -1470,3 +1470,4 @@ Using this versatile software you can add animations, motion tracking, zooming f
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-7-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 7 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
 </ul></div>
 
+

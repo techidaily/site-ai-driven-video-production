@@ -1,7 +1,7 @@
 ---
 title: New Say It, Write It The Science of Speech-to-Text Conversion
-date: 2024-04-29T19:30:52.189Z
-updated: 2024-04-30T19:30:52.189Z
+date: 2024-05-19T11:47:46.331Z
+updated: 2024-05-20T11:47:46.331Z
 tags: 
   - video editing software
   - video editing
@@ -3921,4 +3921,5 @@ Follow @Benjamin Arango
 <li><a href="https://animation-videos.techidaily.com/2024-approved-10-cartoon-character-makers-to-make-animated-characters/"><u>2024 Approved 10 Cartoon Character Makers to Make Animated Characters</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-windows-10-video-production-best-software-options/"><u>New 2024 Approved Windows 10 Video Production Best Software Options</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Transform Your Images A Beginners Guide to the Ken Burns Effect
-date: 2024-04-29T19:34:45.738Z
-updated: 2024-04-30T19:34:45.738Z
+date: 2024-05-19T11:48:02.364Z
+updated: 2024-05-20T11:48:02.364Z
 tags: 
   - video editing software
   - video editing
@@ -1608,4 +1608,5 @@ Get started easily with Filmora's powerful engine, intuitive interface, and thou
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-a05-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy A05 Phone Screen?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-tecno-camon-20-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Tecno Camon 20 Phones with/without a PC</u></a></li>
 </ul></div>
+
 

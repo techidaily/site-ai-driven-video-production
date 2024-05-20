@@ -1,7 +1,7 @@
 ---
 title: The Fast Lane How to Resize Your Video in No Time
-date: 2024-04-29T19:17:29.689Z
-updated: 2024-04-30T19:17:29.689Z
+date: 2024-05-19T11:46:51.431Z
+updated: 2024-05-20T11:46:51.431Z
 tags: 
   - video editing software
   - video editing
@@ -2004,4 +2004,5 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Infinix Note 30 VIP? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-production-adobe-premiere-pro-on-mac/"><u>Elevate Your Video Production Adobe Premiere Pro on Mac</u></a></li>
 </ul></div>
+
 

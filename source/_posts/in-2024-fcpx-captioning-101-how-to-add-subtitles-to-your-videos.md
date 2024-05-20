@@ -1,7 +1,7 @@
 ---
 title: In 2024, FCPX Captioning 101 How to Add Subtitles to Your Videos
-date: 2024-04-29T19:24:48.581Z
-updated: 2024-04-30T19:24:48.581Z
+date: 2024-05-19T11:47:24.176Z
+updated: 2024-05-20T11:47:24.176Z
 tags: 
   - video editing software
   - video editing
@@ -1652,4 +1652,5 @@ After reading all the features mentioned in this article, you might be looking f
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-explore-the-list-of-the-top-six-online-video-speed-controllers-for-chrome-safari-and-firefox/"><u>New In 2024, Explore the List of the Top Six Online Video Speed Controllers for Chrome, Safari, and Firefox</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nokia C210? | Dr.fone</u></a></li>
 </ul></div>
+
 

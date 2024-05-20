@@ -1,7 +1,7 @@
 ---
 title: New Getting Started with Stop Motion A Beginners Handbook
-date: 2024-04-29T19:20:00.823Z
-updated: 2024-04-30T19:20:00.823Z
+date: 2024-05-19T11:47:03.670Z
+updated: 2024-05-20T11:47:03.670Z
 tags: 
   - video editing software
   - video editing
@@ -3238,4 +3238,5 @@ A few are geared for pros (such as Lightworks, HitFilm Express, and Blender), wh
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-poco-c50-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Poco C50 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

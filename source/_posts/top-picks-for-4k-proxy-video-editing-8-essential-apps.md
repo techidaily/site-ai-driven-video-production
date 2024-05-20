@@ -1,7 +1,7 @@
 ---
 title: Top Picks for 4K Proxy Video Editing 8 Essential Apps
-date: 2024-04-29T19:17:51.298Z
-updated: 2024-04-30T19:17:51.298Z
+date: 2024-05-19T11:46:53.248Z
+updated: 2024-05-20T11:46:53.248Z
 tags: 
   - video editing software
   - video editing
@@ -1537,4 +1537,5 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-note-12t-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi Note 12T Pro is off? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Poco X6 | Dr.fone</u></a></li>
 </ul></div>
+
 

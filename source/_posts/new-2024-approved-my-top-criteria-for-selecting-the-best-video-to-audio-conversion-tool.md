@@ -3081,3 +3081,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-detailed-steps-to-add-border-to-video-using-premiere-pro/"><u>New Detailed Steps to Add Border to Video Using Premiere Pro</u></a></li>
 </ul></div>
 
+

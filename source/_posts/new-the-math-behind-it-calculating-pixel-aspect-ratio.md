@@ -1,7 +1,7 @@
 ---
 title: New The Math Behind It Calculating Pixel Aspect Ratio
-date: 2024-04-29T19:32:31.096Z
-updated: 2024-04-30T19:32:31.096Z
+date: 2024-05-19T11:47:53.864Z
+updated: 2024-05-20T11:47:53.864Z
 tags: 
   - video editing software
   - video editing
@@ -2354,4 +2354,5 @@ Follow @Liza Brown
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-magic-6-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Magic 6?</u></a></li>
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-redmi-note-13-pro-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi Redmi Note 13 Pro 5G? Here Are All Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

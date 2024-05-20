@@ -1,7 +1,7 @@
 ---
 title: In 2024, Elevate Your Storytelling A Step-by-Step Ken Burns Effect Tutorial
-date: 2024-04-29T19:24:19.914Z
-updated: 2024-04-30T19:24:19.914Z
+date: 2024-05-19T11:47:22.303Z
+updated: 2024-05-20T11:47:22.303Z
 tags: 
   - video editing software
   - video editing
@@ -2749,4 +2749,5 @@ Follow @Liza Brown
 <li><a href="https://howto.techidaily.com/calls-on-realme-narzo-60-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme Narzo 60 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-moto-g23-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Motorola Moto G23 | Dr.fone</u></a></li>
 </ul></div>
+
 

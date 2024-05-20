@@ -1,7 +1,7 @@
 ---
 title: Fixing the Shake A Step-by-Step Guide to Video Stabilization in After Effects
-date: 2024-04-29T19:16:05.335Z
-updated: 2024-04-30T19:16:05.335Z
+date: 2024-05-19T11:46:46.742Z
+updated: 2024-05-20T11:46:46.742Z
 tags: 
   - video editing software
   - video editing
@@ -1862,4 +1862,5 @@ Follow @Max Wales
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Poco F5 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
 </ul></div>
+
 

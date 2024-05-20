@@ -1,7 +1,7 @@
 ---
 title: Designing for Thumb-Friendly Screens Aspect Ratio Essentials
-date: 2024-04-29T19:15:43.901Z
-updated: 2024-04-30T19:15:43.901Z
+date: 2024-05-19T11:46:45.471Z
+updated: 2024-05-20T11:46:45.471Z
 tags: 
   - video editing software
   - video editing
@@ -2623,4 +2623,5 @@ Kapwing is an efficient online video editor. The best part is, the tool doesn’
 <li><a href="https://ai-video-editing.techidaily.com/how-to-create-loop-videos-using-filmora/"><u>How to Create Loop Videos Using Filmora</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Online Video Trimming Made Easy A Kapwing Tutorial
-date: 2024-04-29T19:16:56.700Z
-updated: 2024-04-30T19:16:56.700Z
+date: 2024-05-19T11:46:49.489Z
+updated: 2024-05-20T11:46:49.489Z
 tags: 
   - video editing software
   - video editing
@@ -2275,4 +2275,5 @@ Follow @Shanoon Cox
 <li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 6s | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

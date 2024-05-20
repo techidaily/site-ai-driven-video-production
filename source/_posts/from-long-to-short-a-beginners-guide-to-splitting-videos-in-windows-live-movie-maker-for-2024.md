@@ -1,7 +1,7 @@
 ---
 title: From Long to Short A Beginners Guide to Splitting Videos in Windows Live Movie Maker for 2024
-date: 2024-04-29T19:26:14.777Z
-updated: 2024-04-30T19:26:14.777Z
+date: 2024-05-19T11:47:29.520Z
+updated: 2024-05-20T11:47:29.520Z
 tags: 
   - video editing software
   - video editing
@@ -1497,4 +1497,5 @@ Follow @Benjamin Arango
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-13-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 13 Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 without Losing Anything? | Dr.fone</u></a></li>
 </ul></div>
+
 

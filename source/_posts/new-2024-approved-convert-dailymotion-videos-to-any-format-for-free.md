@@ -2307,3 +2307,4 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/phone-aspect-ratio-vertical-definition-types-and-tips/"><u>Phone Aspect Ratio Vertical Definition, Types and Tips</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated HD Video Made Easy A Beginners Guide to Pixel Size and Quality
-date: 2024-04-29T19:27:13.656Z
-updated: 2024-04-30T19:27:13.656Z
+date: 2024-05-19T11:47:33.347Z
+updated: 2024-05-20T11:47:33.347Z
 tags: 
   - video editing software
   - video editing
@@ -2147,4 +2147,5 @@ The selected image will not be used as the thumbnail for the video.
 <li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-se-2020-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone SE (2020) | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-asus-rog-phone-8-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Asus ROG Phone 8 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Say Goodbye to Cropped Videos The Facebook Aspect Ratio Guide
-date: 2024-04-29T19:30:45.895Z
-updated: 2024-04-30T19:30:45.895Z
+date: 2024-05-19T11:47:45.796Z
+updated: 2024-05-20T11:47:45.796Z
 tags: 
   - video editing software
   - video editing
@@ -2557,4 +2557,5 @@ To ensure safety and security, we need some special tools to edit audio or video
 <li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oneplus-nord-3-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove OnePlus Nord 3 5G Fingerprint Lock</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 13 5G</u></a></li>
 </ul></div>
+
 

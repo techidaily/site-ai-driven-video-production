@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Shape Up Your Videos Easy Resizing and Cropping Techniques
-date: 2024-04-29T19:30:58.726Z
-updated: 2024-04-30T19:30:58.726Z
+date: 2024-05-19T11:47:46.736Z
+updated: 2024-05-20T11:47:46.736Z
 tags: 
   - video editing software
   - video editing
@@ -2386,4 +2386,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme 10T 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-oneplus-open-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus Open Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

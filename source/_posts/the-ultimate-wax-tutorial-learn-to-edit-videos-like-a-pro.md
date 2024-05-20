@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Wax Tutorial Learn to Edit Videos Like a Pro
-date: 2024-04-29T19:17:44.681Z
-updated: 2024-04-30T19:17:44.681Z
+date: 2024-05-19T11:46:52.417Z
+updated: 2024-05-20T11:46:52.417Z
 tags: 
   - video editing software
   - video editing
@@ -2072,4 +2072,5 @@ Follow @Liza Brown
 <li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 12 mini</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-s-top-picks-android-video-editor-apps-for-chrome-os/"><u>Updated In 2024, S Top Picks Android Video Editor Apps for Chrome OS</u></a></li>
 </ul></div>
+
 

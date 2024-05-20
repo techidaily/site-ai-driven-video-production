@@ -1,7 +1,7 @@
 ---
 title: Updated How to Create Custom Titles in Final Cut Pro X 2023 Update
-date: 2024-04-29T19:27:22.960Z
-updated: 2024-04-30T19:27:22.960Z
+date: 2024-05-19T11:47:34.121Z
+updated: 2024-05-20T11:47:34.121Z
 tags: 
   - video editing software
   - video editing
@@ -3191,4 +3191,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-15-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone 15 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

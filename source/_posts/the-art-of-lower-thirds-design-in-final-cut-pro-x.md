@@ -1,7 +1,7 @@
 ---
 title: The Art of Lower Thirds Design in Final Cut Pro X
-date: 2024-04-29T19:17:21.988Z
-updated: 2024-04-30T19:17:21.988Z
+date: 2024-05-19T11:46:50.906Z
+updated: 2024-05-20T11:46:50.906Z
 tags: 
   - video editing software
   - video editing
@@ -2518,4 +2518,5 @@ The Filmora also assists you in changing the project aspect ratio after launchin
 <li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Poco C50 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/is-rank-tracker-s-data-accurate-by-link-assistant-rank-tracker-local-rankings-local-rankings/"><u>Is Rank Tracker's data accurate?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New The Art of Time Control FCPX Freeze Frames and Slow Motion
-date: 2024-04-29T19:31:51.426Z
-updated: 2024-04-30T19:31:51.426Z
+date: 2024-05-19T11:47:50.119Z
+updated: 2024-05-20T11:47:50.119Z
 tags: 
   - video editing software
   - video editing
@@ -2005,4 +2005,5 @@ If you are new to the VFX and video editing industry, trying hands with the Phot
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-c53-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme C53 Phone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-v30-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo V30 FRP Bypass</u></a></li>
 </ul></div>
+
 

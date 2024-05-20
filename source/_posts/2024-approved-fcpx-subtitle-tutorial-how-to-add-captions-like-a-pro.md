@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved FCPX Subtitle Tutorial How to Add Captions Like a Pro
-date: 2024-04-29T19:24:53.918Z
-updated: 2024-04-30T19:24:53.918Z
+date: 2024-05-19T11:47:24.350Z
+updated: 2024-05-20T11:47:24.350Z
 tags: 
   - video editing software
   - video editing
@@ -2755,4 +2755,5 @@ Follow @Ollie Mattison
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Poco C50? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor 90 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

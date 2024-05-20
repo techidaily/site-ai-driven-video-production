@@ -1,7 +1,7 @@
 ---
 title: In 2024, Understanding HD Video Resolution A Beginners Handbook
-date: 2024-04-29T19:35:10.880Z
-updated: 2024-04-30T19:35:10.880Z
+date: 2024-05-19T11:48:04.306Z
+updated: 2024-05-20T11:48:04.306Z
 tags: 
   - video editing software
   - video editing
@@ -2464,4 +2464,5 @@ Follow @Liza Brown
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-smart-7-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Smart 7 Quickly | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-combine-several-xvid-files-into-one-windows-macandroid-iphone-and-online/"><u>New How to Combine Several Xvid Files Into One Windows, Mac，Android, iPhone & Online</u></a></li>
 </ul></div>
+
 

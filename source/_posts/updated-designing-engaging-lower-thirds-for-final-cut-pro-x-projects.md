@@ -1,7 +1,7 @@
 ---
 title: Updated Designing Engaging Lower Thirds for Final Cut Pro X Projects
-date: 2024-04-29T19:23:19.102Z
-updated: 2024-04-30T19:23:19.102Z
+date: 2024-05-19T11:47:18.865Z
+updated: 2024-05-20T11:47:18.865Z
 tags: 
   - video editing software
   - video editing
@@ -2054,4 +2054,5 @@ To ensure safety and security, we need some special tools to edit audio or video
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo G2? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-edge-2023-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Edge 2023 without backup.</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock Cinematic Storytelling Using Ken Burns Effect in Final Cut Pro
-date: 2024-04-29T19:18:05.445Z
-updated: 2024-04-30T19:18:05.445Z
+date: 2024-05-19T11:46:53.550Z
+updated: 2024-05-20T11:46:53.550Z
 tags: 
   - video editing software
   - video editing
@@ -2248,4 +2248,5 @@ As said above, trimming the unnecessary parts of the video is the need of the ho
 <li><a href="https://ai-editing-video.techidaily.com/updated-best-way-to-freeze-frame-in-final-cut-pro-for-2024/"><u>Updated Best Way to Freeze-Frame in Final Cut Pro for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-70-lite-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor 70 Lite 5G to Another | Dr.fone</u></a></li>
 </ul></div>
+
 

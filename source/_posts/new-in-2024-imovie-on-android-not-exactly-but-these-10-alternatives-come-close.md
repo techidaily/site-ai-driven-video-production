@@ -2440,3 +2440,4 @@ Follow @Benjamin Arango
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Spark 10 4G? | Dr.fone</u></a></li>
 </ul></div>
 
+

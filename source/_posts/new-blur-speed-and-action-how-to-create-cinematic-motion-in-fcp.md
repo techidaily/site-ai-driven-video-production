@@ -1,7 +1,7 @@
 ---
 title: New Blur, Speed, and Action How to Create Cinematic Motion in FCP
-date: 2024-04-29T19:22:00.083Z
-updated: 2024-04-30T19:22:00.083Z
+date: 2024-05-19T11:47:12.964Z
+updated: 2024-05-20T11:47:12.964Z
 tags: 
   - video editing software
   - video editing
@@ -2524,4 +2524,5 @@ We can't state that VLC is excellent for users and Shotcut and OpenShot are fant
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-13c-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi 13C 5G Location Is Wrong | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-se-2020ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone SE (2020)/iPad Without Computer</u></a></li>
 </ul></div>
+
 

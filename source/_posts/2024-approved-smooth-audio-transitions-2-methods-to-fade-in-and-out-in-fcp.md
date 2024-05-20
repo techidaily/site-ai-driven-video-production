@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Smooth Audio Transitions 2 Methods to Fade In and Out in FCP
-date: 2024-04-29T19:31:08.119Z
-updated: 2024-04-30T19:31:08.119Z
+date: 2024-05-19T11:47:47.420Z
+updated: 2024-05-20T11:47:47.420Z
 tags: 
   - video editing software
   - video editing
@@ -2104,4 +2104,5 @@ One of the main benefits of using a light video editor is its simplicity and eas
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-6s-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 6s</u></a></li>
 </ul></div>
+
 

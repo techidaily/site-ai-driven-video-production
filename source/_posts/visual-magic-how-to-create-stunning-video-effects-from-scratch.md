@@ -1,7 +1,7 @@
 ---
 title: Visual Magic How to Create Stunning Video Effects From Scratch
-date: 2024-04-29T19:18:17.218Z
-updated: 2024-04-30T19:18:17.218Z
+date: 2024-05-19T11:46:53.959Z
+updated: 2024-05-20T11:46:53.959Z
 tags: 
   - video editing software
   - video editing
@@ -1762,4 +1762,5 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nokia-c12-plus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nokia C12 Plus Screen | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-tecno-pop-8-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Tecno Pop 8 to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

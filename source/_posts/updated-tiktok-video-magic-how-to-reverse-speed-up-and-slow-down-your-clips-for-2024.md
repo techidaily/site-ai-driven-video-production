@@ -1715,3 +1715,4 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/learn-simple-blender-rigging-in-only-2-minutes/"><u>Learn Simple Blender Rigging in Only 2 Minutes</u></a></li>
 </ul></div>
 
+

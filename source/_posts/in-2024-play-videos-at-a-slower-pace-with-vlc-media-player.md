@@ -1,7 +1,7 @@
 ---
 title: In 2024, Play Videos at a Slower Pace with VLC Media Player
-date: 2024-04-29T19:20:15.026Z
-updated: 2024-04-30T19:20:15.026Z
+date: 2024-05-19T11:47:04.454Z
+updated: 2024-05-20T11:47:04.454Z
 tags: 
   - video editing software
   - video editing
@@ -1857,4 +1857,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia C02 | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-introduction-wondershare-virbo/"><u>Updated Introduction | Wondershare Virbo</u></a></li>
 </ul></div>
+
 

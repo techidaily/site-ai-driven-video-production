@@ -1,7 +1,7 @@
 ---
 title: Cartoonize Your Photos in Seconds
-date: 2024-04-29T19:15:32.452Z
-updated: 2024-04-30T19:15:32.452Z
+date: 2024-05-19T11:46:44.778Z
+updated: 2024-05-20T11:46:44.778Z
 tags: 
   - video editing software
   - video editing
@@ -2130,4 +2130,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S24</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-nubia-red-magic-9-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Nubia Red Magic 9 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

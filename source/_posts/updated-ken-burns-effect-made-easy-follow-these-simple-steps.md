@@ -1,7 +1,7 @@
 ---
 title: Updated Ken Burns Effect Made Easy Follow These Simple Steps
-date: 2024-04-29T19:20:07.504Z
-updated: 2024-04-30T19:20:07.504Z
+date: 2024-05-19T11:47:03.974Z
+updated: 2024-05-20T11:47:03.974Z
 tags: 
   - video editing software
   - video editing
@@ -2707,4 +2707,5 @@ Follow @Liza Brown
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Lava Blaze 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
 </ul></div>
+
 

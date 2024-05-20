@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Create Custom Titles in Final Cut Pro X 2023 Update
-date: 2024-04-29T19:27:22.746Z
-updated: 2024-04-30T19:27:22.746Z
+date: 2024-05-19T11:47:34.107Z
+updated: 2024-05-20T11:47:34.107Z
 tags: 
   - video editing software
   - video editing
@@ -2472,4 +2472,5 @@ The Filmora also assists you in changing the project aspect ratio after launchin
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-a78-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo A78 5G IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-galaxy-xcover-6-pro-tactical-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
 </ul></div>
+
 

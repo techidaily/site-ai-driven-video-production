@@ -1,7 +1,7 @@
 ---
 title: Updated Picture Perfect A Step-by-Step Guide to Social Media Image Dimensions
-date: 2024-04-29T19:29:42.028Z
-updated: 2024-04-30T19:29:42.028Z
+date: 2024-05-19T11:47:42.086Z
+updated: 2024-05-20T11:47:42.086Z
 tags: 
   - video editing software
   - video editing
@@ -2298,4 +2298,5 @@ If you are new to the VFX and video editing industry, trying hands with the Phot
 <li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on HTC U23 | Dr.fone</u></a></li>
 </ul></div>
+
 

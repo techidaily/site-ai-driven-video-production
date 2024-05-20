@@ -1,7 +1,7 @@
 ---
 title: Sony Camcorder Video Post-Production Made Easy A Beginners Guide
-date: 2024-04-29T19:15:02.913Z
-updated: 2024-04-30T19:15:02.913Z
+date: 2024-05-19T11:46:43.314Z
+updated: 2024-05-20T11:46:43.314Z
 tags: 
   - video editing software
   - video editing
@@ -2008,4 +2008,5 @@ Follow @Shanoon Cox
 <li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 15 Pro Max</u></a></li>
 <li><a href="https://techidaily.com/will-xiaomi-redmi-note-12-proplus-5g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xiaomi Redmi Note 12 Pro+ 5G play AVCHD mts files?</u></a></li>
 </ul></div>
+
 

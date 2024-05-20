@@ -1,7 +1,7 @@
 ---
 title: In 2024, Optimal Video Size for Instagram A Guide to Aspect Ratios
-date: 2024-04-29T19:19:27.410Z
-updated: 2024-04-30T19:19:27.410Z
+date: 2024-05-19T11:46:59.787Z
+updated: 2024-05-20T11:46:59.787Z
 tags: 
   - video editing software
   - video editing
@@ -1750,4 +1750,5 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v30-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo V30 to New Android? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-honor-x50i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor X50i Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Simplify Your Edit The Top Video Editing Apps for 4K Proxy Videos This Year
-date: 2024-04-29T19:31:02.441Z
-updated: 2024-04-30T19:31:02.441Z
+date: 2024-05-19T11:47:47.044Z
+updated: 2024-05-20T11:47:47.044Z
 tags: 
   - video editing software
   - video editing
@@ -1687,4 +1687,5 @@ If you are new to the VFX and video editing industry, trying hands with the Phot
 <li><a href="https://screen-mirror.techidaily.com/a-guide-honor-90-lite-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor 90 Lite Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone XS | Dr.fone</u></a></li>
 </ul></div>
+
 

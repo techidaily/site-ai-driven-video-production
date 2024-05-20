@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Editing How to Create Professional Jump Cuts in Final Cut Pro X for 2024
-date: 2024-04-29T19:24:17.751Z
-updated: 2024-04-30T19:24:17.751Z
+date: 2024-05-19T11:47:22.177Z
+updated: 2024-05-20T11:47:22.177Z
 tags: 
   - video editing software
   - video editing
@@ -2082,4 +2082,5 @@ Follow @Ollie Mattison
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Lava Yuva 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-realme-c33-2023-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Realme C33 2023</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New HD Video Essentials A Beginners Guide to Pixel Size and Resolution
-date: 2024-04-29T19:27:13.229Z
-updated: 2024-04-30T19:27:13.229Z
+date: 2024-05-19T11:47:33.333Z
+updated: 2024-05-20T11:47:33.333Z
 tags: 
   - video editing software
   - video editing
@@ -2107,4 +2107,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/free-avi-video-rotator-reviews-top-choices/"><u>Free AVI Video Rotator Reviews Top Choices</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-xr-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone XR Stuck On Activation Lock?</u></a></li>
 </ul></div>
+
 

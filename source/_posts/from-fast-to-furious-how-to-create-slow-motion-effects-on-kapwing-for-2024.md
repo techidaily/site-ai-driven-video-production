@@ -1,7 +1,7 @@
 ---
 title: From Fast to Furious How to Create Slow-Motion Effects on Kapwing for 2024
-date: 2024-04-29T19:26:09.888Z
-updated: 2024-04-30T19:26:09.888Z
+date: 2024-05-19T11:47:29.356Z
+updated: 2024-05-20T11:47:29.356Z
 tags: 
   - video editing software
   - video editing
@@ -2595,4 +2595,5 @@ As said above, trimming the unnecessary parts of the video is the need of the ho
 <li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-zero-5g-2023-turbo-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Zero 5G 2023 Turbo Phone FRP Lock</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-poco-m6-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Poco M6 5G</u></a></li>
 </ul></div>
+
 

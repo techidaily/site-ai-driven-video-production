@@ -3999,3 +3999,4 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-infinix-hot-40-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Infinix Hot 40 Pro Phone When You Forget the Password</u></a></li>
 </ul></div>
 
+

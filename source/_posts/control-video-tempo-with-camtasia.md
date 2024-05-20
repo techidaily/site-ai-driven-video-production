@@ -1,7 +1,7 @@
 ---
 title: Control Video Tempo with Camtasia
-date: 2024-04-29T19:15:34.991Z
-updated: 2024-04-30T19:15:34.991Z
+date: 2024-05-19T11:46:44.920Z
+updated: 2024-05-20T11:46:44.920Z
 tags: 
   - video editing software
   - video editing
@@ -2867,4 +2867,5 @@ Windows Movie Maker is an excellent Windows video editor application for Windows
 <li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-14-pro-max-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 14 Pro Max</u></a></li>
 <li><a href="https://techidaily.com/sign-word-2016-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2016 Online for Free</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Unleash Cinematic Motion Blur Effects in Final Cut Pro
-date: 2024-04-29T19:35:12.805Z
-updated: 2024-04-30T19:35:12.805Z
+date: 2024-05-19T11:48:04.381Z
+updated: 2024-05-20T11:48:04.381Z
 tags: 
   - video editing software
   - video editing
@@ -3068,4 +3068,5 @@ Follow @Benjamin Arango
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-motorola-moto-g73-5g-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Motorola Moto G73 5G.</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 15 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

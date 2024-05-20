@@ -1,7 +1,7 @@
 ---
 title: New The Perfect Fit Instagram Video Aspect Ratio and Dimensions
-date: 2024-04-29T19:32:34.685Z
-updated: 2024-04-30T19:32:34.685Z
+date: 2024-05-19T11:47:53.978Z
+updated: 2024-05-20T11:47:53.978Z
 tags: 
   - video editing software
   - video editing
@@ -2249,4 +2249,5 @@ Follow @Liza Brown
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-12r-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your OnePlus 12R | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-11-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme 11 5G Users</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: The Best Split Screen Video Recording Apps for iOS and Android
-date: 2024-04-29T19:17:27.107Z
-updated: 2024-04-30T19:17:27.107Z
+date: 2024-05-19T11:46:51.299Z
+updated: 2024-05-20T11:46:51.299Z
 tags: 
   - video editing software
   - video editing
@@ -3525,4 +3525,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-ai-voice-over-wondershare-virbo-glossary/"><u>In 2024, What Is AI Voice Over? | Wondershare Virbo Glossary</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo Y55s 5G (2023)</u></a></li>
 </ul></div>
+
 

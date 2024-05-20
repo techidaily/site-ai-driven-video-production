@@ -1,7 +1,7 @@
 ---
 title: Determining Image Proportions A Step-by-Step Guide for 2024
-date: 2024-04-29T19:23:19.949Z
-updated: 2024-04-30T19:23:19.949Z
+date: 2024-05-19T11:47:18.885Z
+updated: 2024-05-20T11:47:18.885Z
 tags: 
   - video editing software
   - video editing
@@ -2935,4 +2935,5 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/how-to-fix-it-oneplus-12r-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It OnePlus 12R Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy M34 | Dr.fone</u></a></li>
 </ul></div>
+
 

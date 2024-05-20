@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Art of Cinematic Color Grading in Final Cut Pro X
-date: 2024-04-29T19:31:45.929Z
-updated: 2024-04-30T19:31:45.929Z
+date: 2024-05-19T11:47:49.744Z
+updated: 2024-05-20T11:47:49.744Z
 tags: 
   - video editing software
   - video editing
@@ -2055,4 +2055,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-factory-reset-vivo-v30-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V30 in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

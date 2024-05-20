@@ -3198,3 +3198,4 @@ These are the hand-picked **blur photo background online** tools that one can go
 <li><a href="https://ai-vdieo-software.techidaily.com/whats-my-aspect-ratio-calculator-and-tutorial/"><u>Whats My Aspect Ratio? Calculator and Tutorial</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Mastering FCP Transitions 3 Pro Tips and Tricks for 2024
-date: 2024-04-29T19:28:38.253Z
-updated: 2024-04-30T19:28:38.253Z
+date: 2024-05-19T11:47:38.670Z
+updated: 2024-05-20T11:47:38.671Z
 tags: 
   - video editing software
   - video editing
@@ -2025,4 +2025,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-translation.techidaily.com/2024-approved-a-comprehensive-guide-for-free-video-translator-downloading/"><u>2024 Approved A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/home-movie-magic-pro-tips-for-editing-like-a-pro/"><u>Home Movie Magic Pro Tips for Editing Like a Pro</u></a></li>
 </ul></div>
+
 

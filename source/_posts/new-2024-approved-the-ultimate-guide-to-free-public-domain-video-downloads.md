@@ -2438,3 +2438,4 @@ There are different extra options in settings, namely the email notifications fo
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-smart-8-plus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Smart 8 Plus</u></a></li>
 </ul></div>
 
+

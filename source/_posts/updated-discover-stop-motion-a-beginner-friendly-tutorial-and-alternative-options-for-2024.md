@@ -3148,3 +3148,4 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://ai-editing-video.techidaily.com/new-dollar-store-diy-hacks-to-use-for-filmmaking-on-a-budget/"><u>New Dollar-Store DIY Hacks to Use for Filmmaking on a Budget</u></a></li>
 </ul></div>
 
+

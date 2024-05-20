@@ -1,7 +1,7 @@
 ---
 title: From Script to Screen A Kids Guide to Movie Making
-date: 2024-04-29T19:16:20.824Z
-updated: 2024-04-30T19:16:20.824Z
+date: 2024-05-19T11:46:47.601Z
+updated: 2024-05-20T11:46:47.601Z
 tags: 
   - video editing software
   - video editing
@@ -2507,4 +2507,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-creativity-best-professional-animation-software-for-macwindows/"><u>In 2024, Unleash Your Creativity Best Professional Animation Software for Mac/Windows</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
+
 

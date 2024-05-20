@@ -1,7 +1,7 @@
 ---
 title: Shape Up Your Videos Easy Resizing and Cropping Techniques for 2024
-date: 2024-04-29T19:30:58.505Z
-updated: 2024-04-30T19:30:58.505Z
+date: 2024-05-19T11:47:46.727Z
+updated: 2024-05-20T11:47:46.727Z
 tags: 
   - video editing software
   - video editing
@@ -2064,4 +2064,5 @@ Follow @Ollie Mattison
 <li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-find-x6-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo Find X6 Pro</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-htc-u23-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from HTC U23 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New FCPX Jump Cuts Tutorial From Beginner to Expert
-date: 2024-04-29T19:24:50.297Z
-updated: 2024-04-30T19:24:50.297Z
+date: 2024-05-19T11:47:24.271Z
+updated: 2024-05-20T11:47:24.271Z
 tags: 
   - video editing software
   - video editing
@@ -1663,4 +1663,5 @@ Follow @Liza Brown
 <li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 11 Pro Max</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-gt-3-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme GT 3</u></a></li>
 </ul></div>
+
 

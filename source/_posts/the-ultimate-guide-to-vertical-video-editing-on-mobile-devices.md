@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Vertical Video Editing on Mobile Devices
-date: 2024-04-29T19:17:37.877Z
-updated: 2024-04-30T19:17:37.877Z
+date: 2024-05-19T11:46:51.912Z
+updated: 2024-05-20T11:46:51.912Z
 tags: 
   - video editing software
   - video editing
@@ -2238,4 +2238,5 @@ Create a thumbnail that speaks about the content of your video. If the thumbnail
 <li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-reducers-for-iphone-and-ipad-top-5-picks/"><u>New Best Free Video Reducers for iPhone and iPad Top 5 Picks</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-this-post-will-make-you-learn-anything-and-everything-about-animated-gifs-the-ways-to-use-cool-gifs-in-my-marketing-and-how-to-create-unique-custom-/"><u>Updated This Post Will Make You Learn Anything and Everything About Animated GIFs, the Ways to Use Cool Gifs in My Marketing, and How to Create Unique Custom Animated Gifs</u></a></li>
 </ul></div>
+
 

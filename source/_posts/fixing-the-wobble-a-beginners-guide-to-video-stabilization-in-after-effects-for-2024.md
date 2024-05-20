@@ -1,7 +1,7 @@
 ---
 title: Fixing the Wobble A Beginners Guide to Video Stabilization in After Effects for 2024
-date: 2024-04-29T19:25:11.631Z
-updated: 2024-04-30T19:25:11.631Z
+date: 2024-05-19T11:47:25.105Z
+updated: 2024-05-20T11:47:25.105Z
 tags: 
   - video editing software
   - video editing
@@ -2435,4 +2435,5 @@ Follow @Shanoon Cox
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-tecno-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Tecno .</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-11-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 11?</u></a></li>
 </ul></div>
+
 

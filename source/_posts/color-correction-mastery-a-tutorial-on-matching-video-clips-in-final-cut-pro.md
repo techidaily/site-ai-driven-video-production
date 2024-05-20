@@ -1,7 +1,7 @@
 ---
 title: Color Correction Mastery A Tutorial on Matching Video Clips in Final Cut Pro
-date: 2024-04-29T19:15:34.148Z
-updated: 2024-04-30T19:15:34.148Z
+date: 2024-05-19T11:46:44.864Z
+updated: 2024-05-20T11:46:44.864Z
 tags: 
   - video editing software
   - video editing
@@ -1857,4 +1857,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-nubia-z50-ultra-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Nubia Z50 Ultra | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-poco-f5-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Poco F5 5G Phone Forgot Password</u></a></li>
 </ul></div>
+
 

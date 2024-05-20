@@ -1,7 +1,7 @@
 ---
 title: New Maximize Storage A Step-by-Step Guide to Clearing Space for FCPX
-date: 2024-04-29T19:28:47.532Z
-updated: 2024-04-30T19:28:47.532Z
+date: 2024-05-19T11:47:39.026Z
+updated: 2024-05-20T11:47:39.026Z
 tags: 
   - video editing software
   - video editing
@@ -2159,4 +2159,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-top-40-keyboard-shortcuts-for-final-cut-pro-x/"><u>Updated Top 40 Keyboard Shortcuts for Final Cut Pro X</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-do-perfect-match-paint-100-the-easy-way-for-2024/"><u>New How to Do Perfect Match Paint 100 the Easy Way for 2024</u></a></li>
 </ul></div>
+
 

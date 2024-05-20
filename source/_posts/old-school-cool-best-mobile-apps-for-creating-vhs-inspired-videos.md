@@ -1,7 +1,7 @@
 ---
 title: Old School Cool Best Mobile Apps for Creating VHS-Inspired Videos
-date: 2024-04-29T19:16:55.874Z
-updated: 2024-04-30T19:16:55.874Z
+date: 2024-05-19T11:46:49.426Z
+updated: 2024-05-20T11:46:49.426Z
 tags: 
   - video editing software
   - video editing
@@ -2156,4 +2156,5 @@ VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won'
 <li><a href="https://ai-video-apps.techidaily.com/unbeatable-free-4k-video-editing-options-for-youtubers-for-2024/"><u>Unbeatable Free 4K Video Editing Options for YouTubers for 2024</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>New Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
 </ul></div>
+
 

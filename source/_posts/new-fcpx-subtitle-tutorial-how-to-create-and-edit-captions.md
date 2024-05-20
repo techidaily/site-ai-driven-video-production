@@ -1,7 +1,7 @@
 ---
 title: New FCPX Subtitle Tutorial How to Create and Edit Captions
-date: 2024-04-29T19:24:54.345Z
-updated: 2024-04-30T19:24:54.345Z
+date: 2024-05-19T11:47:24.356Z
+updated: 2024-05-20T11:47:24.356Z
 tags: 
   - video editing software
   - video editing
@@ -2323,4 +2323,5 @@ However, if you're searching for a less expensive solution but still concerned a
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-nubia-z50s-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Nubia Z50S Pro?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-nokia-c12-pro-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Nokia C12 Pro.</u></a></li>
 </ul></div>
+
 

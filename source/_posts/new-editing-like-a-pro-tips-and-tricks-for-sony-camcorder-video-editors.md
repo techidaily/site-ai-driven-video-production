@@ -1,7 +1,7 @@
 ---
 title: New Editing Like a Pro Tips and Tricks for Sony Camcorder Video Editors
-date: 2024-04-29T19:24:10.619Z
-updated: 2024-04-30T19:24:10.619Z
+date: 2024-05-19T11:47:21.649Z
+updated: 2024-05-20T11:47:21.649Z
 tags: 
   - video editing software
   - video editing
@@ -3641,4 +3641,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-x100-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo X100 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-x9b-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor X9b for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

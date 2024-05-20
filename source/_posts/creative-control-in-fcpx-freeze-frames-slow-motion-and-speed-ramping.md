@@ -1,7 +1,7 @@
 ---
 title: Creative Control in FCPX Freeze Frames, Slow Motion, and Speed Ramping
-date: 2024-04-29T19:15:41.142Z
-updated: 2024-04-30T19:15:41.142Z
+date: 2024-05-19T11:46:45.281Z
+updated: 2024-05-20T11:46:45.281Z
 tags: 
   - video editing software
   - video editing
@@ -2750,4 +2750,5 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo X Flip | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy S23+</u></a></li>
 </ul></div>
+
 

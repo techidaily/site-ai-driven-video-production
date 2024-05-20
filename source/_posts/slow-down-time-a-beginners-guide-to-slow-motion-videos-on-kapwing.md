@@ -1,7 +1,7 @@
 ---
 title: Slow Down Time A Beginners Guide to Slow Motion Videos on Kapwing
-date: 2024-04-29T19:17:13.782Z
-updated: 2024-04-30T19:17:13.782Z
+date: 2024-05-19T11:46:50.401Z
+updated: 2024-05-20T11:46:50.401Z
 tags: 
   - video editing software
   - video editing
@@ -2689,4 +2689,5 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-13-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 13 or iPad?</u></a></li>
 </ul></div>
+
 

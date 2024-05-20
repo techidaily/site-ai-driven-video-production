@@ -1,7 +1,7 @@
 ---
 title: In 2024, Pro Editing Techniques L-Cuts and J-Cuts in FCPX Made Easy
-date: 2024-04-29T19:29:50.518Z
-updated: 2024-04-30T19:29:50.518Z
+date: 2024-05-19T11:47:42.743Z
+updated: 2024-05-20T11:47:42.743Z
 tags: 
   - video editing software
   - video editing
@@ -2865,4 +2865,5 @@ This tool allows downloading and converting videos, channels, sub-titles, playli
 <li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-defy-2-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Defy 2</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-70-lite-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 70 Lite 5G to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

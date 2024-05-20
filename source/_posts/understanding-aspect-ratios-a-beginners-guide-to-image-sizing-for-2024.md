@@ -1,7 +1,7 @@
 ---
 title: Understanding Aspect Ratios A Beginners Guide to Image Sizing for 2024
-date: 2024-04-29T19:35:10.019Z
-updated: 2024-04-30T19:35:10.019Z
+date: 2024-05-19T11:48:04.288Z
+updated: 2024-05-20T11:48:04.288Z
 tags: 
   - video editing software
   - video editing
@@ -2441,4 +2441,5 @@ Follow @Benjamin Arango
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-se-2020-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone SE (2020)? Find the Best Solution Here</u></a></li>
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Tecno Spark 10 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

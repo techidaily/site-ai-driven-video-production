@@ -1,7 +1,7 @@
 ---
 title: Jump Cut Like a Pro Expert Techniques for Final Cut Pro X Editors
-date: 2024-04-29T19:16:36.898Z
-updated: 2024-04-30T19:16:36.898Z
+date: 2024-05-19T11:46:48.565Z
+updated: 2024-05-20T11:46:48.565Z
 tags: 
   - video editing software
   - video editing
@@ -3133,4 +3133,5 @@ Follow @Ollie Mattison
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-xcover-7-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy XCover 7</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
+
 

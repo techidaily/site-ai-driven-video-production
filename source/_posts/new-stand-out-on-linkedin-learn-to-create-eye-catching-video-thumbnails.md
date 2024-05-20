@@ -1,7 +1,7 @@
 ---
 title: New Stand Out on LinkedIn Learn to Create Eye-Catching Video Thumbnails
-date: 2024-04-29T19:31:20.823Z
-updated: 2024-04-30T19:31:20.823Z
+date: 2024-05-19T11:47:48.320Z
+updated: 2024-05-20T11:47:48.320Z
 tags: 
   - video editing software
   - video editing
@@ -1691,4 +1691,5 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/complete-tutorial-for-oneplus-nord-3-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Nord 3 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Without iTunes</u></a></li>
 </ul></div>
+
 

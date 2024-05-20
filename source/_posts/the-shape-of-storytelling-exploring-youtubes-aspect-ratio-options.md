@@ -1,7 +1,7 @@
 ---
 title: The Shape of Storytelling Exploring YouTubes Aspect Ratio Options
-date: 2024-04-29T19:15:04.840Z
-updated: 2024-04-30T19:15:04.840Z
+date: 2024-05-19T11:46:43.399Z
+updated: 2024-05-20T11:46:43.399Z
 tags: 
   - video editing software
   - video editing
@@ -1373,4 +1373,5 @@ For macOS 10.12 or later
 <li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-6s-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 6s | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

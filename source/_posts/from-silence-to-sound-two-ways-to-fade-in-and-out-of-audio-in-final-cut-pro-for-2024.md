@@ -1,7 +1,7 @@
 ---
 title: From Silence to Sound Two Ways to Fade In and Out of Audio in Final Cut Pro for 2024
-date: 2024-04-29T19:26:22.140Z
-updated: 2024-04-30T19:26:22.140Z
+date: 2024-05-19T11:47:29.833Z
+updated: 2024-05-20T11:47:29.833Z
 tags: 
   - video editing software
   - video editing
@@ -1566,4 +1566,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-tutorial-rotate-a-video-clip-in-4-easy-steps/"><u>Updated Final Cut Pro Tutorial Rotate a Video Clip in 4 Easy Steps</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
+
 

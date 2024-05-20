@@ -1,7 +1,7 @@
 ---
 title: Updated How Do You Get the Bokeh Effect App? Here Are some of the Best Bokeh Apps for the iPhone and Android
-date: 2024-04-29T19:27:18.645Z
-updated: 2024-04-30T19:27:18.645Z
+date: 2024-05-19T11:47:33.978Z
+updated: 2024-05-20T11:47:33.978Z
 tags: 
   - video editing software
   - video editing
@@ -2439,4 +2439,5 @@ Shaky footage is almost inescapable once you go handheld. If you don't have a ma
 <li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Lava Yuva 3 Pro | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-xs-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone XS Max without Security Questions?</u></a></li>
 </ul></div>
+
 

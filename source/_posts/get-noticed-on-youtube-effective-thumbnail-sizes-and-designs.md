@@ -1,7 +1,7 @@
 ---
 title: Get Noticed on YouTube Effective Thumbnail Sizes and Designs
-date: 2024-04-29T19:16:26.126Z
-updated: 2024-04-30T19:16:26.126Z
+date: 2024-05-19T11:46:48.272Z
+updated: 2024-05-20T11:46:48.272Z
 tags: 
   - video editing software
   - video editing
@@ -1660,4 +1660,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>Updated In 2024, Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-12-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 12 Pro Max How to Bypass?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Compress MPEG2 Files with VirtualDub A Step-by-Step Guide
-date: 2024-04-29T19:22:34.431Z
-updated: 2024-04-30T19:22:34.431Z
+date: 2024-05-19T11:47:16.347Z
+updated: 2024-05-20T11:47:16.347Z
 tags: 
   - video editing software
   - video editing
@@ -1478,4 +1478,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-htc-u23-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On HTC U23 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
+
 

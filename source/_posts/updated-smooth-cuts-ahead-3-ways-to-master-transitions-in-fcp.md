@@ -1,7 +1,7 @@
 ---
 title: Updated Smooth Cuts Ahead 3 Ways to Master Transitions in FCP
-date: 2024-04-29T19:31:08.336Z
-updated: 2024-04-30T19:31:08.336Z
+date: 2024-05-19T11:47:47.448Z
+updated: 2024-05-20T11:47:47.448Z
 tags: 
   - video editing software
   - video editing
@@ -2856,4 +2856,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-motorola-moto-g04-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Motorola Moto G04 Phones? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-xiaomi-redmi-k70-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Xiaomi Redmi K70 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Unlocking Greatness How to Edit Videos From Your Sony Digital Camcorder
-date: 2024-04-29T19:35:59.045Z
-updated: 2024-04-30T19:35:59.045Z
+date: 2024-05-19T11:48:07.252Z
+updated: 2024-05-20T11:48:07.252Z
 tags: 
   - video editing software
   - video editing
@@ -3131,4 +3131,5 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-itel-a60s-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Itel A60s</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/whats-hot-on-the-app-store-top-iphone-apps-and-trends/"><u>Whats Hot on the App Store Top iPhone Apps and Trends</u></a></li>
 </ul></div>
+
 

@@ -2968,3 +2968,4 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-f04-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy F04 Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
 
+

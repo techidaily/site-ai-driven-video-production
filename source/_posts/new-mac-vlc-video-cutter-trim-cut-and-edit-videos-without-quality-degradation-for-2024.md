@@ -2613,3 +2613,4 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/galaxy-xcover-6-pro-tactical-edition-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Galaxy XCover 6 Pro Tactical Edition support - Turn Off Screen Lock.</u></a></li>
 </ul></div>
 
+

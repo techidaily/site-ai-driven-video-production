@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate FCP X Shortcut Adding Effects in 3 Simple Steps
-date: 2024-04-29T19:32:52.024Z
-updated: 2024-04-30T19:32:52.024Z
+date: 2024-05-19T11:47:54.594Z
+updated: 2024-05-20T11:47:54.594Z
 tags: 
   - video editing software
   - video editing
@@ -1783,4 +1783,5 @@ The selected image will not be used as the thumbnail for the video.
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-get-animated-best-mobile-apps-for-creating-cartoon-like-images/"><u>Updated Get Animated Best Mobile Apps for Creating Cartoon-Like Images</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
+
 

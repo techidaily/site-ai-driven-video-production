@@ -1,7 +1,7 @@
 ---
 title: In 2024, FCP X Effects Made Simple A Quick 3-Step Tutorial
-date: 2024-04-29T19:24:46.449Z
-updated: 2024-04-30T19:24:46.449Z
+date: 2024-05-19T11:47:24.086Z
+updated: 2024-05-20T11:47:24.086Z
 tags: 
   - video editing software
   - video editing
@@ -2420,4 +2420,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-voice-clone.techidaily.com/easy-guide-how-to-make-talking-head-videos-for-2024/"><u>Easy Guide How To Make Talking Head Videos for 2024</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme GT 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

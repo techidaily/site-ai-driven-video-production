@@ -1,7 +1,7 @@
 ---
 title: Updated Get Sound Back in Avidemux Easy Fixes
-date: 2024-04-29T19:26:54.270Z
-updated: 2024-04-30T19:26:54.270Z
+date: 2024-05-19T11:47:32.008Z
+updated: 2024-05-20T11:47:32.008Z
 tags: 
   - video editing software
   - video editing
@@ -1849,4 +1849,5 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-13-mini-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 13 mini? Heres the Best Fixes</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-obs-slideshow-for-2024/"><u>New How to Make OBS Slideshow for 2024</u></a></li>
 </ul></div>
+
 

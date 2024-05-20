@@ -1340,3 +1340,4 @@ Follow @Liza Brown
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-hot-40i-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Infinix Hot 40i Isnt Compatible | Dr.fone</u></a></li>
 </ul></div>
 
+

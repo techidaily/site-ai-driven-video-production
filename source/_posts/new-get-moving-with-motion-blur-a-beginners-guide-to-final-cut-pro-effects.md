@@ -1,7 +1,7 @@
 ---
 title: New Get Moving with Motion Blur A Beginners Guide to Final Cut Pro Effects
-date: 2024-04-29T19:26:43.942Z
-updated: 2024-04-30T19:26:43.942Z
+date: 2024-05-19T11:47:31.331Z
+updated: 2024-05-20T11:47:31.331Z
 tags: 
   - video editing software
   - video editing
@@ -2144,4 +2144,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-a-guide-on-starting-private-live-streams-on-youtube/"><u>Updated 2024 Approved A Guide on Starting Private Live Streams on YouTube</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-note-30-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Note 30 Pro Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

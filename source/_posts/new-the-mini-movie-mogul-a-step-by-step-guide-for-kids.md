@@ -1,7 +1,7 @@
 ---
 title: New The Mini Movie Mogul A Step-by-Step Guide for Kids
-date: 2024-04-29T19:32:31.305Z
-updated: 2024-04-30T19:32:31.305Z
+date: 2024-05-19T11:47:53.868Z
+updated: 2024-05-20T11:47:53.868Z
 tags: 
   - video editing software
   - video editing
@@ -1202,4 +1202,5 @@ Follow @Liza Brown
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-vivo-y100t-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y100t Devices</u></a></li>
 </ul></div>
+
 

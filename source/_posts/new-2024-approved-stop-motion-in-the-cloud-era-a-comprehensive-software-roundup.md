@@ -1739,3 +1739,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-want-to-add-a-motion-blur-effect-to-your-photos-this-step-by-step-tutorial-will-show-you-how-to-use-gimp-software-to-get-the-effect-you-want/"><u>In 2024, Want to Add a Motion Blur Effect to Your Photos? This Step-by-Step Tutorial Will Show You How to Use GIMP Software to Get the Effect You Want</u></a></li>
 </ul></div>
 
+

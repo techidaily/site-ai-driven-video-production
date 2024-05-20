@@ -1,7 +1,7 @@
 ---
 title: Quick and Easy Video Edits A GoPro Quik Tutorial for MacBook Users
-date: 2024-04-29T19:17:01.760Z
-updated: 2024-04-30T19:17:01.760Z
+date: 2024-05-19T11:46:49.743Z
+updated: 2024-05-20T11:46:49.743Z
 tags: 
   - video editing software
   - video editing
@@ -2419,4 +2419,5 @@ Although Windows 11 is new and offers several advanced features, at the time of 
 <li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-15-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 15 Prevention & Solution | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-8t-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 8T 5G Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

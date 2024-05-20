@@ -1,7 +1,7 @@
 ---
 title: New Online Image Resizer 7 Top Picks for Perfect Proportions
-date: 2024-04-29T19:29:30.670Z
-updated: 2024-04-30T19:29:30.670Z
+date: 2024-05-19T11:47:41.289Z
+updated: 2024-05-20T11:47:41.289Z
 tags: 
   - video editing software
   - video editing
@@ -3428,4 +3428,5 @@ Video Stabilization is the need of the hour as you cannot always capture a stabi
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Smart 7 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Google Pixel 7a | Dr.fone</u></a></li>
 </ul></div>
+
 

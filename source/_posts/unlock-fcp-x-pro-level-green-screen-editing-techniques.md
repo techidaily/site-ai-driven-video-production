@@ -1,7 +1,7 @@
 ---
 title: Unlock FCP X Pro-Level Green Screen Editing Techniques
-date: 2024-04-29T19:18:05.885Z
-updated: 2024-04-30T19:18:05.885Z
+date: 2024-05-19T11:46:53.558Z
+updated: 2024-05-20T11:46:53.558Z
 tags: 
   - video editing software
   - video editing
@@ -1974,4 +1974,5 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-honor-90-gt-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Honor 90 GT PC | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-razr-40-ultra-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola Razr 40 Ultra to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

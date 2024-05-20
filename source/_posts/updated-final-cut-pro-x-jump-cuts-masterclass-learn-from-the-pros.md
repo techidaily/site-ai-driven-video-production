@@ -1,7 +1,7 @@
 ---
 title: Updated Final Cut Pro X Jump Cuts Masterclass Learn From the Pros
-date: 2024-04-29T19:25:07.303Z
-updated: 2024-04-30T19:25:07.303Z
+date: 2024-05-19T11:47:24.821Z
+updated: 2024-05-20T11:47:24.821Z
 tags: 
   - video editing software
   - video editing
@@ -1771,4 +1771,5 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Spark Go (2023) | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-14-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 14 Lock Screen</u></a></li>
 </ul></div>
+
 

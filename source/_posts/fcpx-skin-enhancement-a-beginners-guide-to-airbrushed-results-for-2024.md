@@ -1,7 +1,7 @@
 ---
 title: FCPX Skin Enhancement A Beginners Guide to Airbrushed Results for 2024
-date: 2024-04-29T19:24:53.489Z
-updated: 2024-04-30T19:24:53.489Z
+date: 2024-05-19T11:47:24.344Z
+updated: 2024-05-20T11:47:24.344Z
 tags: 
   - video editing software
   - video editing
@@ -2776,4 +2776,5 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-honor-x7b-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Honor X7b to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-make-transparent-background-video-today/"><u>2024 Approved Make Transparent Background Video Today</u></a></li>
 </ul></div>
+
 

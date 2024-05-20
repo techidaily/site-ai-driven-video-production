@@ -1,7 +1,7 @@
 ---
 title: Stop Motion Basics A Friendly Guide for First-Timers
-date: 2024-04-29T19:17:16.104Z
-updated: 2024-04-30T19:17:16.104Z
+date: 2024-05-19T11:46:50.583Z
+updated: 2024-05-20T11:46:50.583Z
 tags: 
   - video editing software
   - video editing
@@ -2738,4 +2738,5 @@ We can't state that VLC is excellent for users and Shotcut and OpenShot are fant
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-12-mini-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 12 mini? 7 Mehtods You Cant-Miss</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-15-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 15 Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

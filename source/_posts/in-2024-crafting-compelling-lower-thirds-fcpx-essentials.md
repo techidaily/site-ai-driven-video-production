@@ -1,7 +1,7 @@
 ---
 title: In 2024, Crafting Compelling Lower Thirds FCPX Essentials
-date: 2024-04-29T19:19:48.136Z
-updated: 2024-04-30T19:19:48.136Z
+date: 2024-05-19T11:47:02.172Z
+updated: 2024-05-20T11:47:02.172Z
 tags: 
   - video editing software
   - video editing
@@ -2234,4 +2234,5 @@ Using Wondershare Filmora will provide you with the option to adjust the video r
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Hot 40i | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-xr-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone XR Passcode Easily Video Inside</u></a></li>
 </ul></div>
+
 

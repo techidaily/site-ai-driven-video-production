@@ -1,7 +1,7 @@
 ---
 title: In 2024, Kapwing Slow Motion Tutorial A Beginners Guide to Slowing Down Your Videos
-date: 2024-04-29T19:27:47.609Z
-updated: 2024-04-30T19:27:47.609Z
+date: 2024-05-19T11:47:35.223Z
+updated: 2024-05-20T11:47:35.223Z
 tags: 
   - video editing software
   - video editing
@@ -2052,4 +2052,5 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y200e-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y200e 5G is off? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy M14 4G?</u></a></li>
 </ul></div>
+
 

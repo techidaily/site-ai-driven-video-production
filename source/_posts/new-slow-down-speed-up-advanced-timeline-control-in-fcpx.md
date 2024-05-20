@@ -1,7 +1,7 @@
 ---
 title: New Slow Down, Speed Up Advanced Timeline Control in FCPX
-date: 2024-04-29T19:31:05.278Z
-updated: 2024-04-30T19:31:05.278Z
+date: 2024-05-19T11:47:47.182Z
+updated: 2024-05-20T11:47:47.182Z
 tags: 
   - video editing software
   - video editing
@@ -2297,4 +2297,5 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-itel-a70-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Itel A70?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-5-free-online-video-filter-editors/"><u>Updated In 2024, Top 5 Free Online Video Filter Editors</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Shake, Rattle, and Roll No More Video Stabilization in After Effects
-date: 2024-04-29T19:30:56.536Z
-updated: 2024-04-30T19:30:56.536Z
+date: 2024-05-19T11:47:46.622Z
+updated: 2024-05-20T11:47:46.622Z
 tags: 
   - video editing software
   - video editing
@@ -1869,4 +1869,5 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/how-to-factory-reset-zte-nubia-z60-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset ZTE Nubia Z60 Ultra without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro To Other iPhone 12 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

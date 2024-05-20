@@ -1,7 +1,7 @@
 ---
 title: New Speed Up or Slow Down Videos in QuickTime Player The Easy Way
-date: 2024-04-29T19:31:14.781Z
-updated: 2024-04-30T19:31:14.781Z
+date: 2024-05-19T11:47:47.894Z
+updated: 2024-05-20T11:47:47.894Z
 tags: 
   - video editing software
   - video editing
@@ -2529,4 +2529,5 @@ Follow @Shanoon Cox
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-x-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone X Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xr-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XR to Roku? | Dr.fone</u></a></li>
 </ul></div>
+
 

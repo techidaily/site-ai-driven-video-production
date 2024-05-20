@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro X Freeze-Frames and Slow Motion
-date: 2024-04-29T19:19:55.624Z
-updated: 2024-04-30T19:19:55.624Z
+date: 2024-05-19T11:47:03.408Z
+updated: 2024-05-20T11:47:03.408Z
 tags: 
   - video editing software
   - video editing
@@ -2931,4 +2931,5 @@ Follow @Benjamin Arango
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Realme 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-motorola-g54-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Motorola G54 5G Isnt Compatible | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Sony Camcorder Video Editing Tutorial From Capture to Masterpiece
-date: 2024-04-29T19:31:12.417Z
-updated: 2024-04-30T19:31:12.417Z
+date: 2024-05-19T11:47:47.732Z
+updated: 2024-05-20T11:47:47.732Z
 tags: 
   - video editing software
   - video editing
@@ -2021,4 +2021,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-the-ultimate-steal-final-cut-pro-education-bundle-at-a-fraction-of-the-cost/"><u>In 2024, The Ultimate Steal Final Cut Pro Education Bundle at a Fraction of the Cost</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-lava-blaze-2-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Lava Blaze 2 Pro Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+
 

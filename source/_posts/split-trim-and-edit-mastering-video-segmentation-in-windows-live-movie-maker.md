@@ -1,7 +1,7 @@
 ---
 title: Split, Trim, and Edit Mastering Video Segmentation in Windows Live Movie Maker
-date: 2024-04-29T19:17:15.266Z
-updated: 2024-04-30T19:17:15.266Z
+date: 2024-05-19T11:46:50.514Z
+updated: 2024-05-20T11:46:50.514Z
 tags: 
   - video editing software
   - video editing
@@ -1579,4 +1579,5 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-13-mini-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 13 mini Passcode Change Itself? Unlock It Now</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-play-7t-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor Play 7T? | Dr.fone</u></a></li>
 </ul></div>
+
 

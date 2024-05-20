@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Slow Motion A Kapwing Tutorial for Creating Breathtaking Videos
-date: 2024-04-29T19:31:49.040Z
-updated: 2024-04-30T19:31:49.040Z
+date: 2024-05-19T11:47:49.925Z
+updated: 2024-05-20T11:47:49.925Z
 tags: 
   - video editing software
   - video editing
@@ -2251,4 +2251,5 @@ It can help you with so much of professional and interesting video editing optio
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-13-ultrawithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi 13 Ultrawith/without a PC</u></a></li>
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-g2-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo G2? Look No Further | Dr.fone</u></a></li>
 </ul></div>
+
 

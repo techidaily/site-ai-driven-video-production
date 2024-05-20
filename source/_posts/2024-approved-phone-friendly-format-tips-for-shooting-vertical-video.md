@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Phone-Friendly Format Tips for Shooting Vertical Video
-date: 2024-04-29T19:29:41.390Z
-updated: 2024-04-30T19:29:41.390Z
+date: 2024-05-19T11:47:42.046Z
+updated: 2024-05-20T11:47:42.046Z
 tags: 
   - video editing software
   - video editing
@@ -2555,4 +2555,5 @@ Follow @Liza Brown
 <li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Zero 5G 2023 Turbo</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-mac-video-production-simplified-best-video-makers-for-beginners-for-2024/"><u>Updated Mac Video Production Simplified Best Video Makers for Beginners for 2024</u></a></li>
 </ul></div>
+
 

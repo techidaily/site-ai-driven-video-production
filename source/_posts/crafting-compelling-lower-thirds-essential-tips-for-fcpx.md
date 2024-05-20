@@ -1,7 +1,7 @@
 ---
 title: Crafting Compelling Lower Thirds Essential Tips for FCPX
-date: 2024-04-29T19:15:37.527Z
-updated: 2024-04-30T19:15:37.527Z
+date: 2024-05-19T11:46:45.037Z
+updated: 2024-05-20T11:46:45.037Z
 tags: 
   - video editing software
   - video editing
@@ -2690,4 +2690,5 @@ Follow @Liza Brown
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-se-2020-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone SE (2020) without Security Questions?</u></a></li>
 </ul></div>
+
 

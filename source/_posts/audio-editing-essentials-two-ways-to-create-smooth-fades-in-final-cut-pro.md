@@ -1,7 +1,7 @@
 ---
 title: Audio Editing Essentials Two Ways to Create Smooth Fades in Final Cut Pro
-date: 2024-04-29T19:15:16.998Z
-updated: 2024-04-30T19:15:16.998Z
+date: 2024-05-19T11:46:43.918Z
+updated: 2024-05-20T11:46:43.918Z
 tags: 
   - video editing software
   - video editing
@@ -1861,4 +1861,5 @@ Create a thumbnail that speaks about the content of your video. If the thumbnail
 <li><a href="https://ai-voice-clone.techidaily.com/best-video-language-changers-to-make-your-videos-accessible-for-2024/"><u>Best Video Language Changers to Make Your Videos Accessible for 2024</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-find-x7-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Find X7 Devices</u></a></li>
 </ul></div>
+
 

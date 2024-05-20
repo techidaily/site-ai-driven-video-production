@@ -1,7 +1,7 @@
 ---
 title: FCPX Audio Workflow Efficient Use of L-Cuts and J-Cuts for 2024
-date: 2024-04-29T19:24:48.155Z
-updated: 2024-04-30T19:24:48.155Z
+date: 2024-05-19T11:47:24.166Z
+updated: 2024-05-20T11:47:24.166Z
 tags: 
   - video editing software
   - video editing
@@ -2312,4 +2312,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-a2-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi A2 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo S17e | Dr.fone</u></a></li>
 </ul></div>
+
 

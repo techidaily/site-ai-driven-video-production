@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro X Audio Fundamentals Working with L-Cuts and J-Cuts
-date: 2024-04-29T19:16:03.625Z
-updated: 2024-04-30T19:16:03.625Z
+date: 2024-05-19T11:46:46.664Z
+updated: 2024-05-20T11:46:46.664Z
 tags: 
   - video editing software
   - video editing
@@ -1377,4 +1377,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-mp3-to-mp4-a-step-by-step-guide-to-successful-conversion/"><u>2024 Approved MP3 to MP4 A Step-by-Step Guide to Successful Conversion</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-f23-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo F23 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

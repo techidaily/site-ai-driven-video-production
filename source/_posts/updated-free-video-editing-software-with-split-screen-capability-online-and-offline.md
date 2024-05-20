@@ -1,7 +1,7 @@
 ---
 title: Updated Free Video Editing Software with Split Screen Capability Online & Offline
-date: 2024-04-29T19:25:49.716Z
-updated: 2024-04-30T19:25:49.716Z
+date: 2024-05-19T11:47:28.009Z
+updated: 2024-05-20T11:47:28.009Z
 tags: 
   - video editing software
   - video editing
@@ -2549,4 +2549,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-editing.techidaily.com/new-want-to-save-your-edited-video-file-in-mp4-format-in-windows-movie-maker-here-are-the-simple-steps-along-with-a-better-alternative-for-2024/"><u>New Want to Save Your Edited Video File in MP4 Format in Windows Movie Maker? Here Are the Simple Steps Along with a Better Alternative for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-11-pro-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Cropping and Resizing Images in Final Cut Pro X Made Easy
-date: 2024-04-29T19:23:03.175Z
-updated: 2024-04-30T19:23:03.175Z
+date: 2024-05-19T11:47:17.747Z
+updated: 2024-05-20T11:47:17.747Z
 tags: 
   - video editing software
   - video editing
@@ -2809,4 +2809,5 @@ Follow @Shanoon Cox
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy A05s? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-do-i-reset-my-zte-axon-40-lite-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my ZTE Axon 40 Lite Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
+
 

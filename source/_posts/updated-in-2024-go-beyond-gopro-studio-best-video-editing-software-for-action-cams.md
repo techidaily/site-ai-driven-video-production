@@ -2780,3 +2780,4 @@ After you launch Filmora, you can select the project aspect ratio. There are opt
 <li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with digital signature app</u></a></li>
 </ul></div>
 
+

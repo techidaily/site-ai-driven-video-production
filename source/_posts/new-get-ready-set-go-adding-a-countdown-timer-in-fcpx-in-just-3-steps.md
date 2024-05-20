@@ -1,7 +1,7 @@
 ---
 title: New Get Ready, Set, Go! Adding a Countdown Timer in FCPX in Just 3 Steps
-date: 2024-04-29T19:26:50.656Z
-updated: 2024-04-30T19:26:50.656Z
+date: 2024-05-19T11:47:31.700Z
+updated: 2024-05-20T11:47:31.700Z
 tags: 
   - video editing software
   - video editing
@@ -4199,4 +4199,5 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-g24-power-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on G24 Power</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
+
 

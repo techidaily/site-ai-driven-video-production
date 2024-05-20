@@ -1,7 +1,7 @@
 ---
 title: New FCP Editing Essentials Adding Transitions Like a Pro in 3 Easy Steps
-date: 2024-04-29T19:24:43.902Z
-updated: 2024-04-30T19:24:43.902Z
+date: 2024-05-19T11:47:23.966Z
+updated: 2024-05-20T11:47:23.966Z
 tags: 
   - video editing software
   - video editing
@@ -2425,4 +2425,5 @@ Follow @Shanoon Cox
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-gt-10-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix GT 10 Pro</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Lava Storm 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

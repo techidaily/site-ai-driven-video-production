@@ -1,7 +1,7 @@
 ---
 title: New Boost Your LinkedIn Video Views with Eye-Catching Custom Thumbnails
-date: 2024-04-29T19:22:01.834Z
-updated: 2024-04-30T19:22:01.834Z
+date: 2024-05-19T11:47:13.133Z
+updated: 2024-05-20T11:47:13.133Z
 tags: 
   - video editing software
   - video editing
@@ -1489,4 +1489,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/updated-quick-answer-why-did-filmora-ai-portrait-attract-people-for-2024/"><u>Updated Quick Answer Why Did Filmora AI Portrait Attract People for 2024</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

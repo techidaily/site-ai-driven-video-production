@@ -1,7 +1,7 @@
 ---
 title: Updated From Widescreen to Square The Impact of Aspect Ratio on Your YouTube Video Style
-date: 2024-04-29T19:26:29.081Z
-updated: 2024-04-30T19:26:29.081Z
+date: 2024-05-19T11:47:30.358Z
+updated: 2024-05-20T11:47:30.358Z
 tags: 
   - video editing software
   - video editing
@@ -1765,4 +1765,5 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/new-10-creative-wallpaper-collage-ideas-and-photos-for-2024/"><u>New 10 Creative Wallpaper Collage Ideas and Photos for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-s17e-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of S17e using Video Repair Utility on Mac?</u></a></li>
 </ul></div>
+
 

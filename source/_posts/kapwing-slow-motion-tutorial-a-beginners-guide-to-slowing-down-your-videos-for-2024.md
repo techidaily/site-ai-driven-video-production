@@ -1,7 +1,7 @@
 ---
 title: Kapwing Slow Motion Tutorial A Beginners Guide to Slowing Down Your Videos for 2024
-date: 2024-04-29T19:27:47.821Z
-updated: 2024-04-30T19:27:47.821Z
+date: 2024-05-19T11:47:35.232Z
+updated: 2024-05-20T11:47:35.232Z
 tags: 
   - video editing software
   - video editing
@@ -1939,4 +1939,5 @@ If you are new to the VFX and video editing industry, trying hands with the Phot
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-we-can-say-that-the-horror-movies-of-the-90s-laid-the-foundation-for-current-horror-movies-so-without-wasting-time-lets-create-a-1990s-horror-movie-/"><u>In 2024, We Can Say that the Horror Movies of the 90S Laid the Foundation for Current Horror Movies. So, without Wasting Time, Lets Create a 1990S Horror Movie Similar to The Blair Witch Project</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changefake-your-realme-v30t-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Realme V30T Location on Viber | Dr.fone</u></a></li>
 </ul></div>
+
 

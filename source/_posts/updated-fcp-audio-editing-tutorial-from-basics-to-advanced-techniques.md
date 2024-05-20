@@ -1,7 +1,7 @@
 ---
 title: Updated FCP Audio Editing Tutorial From Basics to Advanced Techniques
-date: 2024-04-29T19:24:43.260Z
-updated: 2024-04-30T19:24:43.260Z
+date: 2024-05-19T11:47:23.954Z
+updated: 2024-05-20T11:47:23.954Z
 tags: 
   - video editing software
   - video editing
@@ -1407,4 +1407,5 @@ Follow @Liza Brown
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-x-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone X Without Apple ID Password?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-s24-ultra-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy S24 Ultra Phone? Unlock It Now</u></a></li>
 </ul></div>
+
 

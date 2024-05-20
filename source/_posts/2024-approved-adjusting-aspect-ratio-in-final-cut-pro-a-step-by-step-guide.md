@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Adjusting Aspect Ratio in Final Cut Pro A Step-by-Step Guide
-date: 2024-04-29T19:19:10.071Z
-updated: 2024-04-30T19:19:10.071Z
+date: 2024-05-19T11:46:58.576Z
+updated: 2024-05-20T11:46:58.576Z
 tags: 
   - video editing software
   - video editing
@@ -1474,4 +1474,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-10-sony-lut-for-different-purposes/"><u>New 2024 Approved Top 10 Sony LUT for Different Purposes</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-c33-2023-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme C33 2023 Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 

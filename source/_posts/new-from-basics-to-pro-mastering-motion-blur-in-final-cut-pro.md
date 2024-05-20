@@ -1,7 +1,7 @@
 ---
 title: New From Basics to Pro Mastering Motion Blur in Final Cut Pro
-date: 2024-04-29T19:26:01.898Z
-updated: 2024-04-30T19:26:01.898Z
+date: 2024-05-19T11:47:29.076Z
+updated: 2024-05-20T11:47:29.076Z
 tags: 
   - video editing software
   - video editing
@@ -1910,4 +1910,5 @@ So, in this article, we introduced some online platforms and software for you to
 <li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-v29-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo V29 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-13-pro-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 13 Pro Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

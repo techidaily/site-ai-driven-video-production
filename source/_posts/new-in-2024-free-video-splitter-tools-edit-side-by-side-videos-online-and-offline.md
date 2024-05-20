@@ -4180,3 +4180,4 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/1713965866446-new-what-is-lumetri-color-and-how-do-you-use-it-in-adobe-after-effects-find-out-the-numerous-functions-of-lumetri-panel-and-ways-to-apply-them-to-your-video/"><u>New What Is Lumetri Color and How Do You Use It in Adobe After Effects? Find Out the Numerous Functions of Lumetri Panel and Ways to Apply Them to Your Video for 2024</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering VLC How to Play Videos in Slow Motion on Desktop and Mobile
-date: 2024-04-29T19:28:44.085Z
-updated: 2024-04-30T19:28:44.085Z
+date: 2024-05-19T11:47:38.928Z
+updated: 2024-05-20T11:47:38.928Z
 tags: 
   - video editing software
   - video editing
@@ -3171,4 +3171,5 @@ Follow @Liza Brown
 <li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-redmi-note-12-proplus-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Redmi Note 12 Pro+ 5G?</u></a></li>
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-poco-m6-pro-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Poco M6 Pro 5G</u></a></li>
 </ul></div>
+
 

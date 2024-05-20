@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Audio Transitions in FCPX L-Cuts and J-Cuts Explained
-date: 2024-04-29T19:19:27.201Z
-updated: 2024-04-30T19:19:27.201Z
+date: 2024-05-19T11:46:59.772Z
+updated: 2024-05-20T11:46:59.772Z
 tags: 
   - video editing software
   - video editing
@@ -2277,4 +2277,5 @@ Using Wondershare Filmora will provide you with the option to adjust the video r
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your iPhone 13 Pro Max and iPad?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Poco X6? | Dr.fone</u></a></li>
 </ul></div>
+
 

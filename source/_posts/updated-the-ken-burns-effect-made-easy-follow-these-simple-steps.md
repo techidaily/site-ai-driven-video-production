@@ -1,7 +1,7 @@
 ---
 title: Updated The Ken Burns Effect Made Easy Follow These Simple Steps
-date: 2024-04-29T19:32:29.424Z
-updated: 2024-04-30T19:32:29.424Z
+date: 2024-05-19T11:47:53.803Z
+updated: 2024-05-20T11:47:53.803Z
 tags: 
   - video editing software
   - video editing
@@ -1655,4 +1655,5 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-a78-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo A78</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-battle-of-the-giants-adobe-premiere-pro-vs-after-effects-for-visual-storytelling/"><u>New In 2024, Battle of the Giants Adobe Premiere Pro vs After Effects for Visual Storytelling</u></a></li>
 </ul></div>
+
 

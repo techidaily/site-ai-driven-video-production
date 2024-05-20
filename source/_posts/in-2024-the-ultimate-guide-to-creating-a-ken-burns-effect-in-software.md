@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Creating a Ken Burns Effect in Software
-date: 2024-04-29T19:33:01.083Z
-updated: 2024-04-30T19:33:01.083Z
+date: 2024-05-19T11:47:55.145Z
+updated: 2024-05-20T11:47:55.145Z
 tags: 
   - video editing software
   - video editing
@@ -2102,4 +2102,5 @@ Follow @Benjamin Arango
 <li><a href="https://fix-guide.techidaily.com/reasons-for-poco-x5-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco X5 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-8-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 8 Plus Randomly Asking for Apple ID Password</u></a></li>
 </ul></div>
+
 

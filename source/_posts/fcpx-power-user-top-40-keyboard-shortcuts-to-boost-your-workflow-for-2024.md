@@ -1,7 +1,7 @@
 ---
 title: FCPX Power User Top 40 Keyboard Shortcuts to Boost Your Workflow for 2024
-date: 2024-04-29T19:24:51.574Z
-updated: 2024-04-30T19:24:51.574Z
+date: 2024-05-19T11:47:24.302Z
+updated: 2024-05-20T11:47:24.302Z
 tags: 
   - video editing software
   - video editing
@@ -2379,4 +2379,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-reno-11-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo Reno 11 5G to iPhone | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo Find X7 | Dr.fone</u></a></li>
 </ul></div>
+
 

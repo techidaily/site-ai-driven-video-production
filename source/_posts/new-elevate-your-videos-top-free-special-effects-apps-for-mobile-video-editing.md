@@ -1,7 +1,7 @@
 ---
 title: New Elevate Your Videos Top Free Special Effects Apps for Mobile Video Editing
-date: 2024-04-29T19:24:25.665Z
-updated: 2024-04-30T19:24:25.665Z
+date: 2024-05-19T11:47:22.690Z
+updated: 2024-05-20T11:47:22.690Z
 tags: 
   - video editing software
   - video editing
@@ -3178,4 +3178,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mastering-video-blur-the-best-apps-for-ios-and-android-users/"><u>New In 2024, Mastering Video Blur The Best Apps for iOS and Android Users</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-infinix-note-30-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Infinix Note 30 FRP Without Computer</u></a></li>
 </ul></div>
+
 

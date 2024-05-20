@@ -1,7 +1,7 @@
 ---
 title: Updated Compress MPEG2 Videos Like a Pro A VirtualDub Tutorial
-date: 2024-04-29T19:22:34.651Z
-updated: 2024-04-30T19:22:34.651Z
+date: 2024-05-19T11:47:16.351Z
+updated: 2024-05-20T11:47:16.351Z
 tags: 
   - video editing software
   - video editing
@@ -2042,4 +2042,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
 <li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Honor Magic 5 Lite | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-make-ninja-jump-effect-for-2024/"><u>How To Make Ninja Jump Effect for 2024</u></a></li>
 </ul></div>
+
 

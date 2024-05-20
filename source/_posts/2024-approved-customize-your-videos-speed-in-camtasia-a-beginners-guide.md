@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Customize Your Videos Speed in Camtasia A Beginners Guide
-date: 2024-04-29T19:23:04.653Z
-updated: 2024-04-30T19:23:04.653Z
+date: 2024-05-19T11:47:17.818Z
+updated: 2024-05-20T11:47:17.818Z
 tags: 
   - video editing software
   - video editing
@@ -2041,4 +2041,5 @@ Follow @Benjamin Arango
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone XS Max | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-pova-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Pova 5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

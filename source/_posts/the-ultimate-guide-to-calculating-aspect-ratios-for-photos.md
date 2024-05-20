@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Calculating Aspect Ratios for Photos
-date: 2024-04-29T19:17:34.430Z
-updated: 2024-04-30T19:17:34.430Z
+date: 2024-05-19T11:46:51.709Z
+updated: 2024-05-20T11:46:51.709Z
 tags: 
   - video editing software
   - video editing
@@ -2753,4 +2753,5 @@ Follow @Ollie Mattison
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-m34-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy M34 Without PUK Codes</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-can-we-bypass-huawei-nova-y71-frp-by-drfone-android/"><u>How Can We Bypass Huawei Nova Y71 FRP?</u></a></li>
 </ul></div>
+
 

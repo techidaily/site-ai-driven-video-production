@@ -1,7 +1,7 @@
 ---
 title: How to Get Twitter Video Dimensions?
-date: 2024-04-29T19:16:32.466Z
-updated: 2024-04-30T19:16:32.466Z
+date: 2024-05-19T11:46:48.457Z
+updated: 2024-05-20T11:46:48.457Z
 tags: 
   - video editing software
   - video editing
@@ -2483,4 +2483,5 @@ For macOS 10.12 or later
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor X9b | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-does-poco-x5-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Poco X5 Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 

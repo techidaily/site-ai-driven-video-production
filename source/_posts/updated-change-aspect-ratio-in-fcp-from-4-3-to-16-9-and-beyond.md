@@ -1,7 +1,7 @@
 ---
 title: Updated Change Aspect Ratio in FCP From 4 3 to 16 9 and Beyond
-date: 2024-04-29T19:22:20.958Z
-updated: 2024-04-30T19:22:20.958Z
+date: 2024-05-19T11:47:14.309Z
+updated: 2024-05-20T11:47:14.309Z
 tags: 
   - video editing software
   - video editing
@@ -5026,4 +5026,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-steps-to-rotate-videos-in-lightworks/"><u>New 2024 Approved Steps to Rotate Videos in Lightworks</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y78plus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y78+ Phones</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Detect and Fix Image Aspect Imbalance
-date: 2024-04-29T19:23:19.526Z
-updated: 2024-04-30T19:23:19.526Z
+date: 2024-05-19T11:47:18.878Z
+updated: 2024-05-20T11:47:18.878Z
 tags: 
   - video editing software
   - video editing
@@ -2002,4 +2002,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-rotate-videos-with-media-player-classic-for-2024/"><u>Updated How to Rotate Videos With Media Player Classic for 2024</u></a></li>
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y77t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y77t Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

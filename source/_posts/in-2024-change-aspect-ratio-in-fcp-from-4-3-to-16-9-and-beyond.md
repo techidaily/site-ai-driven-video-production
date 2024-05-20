@@ -1,7 +1,7 @@
 ---
 title: In 2024, Change Aspect Ratio in FCP From 4 3 to 16 9 and Beyond
-date: 2024-04-29T19:22:20.739Z
-updated: 2024-04-30T19:22:20.739Z
+date: 2024-05-19T11:47:14.303Z
+updated: 2024-05-20T11:47:14.303Z
 tags: 
   - video editing software
   - video editing
@@ -1497,4 +1497,5 @@ Adjusting brightness has become a "small problem" for many. Oftentimes, you reco
 <li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-xcover-6-pro-tactical-edition-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy XCover 6 Pro Tactical Edition FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

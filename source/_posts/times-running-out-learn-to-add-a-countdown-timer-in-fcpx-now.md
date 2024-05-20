@@ -1,7 +1,7 @@
 ---
 title: Times Running Out! Learn to Add a Countdown Timer in FCPX Now
-date: 2024-04-29T19:17:46.396Z
-updated: 2024-04-30T19:17:46.396Z
+date: 2024-05-19T11:46:52.515Z
+updated: 2024-05-20T11:46:52.515Z
 tags: 
   - video editing software
   - video editing
@@ -1860,4 +1860,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-samsung-galaxy-s24-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Samsung Galaxy S24 FRP Android 10/11/12/13</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-nord-3-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Nord 3 5G to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

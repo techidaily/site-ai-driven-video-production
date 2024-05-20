@@ -1,7 +1,7 @@
 ---
 title: New FCP Effects Mastery The Art of Motion Blur Creation
-date: 2024-04-29T19:24:44.542Z
-updated: 2024-04-30T19:24:44.542Z
+date: 2024-05-19T11:47:23.983Z
+updated: 2024-05-20T11:47:23.983Z
 tags: 
   - video editing software
   - video editing
@@ -3197,4 +3197,5 @@ This list should help you find the best video editor app for mobile. Contact our
 <li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-gionee-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Gionee Phone? Unlock It Now</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-samsung-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Samsung</u></a></li>
 </ul></div>
+
 

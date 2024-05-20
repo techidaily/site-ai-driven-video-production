@@ -1,7 +1,7 @@
 ---
 title: In 2024, Take It Down a Notch How to Add Slow Motion Effects to Your Kapwing Videos
-date: 2024-04-29T19:31:36.955Z
-updated: 2024-04-30T19:31:36.955Z
+date: 2024-05-19T11:47:49.346Z
+updated: 2024-05-20T11:47:49.346Z
 tags: 
   - video editing software
   - video editing
@@ -2742,4 +2742,5 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-civi-3-disney-100th-anniversary-edition-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Civi 3 Disney 100th Anniversary Edition Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/10-best-aspect-ratio-editor-software-for-perfect-proportions-for-2024/"><u>10 Best Aspect Ratio Editor Software for Perfect Proportions for 2024</u></a></li>
 </ul></div>
+
 

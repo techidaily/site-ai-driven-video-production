@@ -4935,3 +4935,4 @@ MAC and Windows users can download Filmora to cut videos for free. Filmora also 
 <li><a href="https://techidaily.com/samsung-galaxy-xcover-6-pro-tactical-edition-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung Galaxy XCover 6 Pro Tactical Edition won't play MOV videos, how to fix ?</u></a></li>
 </ul></div>
 
+

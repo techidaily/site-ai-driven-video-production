@@ -1,7 +1,7 @@
 ---
 title: New Motion Blur Made Easy A Step-by-Step Guide for Final Cut Pro Users
-date: 2024-04-29T19:29:02.464Z
-updated: 2024-04-30T19:29:02.464Z
+date: 2024-05-19T11:47:39.590Z
+updated: 2024-05-20T11:47:39.590Z
 tags: 
   - video editing software
   - video editing
@@ -2727,4 +2727,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-top-video-animation-tools-for-creating-stunning-animations-on-the-go-for-2024/"><u>Updated The Top Video Animation Tools for Creating Stunning Animations On-the-Go for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

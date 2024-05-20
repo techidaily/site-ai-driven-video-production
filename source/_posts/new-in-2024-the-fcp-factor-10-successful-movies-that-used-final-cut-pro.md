@@ -1690,3 +1690,4 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-reno-9a-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo Reno 9A Quickly | Dr.fone</u></a></li>
 </ul></div>
 
+

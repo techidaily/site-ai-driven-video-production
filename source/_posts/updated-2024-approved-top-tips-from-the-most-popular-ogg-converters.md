@@ -2014,3 +2014,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-editing-video.techidaily.com/new-do-you-intend-to-include-motion-blur-on-your-video-using-video-star-this-article-explains-how-to-use-motion-blur-on-video-star-with-exquisite-control/"><u>New Do You Intend to Include Motion Blur on Your Video Using Video Star? This Article Explains How to Use Motion Blur on Video Star with Exquisite Control</u></a></li>
 </ul></div>
 
+

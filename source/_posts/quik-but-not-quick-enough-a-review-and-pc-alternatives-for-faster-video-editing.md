@@ -1,7 +1,7 @@
 ---
 title: Quik, But Not Quick Enough? A Review & PC Alternatives for Faster Video Editing
-date: 2024-04-29T19:17:02.205Z
-updated: 2024-04-30T19:17:02.205Z
+date: 2024-05-19T11:46:49.777Z
+updated: 2024-05-20T11:46:49.777Z
 tags: 
   - video editing software
   - video editing
@@ -3132,4 +3132,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-rotate-videos-with-media-player-classic/"><u>New How to Rotate Videos With Media Player Classic</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone 14 Plus</u></a></li>
 </ul></div>
+
 

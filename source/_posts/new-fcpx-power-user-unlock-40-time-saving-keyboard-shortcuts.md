@@ -1,7 +1,7 @@
 ---
 title: New FCPX Power User Unlock 40 Time-Saving Keyboard Shortcuts
-date: 2024-04-29T19:24:52.002Z
-updated: 2024-04-30T19:24:52.002Z
+date: 2024-05-19T11:47:24.315Z
+updated: 2024-05-20T11:47:24.315Z
 tags: 
   - video editing software
   - video editing
@@ -1582,4 +1582,5 @@ Follow @Shanoon Cox
 <li><a href="https://animation-videos.techidaily.com/2024-approved-some-techniques-for-creating-animated-logo-that-few-people-know-about/"><u>2024 Approved Some Techniques for Creating Animated Logo That Few People Know About</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-find-x7-ultra-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Find X7 Ultra Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+
 

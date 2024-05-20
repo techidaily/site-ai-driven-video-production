@@ -1,7 +1,7 @@
 ---
 title: New FCPX Mastery Learn the Top 40 Keyboard Shortcuts
-date: 2024-04-29T19:24:50.509Z
-updated: 2024-04-30T19:24:50.509Z
+date: 2024-05-19T11:47:24.279Z
+updated: 2024-05-20T11:47:24.279Z
 tags: 
   - video editing software
   - video editing
@@ -2157,4 +2157,5 @@ For macOS 10.14 or later
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c32-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Nokia C32 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 13 mini?</u></a></li>
 </ul></div>
+
 

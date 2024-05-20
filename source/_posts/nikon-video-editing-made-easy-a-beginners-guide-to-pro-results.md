@@ -1,7 +1,7 @@
 ---
 title: Nikon Video Editing Made Easy A Beginners Guide to Pro Results
-date: 2024-04-29T19:16:53.545Z
-updated: 2024-04-30T19:16:53.545Z
+date: 2024-05-19T11:46:49.264Z
+updated: 2024-05-20T11:46:49.264Z
 tags: 
   - video editing software
   - video editing
@@ -2990,4 +2990,5 @@ This is a simple tool used for video editing. Its simple features make it less c
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For OnePlus 12R | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
 </ul></div>
+
 

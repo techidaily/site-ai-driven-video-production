@@ -1,7 +1,7 @@
 ---
 title: In 2024, Determining Image Proportions A Step-by-Step Guide
-date: 2024-04-29T19:23:19.738Z
-updated: 2024-04-30T19:23:19.738Z
+date: 2024-05-19T11:47:18.881Z
+updated: 2024-05-20T11:47:18.881Z
 tags: 
   - video editing software
   - video editing
@@ -2704,4 +2704,5 @@ Follow @Shanoon Cox
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-12-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme 12 5G Pattern Lock Screen</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-top-5-free-ways-to-join-mpeg-video-files-together/"><u>New Top 5 Free Ways to Join MPEG Video Files Together</u></a></li>
 </ul></div>
+
 

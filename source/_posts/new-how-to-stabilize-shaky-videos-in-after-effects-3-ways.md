@@ -1,7 +1,7 @@
 ---
 title: New How to Stabilize Shaky Videos in After Effects 3 Ways
-date: 2024-04-29T19:20:04.746Z
-updated: 2024-04-30T19:20:04.746Z
+date: 2024-05-19T11:47:03.848Z
+updated: 2024-05-20T11:47:03.848Z
 tags: 
   - video editing software
   - video editing
@@ -2043,4 +2043,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-reverse-rewind-repeat-mastering-video-reversal-in-final-cut-pro/"><u>In 2024, Reverse, Rewind, Repeat Mastering Video Reversal in Final Cut Pro</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-smart-8-hd-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Smart 8 HD Photos  An Easy Method Explained.</u></a></li>
 </ul></div>
+
 

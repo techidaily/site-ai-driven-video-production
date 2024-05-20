@@ -1,7 +1,7 @@
 ---
 title: Updated From Basic to Brilliant Adding FCP X Effects in 3 Easy Steps
-date: 2024-04-29T19:26:00.634Z
-updated: 2024-04-30T19:26:00.634Z
+date: 2024-05-19T11:47:29.025Z
+updated: 2024-05-20T11:47:29.025Z
 tags: 
   - video editing software
   - video editing
@@ -2005,4 +2005,5 @@ The Gaming Intro comes at the front desk while working on your Game videos, cons
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-100-by-fonelab-android-recover-video/"><u>How to recover old videos from your 100</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-add-3d-effects-to-video-in-windows-computer/"><u>New How to Add 3D Effects to Video in Windows Computer</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Art of Time Manipulation Speeding Up/Down Videos in Camtasia
-date: 2024-04-29T19:31:52.076Z
-updated: 2024-04-30T19:31:52.076Z
+date: 2024-05-19T11:47:50.155Z
+updated: 2024-05-20T11:47:50.155Z
 tags: 
   - video editing software
   - video editing
@@ -2368,4 +2368,5 @@ Although Windows 11 is new and offers several advanced features, at the time of 
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor Play 8T | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y36 | Dr.fone</u></a></li>
 </ul></div>
+
 

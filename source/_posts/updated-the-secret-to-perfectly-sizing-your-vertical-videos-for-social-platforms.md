@@ -1,7 +1,7 @@
 ---
 title: Updated The Secret to Perfectly Sizing Your Vertical Videos for Social Platforms
-date: 2024-04-29T19:32:38.700Z
-updated: 2024-04-30T19:32:38.700Z
+date: 2024-05-19T11:47:54.092Z
+updated: 2024-05-20T11:47:54.092Z
 tags: 
   - video editing software
   - video editing
@@ -1227,4 +1227,5 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-p55-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel P55 | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-tecno-pop-7-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Tecno Pop 7 Pro FRP</u></a></li>
 </ul></div>
+
 

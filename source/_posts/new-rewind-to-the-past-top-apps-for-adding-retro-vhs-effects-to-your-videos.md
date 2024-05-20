@@ -1,7 +1,7 @@
 ---
 title: New Rewind to the Past Top Apps for Adding Retro VHS Effects to Your Videos
-date: 2024-04-29T19:30:20.025Z
-updated: 2024-04-30T19:30:20.025Z
+date: 2024-05-19T11:47:44.458Z
+updated: 2024-05-20T11:47:44.458Z
 tags: 
   - video editing software
   - video editing
@@ -3356,4 +3356,5 @@ Windows Movie Maker is an excellent Windows video editor application for Windows
 <li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-google-pixel-8-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Google Pixel 8 has been deleted.</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-12-mini-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 12 mini without Apple ID?</u></a></li>
 </ul></div>
+
 

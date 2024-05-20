@@ -1,7 +1,7 @@
 ---
 title: New Optimize Your TikTok Videos A Complete Guide to Aspect Ratios
-date: 2024-04-29T19:29:36.253Z
-updated: 2024-04-30T19:29:36.253Z
+date: 2024-05-19T11:47:41.738Z
+updated: 2024-05-20T11:47:41.738Z
 tags: 
   - video editing software
   - video editing
@@ -3156,4 +3156,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-y27s-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo Y27s to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-step-by-step-to-rotate-video-in-google-photos/"><u>In 2024, Step by Step to Rotate Video in Google Photos</u></a></li>
 </ul></div>
+
 

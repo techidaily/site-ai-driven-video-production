@@ -1,7 +1,7 @@
 ---
 title: New Transform Your Footage A Cinematic Color Grading Guide for FCPX
-date: 2024-04-29T19:34:42.937Z
-updated: 2024-04-30T19:34:42.937Z
+date: 2024-05-19T11:48:02.220Z
+updated: 2024-05-20T11:48:02.220Z
 tags: 
   - video editing software
   - video editing
@@ -2303,4 +2303,5 @@ Using Wondershare Filmora will provide you with the option to adjust the video r
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-5-best-video-editing-apps-for-ipad-for-2024/"><u>Updated The Ultimate List 5 Best Video Editing Apps for iPad for 2024</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
 </ul></div>
+
 

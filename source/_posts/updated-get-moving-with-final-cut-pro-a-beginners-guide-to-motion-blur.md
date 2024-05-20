@@ -1,7 +1,7 @@
 ---
 title: Updated Get Moving with Final Cut Pro A Beginners Guide to Motion Blur
-date: 2024-04-29T19:26:43.727Z
-updated: 2024-04-30T19:26:43.727Z
+date: 2024-05-19T11:47:31.322Z
+updated: 2024-05-20T11:47:31.322Z
 tags: 
   - video editing software
   - video editing
@@ -2320,4 +2320,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Poco M6 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-pro-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15 Pro</u></a></li>
 </ul></div>
+
 

@@ -1798,3 +1798,4 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2023-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2023 | Stellar</u></a></li>
 </ul></div>
 
+

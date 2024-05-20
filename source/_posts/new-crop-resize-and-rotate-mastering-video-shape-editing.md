@@ -1,7 +1,7 @@
 ---
 title: New Crop, Resize, and Rotate Mastering Video Shape Editing
-date: 2024-04-29T19:23:02.550Z
-updated: 2024-04-30T19:23:02.550Z
+date: 2024-05-19T11:47:17.680Z
+updated: 2024-05-20T11:47:17.680Z
 tags: 
   - video editing software
   - video editing
@@ -2710,4 +2710,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-best-free-video-flipper-tools-to-rotate-your-clips/"><u>2024 Approved 10 Best Free Video Flipper Tools to Rotate Your Clips</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-14-pro-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone 14 Pro Max Could Not Be Activated/Reached Issue</u></a></li>
 </ul></div>
+
 

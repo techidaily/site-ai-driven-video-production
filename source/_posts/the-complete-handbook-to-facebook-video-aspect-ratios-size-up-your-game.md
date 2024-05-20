@@ -1,7 +1,7 @@
 ---
 title: The Complete Handbook to Facebook Video Aspect Ratios Size Up Your Game
-date: 2024-04-29T19:17:29.048Z
-updated: 2024-04-30T19:17:29.048Z
+date: 2024-05-19T11:46:51.392Z
+updated: 2024-05-20T11:46:51.392Z
 tags: 
   - video editing software
   - video editing
@@ -2589,4 +2589,5 @@ Follow @Ollie Mattison
 <li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-8-plus-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 8 Plus? 5 Tips You Must Know</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-spark-20-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Spark 20 Pro PC | Dr.fone</u></a></li>
 </ul></div>
+
 

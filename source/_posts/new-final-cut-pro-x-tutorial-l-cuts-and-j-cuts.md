@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro X Tutorial L-Cuts and J-Cuts
-date: 2024-04-29T19:19:56.050Z
-updated: 2024-04-30T19:19:56.050Z
+date: 2024-05-19T11:47:03.421Z
+updated: 2024-05-20T11:47:03.421Z
 tags: 
   - video editing software
   - video editing
@@ -2128,4 +2128,5 @@ Follow @Benjamin Arango
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo S17e | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-motorola-g54-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola G54 5G Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -2698,3 +2698,4 @@ Follow @Shanoon Cox
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-nubia-red-magic-8s-proplus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Nubia Red Magic 8S Pro+ to New Phone | Dr.fone</u></a></li>
 </ul></div>
 
+

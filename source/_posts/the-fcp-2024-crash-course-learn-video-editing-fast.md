@@ -1,7 +1,7 @@
 ---
 title: The FCP 2024 Crash Course Learn Video Editing Fast
-date: 2024-04-29T19:17:30.347Z
-updated: 2024-04-30T19:17:30.347Z
+date: 2024-05-19T11:46:51.455Z
+updated: 2024-05-20T11:46:51.455Z
 tags: 
   - video editing software
   - video editing
@@ -2170,4 +2170,5 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/complete-tutorial-for-oneplus-open-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Open Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-itel-s23-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Itel S23</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Create a Sense of Anticipation 3 Steps to Add a Countdown Timer in FCPX
-date: 2024-04-29T19:22:46.764Z
-updated: 2024-04-30T19:22:46.764Z
+date: 2024-05-19T11:47:16.775Z
+updated: 2024-05-20T11:47:16.775Z
 tags: 
   - video editing software
   - video editing
@@ -2024,4 +2024,5 @@ Follow @Ollie Mattison
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-14-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 14 Plus and iPad?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-hot-40-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Hot 40 Pro to iPhone Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

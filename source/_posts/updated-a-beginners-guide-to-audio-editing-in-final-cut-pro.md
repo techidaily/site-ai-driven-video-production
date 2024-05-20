@@ -1,7 +1,7 @@
 ---
 title: Updated A Beginners Guide to Audio Editing in Final Cut Pro
-date: 2024-04-29T19:19:01.687Z
-updated: 2024-04-30T19:19:01.687Z
+date: 2024-05-19T11:46:58.342Z
+updated: 2024-05-20T11:46:58.342Z
 tags: 
   - video editing software
   - video editing
@@ -1917,4 +1917,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-note-30-vipmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix Note 30 VIPMirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/best-online-video-editors-for-chromebook/"><u>Best Online Video Editors for Chromebook</u></a></li>
 </ul></div>
+
 

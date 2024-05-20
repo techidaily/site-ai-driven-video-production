@@ -1,7 +1,7 @@
 ---
 title: Updated Bring Back the 80S Top VHS-Style Filter Apps for Mobile Devices
-date: 2024-04-29T19:22:07.528Z
-updated: 2024-04-30T19:22:07.528Z
+date: 2024-05-19T11:47:13.870Z
+updated: 2024-05-20T11:47:13.870Z
 tags: 
   - video editing software
   - video editing
@@ -2952,4 +2952,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nubia Red Magic 8S Pro</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-fe-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 FE PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

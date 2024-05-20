@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Hack How to Resize Vertical Videos for Social Media
-date: 2024-04-29T19:20:27.282Z
-updated: 2024-04-30T19:20:27.282Z
+date: 2024-05-19T11:47:05.764Z
+updated: 2024-05-20T11:47:05.764Z
 tags: 
   - video editing software
   - video editing
@@ -2717,4 +2717,5 @@ The Filmora assists you in changing the aspect ratio of the project after downlo
 <li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-narzo-n53-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Realme Narzo N53</u></a></li>
 <li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y78 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

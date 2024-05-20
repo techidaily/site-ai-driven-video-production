@@ -2462,3 +2462,4 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-editing-software-top-alternatives-to-imovie/"><u>Updated Free Video Editing Software Top Alternatives to iMovie</u></a></li>
 </ul></div>
 
+

@@ -3545,3 +3545,4 @@ Create a thumbnail that speaks about the content of your video. If the thumbnail
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-hot-30i-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Hot 30i to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
 
+

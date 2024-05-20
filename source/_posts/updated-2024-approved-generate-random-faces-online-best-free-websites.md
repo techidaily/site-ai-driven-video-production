@@ -1502,3 +1502,4 @@ The selected image will not be used as the thumbnail for the video.
 <li><a href="https://techidaily.com/samsung-galaxy-s23plus-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy S23+ support - Turn Off Screen Lock.</u></a></li>
 </ul></div>
 
+

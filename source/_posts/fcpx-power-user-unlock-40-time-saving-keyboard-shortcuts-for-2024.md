@@ -1,7 +1,7 @@
 ---
 title: FCPX Power User Unlock 40 Time-Saving Keyboard Shortcuts for 2024
-date: 2024-04-29T19:24:51.789Z
-updated: 2024-04-30T19:24:51.789Z
+date: 2024-05-19T11:47:24.307Z
+updated: 2024-05-20T11:47:24.307Z
 tags: 
   - video editing software
   - video editing
@@ -2402,4 +2402,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 11 Pro? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme C33 2023 | Dr.fone</u></a></li>
 </ul></div>
+
 

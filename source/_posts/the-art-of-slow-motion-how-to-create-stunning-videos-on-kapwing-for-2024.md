@@ -1,7 +1,7 @@
 ---
 title: The Art of Slow Motion How to Create Stunning Videos on Kapwing for 2024
-date: 2024-04-29T19:31:49.260Z
-updated: 2024-04-30T19:31:49.260Z
+date: 2024-05-19T11:47:49.930Z
+updated: 2024-05-20T11:47:49.930Z
 tags: 
   - video editing software
   - video editing
@@ -2472,4 +2472,5 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-v27e-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo V27e Screen | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

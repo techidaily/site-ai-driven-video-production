@@ -1,7 +1,7 @@
 ---
 title: In 2024, FCPX Subtitle Tutorial How to Create and Edit Captions
-date: 2024-04-29T19:24:54.131Z
-updated: 2024-04-30T19:24:54.131Z
+date: 2024-05-19T11:47:24.353Z
+updated: 2024-05-20T11:47:24.353Z
 tags: 
   - video editing software
   - video editing
@@ -2341,4 +2341,5 @@ Follow @Liza Brown
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-redmi-note-13-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Redmi Note 13 5G for Free? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-15-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 15 Plus?</u></a></li>
 </ul></div>
+
 

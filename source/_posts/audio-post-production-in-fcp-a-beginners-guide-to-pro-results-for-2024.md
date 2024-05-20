@@ -1,7 +1,7 @@
 ---
 title: Audio Post-Production in FCP A Beginners Guide to Pro Results for 2024
-date: 2024-04-29T19:21:05.855Z
-updated: 2024-04-30T19:21:05.855Z
+date: 2024-05-19T11:47:09.582Z
+updated: 2024-05-20T11:47:09.582Z
 tags: 
   - video editing software
   - video editing
@@ -2808,4 +2808,5 @@ No matter your go-to genre, YouTube has always been the best place to listen to 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-x-flip-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo X Flip Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor 90 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

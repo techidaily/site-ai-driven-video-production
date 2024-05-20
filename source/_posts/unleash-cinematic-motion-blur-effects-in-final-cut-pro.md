@@ -1,7 +1,7 @@
 ---
 title: Unleash Cinematic Motion Blur Effects in Final Cut Pro
-date: 2024-04-29T19:18:00.720Z
-updated: 2024-04-30T19:18:00.720Z
+date: 2024-05-19T11:46:53.437Z
+updated: 2024-05-20T11:46:53.437Z
 tags: 
   - video editing software
   - video editing
@@ -1760,4 +1760,5 @@ Follow @Liza Brown
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-find-x6-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo Find X6 Location | Dr.fone</u></a></li>
 </ul></div>
+
 

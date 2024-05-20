@@ -1,7 +1,7 @@
 ---
 title: FCP File Management 101 Saving and Organizing Your Projects
-date: 2024-04-29T19:16:00.001Z
-updated: 2024-04-30T19:16:00.001Z
+date: 2024-05-19T11:46:46.470Z
+updated: 2024-05-20T11:46:46.470Z
 tags: 
   - video editing software
   - video editing
@@ -2055,4 +2055,5 @@ Follow @Ollie Mattison
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y100i-power-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y100i Power 5G Phones with/without a PC</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max with a Mask On | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: FCP X Visual Effects Green Screen and Beyond
-date: 2024-04-29T19:16:00.651Z
-updated: 2024-04-30T19:16:00.651Z
+date: 2024-05-19T11:46:46.520Z
+updated: 2024-05-20T11:46:46.520Z
 tags: 
   - video editing software
   - video editing
@@ -2252,4 +2252,5 @@ If you need subtitles for your videos, it is important to find the best subtitle
 <li><a href="https://fake-location.techidaily.com/how-to-fix-nubia-red-magic-9-proplus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Nubia Red Magic 9 Pro+ Find My Friends No Location Found? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/oneplus-nord-ce-3-lite-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord CE 3 Lite 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
+
 

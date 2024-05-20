@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Breaking Down the Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker
-date: 2024-04-29T19:22:04.722Z
-updated: 2024-04-30T19:22:04.722Z
+date: 2024-05-19T11:47:13.739Z
+updated: 2024-05-20T11:47:13.739Z
 tags: 
   - video editing software
   - video editing
@@ -1691,4 +1691,5 @@ There are various other audio editing features that Filmora provides, such as ad
 <li><a href="https://techidaily.com/sign-dot-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dot file Documents Online for Free</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-create-an-intro-video-with-filmora/"><u>Updated Guide to Create an Intro Video with Filmora</u></a></li>
 </ul></div>
+
 

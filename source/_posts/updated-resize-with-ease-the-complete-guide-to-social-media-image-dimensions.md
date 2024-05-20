@@ -1,7 +1,7 @@
 ---
 title: Updated Resize with Ease The Complete Guide to Social Media Image Dimensions
-date: 2024-04-29T19:30:13.206Z
-updated: 2024-04-30T19:30:13.206Z
+date: 2024-05-19T11:47:44.198Z
+updated: 2024-05-20T11:47:44.198Z
 tags: 
   - video editing software
   - video editing
@@ -3160,4 +3160,5 @@ Some of the apps we have reviewed here are ideal for beginners, but they are eve
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Phone Password Without Factory Reset?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Motorola G54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

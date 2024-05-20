@@ -2396,3 +2396,4 @@ Follow @Shanoon Cox
 <li><a href="https://phone-solutions.techidaily.com/fix-the-too-many-different-cell-formats-error-in-excel-2013-by-stellar-guide/"><u>Fix the Too many different cell formats Error in Excel 2013?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Best 4K Video Editing Software for Proxy Editing
-date: 2024-04-29T19:21:20.020Z
-updated: 2024-04-30T19:21:20.020Z
+date: 2024-05-19T11:47:10.186Z
+updated: 2024-05-20T11:47:10.186Z
 tags: 
   - video editing software
   - video editing
@@ -1692,4 +1692,5 @@ VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won'
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-10-2d-animation-tools-free-and-paid-options/"><u>New 2024 Approved Top 10 2D Animation Tools Free and Paid Options</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi 12 5G</u></a></li>
 </ul></div>
+
 

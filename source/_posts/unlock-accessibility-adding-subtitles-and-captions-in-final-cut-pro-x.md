@@ -1,7 +1,7 @@
 ---
 title: Unlock Accessibility Adding Subtitles and Captions in Final Cut Pro X
-date: 2024-04-29T19:18:05.019Z
-updated: 2024-04-30T19:18:05.019Z
+date: 2024-05-19T11:46:53.543Z
+updated: 2024-05-20T11:46:53.543Z
 tags: 
   - video editing software
   - video editing
@@ -2197,4 +2197,5 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Moto G34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -2808,3 +2808,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-add-camera-shake-to-video-in-adobe-after-effects/"><u>New In 2024, How to Add Camera Shake to Video in Adobe After Effects</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Avidemux Sound Not Working? Try These Troubleshooting Tips for 2024
-date: 2024-04-29T19:21:10.998Z
-updated: 2024-04-30T19:21:10.998Z
+date: 2024-05-19T11:47:09.788Z
+updated: 2024-05-20T11:47:09.788Z
 tags: 
   - video editing software
   - video editing
@@ -1271,4 +1271,5 @@ Follow @Liza Brown
 <li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-lenovo-thinkphone-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Lenovo ThinkPhone FRP Locks</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/top-6-text-to-speech-generators-for-youtube-videos-windows-mac-and/"><u>Top 6 Text to Speech Generators for YouTube Videos Windows, Mac, And</u></a></li>
 </ul></div>
+
 

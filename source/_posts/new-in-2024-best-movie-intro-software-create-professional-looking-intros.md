@@ -2044,3 +2044,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/how-to-add-adjustment-layer-clip-in-davinci-resolve-in-2024/"><u>How to Add Adjustment Layer (Clip) in DaVinci Resolve, In 2024</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: VirtualDub The Ultimate Tool for MPEG2 Video Shrinking
-date: 2024-04-29T19:18:16.786Z
-updated: 2024-04-30T19:18:16.786Z
+date: 2024-05-19T11:46:53.933Z
+updated: 2024-05-20T11:46:53.933Z
 tags: 
   - video editing software
   - video editing
@@ -1484,4 +1484,5 @@ Some of the apps we have reviewed here are ideal for beginners, but they are eve
 <li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-f25-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo F25 Pro 5G FRP Bypass Instantly</u></a></li>
 <li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-7-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 7</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Essentials How to Use the Ken Burns Effect to Enhance Your Video Storytelling
-date: 2024-04-29T19:16:02.779Z
-updated: 2024-04-30T19:16:02.779Z
+date: 2024-05-19T11:46:46.629Z
+updated: 2024-05-20T11:46:46.629Z
 tags: 
   - video editing software
   - video editing
@@ -1680,4 +1680,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-ace-2-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus Ace 2 Phones with/without a PC</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-tone-and-styl/"><u>Updated Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style</u></a></li>
 </ul></div>
+
 

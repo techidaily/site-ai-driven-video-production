@@ -1,7 +1,7 @@
 ---
 title: Updated Transform Your Images A Beginners Guide to the Ken Burns Effect
-date: 2024-04-29T19:34:46.175Z
-updated: 2024-04-30T19:34:46.175Z
+date: 2024-05-19T11:48:02.380Z
+updated: 2024-05-20T11:48:02.380Z
 tags: 
   - video editing software
   - video editing
@@ -2158,4 +2158,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-vdieo-software.techidaily.com/solution-for-choosing-fast-youtube-to-mp4-video-converter-for-2024/"><u>Solution for Choosing Fast YouTube to MP4 Video Converter for 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-14-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 14 Pro? How to Fix it?</u></a></li>
 </ul></div>
+
 

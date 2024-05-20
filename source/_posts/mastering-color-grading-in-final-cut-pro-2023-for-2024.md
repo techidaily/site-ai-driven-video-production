@@ -1,7 +1,7 @@
 ---
 title: Mastering Color Grading in Final Cut Pro 2023 for 2024
-date: 2024-04-29T19:28:36.969Z
-updated: 2024-04-30T19:28:36.969Z
+date: 2024-05-19T11:47:38.415Z
+updated: 2024-05-20T11:47:38.415Z
 tags: 
   - video editing software
   - video editing
@@ -1891,4 +1891,5 @@ Follow @Ollie Mattison
 <li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-v30-lite-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo V30 Lite 5G FRP</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-best-software-for-adjusting-video-brightness/"><u>Updated Best Software for Adjusting Video Brightness</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Top 10 Glitch Art Video Editing Apps
-date: 2024-04-29T19:34:00.303Z
-updated: 2024-04-30T19:34:00.303Z
+date: 2024-05-19T11:47:59.424Z
+updated: 2024-05-20T11:47:59.424Z
 tags: 
   - video editing software
   - video editing
@@ -1720,4 +1720,5 @@ VirtualDub2 or VirtualDub windows 10 is often fairly easy to use, and users won'
 <li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y100a-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y100A Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
 

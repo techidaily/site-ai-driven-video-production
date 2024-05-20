@@ -1,7 +1,7 @@
 ---
 title: Updated Achieve Filmic Quality A Guide to Cinematic Editing in FCPX
-date: 2024-04-29T19:19:06.207Z
-updated: 2024-04-30T19:19:06.207Z
+date: 2024-05-19T11:46:58.468Z
+updated: 2024-05-20T11:46:58.468Z
 tags: 
   - video editing software
   - video editing
@@ -1675,4 +1675,5 @@ Follow @Shanoon Cox
 <li><a href="https://animation-videos.techidaily.com/new-the-complete-guide-to-whiteboard-animation/"><u>New The Complete Guide to Whiteboard Animation</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo X Fold 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

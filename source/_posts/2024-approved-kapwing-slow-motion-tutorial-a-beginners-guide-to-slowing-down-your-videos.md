@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Kapwing Slow Motion Tutorial A Beginners Guide to Slowing Down Your Videos
-date: 2024-04-29T19:27:48.034Z
-updated: 2024-04-30T19:27:48.034Z
+date: 2024-05-19T11:47:35.252Z
+updated: 2024-05-20T11:47:35.252Z
 tags: 
   - video editing software
   - video editing
@@ -1871,4 +1871,5 @@ No matter your go-to genre, YouTube has always been the best place to listen to 
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-pop-7-pro-by-drfone-android/"><u>How to Bypass FRP from Tecno Pop 7 Pro?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Xiaomi Redmi K70</u></a></li>
 </ul></div>
+
 

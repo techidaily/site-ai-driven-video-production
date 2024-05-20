@@ -1,7 +1,7 @@
 ---
 title: Camtasia Essentials Speeding Up and Slowing Down Videos for 2024
-date: 2024-04-29T19:22:16.590Z
-updated: 2024-04-30T19:22:16.590Z
+date: 2024-05-19T11:47:14.140Z
+updated: 2024-05-20T11:47:14.140Z
 tags: 
   - video editing software
   - video editing
@@ -1733,4 +1733,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-is-mov-format-and-how-to-edit-mov-video-creatively/"><u>Updated In 2024, What Is MOV Format and How To Edit MOV Video Creatively?</u></a></li>
 <li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo V29e | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Two Ways to Fade In/Out Audio in Final Cut Pro
-date: 2024-04-29T19:20:41.986Z
-updated: 2024-04-30T19:20:41.986Z
+date: 2024-05-19T11:47:07.169Z
+updated: 2024-05-20T11:47:07.169Z
 tags: 
   - video editing software
   - video editing
@@ -1772,4 +1772,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oneplus-open-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On OnePlus Open? Fixed | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 13 | Dr.fone</u></a></li>
 </ul></div>
+
 

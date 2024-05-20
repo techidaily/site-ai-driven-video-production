@@ -1,7 +1,7 @@
 ---
 title: New How to Make Ken Burns Effect in Final Cut Pro?
-date: 2024-04-29T19:27:26.205Z
-updated: 2024-04-30T19:27:26.205Z
+date: 2024-05-19T11:47:34.242Z
+updated: 2024-05-20T11:47:34.242Z
 tags: 
   - video editing software
   - video editing
@@ -1953,4 +1953,5 @@ Thus, this article has taught you about the Camtasia video speed up technique us
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nokia-g22-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nokia G22 online without jailbreak</u></a></li>
 </ul></div>
+
 

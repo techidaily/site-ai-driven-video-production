@@ -1,7 +1,7 @@
 ---
 title: Updated From Square to Widescreen A Comprehensive Guide to Facebook Video Aspect Ratios
-date: 2024-04-29T19:26:24.660Z
-updated: 2024-04-30T19:26:24.660Z
+date: 2024-05-19T11:47:29.974Z
+updated: 2024-05-20T11:47:29.974Z
 tags: 
   - video editing software
   - video editing
@@ -2496,4 +2496,5 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Xiaomi Civi 3 Disney 100th Anniversary Edition to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y56-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y56 5G Phone Hassle-Free</u></a></li>
 </ul></div>
+
 

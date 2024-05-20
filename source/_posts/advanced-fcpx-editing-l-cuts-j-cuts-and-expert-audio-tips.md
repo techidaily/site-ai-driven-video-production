@@ -1,7 +1,7 @@
 ---
 title: Advanced FCPX Editing L-Cuts, J-Cuts, and Expert Audio Tips
-date: 2024-04-29T19:14:49.567Z
-updated: 2024-04-30T19:14:49.567Z
+date: 2024-05-19T11:46:42.343Z
+updated: 2024-05-20T11:46:42.343Z
 tags: 
   - video editing software
   - video editing
@@ -2767,4 +2767,5 @@ Zamzar Is one of the most popular online converting tools. It does not just have
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max without Data Loss? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v17-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.7 file when manual method fails</u></a></li>
 </ul></div>
+
 

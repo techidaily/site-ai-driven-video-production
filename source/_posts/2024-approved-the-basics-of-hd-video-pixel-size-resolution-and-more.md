@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Basics of HD Video Pixel Size, Resolution, and More
-date: 2024-04-29T19:31:54.454Z
-updated: 2024-04-30T19:31:54.454Z
+date: 2024-05-19T11:47:50.295Z
+updated: 2024-05-20T11:47:50.295Z
 tags: 
   - video editing software
   - video editing
@@ -1850,4 +1850,5 @@ Follow @Max Wales
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-agni-2-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Agni 2 5G to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/top-10-streaming-services-worth-a-try-for-2024/"><u>Top 10 Streaming Services Worth a Try for 2024</u></a></li>
 </ul></div>
+
 

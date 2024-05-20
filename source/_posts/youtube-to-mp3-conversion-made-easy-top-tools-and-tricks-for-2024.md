@@ -3157,3 +3157,4 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
 </ul></div>
 
+

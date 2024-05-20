@@ -1,7 +1,7 @@
 ---
 title: BEST Video Dimensions for Instagram? Aspect Ratios Explained
-date: 2024-04-29T19:14:51.262Z
-updated: 2024-04-30T19:14:51.262Z
+date: 2024-05-19T11:46:42.424Z
+updated: 2024-05-20T11:46:42.424Z
 tags: 
   - video editing software
   - video editing
@@ -2129,4 +2129,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-add-subtitles-to-mkv-videos-on-all-platforms/"><u>New How to Add Subtitles to MKV Videos on All Platforms</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-template-wondershare-virbo-online/"><u>New Create AI Avatar Video with Template | Wondershare Virbo Online</u></a></li>
 </ul></div>
+
 

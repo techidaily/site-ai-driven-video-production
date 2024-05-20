@@ -1,7 +1,7 @@
 ---
 title: New Pro-Level Jump Cuts in Final Cut Pro X Tips and Tricks
-date: 2024-04-29T19:20:16.536Z
-updated: 2024-04-30T19:20:16.536Z
+date: 2024-05-19T11:47:04.628Z
+updated: 2024-05-20T11:47:04.628Z
 tags: 
   - video editing software
   - video editing
@@ -2220,4 +2220,5 @@ Follow @Liza Brown
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-7-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 7</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-s23-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy S23 FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

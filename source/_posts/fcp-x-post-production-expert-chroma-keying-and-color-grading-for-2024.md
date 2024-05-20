@@ -1,7 +1,7 @@
 ---
 title: FCP X Post-Production Expert Chroma Keying and Color Grading for 2024
-date: 2024-04-29T19:24:47.085Z
-updated: 2024-04-30T19:24:47.085Z
+date: 2024-05-19T11:47:24.101Z
+updated: 2024-05-20T11:47:24.101Z
 tags: 
   - video editing software
   - video editing
@@ -1995,4 +1995,5 @@ Follow @Ollie Mattison
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-sony-xperia-1-v-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Sony Xperia 1 V IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-oppo-find-n3-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Oppo Find N3.</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Change Video Playback Rate in Camtasia A Step-by-Step Guide
-date: 2024-04-29T19:15:32.875Z
-updated: 2024-04-30T19:15:32.875Z
+date: 2024-05-19T11:46:44.787Z
+updated: 2024-05-20T11:46:44.787Z
 tags: 
   - video editing software
   - video editing
@@ -2163,4 +2163,5 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

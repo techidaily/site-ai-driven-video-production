@@ -1,7 +1,7 @@
 ---
 title: New Top-Rated Free Video Editing Apps with Special Effects for Mobile
-date: 2024-04-29T19:34:23.147Z
-updated: 2024-04-30T19:34:23.147Z
+date: 2024-05-19T11:48:00.556Z
+updated: 2024-05-20T11:48:00.556Z
 tags: 
   - video editing software
   - video editing
@@ -2279,4 +2279,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video.techidaily.com/updated-how-to-use-korean-to-english-video-translators-for-creators/"><u>updated How To Use Korean to English Video Translators for Creators</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-google-pixel-8-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Google Pixel 8 Pro to New Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

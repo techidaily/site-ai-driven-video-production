@@ -1,7 +1,7 @@
 ---
 title: Reverse, Rewind, Repeat A Beginners Guide to TikTok Video Editing
-date: 2024-04-29T19:17:04.376Z
-updated: 2024-04-30T19:17:04.376Z
+date: 2024-05-19T11:46:49.894Z
+updated: 2024-05-20T11:46:49.894Z
 tags: 
   - video editing software
   - video editing
@@ -1992,4 +1992,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://howto.techidaily.com/fix-infinix-smart-8-plus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Smart 8 Plus Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/how-to-animate-graphics-in-canva/"><u>How To Animate Graphics in Canva</u></a></li>
 </ul></div>
+
 

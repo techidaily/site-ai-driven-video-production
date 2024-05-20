@@ -1,7 +1,7 @@
 ---
 title: New Camtasia Tutorial Control Video Speed
-date: 2024-04-29T19:22:17.024Z
-updated: 2024-04-30T19:22:17.024Z
+date: 2024-05-19T11:47:14.155Z
+updated: 2024-05-20T11:47:14.155Z
 tags: 
   - video editing software
   - video editing
@@ -2080,4 +2080,5 @@ The 4K editing support feature allows you to edit and export your videos at 4K r
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-6s-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an iPhone 6s Without Apple ID Password?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-k70-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi K70 Phone</u></a></li>
 </ul></div>
+
 

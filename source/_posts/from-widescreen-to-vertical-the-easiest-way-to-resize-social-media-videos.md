@@ -1,7 +1,7 @@
 ---
 title: From Widescreen to Vertical The Easiest Way to Resize Social Media Videos
-date: 2024-04-29T19:16:22.309Z
-updated: 2024-04-30T19:16:22.309Z
+date: 2024-05-19T11:46:47.687Z
+updated: 2024-05-20T11:46:47.687Z
 tags: 
   - video editing software
   - video editing
@@ -2482,4 +2482,5 @@ Now that you are aware of these top movie maker apps for Android, you can evalua
 <li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-google-pixel-8-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Google Pixel 8 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Color Enhancement in Final Cut Pro A Step-by-Step Guide
-date: 2024-04-29T19:22:31.609Z
-updated: 2024-04-30T19:22:31.609Z
+date: 2024-05-19T11:47:14.750Z
+updated: 2024-05-20T11:47:14.750Z
 tags: 
   - video editing software
   - video editing
@@ -2118,4 +2118,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/xiaomi-redmi-note-12-4g-music-recovery-recover-deleted-music-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-music/"><u>Xiaomi Redmi Note 12 4G Music Recovery - Recover Deleted Music from Xiaomi Redmi Note 12 4G</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-13c-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

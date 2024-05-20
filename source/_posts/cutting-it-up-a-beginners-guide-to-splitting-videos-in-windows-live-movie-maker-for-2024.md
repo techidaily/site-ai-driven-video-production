@@ -1,7 +1,7 @@
 ---
 title: Cutting It Up A Beginners Guide to Splitting Videos in Windows Live Movie Maker for 2024
-date: 2024-04-29T19:23:14.372Z
-updated: 2024-04-30T19:23:14.372Z
+date: 2024-05-19T11:47:18.751Z
+updated: 2024-05-20T11:47:18.751Z
 tags: 
   - video editing software
   - video editing
@@ -2275,4 +2275,5 @@ As previously said, these are the best **video invitation maker app** available.
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-redmi-note-12-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Redmi Note 12 Pro 5G Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-the-best-laptops-for-video-editing/"><u>Updated The Best Laptops For Video Editing</u></a></li>
 </ul></div>
+
 

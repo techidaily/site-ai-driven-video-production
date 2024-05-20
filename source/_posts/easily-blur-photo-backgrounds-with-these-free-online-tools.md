@@ -1,7 +1,7 @@
 ---
 title: Easily Blur Photo Backgrounds with These Free Online Tools
-date: 2024-04-29T19:15:49.236Z
-updated: 2024-04-30T19:15:49.236Z
+date: 2024-05-19T11:46:45.841Z
+updated: 2024-05-20T11:46:45.841Z
 tags: 
   - video editing software
   - video editing
@@ -1980,4 +1980,5 @@ The selected image will not be used as the thumbnail for the video.
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-motorola-moto-g73-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Motorola Moto G73 5G FRP In 3 Different Ways</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-nubia-red-magic-9-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nubia Red Magic 9 Pro? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

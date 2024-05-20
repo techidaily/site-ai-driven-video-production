@@ -1,7 +1,7 @@
 ---
 title: Match, Merge, and Master Color Correction in FCP
-date: 2024-04-29T19:16:47.704Z
-updated: 2024-04-30T19:16:47.704Z
+date: 2024-05-19T11:46:48.934Z
+updated: 2024-05-20T11:46:48.934Z
 tags: 
   - video editing software
   - video editing
@@ -2005,4 +2005,5 @@ Note: Offline editing refers to editing a [proxy file of the original source mat
 <li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-m14-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy M14 5G Unlock Without Password</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-phantom-v-flip-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Phantom V Flip Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

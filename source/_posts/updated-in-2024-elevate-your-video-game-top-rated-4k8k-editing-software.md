@@ -1848,3 +1848,4 @@ Follow @Liza Brown
 <li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-a38-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo A38 Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
 
+

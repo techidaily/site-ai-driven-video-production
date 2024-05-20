@@ -1,7 +1,7 @@
 ---
 title: In 2024, Easy AVI File Splitting and Trimming A Comprehensive Guide
-date: 2024-04-29T19:23:56.527Z
-updated: 2024-04-30T19:23:56.527Z
+date: 2024-05-19T11:47:20.529Z
+updated: 2024-05-20T11:47:20.529Z
 tags: 
   - video editing software
   - video editing
@@ -1170,4 +1170,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated 2024 Approved Top 10 AI Subtitle Translators for Content Creators</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-things-you-need-to-know-about-color-grading-in-photography/"><u>New Things You Need to Know About Color Grading in Photography</u></a></li>
 </ul></div>
+
 

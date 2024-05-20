@@ -1,7 +1,7 @@
 ---
 title: New Free Online Image Resizer Adjust Ratios and Sizes
-date: 2024-04-29T19:25:39.435Z
-updated: 2024-04-30T19:25:39.435Z
+date: 2024-05-19T11:47:27.139Z
+updated: 2024-05-20T11:47:27.139Z
 tags: 
   - video editing software
   - video editing
@@ -1303,4 +1303,5 @@ Follow @Benjamin Arango
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-oppo-find-x7-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Oppo Find X7</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-google-pixel-8-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Google Pixel 8 Pro</u></a></li>
 </ul></div>
+
 

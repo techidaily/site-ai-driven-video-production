@@ -1,7 +1,7 @@
 ---
 title: Updated Transform Your Footage Color Correction in Final Cut Pro
-date: 2024-04-29T19:34:43.151Z
-updated: 2024-04-30T19:34:43.151Z
+date: 2024-05-19T11:48:02.225Z
+updated: 2024-05-20T11:48:02.225Z
 tags: 
   - video editing software
   - video editing
@@ -1714,4 +1714,5 @@ Follow @Liza Brown
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-7-plus-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 7 Plus 3 Ways To Unlock</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-a56s-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo A56s 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

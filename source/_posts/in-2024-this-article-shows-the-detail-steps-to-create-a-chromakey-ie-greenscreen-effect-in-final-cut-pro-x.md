@@ -1,7 +1,7 @@
 ---
 title: In 2024, This Article Shows the Detail Steps to Create a Chromakey, I.e. Greenscreen Effect in Final Cut Pro X
-date: 2024-04-29T19:33:49.026Z
-updated: 2024-04-30T19:33:49.026Z
+date: 2024-05-19T11:47:58.997Z
+updated: 2024-05-20T11:47:58.997Z
 tags: 
   - video editing software
   - video editing
@@ -2457,4 +2457,5 @@ Follow @Liza Brown
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-13-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 13</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-tecno-spark-10-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Tecno Spark 10 5G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Easily Resize Images Online Top Tools and Resources
-date: 2024-04-29T19:23:55.235Z
-updated: 2024-04-30T19:23:55.235Z
+date: 2024-05-19T11:47:20.451Z
+updated: 2024-05-20T11:47:20.451Z
 tags: 
   - video editing software
   - video editing
@@ -1642,4 +1642,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-rotate-a-video-in-windows-10/"><u>Updated How to Rotate a Video in Windows 10</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y28 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

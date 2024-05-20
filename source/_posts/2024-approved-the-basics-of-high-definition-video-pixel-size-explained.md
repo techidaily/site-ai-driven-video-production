@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Basics of High-Definition Video Pixel Size Explained
-date: 2024-04-29T19:20:21.663Z
-updated: 2024-04-30T19:20:21.663Z
+date: 2024-05-19T11:47:05.201Z
+updated: 2024-05-20T11:47:05.201Z
 tags: 
   - video editing software
   - video editing
@@ -2474,4 +2474,5 @@ Follow @Liza Brown
 <li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-11-pro-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 11 Pro iCloud Bypass</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-honor-x8b-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor X8b Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

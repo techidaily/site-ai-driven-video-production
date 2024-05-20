@@ -1,7 +1,7 @@
 ---
 title: New Mastering the Ken Burns Technique A Step-by-Step Guide
-date: 2024-04-29T19:28:41.923Z
-updated: 2024-04-30T19:28:41.923Z
+date: 2024-05-19T11:47:38.817Z
+updated: 2024-05-20T11:47:38.817Z
 tags: 
   - video editing software
   - video editing
@@ -2769,4 +2769,5 @@ Follow @Shanoon Cox
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-lava-blaze-2-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Lava Blaze 2 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

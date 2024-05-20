@@ -1,7 +1,7 @@
 ---
 title: Top Linux Video Editors for Adobe Premiere Refugees
-date: 2024-04-29T19:17:50.450Z
-updated: 2024-04-30T19:17:50.450Z
+date: 2024-05-19T11:46:52.814Z
+updated: 2024-05-20T11:46:52.814Z
 tags: 
   - video editing software
   - video editing
@@ -3396,4 +3396,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-updated-8-ways-to-merge-srt-with-mp4/"><u>Updated In 2024, Updated 8 Ways to Merge SRT with MP4</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nokia C02? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Motion Blur Magic A Comprehensive Guide to Final Cut Pro Effects
-date: 2024-04-29T19:29:02.675Z
-updated: 2024-04-30T19:29:02.675Z
+date: 2024-05-19T11:47:39.596Z
+updated: 2024-05-20T11:47:39.596Z
 tags: 
   - video editing software
   - video editing
@@ -2789,4 +2789,5 @@ The Filmora also assists you in changing the project aspect ratio after launchin
 <li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-10-free-and-best-text-to-speech-generators/"><u>New 2024 Approved Best 10 Free and Best Text-to-Speech Generators</u></a></li>
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava FRP</u></a></li>
 </ul></div>
+
 

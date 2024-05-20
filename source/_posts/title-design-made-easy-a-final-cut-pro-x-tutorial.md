@@ -1,7 +1,7 @@
 ---
 title: Title Design Made Easy A Final Cut Pro X Tutorial
-date: 2024-04-29T19:17:46.608Z
-updated: 2024-04-30T19:17:46.608Z
+date: 2024-05-19T11:46:52.520Z
+updated: 2024-05-20T11:46:52.520Z
 tags: 
   - video editing software
   - video editing
@@ -3355,4 +3355,5 @@ Follow @Caroline Laurent
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-trimming-made-easy-no-watermarks-no-hassle/"><u>In 2024, Free Video Trimming Made Easy No Watermarks, No Hassle</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-moto-g23-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Moto G23 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Slow Down Time How to Make a Slow Motion Video on Kapwing
-date: 2024-04-29T19:17:13.997Z
-updated: 2024-04-30T19:17:13.997Z
+date: 2024-05-19T11:46:50.406Z
+updated: 2024-05-20T11:46:50.406Z
 tags: 
   - video editing software
   - video editing
@@ -2009,4 +2009,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-the-art-of-slow-motion-a-comprehensive-guide-to-vlc-video-playback/"><u>In 2024, The Art of Slow Motion A Comprehensive Guide to VLC Video Playback</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-convert-mts-for-xiaomi-13t-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Xiaomi 13T Pro</u></a></li>
 </ul></div>
+
 

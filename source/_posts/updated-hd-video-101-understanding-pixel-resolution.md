@@ -1,7 +1,7 @@
 ---
 title: Updated HD Video 101 Understanding Pixel Resolution
-date: 2024-04-29T19:20:01.686Z
-updated: 2024-04-30T19:20:01.686Z
+date: 2024-05-19T11:47:03.720Z
+updated: 2024-05-20T11:47:03.720Z
 tags: 
   - video editing software
   - video editing
@@ -2709,4 +2709,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-your-own-video-invitations-for-free-top-online-tools/"><u>New In 2024, Make Your Own Video Invitations for Free Top Online Tools</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-take-your-editing-to-the-next-level-5-final-cut-pro-hacks-for-2024/"><u>Updated Take Your Editing to the Next Level 5 Final Cut Pro Hacks for 2024</u></a></li>
 </ul></div>
+
 

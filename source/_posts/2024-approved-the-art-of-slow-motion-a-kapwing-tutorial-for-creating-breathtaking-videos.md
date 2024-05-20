@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Art of Slow Motion A Kapwing Tutorial for Creating Breathtaking Videos
-date: 2024-04-29T19:31:48.820Z
-updated: 2024-04-30T19:31:48.820Z
+date: 2024-05-19T11:47:49.921Z
+updated: 2024-05-20T11:47:49.921Z
 tags: 
   - video editing software
   - video editing
@@ -2359,4 +2359,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Lava Yuva 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-x50iplus-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor X50i+ ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

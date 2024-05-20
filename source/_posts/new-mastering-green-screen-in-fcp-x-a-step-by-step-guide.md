@@ -1,7 +1,7 @@
 ---
 title: New Mastering Green Screen in FCP X A Step-by-Step Guide
-date: 2024-04-29T19:20:09.830Z
-updated: 2024-04-30T19:20:09.830Z
+date: 2024-05-19T11:47:04.095Z
+updated: 2024-05-20T11:47:04.095Z
 tags: 
   - video editing software
   - video editing
@@ -2249,4 +2249,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-oppo-a78-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Oppo A78 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On ZTE Blade A73 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

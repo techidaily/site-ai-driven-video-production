@@ -1,7 +1,7 @@
 ---
 title: New 10 Essential Tools for Resizing Videos
-date: 2024-04-29T19:18:30.990Z
-updated: 2024-04-30T19:18:30.990Z
+date: 2024-05-19T11:46:54.874Z
+updated: 2024-05-20T11:46:54.874Z
 tags: 
   - video editing software
   - video editing
@@ -3234,4 +3234,5 @@ Follow @Liza Brown
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-14-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 14 Prevention & Solution</u></a></li>
 </ul></div>
+
 

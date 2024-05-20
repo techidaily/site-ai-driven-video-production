@@ -1,7 +1,7 @@
 ---
 title: Getting Started with Stop Motion Animation A Beginners Handbook
-date: 2024-04-29T19:16:30.107Z
-updated: 2024-04-30T19:16:30.107Z
+date: 2024-05-19T11:46:48.387Z
+updated: 2024-05-20T11:46:48.387Z
 tags: 
   - video editing software
   - video editing
@@ -1651,4 +1651,5 @@ After reading all the features mentioned in this article, you might be looking f
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi K70E | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-se-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone SE Passcode Change Itself? Unlock It Now</u></a></li>
 </ul></div>
+
 

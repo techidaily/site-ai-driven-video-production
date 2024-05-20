@@ -2228,3 +2228,4 @@ Follow @Liza Brown
 <li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-smart-7-hd-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Smart 7 HD Running Slow and Freezing | Dr.fone</u></a></li>
 </ul></div>
 
+

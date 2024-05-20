@@ -1,7 +1,7 @@
 ---
 title: In 2024, Video Cropping 101 A Beginners Guide to Using Avidemux
-date: 2024-04-29T19:36:09.809Z
-updated: 2024-04-30T19:36:09.809Z
+date: 2024-05-19T11:48:08.057Z
+updated: 2024-05-20T11:48:08.057Z
 tags: 
   - video editing software
   - video editing
@@ -2480,4 +2480,5 @@ Follow @Liza Brown
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 14 Plus to New iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Realme V30T | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Kapwing Slow Motion Tutorial A Beginners Guide to Slowing Down Your Videos
-date: 2024-04-29T19:16:37.316Z
-updated: 2024-04-30T19:16:37.316Z
+date: 2024-05-19T11:46:48.572Z
+updated: 2024-05-20T11:46:48.572Z
 tags: 
   - video editing software
   - video editing
@@ -3692,4 +3692,5 @@ MAC and Windows users can download Filmora to cut videos for free. Filmora also 
 <li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo Find X6 Pro | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme C55 | Dr.fone</u></a></li>
 </ul></div>
+
 

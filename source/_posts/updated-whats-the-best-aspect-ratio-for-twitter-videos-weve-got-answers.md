@@ -1898,3 +1898,4 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-lava-blaze-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Lava Blaze 2 5G? | Dr.fone</u></a></li>
 </ul></div>
 
+

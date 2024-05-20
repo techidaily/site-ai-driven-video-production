@@ -1,7 +1,7 @@
 ---
 title: Updated Adding Titles in FCPX A Beginners Guide to Professional Results
-date: 2024-04-29T19:19:09.431Z
-updated: 2024-04-30T19:19:09.431Z
+date: 2024-05-19T11:46:58.565Z
+updated: 2024-05-20T11:46:58.565Z
 tags: 
   - video editing software
   - video editing
@@ -2250,4 +2250,5 @@ If you need subtitles for your videos, it is important to find the best subtitle
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-aspect-ratio-changer-10-essential-tools/"><u>New 2024 Approved Aspect Ratio Changer 10 Essential Tools</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-get-the-right-glow-top-video-brightness-editors-and-correctors-for-2024/"><u>Updated Get the Right Glow Top Video Brightness Editors and Correctors for 2024</u></a></li>
 </ul></div>
+
 

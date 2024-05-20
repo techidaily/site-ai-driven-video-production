@@ -1,7 +1,7 @@
 ---
 title: Back to Basic
-date: 2024-04-29T19:15:18.900Z
-updated: 2024-04-30T19:15:18.900Z
+date: 2024-05-19T11:46:44.050Z
+updated: 2024-05-20T11:46:44.050Z
 tags: 
   - video editing software
   - video editing
@@ -1630,4 +1630,5 @@ Follow @Ollie Mattison
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-honor-90-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Honor 90</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/unlock-exclusive-deals-top-4-methods-to-get-filmora-discounts/"><u>Unlock Exclusive Deals Top 4 Methods to Get Filmora Discounts</u></a></li>
 </ul></div>
+
 

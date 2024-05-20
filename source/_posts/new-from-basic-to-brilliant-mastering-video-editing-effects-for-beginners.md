@@ -1,7 +1,7 @@
 ---
 title: New From Basic to Brilliant Mastering Video Editing Effects for Beginners
-date: 2024-04-29T19:26:01.054Z
-updated: 2024-04-30T19:26:01.054Z
+date: 2024-05-19T11:47:29.058Z
+updated: 2024-05-20T11:47:29.058Z
 tags: 
   - video editing software
   - video editing
@@ -2211,4 +2211,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-gt-10-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix GT 10 Pro</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-elevate-your-content-with-the-best-free-video-translator-apps/"><u>New 2024 Approved Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
 </ul></div>
+
 

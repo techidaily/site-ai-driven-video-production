@@ -1,7 +1,7 @@
 ---
 title: Mastering FCPX Expert Solutions to Common Issues
-date: 2024-04-29T19:15:01.018Z
-updated: 2024-04-30T19:15:01.018Z
+date: 2024-05-19T11:46:43.169Z
+updated: 2024-05-20T11:46:43.169Z
 tags: 
   - video editing software
   - video editing
@@ -1858,4 +1858,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-factory-reset-vivo-y36-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y36 in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-k70e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi K70E Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

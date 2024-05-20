@@ -2194,3 +2194,4 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-x-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone X to PC | Dr.fone</u></a></li>
 </ul></div>
 
+

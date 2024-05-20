@@ -1,7 +1,7 @@
 ---
 title: New From Basic to Brilliant Using Ken Burns Effect in Final Cut Pro Like a Pro
-date: 2024-04-29T19:26:01.476Z
-updated: 2024-04-30T19:26:01.476Z
+date: 2024-05-19T11:47:29.067Z
+updated: 2024-05-20T11:47:29.067Z
 tags: 
   - video editing software
   - video editing
@@ -2819,4 +2819,5 @@ Removing the TikTok watermark becomes necessary if you want to repurpose the con
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-magic-5-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Magic 5</u></a></li>
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-civi-3-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi Civi 3? Here Are All Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

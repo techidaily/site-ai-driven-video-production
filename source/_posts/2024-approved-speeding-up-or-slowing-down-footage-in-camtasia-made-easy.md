@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Speeding Up or Slowing Down Footage in Camtasia Made Easy
-date: 2024-04-29T19:31:15.634Z
-updated: 2024-04-30T19:31:15.634Z
+date: 2024-05-19T11:47:47.920Z
+updated: 2024-05-20T11:47:47.920Z
 tags: 
   - video editing software
   - video editing
@@ -2400,4 +2400,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-hot-30i-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Hot 30i to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-m54-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy M54 5G Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

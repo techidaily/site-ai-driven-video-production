@@ -1,7 +1,7 @@
 ---
 title: New Disrupt the Norm Top Glitch Art Video Editing Apps for iOS and Android Creators
-date: 2024-04-29T19:23:34.988Z
-updated: 2024-04-30T19:23:34.988Z
+date: 2024-05-19T11:47:19.386Z
+updated: 2024-05-20T11:47:19.386Z
 tags: 
   - video editing software
   - video editing
@@ -1672,4 +1672,5 @@ Follow @Ollie Mattison
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-motorola-edge-40-neo-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Motorola Edge 40 Neo Lock Screen Clock in Seconds</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-6-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 6 Plus How to Bypass?</u></a></li>
 </ul></div>
+
 

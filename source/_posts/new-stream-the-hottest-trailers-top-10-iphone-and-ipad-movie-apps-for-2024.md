@@ -1633,3 +1633,4 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/how-do-i-reset-my-sony-xperia-5-v-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Sony Xperia 5 V Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

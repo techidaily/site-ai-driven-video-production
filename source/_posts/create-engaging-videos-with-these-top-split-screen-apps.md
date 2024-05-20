@@ -1,7 +1,7 @@
 ---
 title: Create Engaging Videos with These Top Split Screen Apps
-date: 2024-04-29T19:15:38.594Z
-updated: 2024-04-30T19:15:38.594Z
+date: 2024-05-19T11:46:45.113Z
+updated: 2024-05-20T11:46:45.113Z
 tags: 
   - video editing software
   - video editing
@@ -2692,4 +2692,5 @@ Follow @Liza Brown
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-8-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 8 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-realme-11-proplus-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Realme 11 Pro+</u></a></li>
 </ul></div>
+
 

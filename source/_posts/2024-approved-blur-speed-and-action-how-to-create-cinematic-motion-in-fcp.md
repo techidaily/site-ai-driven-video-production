@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Blur, Speed, and Action How to Create Cinematic Motion in FCP
-date: 2024-04-29T19:21:59.867Z
-updated: 2024-04-30T19:21:59.867Z
+date: 2024-05-19T11:47:12.959Z
+updated: 2024-05-20T11:47:12.959Z
 tags: 
   - video editing software
   - video editing
@@ -1749,4 +1749,5 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-create-true-3d-text-effects-using-after-effects/"><u>Updated In 2024, Create True 3D Text Effects Using After Effects</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-6s-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 6s Backup Password? Heres What to Do</u></a></li>
 </ul></div>
+
 

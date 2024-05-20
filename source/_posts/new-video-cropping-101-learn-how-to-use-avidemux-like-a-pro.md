@@ -1,7 +1,7 @@
 ---
 title: New Video Cropping 101 Learn How to Use Avidemux Like a Pro
-date: 2024-04-29T19:36:10.017Z
-updated: 2024-04-30T19:36:10.017Z
+date: 2024-05-19T11:48:08.103Z
+updated: 2024-05-20T11:48:08.103Z
 tags: 
   - video editing software
   - video editing
@@ -2718,4 +2718,5 @@ Follow @Benjamin Arango
 <li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-note-13-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 13 Pro 5G Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+
 

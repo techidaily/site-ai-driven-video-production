@@ -1,7 +1,7 @@
 ---
 title: Calculating Image Size and Aspect Ratio Like a Pro
-date: 2024-04-29T19:15:31.578Z
-updated: 2024-04-30T19:15:31.578Z
+date: 2024-05-19T11:46:44.746Z
+updated: 2024-05-20T11:46:44.746Z
 tags: 
   - video editing software
   - video editing
@@ -2150,4 +2150,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo A1x 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-13-pro-max-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 13 Pro Max to Enjoy More Fun | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -2426,3 +2426,4 @@ The best video resolution varies with different platforms. But it will help in t
 <li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-infinix-smart-8-by-drfone-android/"><u>Universal Unlock Pattern for Infinix Smart 8</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate Guide to Cropping Videos in Avidemux Tips and Tricks
-date: 2024-04-29T19:33:02.171Z
-updated: 2024-04-30T19:33:02.171Z
+date: 2024-05-19T11:47:55.229Z
+updated: 2024-05-20T11:47:55.229Z
 tags: 
   - video editing software
   - video editing
@@ -2714,4 +2714,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-s17e-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo S17e Phone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix FRP Without Computer</u></a></li>
 </ul></div>
+
 

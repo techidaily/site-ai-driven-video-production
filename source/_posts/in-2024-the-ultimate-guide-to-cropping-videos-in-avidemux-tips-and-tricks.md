@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Cropping Videos in Avidemux Tips and Tricks
-date: 2024-04-29T19:33:01.953Z
-updated: 2024-04-30T19:33:01.953Z
+date: 2024-05-19T11:47:55.221Z
+updated: 2024-05-20T11:47:55.221Z
 tags: 
   - video editing software
   - video editing
@@ -1673,4 +1673,5 @@ This online image editing tool supports multiple functions like image resizing, 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-nokia-g22-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Nokia G22 Location on Viber | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V27 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

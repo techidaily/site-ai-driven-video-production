@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Unlock Cinematic Storytelling How to Apply the Ken Burns Effect in Final Cut Pro
-date: 2024-04-29T19:35:41.129Z
-updated: 2024-04-30T19:35:41.129Z
+date: 2024-05-19T11:48:05.926Z
+updated: 2024-05-20T11:48:05.926Z
 tags: 
   - video editing software
   - video editing
@@ -1899,4 +1899,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-a34-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy A34 5G via a USB Cable | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-v30-lite-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo V30 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

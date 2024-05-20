@@ -1,7 +1,7 @@
 ---
 title: The Ultimate FCP X Shortcut Adding Effects in 3 Steps or Less for 2024
-date: 2024-04-29T19:32:52.237Z
-updated: 2024-04-30T19:32:52.237Z
+date: 2024-05-19T11:47:54.599Z
+updated: 2024-05-20T11:47:54.599Z
 tags: 
   - video editing software
   - video editing
@@ -2118,4 +2118,5 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-in-this-article-you-will-learn-how-to-make-an-engaging-and-creative-youtube-intro-to-give-a-hook-and-recap-information-to-the-audience-by-using-wond/"><u>In 2024, In This Article, You Will Learn How to Make an Engaging and Creative YouTube Intro to Give a Hook and Recap Information to the Audience by Using Wondershare Filmora</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 13 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

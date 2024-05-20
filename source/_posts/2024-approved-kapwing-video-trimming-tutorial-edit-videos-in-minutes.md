@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Kapwing Video Trimming Tutorial Edit Videos in Minutes
-date: 2024-04-29T19:27:49.109Z
-updated: 2024-04-30T19:27:49.109Z
+date: 2024-05-19T11:47:35.280Z
+updated: 2024-05-20T11:47:35.280Z
 tags: 
   - video editing software
   - video editing
@@ -1856,4 +1856,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/new-discover-the-best-vllo-alternatives-for-mac-users-for-2024/"><u>New Discover the Best VLLO Alternatives for Mac Users for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-14-ultra-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi 14 Ultra Face Lock?</u></a></li>
 </ul></div>
+
 

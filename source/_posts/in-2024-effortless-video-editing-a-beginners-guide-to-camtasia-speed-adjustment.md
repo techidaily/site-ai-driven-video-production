@@ -1,7 +1,7 @@
 ---
 title: In 2024, Effortless Video Editing A Beginners Guide to Camtasia Speed Adjustment
-date: 2024-04-29T19:24:12.337Z
-updated: 2024-04-30T19:24:12.337Z
+date: 2024-05-19T11:47:21.739Z
+updated: 2024-05-20T11:47:21.739Z
 tags: 
   - video editing software
   - video editing
@@ -1830,4 +1830,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-find-n3-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo Find N3 without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-15-pro-max-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 15 Pro Max without App | Dr.fone</u></a></li>
 </ul></div>
+
 

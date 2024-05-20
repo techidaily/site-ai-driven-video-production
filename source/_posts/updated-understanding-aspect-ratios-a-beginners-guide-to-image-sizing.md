@@ -1,7 +1,7 @@
 ---
 title: Updated Understanding Aspect Ratios A Beginners Guide to Image Sizing
-date: 2024-04-29T19:35:10.235Z
-updated: 2024-04-30T19:35:10.235Z
+date: 2024-05-19T11:48:04.292Z
+updated: 2024-05-20T11:48:04.292Z
 tags: 
   - video editing software
   - video editing
@@ -2859,4 +2859,5 @@ You may use VHS effects to add variety to the photographs and videos you upload 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-narzo-60-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme Narzo 60 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
 </ul></div>
+
 

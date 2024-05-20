@@ -1,7 +1,7 @@
 ---
 title: Updated From Widescreen to Vertical The Essential Guide to Resizing Social Media Videos
-date: 2024-04-29T19:26:29.291Z
-updated: 2024-04-30T19:26:29.291Z
+date: 2024-05-19T11:47:30.363Z
+updated: 2024-05-20T11:47:30.363Z
 tags: 
   - video editing software
   - video editing
@@ -3416,4 +3416,5 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-70-lite-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor 70 Lite 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

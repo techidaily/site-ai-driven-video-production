@@ -1,7 +1,7 @@
 ---
 title: New FCP Like a Pro 5 Must-Know Editing Tips for Stunning Videos
-date: 2024-04-29T19:24:45.389Z
-updated: 2024-04-30T19:24:45.389Z
+date: 2024-05-19T11:47:24.049Z
+updated: 2024-05-20T11:47:24.049Z
 tags: 
   - video editing software
   - video editing
@@ -1981,4 +1981,5 @@ Follow @Shanoon Cox
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme 12 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-ninja-jump-effect-with-filmora/"><u>Updated How To Make Ninja Jump Effect with Filmora</u></a></li>
 </ul></div>
+
 

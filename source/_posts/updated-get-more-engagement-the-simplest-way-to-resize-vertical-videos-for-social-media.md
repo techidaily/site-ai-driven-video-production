@@ -1,7 +1,7 @@
 ---
 title: Updated Get More Engagement The Simplest Way to Resize Vertical Videos for Social Media
-date: 2024-04-29T19:26:42.006Z
-updated: 2024-04-30T19:26:42.006Z
+date: 2024-05-19T11:47:31.163Z
+updated: 2024-05-20T11:47:31.163Z
 tags: 
   - video editing software
   - video editing
@@ -2415,4 +2415,5 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/bypassreset-note-30-vip-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Note 30 VIP Phone Screen Passcode/Pattern/Pin</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-install-splice-on-your-mac-for-professional-video-editing/"><u>Updated Install Splice on Your Mac for Professional Video Editing</u></a></li>
 </ul></div>
+
 

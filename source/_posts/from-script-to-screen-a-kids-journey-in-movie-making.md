@@ -1,7 +1,7 @@
 ---
 title: From Script to Screen A Kids Journey in Movie Making
-date: 2024-04-29T19:16:21.033Z
-updated: 2024-04-30T19:16:21.033Z
+date: 2024-05-19T11:46:47.617Z
+updated: 2024-05-20T11:46:47.617Z
 tags: 
   - video editing software
   - video editing
@@ -1952,4 +1952,5 @@ Follow @Liza Brown
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-7-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Smart 7 to Laptop Without USB | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-13-mini-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 13 mini</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Aspect Ratio 101 How to Choose the Best Video Size for Instagram
-date: 2024-04-29T19:15:15.725Z
-updated: 2024-04-30T19:15:15.725Z
+date: 2024-05-19T11:46:43.849Z
+updated: 2024-05-20T11:46:43.849Z
 tags: 
   - video editing software
   - video editing
@@ -2182,4 +2182,5 @@ Well, there you have it – the best **basic video editors** for beginners. Vide
 <li><a href="https://howto.techidaily.com/vivo-y100i-power-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100i Power 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-realme-note-50-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Realme Note 50 for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

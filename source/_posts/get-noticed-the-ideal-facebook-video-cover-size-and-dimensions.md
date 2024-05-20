@@ -1,7 +1,7 @@
 ---
 title: Get Noticed The Ideal Facebook Video Cover Size and Dimensions
-date: 2024-04-29T19:16:26.335Z
-updated: 2024-04-30T19:16:26.335Z
+date: 2024-05-19T11:46:48.276Z
+updated: 2024-05-20T11:46:48.276Z
 tags: 
   - video editing software
   - video editing
@@ -1850,4 +1850,5 @@ Follow @Liza Brown
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-note-30-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Note 30 5G</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-step-by-step-to-resize-video-in-davinci-resolve/"><u>Updated 2024 Approved Step by Step to Resize Video in Davinci Resolve</u></a></li>
 </ul></div>
+
 

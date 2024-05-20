@@ -1,7 +1,7 @@
 ---
 title: Measure and Modify Image Size
-date: 2024-04-29T19:16:49.376Z
-updated: 2024-04-30T19:16:49.376Z
+date: 2024-05-19T11:46:49.031Z
+updated: 2024-05-20T11:46:49.031Z
 tags: 
   - video editing software
   - video editing
@@ -3486,4 +3486,5 @@ Follow @Ollie Mattison
 <li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone X? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-tecno-spark-20c-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Tecno Spark 20C without App | Dr.fone</u></a></li>
 </ul></div>
+
 

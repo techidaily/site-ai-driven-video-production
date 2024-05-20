@@ -1,7 +1,7 @@
 ---
 title: Updated Click-Worthy Thumbnails A Guide to YouTube Image Sizes and Best Practices
-date: 2024-04-29T19:19:46.030Z
-updated: 2024-04-30T19:19:46.030Z
+date: 2024-05-19T11:47:01.969Z
+updated: 2024-05-20T11:47:01.969Z
 tags: 
   - video editing software
   - video editing
@@ -3112,4 +3112,5 @@ It's a shame that iMovie is not available on Windows 10/11 computers. Thankfully
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-tecno-spark-20-proplus-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Tecno Spark 20 Pro+.</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-a18-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo A18 Lock Screen Password?</u></a></li>
 </ul></div>
+
 

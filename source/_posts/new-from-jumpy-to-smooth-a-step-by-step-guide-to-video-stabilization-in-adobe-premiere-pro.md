@@ -1,7 +1,7 @@
 ---
 title: New From Jumpy to Smooth A Step-by-Step Guide to Video Stabilization in Adobe Premiere Pro
-date: 2024-04-29T19:26:14.359Z
-updated: 2024-04-30T19:26:14.359Z
+date: 2024-05-19T11:47:29.507Z
+updated: 2024-05-20T11:47:29.507Z
 tags: 
   - video editing software
   - video editing
@@ -2336,4 +2336,5 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nokia-g310-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nokia G310 Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola</u></a></li>
 </ul></div>
+
 

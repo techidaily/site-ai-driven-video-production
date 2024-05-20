@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 8 Lightweight Video Editors for Smooth Performance
-date: 2024-04-29T19:34:07.201Z
-updated: 2024-04-30T19:34:07.201Z
+date: 2024-05-19T11:47:59.895Z
+updated: 2024-05-20T11:47:59.895Z
 tags: 
   - video editing software
   - video editing
@@ -2769,4 +2769,5 @@ It is pretty convenient to reduce the playback speed in VLC media player regardl
 <li><a href="https://ai-editing-video.techidaily.com/updated-reversing-time-lapse-videos-on-iphone-using-top-applications-for-2024/"><u>Updated Reversing Time Lapse Videos on iPhone Using Top Applications for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-aspect-ratio-converter-top-10-tools-compared-for-2024/"><u>Updated Aspect Ratio Converter Top 10 Tools Compared for 2024</u></a></li>
 </ul></div>
+
 

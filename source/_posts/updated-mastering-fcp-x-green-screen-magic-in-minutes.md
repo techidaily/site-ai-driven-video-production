@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering FCP X Green Screen Magic in Minutes
-date: 2024-04-29T19:28:38.469Z
-updated: 2024-04-30T19:28:38.469Z
+date: 2024-05-19T11:47:38.678Z
+updated: 2024-05-20T11:47:38.678Z
 tags: 
   - video editing software
   - video editing
@@ -3070,4 +3070,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-11-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 11 Easily & Safely | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-speed-up-pictures-on-tiktok-slideshow/"><u>2024 Approved How to Speed Up Pictures on TikTok Slideshow</u></a></li>
 </ul></div>
+
 

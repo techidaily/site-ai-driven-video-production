@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Power of Vertical How to Resize Your Videos for Maximum Impact on Social Media
-date: 2024-04-29T19:32:35.109Z
-updated: 2024-04-30T19:32:35.109Z
+date: 2024-05-19T11:47:53.992Z
+updated: 2024-05-20T11:47:53.992Z
 tags: 
   - video editing software
   - video editing
@@ -2168,4 +2168,5 @@ Create a thumbnail that speaks about the content of your video. If the thumbnail
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Nokia C12 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 to iPad? | Dr.fone</u></a></li>
 </ul></div>
+
 

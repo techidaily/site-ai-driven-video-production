@@ -1,7 +1,7 @@
 ---
 title: Crafting Compelling Lower Thirds FCPX Essentials for 2024
-date: 2024-04-29T19:19:48.346Z
-updated: 2024-04-30T19:19:48.346Z
+date: 2024-05-19T11:47:02.216Z
+updated: 2024-05-20T11:47:02.216Z
 tags: 
   - video editing software
   - video editing
@@ -1494,4 +1494,5 @@ Follow @Ollie Mattison
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor 90 Lite | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-se-2020-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone SE (2020) Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
 </ul></div>
+
 

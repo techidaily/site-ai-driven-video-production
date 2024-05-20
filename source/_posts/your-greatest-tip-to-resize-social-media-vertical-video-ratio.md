@@ -1,7 +1,7 @@
 ---
 title: Your Greatest Tip to Resize Social Media Vertical Video Ratio
-date: 2024-04-29T19:15:11.838Z
-updated: 2024-04-30T19:15:11.838Z
+date: 2024-05-19T11:46:43.691Z
+updated: 2024-05-20T11:46:43.691Z
 tags: 
   - video editing software
   - video editing
@@ -3747,4 +3747,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-tecno-by-stellar-video-repair-mobile-video-repair/"><u>Solved  Bad and Corrupt Videos that won't Play on Tecno</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo T2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

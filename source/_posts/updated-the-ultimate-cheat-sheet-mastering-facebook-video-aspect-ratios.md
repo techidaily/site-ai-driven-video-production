@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Cheat Sheet Mastering Facebook Video Aspect Ratios
-date: 2024-04-29T19:20:23.400Z
-updated: 2024-04-30T19:20:23.400Z
+date: 2024-05-19T11:47:05.443Z
+updated: 2024-05-20T11:47:05.443Z
 tags: 
   - video editing software
   - video editing
@@ -1997,4 +1997,5 @@ Follow @Liza Brown
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Blaze Pro 5G</u></a></li>
 </ul></div>
+
 

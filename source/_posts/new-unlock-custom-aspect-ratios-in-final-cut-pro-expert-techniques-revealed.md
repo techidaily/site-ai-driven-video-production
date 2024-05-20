@@ -1,7 +1,7 @@
 ---
 title: New Unlock Custom Aspect Ratios in Final Cut Pro Expert Techniques Revealed
-date: 2024-04-29T19:35:41.970Z
-updated: 2024-04-30T19:35:41.970Z
+date: 2024-05-19T11:48:05.949Z
+updated: 2024-05-20T11:48:05.949Z
 tags: 
   - video editing software
   - video editing
@@ -2991,4 +2991,5 @@ To edit the aspect ratio using other ways, you can check out the details[here](h
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-blaze-2-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Blaze 2 Pro to PC? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-oppo-reno-8t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Reno 8T Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

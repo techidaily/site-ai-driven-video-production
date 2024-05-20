@@ -1,7 +1,7 @@
 ---
 title: Sizing Up Your Content How Aspect Ratio Affects YouTube Video Style
-date: 2024-04-29T19:17:13.140Z
-updated: 2024-04-30T19:17:13.140Z
+date: 2024-05-19T11:46:50.376Z
+updated: 2024-05-20T11:46:50.376Z
 tags: 
   - video editing software
   - video editing
@@ -2359,4 +2359,5 @@ Follow @Ollie Mattison
 <li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-tecno-spark-10-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Tecno Spark 10 5G</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-merging-videos-like-a-pro-a-step-by-step-guide-to-use-ffmpeg/"><u>In 2024, Merging Videos Like a Pro A Step-by-Step Guide to Use FFmpeg</u></a></li>
 </ul></div>
+
 

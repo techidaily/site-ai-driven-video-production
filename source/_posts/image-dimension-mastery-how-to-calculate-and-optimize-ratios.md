@@ -1,7 +1,7 @@
 ---
 title: Image Dimension Mastery How to Calculate and Optimize Ratios
-date: 2024-04-29T19:16:33.514Z
-updated: 2024-04-30T19:16:33.514Z
+date: 2024-05-19T11:46:48.480Z
+updated: 2024-05-20T11:46:48.480Z
 tags: 
   - video editing software
   - video editing
@@ -2810,4 +2810,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-voice-clone.techidaily.com/updated-create-video-with-ai-avatar/"><u>Updated Create Video with AI Avatar</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-itel-p40-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Itel P40</u></a></li>
 </ul></div>
+
 
