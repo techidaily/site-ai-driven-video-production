@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Science Behind Instagram Video Dimensions Aspect Ratios Uncovered
-date: 2024-04-29T19:54:01.006Z
-updated: 2024-04-30T19:54:01.006Z
+date: 2024-06-08T18:31:39.097Z
+updated: 2024-06-09T18:31:39.097Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, The Science Behind Instagram Video Dimensions Aspect Ratios Uncovered
 excerpt: This Article Describes New In 2024, The Science Behind Instagram Video Dimensions Aspect Ratios Uncovered
 keywords: the science behind instagram video dimensions understanding aspect ratios,best video dimensions for instagram aspect ratios explained,the science behind instagram video dimensions aspect ratios uncovered,get noticed on instagram the perfect video dimensions and aspect ratios,instagram video dimensions explained a beginners guide to aspect ratios,get noticed on instagram best video dimensions and aspect ratios,the science behind instagram video dimensions what works best
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## The Science Behind Instagram Video Dimensions: Aspect Ratios Uncovered

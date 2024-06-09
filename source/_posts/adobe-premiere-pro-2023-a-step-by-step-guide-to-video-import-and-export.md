@@ -1,7 +1,7 @@
 ---
 title: Adobe Premiere Pro 2023 A Step-by-Step Guide to Video Import and Export
-date: 2024-05-19T11:46:42.337Z
-updated: 2024-05-20T11:46:42.337Z
+date: 2024-06-08T18:31:46.186Z
+updated: 2024-06-09T18:31:46.186Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Adobe Premiere Pro 2023 A Step-by-Step Guide to Video Import and Export
 excerpt: This Article Describes Adobe Premiere Pro 2023 A Step-by-Step Guide to Video Import and Export
 keywords: adobe premiere pro the complete guide to importing and exporting videos,premiere pro 2023 the ultimate guide to importing and exporting video files,mastering video import and export in adobe premiere pro 2023,adobe premiere pro 2023 a step by step guide to video import and export,adobe premiere 2023 a step by step guide to importing and exporting videos,unlocking adobe premiere a step by step guide to video import and export,mastering video import and export in adobe premiere pro
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## Adobe Premiere Pro 2023: A Step-by-Step Guide to Video Import and Export

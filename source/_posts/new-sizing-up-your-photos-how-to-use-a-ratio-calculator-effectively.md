@@ -1,7 +1,7 @@
 ---
 title: New Sizing Up Your Photos How to Use a Ratio Calculator Effectively
-date: 2024-05-19T11:47:47.121Z
-updated: 2024-05-20T11:47:47.121Z
+date: 2024-06-08T18:31:25.424Z
+updated: 2024-06-09T18:31:25.424Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Sizing Up Your Photos How to Use a Ratio Calculator Effectively
 excerpt: This Article Describes New Sizing Up Your Photos How to Use a Ratio Calculator Effectively
 keywords: sizing up your photos how to use a ratio calculator effectively,the ultimate guide to calculating aspect ratios for photos,get ready for a close up how to use vlcs slow motion effect,what you never knew top 7 benefits of using a 16x9 ratio calculator,online aspect ratio calculators our top picks,sizing up your images how to calculate aspect ratios like a pro,final cut pro aspect ratio settings how to customize your video
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Sizing Up Your Photos: How to Use a Ratio Calculator Effectively

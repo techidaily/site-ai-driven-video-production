@@ -1,7 +1,7 @@
 ---
 title: New OS X Mavericks Video Editing Essentials Tips and Tricks
-date: 2024-05-19T11:47:04.434Z
-updated: 2024-05-20T11:47:04.434Z
+date: 2024-06-08T18:31:36.969Z
+updated: 2024-06-09T18:31:36.969Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New OS X Mavericks Video Editing Essentials Tips and Tricks
 excerpt: This Article Describes New OS X Mavericks Video Editing Essentials Tips and Tricks
 keywords: gopro video editing on mac tips tricks and tutorials,gopro video editing for mac users tips tricks and tutorials,editing videos in mavericks tips tricks and techniques,yosemite video editing essentials tips and tricks,os x mavericks video editing essentials tips and tricks,video editing essentials for mac os x yosemite tips and tricks,ai animation os x mavericks video editing essentials tips and tricks
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## OS X Mavericks Video Editing Essentials: Tips and Tricks

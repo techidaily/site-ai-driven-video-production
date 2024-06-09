@@ -1,7 +1,7 @@
 ---
 title: New Change Aspect Ratio in FCP From 4 3 to 16 9 and Beyond for 2024
-date: 2024-04-29T19:42:03.203Z
-updated: 2024-04-30T19:42:03.203Z
+date: 2024-06-08T18:31:58.345Z
+updated: 2024-06-09T18:31:58.345Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Change Aspect Ratio in FCP From 4 3 to 16 9 and Beyond for 2024
 excerpt: This Article Describes New Change Aspect Ratio in FCP From 4 3 to 16 9 and Beyond for 2024
 keywords: aspect ratio changer top 10 free and paid options,from 43 to 169 changing aspect ratio in final cut pro,top 10 best video speed changing apps for free ios and android 2022,from 43 to 169 changing aspect ratio in final cut pro made easy,change aspect ratio in fcp from 43 to 169 and beyond,change aspect ratio in fcpx,resizing and reformatting how to change aspect ratio in fcp
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Change Aspect Ratio in FCP: From 4:3 to 16:9 and Beyond

@@ -1,7 +1,7 @@
 ---
 title: New The Anatomy of Great Lower Thirds A Guide for FCPX Editors for 2024
-date: 2024-04-29T19:53:01.203Z
-updated: 2024-04-30T19:53:01.203Z
+date: 2024-06-08T18:31:44.492Z
+updated: 2024-06-09T18:31:44.492Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Anatomy of Great Lower Thirds A Guide for FCPX Editors for 2024
 excerpt: This Article Describes New The Anatomy of Great Lower Thirds A Guide for FCPX Editors for 2024
 keywords: elevate your videos the secrets to great lower thirds in fcpx,lower thirds that pop advanced techniques for fcpx editors,ai animation discover the power of wax a free video editor for creators,unleashing the power of lower thirds in fcpx video editing,the anatomy of great lower thirds a guide for fcpx editors,the anatomy of a perfect lower third fcpx best practices,discover the power of wax a free video editor for creators
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## The Anatomy of Great Lower Thirds: A Guide for FCPX Editors

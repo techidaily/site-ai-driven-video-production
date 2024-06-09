@@ -1,7 +1,7 @@
 ---
 title: Updated Trim, Cut, and Edit Mastering Kapwings Video Editor
-date: 2024-05-19T11:48:03.163Z
-updated: 2024-05-20T11:48:03.163Z
+date: 2024-06-08T18:31:32.887Z
+updated: 2024-06-09T18:31:32.887Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Trim, Cut, and Edit Mastering Kapwings Video Editor
 excerpt: This Article Describes Updated Trim, Cut, and Edit Mastering Kapwings Video Editor
 keywords: trim cut and edit videos online with kapwings free editor,trim cut and edit mastering kapwings video editor,trim cut and edit mastering kapwings online video editor,trim cut and edit videos in minutes with kapwing editor,trim cut and share mastering kapwings video editing tools,master video trimming with kapwings online editor,ai animation master video trimming with kapwings online editor
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## Trim, Cut, and Edit: Mastering Kapwing's Video Editor

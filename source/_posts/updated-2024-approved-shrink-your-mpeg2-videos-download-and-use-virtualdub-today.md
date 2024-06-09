@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Shrink Your MPEG2 Videos Download and Use VirtualDub Today
-date: 2024-04-29T19:52:04.940Z
-updated: 2024-04-30T19:52:04.940Z
+date: 2024-06-08T18:31:28.161Z
+updated: 2024-06-09T18:31:28.161Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Shrink Your MPEG2 Videos Download and Use VirtualDub Today
 excerpt: This Article Describes Updated 2024 Approved Shrink Your MPEG2 Videos Download and Use VirtualDub Today
 keywords: shrink mpeg2 files download virtualdub for video compression,shrink your mpeg2 videos download and use virtualdub today,streamline your mpeg2 videos with virtualdub download,video editing freedom how to use any app on your chromebook updated 2023,download virtualdub mpeg2 use to compress mpeg2 videos,ai animation download virtualdub mpeg2 use to compress mpeg2 videos,virtualdub the ultimate tool for mpeg2 video shrinking
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## Shrink Your MPEG2 Videos: Download and Use VirtualDub Today

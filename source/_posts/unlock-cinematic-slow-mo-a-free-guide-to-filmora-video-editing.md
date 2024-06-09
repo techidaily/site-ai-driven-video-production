@@ -1,7 +1,7 @@
 ---
 title: Unlock Cinematic Slow Mo A Free Guide to Filmora Video Editing
-date: 2024-05-19T11:46:53.547Z
-updated: 2024-05-20T11:46:53.547Z
+date: 2024-06-08T18:31:34.432Z
+updated: 2024-06-09T18:31:34.432Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Unlock Cinematic Slow Mo A Free Guide to Filmora Video Editing
 excerpt: This Article Describes Unlock Cinematic Slow Mo A Free Guide to Filmora Video Editing
 keywords: add cinematic flair to your videos free slow motion editing with filmora,unlock slow motion magic a free video editing solution with filmora,get the cinematic look free slow motion video editing with filmora,unlock the power of slow motion free video editing software filmora,unlock cinematic slow mo a free guide to filmora video editing,the cinematic look a comprehensive guide to fcpx video editing,unlock cinematic magic free slow motion video editing with filmora
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## Unlock Cinematic Slow Mo: A Free Guide to Filmora Video Editing

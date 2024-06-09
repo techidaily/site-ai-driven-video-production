@@ -1,7 +1,7 @@
 ---
 title: In 2024, Craft Professional-Looking Video Invites with These iPhone and Android Apps
-date: 2024-05-19T11:47:16.732Z
-updated: 2024-05-20T11:47:16.732Z
+date: 2024-06-08T18:31:48.316Z
+updated: 2024-06-09T18:31:48.316Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Craft Professional-Looking Video Invites with These iPhone and Android Apps
 excerpt: This Article Describes In 2024, Craft Professional-Looking Video Invites with These iPhone and Android Apps
 keywords: on the go video editing top apps for iphone and android users,android and iphones finest video creators with music integration,design and send video invites with these top ios and android apps,craft professional looking video invites with these iphone and android apps,ranking the best video editing apps with music for android and ios devices,ranking the best video editing apps for iphone and android,create stunning video invites with these ios and android apps
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## Craft Professional-Looking Video Invites with These iPhone and Android Apps

@@ -1,7 +1,7 @@
 ---
 title: Updated Create Custom Avatars with These Free Online Face Generators
-date: 2024-05-19T11:47:16.797Z
-updated: 2024-05-20T11:47:16.797Z
+date: 2024-06-08T18:31:58.150Z
+updated: 2024-06-09T18:31:58.150Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Create Custom Avatars with These Free Online Face Generators
 excerpt: This Article Describes Updated Create Custom Avatars with These Free Online Face Generators
 keywords: create jaw dropping glitch art with these free online generators,create realistic fake faces with these free online generators,create custom avatars with these free online face generators,ai animation best free online face generators to create fake faces,generate realistic avatars top free online face creators,best free online face generators to create fake faces,create a face from scratch best free online generators
-thumbnail: https://www.lifewire.com/thmb/YoFEWWlqY0abEBrjSUdesHbTeyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dts-play-fi-lifestyle-aaa-5a4c211daad52b00366a3575.jpg
+thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc8061abd47262715b07e4d29cd.jpg
 ---
 
 ## Create Custom Avatars with These Free Online Face Generators

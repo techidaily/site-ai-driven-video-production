@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Calculating the Golden Ratio A Guide to Pixel Proportions
-date: 2024-04-29T19:41:57.056Z
-updated: 2024-04-30T19:41:57.056Z
+date: 2024-06-08T18:31:25.637Z
+updated: 2024-06-09T18:31:25.637Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Calculating the Golden Ratio A Guide to Pixel Proportions
 excerpt: This Article Describes New In 2024, Calculating the Golden Ratio A Guide to Pixel Proportions
 keywords: calculating the golden ratio a guide to pixel proportions,from pixels to perfection a guide to calculating image ratios,from pixels to proportions a guide to finding the ideal picture ratio,mastering image proportions a beginners guide to ratio calculators,the ultimate guide to calculating pixel density,the ultimate guide to calculating pixel dimensions,screen proportions made easy calculating pixel ratio
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## Calculating the Golden Ratio: A Guide to Pixel Proportions

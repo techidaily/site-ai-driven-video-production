@@ -1,7 +1,7 @@
 ---
 title: New The Art of Video Timing Speeding Up and Slowing Down in Camtasia for 2024
-date: 2024-04-29T19:53:09.067Z
-updated: 2024-04-30T19:53:09.067Z
+date: 2024-06-08T18:31:24.775Z
+updated: 2024-06-09T18:31:24.775Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Art of Video Timing Speeding Up and Slowing Down in Camtasia for 2024
 excerpt: This Article Describes New The Art of Video Timing Speeding Up and Slowing Down in Camtasia for 2024
 keywords: the ultimate camtasia shortcut speeding up and slowing down videos,time saving tips how to speed up or slow down videos in camtasia,speed up or slow down the ultimate camtasia video editing guide,the art of video timing speeding up and slowing down in camtasia,ai animation speed up or slow down the ultimate camtasia video editing guide,effortless video editing a guide to speeding up and slowing down in camtasia,camtasia video editing secrets speeding up or slowing down footage
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## The Art of Video Timing: Speeding Up and Slowing Down in Camtasia

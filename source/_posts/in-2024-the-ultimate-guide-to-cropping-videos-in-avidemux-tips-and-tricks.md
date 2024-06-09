@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to Cropping Videos in Avidemux Tips and Tricks
-date: 2024-05-19T11:47:55.221Z
-updated: 2024-05-20T11:47:55.221Z
+date: 2024-06-08T18:31:28.388Z
+updated: 2024-06-09T18:31:28.388Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, The Ultimate Guide to Cropping Videos in Avidemux Tips and Tricks
 excerpt: This Article Describes In 2024, The Ultimate Guide to Cropping Videos in Avidemux Tips and Tricks
 keywords: the ultimate guide to fast video trimming on mac tips and tricks,the ultimate yosemite video editing guide tips tricks and tutorials,the ultimate guide to video editing in windows tips tricks and techniques,the ultimate guide to cropping videos in avidemux tips and tricks,the ultimate guide to subtitling in final cut pro x tips and tricks,the ultimate guide to cropping and resizing videos,the ultimate guide to 3d video editing on windows tips and tricks
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## The Ultimate Guide to Cropping Videos in Avidemux: Tips and Tricks

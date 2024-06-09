@@ -1,7 +1,7 @@
 ---
 title: Learn How to Trim Video with Kapwing Editor Online
-date: 2024-05-19T11:46:43.153Z
-updated: 2024-05-20T11:46:43.153Z
+date: 2024-06-08T18:31:47.114Z
+updated: 2024-06-09T18:31:47.114Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Learn How to Trim Video with Kapwing Editor Online
 excerpt: This Article Describes Learn How to Trim Video with Kapwing Editor Online
 keywords: ai animation how to trim video with kapwing editor online,ai animation ai animation how to trim video with kapwing editor online,ai animation learn how to trim video with kapwing editor online,how to trim video with kapwing editor online,learn how to trim video with kapwing editor online,kapwing online editor the simple way to trim videos,master video trimming with kapwings online editor
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## Learn How to Trim Video with Kapwing Editor Online

@@ -1,7 +1,7 @@
 ---
 title: Your Greatest Tip to Resize Social Media Vertical Video Ratio
-date: 2024-05-19T11:46:43.691Z
-updated: 2024-05-20T11:46:43.691Z
+date: 2024-06-08T18:31:26.350Z
+updated: 2024-06-09T18:31:26.350Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Your Greatest Tip to Resize Social Media Vertical Video Ratio
 excerpt: This Article Describes Your Greatest Tip to Resize Social Media Vertical Video Ratio
 keywords: ai animation your number 1 tip to resize social media vertical video ratio,make your videos pop on social media the best way to resize vertical content,ai animation ai animation your number 1 tip to resize social media vertical video ratio,your greatest tip to resize social media vertical video ratio,master vertical video top secret to resize for social media,your number 1 tip to resize social media vertical video ratio,ai animation your greatest tip to resize social media vertical video ratio
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## Your Greatest Tip to Resize Social Media Vertical Video Ratio

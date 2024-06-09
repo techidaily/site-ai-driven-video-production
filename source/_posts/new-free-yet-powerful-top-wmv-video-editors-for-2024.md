@@ -1,7 +1,7 @@
 ---
 title: New Free Yet Powerful Top WMV Video Editors for 2024
-date: 2024-04-29T19:46:18.938Z
-updated: 2024-04-30T19:46:18.938Z
+date: 2024-06-08T18:31:28.902Z
+updated: 2024-06-09T18:31:28.902Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Free Yet Powerful Top WMV Video Editors for 2024
 excerpt: This Article Describes New Free Yet Powerful Top WMV Video Editors for 2024
 keywords: top free video editors for newbies,free yet powerful top 4k video editing software,free and fabulous top wmv video editors,simple yet powerful video editors for learners,free yet powerful top wmv video editors,top 5 best free wmv video editors,top rated free video editors for wmv files updated 2023
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## Free Yet Powerful: Top WMV Video Editors

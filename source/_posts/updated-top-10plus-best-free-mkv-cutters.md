@@ -1,7 +1,7 @@
 ---
 title: Updated Top 10+ Best Free MKV Cutters
-date: 2024-05-19T11:47:59.257Z
-updated: 2024-05-20T11:47:59.257Z
+date: 2024-06-08T18:31:41.976Z
+updated: 2024-06-09T18:31:41.976Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Top 10+ Best Free MKV Cutters
 excerpt: This Article Describes Updated Top 10+ Best Free MKV Cutters
 keywords: top 5 best free mov video cutters,ai animation top 10 best free mkv cutters 2023 update,top 11 best free mp4 video cutters,top 10 best free mkv cutters,top 9 best free mp4 video cutters,best mkv cutting software free and updated,top 10 best free mkv cutters 2023 update
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## Best MKV Cutting Software: Free and Updated

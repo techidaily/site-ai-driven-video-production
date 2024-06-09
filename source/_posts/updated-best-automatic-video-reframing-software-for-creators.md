@@ -1,7 +1,7 @@
 ---
 title: Updated Best Automatic Video Reframing Software for Creators
-date: 2024-05-19T11:47:10.419Z
-updated: 2024-05-20T11:47:10.419Z
+date: 2024-06-08T18:31:53.824Z
+updated: 2024-06-09T18:31:53.824Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Best Automatic Video Reframing Software for Creators
 excerpt: This Article Describes Updated Best Automatic Video Reframing Software for Creators
 keywords: the ultimate guide to vlog video editing best software for creators,best 4k proxy video editing software for creators,easy video reframing best editor software and apps,must have 3d video editing software for creators,the best free video editing software for gaming content creators,best automatic video reframing software for creators,the ultimate list best 4k8k video editing software for creators
-thumbnail: https://www.lifewire.com/thmb/Z0ZdjJb5nz4Ek2qcGOTaqnhoZ04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1164718779-aa87dac78cd44ad7b71e76c27adc7e9a.jpg
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
 ---
 
 ## Best Automatic Video Reframing Software for Creators

@@ -1,7 +1,7 @@
 ---
 title: New Get Ready, Set, Go! Adding a Countdown Timer in FCPX in Just 3 Steps
-date: 2024-05-19T11:47:31.700Z
-updated: 2024-05-20T11:47:31.700Z
+date: 2024-06-08T18:31:55.777Z
+updated: 2024-06-09T18:31:55.777Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Get Ready, Set, Go! Adding a Countdown Timer in FCPX in Just 3 Steps
 excerpt: This Article Describes New Get Ready, Set, Go! Adding a Countdown Timer in FCPX in Just 3 Steps
 keywords: times ticking learn how to add a countdown timer in fcpx in 3 steps,countdown to success a 3 step guide to adding timers in fcpx,fcpx countdown timer in 3 simple steps,get ready set go adding a countdown timer in fcpx in just 3 steps,create a sense of urgency adding a countdown timer in fcpx,fcpx essential adding a countdown timer in just 3 clicks,fcpx essentials how to add a countdown timer in 3 easy steps
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## Get Ready, Set, Go! Adding a Countdown Timer in FCPX in Just 3 Steps

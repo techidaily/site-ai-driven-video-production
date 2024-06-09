@@ -1,7 +1,7 @@
 ---
 title: From Script to Screen A Kids Guide to Movie Making
-date: 2024-05-19T11:46:47.601Z
-updated: 2024-05-20T11:46:47.601Z
+date: 2024-06-08T18:31:26.072Z
+updated: 2024-06-09T18:31:26.072Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes From Script to Screen A Kids Guide to Movie Making
 excerpt: This Article Describes From Script to Screen A Kids Guide to Movie Making
 keywords: from script to screen 8 outstanding mac movie makers,from script to screen choosing the right android movie maker,from script to screen a kids journey in movie making,from script to screen 10 essential android movie making tools,from script to screen a kids guide to movie making,from idea to screen a simplified movie making process,from script to screen a kids adventure in movie making
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## From Script to Screen: A Kid's Guide to Movie Making

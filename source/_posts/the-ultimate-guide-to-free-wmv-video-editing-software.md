@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Free WMV Video Editing Software
-date: 2024-05-19T11:46:51.836Z
-updated: 2024-05-20T11:46:51.836Z
+date: 2024-06-08T18:31:42.124Z
+updated: 2024-06-09T18:31:42.124Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Ultimate Guide to Free WMV Video Editing Software
 excerpt: This Article Describes The Ultimate Guide to Free WMV Video Editing Software
 keywords: the ultimate guide to free mod video editing software,the ultimate guide to free 4k video editing software,the ultimate guide to hd video editing software,the ultimate guide to free wmv video editing software,the ultimate guide to 4k video editing software,the ultimate guide to apple video editing software,free game video editing software the ultimate guide
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## The Ultimate Guide to Free WMV Video Editing Software

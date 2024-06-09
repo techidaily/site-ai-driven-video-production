@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Control Video Tempo in Camtasia A Step-by-Step Guide
-date: 2024-04-29T19:42:19.291Z
-updated: 2024-04-30T19:42:19.291Z
+date: 2024-06-08T18:31:42.662Z
+updated: 2024-06-09T18:31:42.662Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Control Video Tempo in Camtasia A Step-by-Step Guide
 excerpt: This Article Describes Updated 2024 Approved Control Video Tempo in Camtasia A Step-by-Step Guide
 keywords: control video tempo in camtasia a step by step guide,rotate videos in a snap a step by step guide,video pace control a beginners guide to camtasia speed adjustment,rotate a video in final cut pro a 4 step guide,rotate videos in a flash a step by step guide,cast local videos to chromecast a step by step guide updated 2023,change video playback rate in camtasia a step by step guide
-thumbnail: https://www.lifewire.com/thmb/xq071plgy_1otjoV-WHCm4Y1Nhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg
+thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
 ## Control Video Tempo in Camtasia: A Step-by-Step Guide

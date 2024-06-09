@@ -1,7 +1,7 @@
 ---
 title: Create Stunning Video Invites for Free Best Tools
-date: 2024-05-19T11:46:45.222Z
-updated: 2024-05-20T11:46:45.222Z
+date: 2024-06-08T18:31:49.835Z
+updated: 2024-06-09T18:31:49.835Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Create Stunning Video Invites for Free Best Tools
 excerpt: This Article Describes Create Stunning Video Invites for Free Best Tools
 keywords: create stunning video invites best apps for ios and android,create stunning invites best video apps for ios android,create stunning video invitations for free top tools,10 free online tools to create stunning invitation videos,create stunning video invites for free best tools,create stunning invites top 10 free video makers,create stunning video invites for free top online makers
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## Create Stunning Video Invites for Free: Best Tools

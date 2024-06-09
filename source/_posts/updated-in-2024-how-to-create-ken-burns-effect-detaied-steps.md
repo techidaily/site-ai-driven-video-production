@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Create Ken Burns Effect? Detaied Steps
-date: 2024-04-29T19:39:17.723Z
-updated: 2024-04-30T19:39:17.723Z
+date: 2024-06-08T18:31:34.822Z
+updated: 2024-06-09T18:31:34.822Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Create Ken Burns Effect? Detaied Steps
 excerpt: This Article Describes Updated In 2024, How to Create Ken Burns Effect? Detaied Steps
 keywords: add emotional depth learn to create a ken burns effect in minutes,how to create ken burns effect detaied steps,ai animation how to create ken burns effect detaied steps,ai animation how to use ken burns effect in final cut pro with detailed steps,how to make ken burns effect in final cut pro,the ultimate guide to creating a ken burns effect in software,how to use ken burns effect in final cut pro with detailed steps
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## How to Create Ken Burns Effect? [Detaied Steps]

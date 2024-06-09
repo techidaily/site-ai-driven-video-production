@@ -1,7 +1,7 @@
 ---
 title: The Art of Slow Motion How to Make Jaw-Dropping Videos on Kapwing for 2024
-date: 2024-05-19T11:47:49.939Z
-updated: 2024-05-20T11:47:49.939Z
+date: 2024-06-08T18:31:43.710Z
+updated: 2024-06-09T18:31:43.710Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Art of Slow Motion How to Make Jaw-Dropping Videos on Kapwing for 2024
 excerpt: This Article Describes The Art of Slow Motion How to Make Jaw-Dropping Videos on Kapwing for 2024
 keywords: the art of slow motion how to create stunning videos on kapwing,kapwing how to make slow motion video,the art of slow motion how to make jaw dropping videos on kapwing,how to make a slow motion video on kapwing,the art of slow motion a kapwing tutorial for creating breathtaking videos,the art of slow motion how to create breathtaking videos on kapwing,slow down time how to make a slow motion video on kapwing
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## The Art of Slow Motion: How to Make Jaw-Dropping Videos on Kapwing

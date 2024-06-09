@@ -1,7 +1,7 @@
 ---
 title: In 2024, Split Your WMV Videos for Free Top 5 Tools
-date: 2024-05-19T11:47:48.262Z
-updated: 2024-05-20T11:47:48.262Z
+date: 2024-06-08T18:31:27.316Z
+updated: 2024-06-09T18:31:27.316Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Split Your WMV Videos for Free Top 5 Tools
 excerpt: This Article Describes In 2024, Split Your WMV Videos for Free Top 5 Tools
 keywords: join wmv videos for free top 5 tools,split wmv videos for free top 5 tools of the year,combine wmv videos for free top 5 tools,cut your videos for free the top 5 tools we love,split your videos with ease top free tools,split wmv files for free top 5 tools,split your wmv videos for free top 5 tools
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Split Your WMV Videos for Free: Top 5 Tools

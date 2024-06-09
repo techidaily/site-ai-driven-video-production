@@ -1,7 +1,7 @@
 ---
 title: Updated From Widescreen to Vertical The Easiest Way to Resize Social Media Videos for 2024
-date: 2024-04-29T19:46:56.296Z
-updated: 2024-04-30T19:46:56.296Z
+date: 2024-06-08T18:31:56.694Z
+updated: 2024-06-09T18:31:56.694Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated From Widescreen to Vertical The Easiest Way to Resize Social Media Videos for 2024
 excerpt: This Article Describes Updated From Widescreen to Vertical The Easiest Way to Resize Social Media Videos for 2024
 keywords: from widescreen to vertical the easy way to repurpose your videos,from widescreen to vertical the simplest way to resize social media videos,get more engagement the simplest way to resize vertical videos for social media,from widescreen to vertical the easiest way to resize your videos,from widescreen to vertical the essential guide to resizing social media videos,from widescreen to vertical the easiest way to resize social media videos,master vertical video top secret to resize for social media
-thumbnail: https://www.lifewire.com/thmb/INF6SYasZPz8DbBoNXqU2flP540=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/before-you-buy-a-video-projector-1847845-v3-ED-8a08e03f2cfc4835a13872618bd4ad00.png
+thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb90774e1fcb8b0eea83e6c871.png
 ---
 
 ## From Widescreen to Vertical: The Easiest Way to Resize Social Media Videos

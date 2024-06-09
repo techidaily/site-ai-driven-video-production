@@ -1,7 +1,7 @@
 ---
 title: Updated Get More Engagement The Simplest Way to Resize Vertical Videos for Social Media
-date: 2024-05-19T11:47:31.163Z
-updated: 2024-05-20T11:47:31.163Z
+date: 2024-06-08T18:31:52.970Z
+updated: 2024-06-09T18:31:52.970Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Get More Engagement The Simplest Way to Resize Vertical Videos for Social Media
 excerpt: This Article Describes Updated Get More Engagement The Simplest Way to Resize Vertical Videos for Social Media
 keywords: from widescreen to vertical the simplest way to resize social media videos,the ultimate hack how to resize vertical videos for social media,master vertical video top secret to resize for social media,make your videos pop on social media the best way to resize vertical content,get more engagement the simplest way to resize vertical videos for social media,the vertical video revolution one simple trick to resize for social media,from widescreen to vertical the easiest way to resize social media videos
-thumbnail: https://www.lifewire.com/thmb/xDM-B4zVSXt5n027L2C5oNwTDN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIrendering_CROPPED_Guillaume_GettyImages-1418477818-d0a9c5ce09584a1099f21a5f1f690a88.jpg
+thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304ad9ab12b451e3ff69d2619e.jpg
 ---
 
 ## Get More Engagement: The Simplest Way to Resize Vertical Videos for Social Media

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Vertical Video Editing on Mobile Devices
-date: 2024-05-19T11:46:51.912Z
-updated: 2024-05-20T11:46:51.912Z
+date: 2024-06-08T18:31:24.843Z
+updated: 2024-06-09T18:31:24.843Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Ultimate Guide to Vertical Video Editing on Mobile Devices
 excerpt: This Article Describes The Ultimate Guide to Vertical Video Editing on Mobile Devices
 keywords: the ultimate guide to vertical video editing on ios and android,the ultimate guide to vertical video editing on mobile devices,the ultimate guide to splice video editing capabilities and more,the ultimate guide to video editing on mac,the ultimate guide to online vertical video editors,the ultimate guide to video editing on a mac,the ultimate guide to quicktime video editing on mac
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## The Ultimate Guide to Vertical Video Editing on Mobile Devices

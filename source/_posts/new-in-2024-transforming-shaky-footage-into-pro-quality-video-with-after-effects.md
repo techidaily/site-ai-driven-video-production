@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Transforming Shaky Footage Into Pro-Quality Video with After Effects
-date: 2024-04-29T19:56:52.758Z
-updated: 2024-04-30T19:56:52.758Z
+date: 2024-06-08T18:31:36.630Z
+updated: 2024-06-09T18:31:36.630Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Transforming Shaky Footage Into Pro-Quality Video with After Effects
 excerpt: This Article Describes New In 2024, Transforming Shaky Footage Into Pro-Quality Video with After Effects
 keywords: transforming shaky videos into cinematic masterpieces with fcpx,shake it off how to stabilize video in after effects with ease,transforming raw footage into masterpieces sony camcorder video editing,video rescue 3 ways to fix shaky footage in after effects,taming the shake how to smooth out your videos in after effects,how to stabilize shaky videos in after effects,transforming shaky footage into pro quality video with after effects
-thumbnail: https://www.lifewire.com/thmb/j6BDiuyaUokwtXDLEnyA5LApr9c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4062264-InCar6-1500-5b803f8ec9e77c0025d3f4de.jpg
+thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557e8c99c8c7fa75aee528315d.jpg
 ---
 
 ## Transforming Shaky Footage Into Pro-Quality Video with After Effects

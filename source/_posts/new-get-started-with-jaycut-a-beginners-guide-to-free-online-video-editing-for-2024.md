@@ -1,7 +1,7 @@
 ---
 title: New Get Started with Jaycut A Beginners Guide to Free Online Video Editing for 2024
-date: 2024-04-29T19:39:13.326Z
-updated: 2024-04-30T19:39:13.326Z
+date: 2024-06-08T18:31:38.170Z
+updated: 2024-06-09T18:31:38.170Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Get Started with Jaycut A Beginners Guide to Free Online Video Editing for 2024
 excerpt: This Article Describes New Get Started with Jaycut A Beginners Guide to Free Online Video Editing for 2024
 keywords: ai animation get started with jaycut a beginners guide to free online video editing,get started with jaycut a beginners guide to free online video editing,get started with wax a beginners guide to free video editing software,the ultimate jaycut guide free online video editing for beginners and pros,get started with jaycut a beginners guide to free video editing,free video editing for beginners a step by step guide to getting started,get started with video editing best free tools for beginners desktoponlinemobile
-thumbnail: https://www.lifewire.com/thmb/XFPs7ukKGYkDLjHUDiAKej05X4I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98dc41bc3885e34ece3467540.jpg
 ---
 
 ## Get Started with Jaycut: A Beginner's Guide to Free Online Video Editing

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Visual Magic How to Create Stunning Video Effects From Scratch
-date: 2024-04-29T19:58:52.306Z
-updated: 2024-04-30T19:58:52.306Z
+date: 2024-06-08T18:31:36.098Z
+updated: 2024-06-09T18:31:36.098Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Visual Magic How to Create Stunning Video Effects From Scratch
 excerpt: This Article Describes New In 2024, Visual Magic How to Create Stunning Video Effects From Scratch
 keywords: windows video editing how to create stunning 3d visuals,from still to stunning how to create stop motion videos on instagram,visual magic how to create stunning video effects from scratch,visual magic how to create stunning video effects like a pro,windows video editing how to create stunning 3d effects in minutes,windows video editing how to create stunning 3d visuals in minutes,fcpx cinematography how to create visually stunning videos
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## Visual Magic: How to Create Stunning Video Effects From Scratch

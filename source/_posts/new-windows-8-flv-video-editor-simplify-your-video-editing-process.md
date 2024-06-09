@@ -1,7 +1,7 @@
 ---
 title: New Windows 8 FLV Video Editor Simplify Your Video Editing Process
-date: 2024-04-29T19:37:05.934Z
-updated: 2024-04-30T19:37:05.934Z
+date: 2024-06-08T18:31:45.173Z
+updated: 2024-06-09T18:31:45.173Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Windows 8 FLV Video Editor Simplify Your Video Editing Process
 excerpt: This Article Describes New Windows 8 FLV Video Editor Simplify Your Video Editing Process
 keywords: pc mp4 editor for windows 8 simplify your video editing process,mavericks mp4 video editor simplify your editing process,windows 8 mp4 video editor simplify your editing experience,best flv video editor for windows 8 simplify your editing process,windows 8 avi file editor simplify video editing,windows 8 flv video editor simplify your editing process,windows 8 flv video editor simplify your video editing process
-thumbnail: https://www.lifewire.com/thmb/ODtsQJBMUj58crtQiyrVENYFqnk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-01-61592395e9e44fc78403c7e99105de84.jpg
+thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg
 ---
 
 ## Windows 8 FLV Video Editor: Simplify Your Video Editing Process

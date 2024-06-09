@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Scratch to Pro Understanding XML Files in FCPX
-date: 2024-04-29T19:46:46.209Z
-updated: 2024-04-30T19:46:46.209Z
+date: 2024-06-08T18:31:39.559Z
+updated: 2024-06-09T18:31:39.559Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, From Scratch to Pro Understanding XML Files in FCPX
 excerpt: This Article Describes Updated In 2024, From Scratch to Pro Understanding XML Files in FCPX
 keywords: adding subtitles in fcpx a beginners tutorial updated 2023,from scratch to pro understanding xml files in fcpx,from zero to hero mastering xml files in fcpx,from clips to masterpiece syncing audio and video in final cut pro x 2024,how to create custom titles in final cut pro x 2023 update,resolving final cut pro x stability issues updated 2023,from zero to hero fixing fcpx plugin problems in minutes
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## From Scratch to Pro: Understanding XML Files in FCPX
