@@ -1,7 +1,7 @@
 ---
 title: Split, Trim, and Edit Mastering Video Segmentation in Windows Live Movie Maker
-date: 2024-05-19T11:46:50.514Z
-updated: 2024-05-20T11:46:50.514Z
+date: 2024-06-16T10:10:10.970Z
+updated: 2024-06-17T10:10:10.970Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Split, Trim, and Edit Mastering Video Segmentation in Windows Live Movie Maker
 excerpt: This Article Describes Split, Trim, and Edit Mastering Video Segmentation in Windows Live Movie Maker
 keywords: split trim and perfect video editing techniques in windows live movie maker,split trim and edit mastering video editing in windows live movie maker,ai animation how to split videos in windows live movie maker,cut slice and dice mastering video splitting in windows live movie maker,the ultimate guide to splitting videos in windows live movie maker 2023 edition,split trim and edit mastering video segmentation in windows live movie maker,effortless video editing how to split and merge clips in windows live movie maker
-thumbnail: https://www.lifewire.com/thmb/R4hO61lalLOqraKCRcJdmU6HWfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg
+thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
 ## Split, Trim, and Edit: Mastering Video Segmentation in Windows Live Movie Maker

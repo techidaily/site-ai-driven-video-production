@@ -1,7 +1,7 @@
 ---
 title: Updated S Top Picks Free Open-Source Video Editing Tools
-date: 2024-05-19T11:47:04.844Z
-updated: 2024-05-20T11:47:04.844Z
+date: 2024-06-16T10:10:08.792Z
+updated: 2024-06-17T10:10:08.792Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated S Top Picks Free Open-Source Video Editing Tools
 excerpt: This Article Describes Updated S Top Picks Free Open-Source Video Editing Tools
 keywords: open source video editing top 10 free tools,s top rated free flv video editing tools,open source video editing revolution top free tools,s top picks free open source video editing tools,s most popular free and open source video editing tools,free avi video editing tools our top picks,ai animation s top picks free open source video editing tools
-thumbnail: https://www.lifewire.com/thmb/J824Ra8KQFbLaWC_ATGxX22EzOA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/trends_MontyRakusen_Getty-5a4aa079482c5200362b0987.jpg
+thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373d5c47d7a53f258bef450907.jpg
 ---
 
 ## 'S Top Picks: Free Open-Source Video Editing Tools

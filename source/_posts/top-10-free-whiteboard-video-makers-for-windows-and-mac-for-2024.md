@@ -1,7 +1,7 @@
 ---
 title: Top 10 Free Whiteboard Video Makers for Windows and Mac for 2024
-date: 2024-05-19T11:47:59.412Z
-updated: 2024-05-20T11:47:59.412Z
+date: 2024-06-16T10:10:08.025Z
+updated: 2024-06-17T10:10:08.025Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Top 10 Free Whiteboard Video Makers for Windows and Mac for 2024
 excerpt: This Article Describes Top 10 Free Whiteboard Video Makers for Windows and Mac for 2024
 keywords: s top rated free whiteboard video creation tools for windows and macos,top 10 free whiteboard video makers for windows and mac,top 10 free 4k video converters for windows and mac,free whiteboard video software the top 10 options for windows and mac users,10 free whiteboard animation makers for windows mac and beyond,top 10 free whiteboard animation tools for windows and mac,top free flv video editors for windows and mac
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Top 10 Free Whiteboard Video Makers for Windows and Mac

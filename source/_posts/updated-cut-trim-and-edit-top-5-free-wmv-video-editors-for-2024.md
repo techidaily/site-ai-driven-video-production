@@ -1,7 +1,7 @@
 ---
 title: Updated Cut, Trim, and Edit Top 5 Free WMV Video Editors for 2024
-date: 2024-04-29T19:43:03.659Z
-updated: 2024-04-30T19:43:03.659Z
+date: 2024-06-16T10:10:12.388Z
+updated: 2024-06-17T10:10:12.388Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Cut, Trim, and Edit Top 5 Free WMV Video Editors for 2024
 excerpt: This Article Describes Updated Cut, Trim, and Edit Top 5 Free WMV Video Editors for 2024
 keywords: edit wmv files for free top 5 video editor options,top free video editors for cutting and trimming mov files,top rated free mp4 video editors for cutting and trimming,s top free divx video editors for cutting and trimming,trim cut and edit divx videos for free top tools,cut trim and edit top 5 free wmv video editors,top rated free video editors for wmv files updated 2023
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Cut, Trim, and Edit: Top 5 Free WMV Video Editors

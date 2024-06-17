@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, 3GP File Cutter Extract Specific Parts of Your Video
-date: 2024-04-29T19:37:51.320Z
-updated: 2024-04-30T19:37:51.320Z
+date: 2024-06-16T10:09:57.334Z
+updated: 2024-06-17T10:09:57.334Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, 3GP File Cutter Extract Specific Parts of Your Video
 excerpt: This Article Describes Updated In 2024, 3GP File Cutter Extract Specific Parts of Your Video
 keywords: the art of lower thirds elevating your videos in final cut pro x,the art of audio fading 2 techniques to elevate your videos in final cut pro,3gp file trimmer edit and split your videos easily,elevate your video editing skills final cut pro 2024 tutorials,speed up your video editing how to cut large files fast on mac,3gp file cutter extract specific parts of your video,best free video cutting software for divx files updated 2023
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## 3GP File Cutter: Extract Specific Parts of Your Video

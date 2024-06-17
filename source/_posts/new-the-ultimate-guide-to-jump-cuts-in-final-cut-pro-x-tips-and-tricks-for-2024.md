@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Jump Cuts in Final Cut Pro X Tips and Tricks for 2024
-date: 2024-04-29T19:54:39.042Z
-updated: 2024-04-30T19:54:39.042Z
+date: 2024-06-16T10:10:20.996Z
+updated: 2024-06-17T10:10:20.996Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Ultimate Guide to Jump Cuts in Final Cut Pro X Tips and Tricks for 2024
 excerpt: This Article Describes New The Ultimate Guide to Jump Cuts in Final Cut Pro X Tips and Tricks for 2024
 keywords: the ultimate guide to jump cuts in final cut pro x,pro level jump cuts in final cut pro x tips and tricks,the ultimate guide to titles in final cut pro x 2023 edition,ai animation pro level jump cuts in final cut pro x tips and tricks,the ultimate guide to ken burns effect in final cut pro tips tricks and best practices,the ultimate guide to subtitling in final cut pro x tips and tricks,the ultimate guide to jump cuts in final cut pro x tips and tricks
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## The Ultimate Guide to Jump Cuts in Final Cut Pro X: Tips and Tricks

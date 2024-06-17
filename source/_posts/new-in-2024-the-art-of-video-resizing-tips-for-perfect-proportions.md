@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Art of Video Resizing Tips for Perfect Proportions
-date: 2024-04-29T19:53:08.644Z
-updated: 2024-04-30T19:53:08.644Z
+date: 2024-06-16T10:10:21.367Z
+updated: 2024-06-17T10:10:21.367Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, The Art of Video Resizing Tips for Perfect Proportions
 excerpt: This Article Describes New In 2024, The Art of Video Resizing Tips for Perfect Proportions
 keywords: the art of video resizing tips for perfect proportions,quick fix resizing your video to perfect proportions,the secret to perfect proportions resizing vertical videos for social,top online image resizers for perfect proportions,best online image resizers for perfect proportions,proxy perfection the top 8 video editing apps for 4k,portrait perfection the best video editing apps for ios and android
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## The Art of Video Resizing: Tips for Perfect Proportions

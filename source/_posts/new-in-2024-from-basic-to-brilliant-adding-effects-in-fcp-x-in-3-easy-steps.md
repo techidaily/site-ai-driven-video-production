@@ -1,7 +1,7 @@
 ---
 title: New In 2024, From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps
-date: 2024-04-29T19:46:22.763Z
-updated: 2024-04-30T19:46:22.763Z
+date: 2024-06-16T10:10:17.097Z
+updated: 2024-06-17T10:10:17.097Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps
 excerpt: This Article Describes New In 2024, From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps
 keywords: from basic to brilliant adding effects in fcp x with 3 simple steps,from basic to brilliant adding fcp x effects in 3 easy steps,from basic to brilliant mastering video editing effects for beginners,transform your videos learn how to add effects in fcp x in 3 steps,from basic to brilliant adding effects in fcp x in 3 easy steps,from basic to brilliant using ken burns effect in final cut pro like a pro,effortless video editing how to add effects in fcp x in 3 steps
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## From Basic to Brilliant: Adding Effects in FCP X in 3 Easy Steps

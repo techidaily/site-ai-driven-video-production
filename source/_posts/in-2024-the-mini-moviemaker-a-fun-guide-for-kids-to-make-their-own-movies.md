@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Mini Moviemaker A Fun Guide for Kids to Make Their Own Movies
-date: 2024-05-19T11:47:53.872Z
-updated: 2024-05-20T11:47:53.872Z
+date: 2024-06-16T10:10:19.066Z
+updated: 2024-06-17T10:10:19.066Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, The Mini Moviemaker A Fun Guide for Kids to Make Their Own Movies
 excerpt: This Article Describes In 2024, The Mini Moviemaker A Fun Guide for Kids to Make Their Own Movies
 keywords: movie maker for mac how to make a movie on mac,ai animation movie maker for kids teach kids to make a movie,make your own movie masterpiece a fun and easy guide for kids,movie maker for kids teach kids to make a movie,kids in the directors chair a fun guide to making movies,ai animation movie maker for mac how to make a movie on mac,the mini moviemaker a fun guide for kids to make their own movies
-thumbnail: https://www.lifewire.com/thmb/iVAserBnC6bUM-CQ2W6IX-_Wms0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-taylor-swift-movies-in-order-a8e26851d3d94bf183a144766801c16c.jpg
+thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde0166f66e5a57d5c818d2809aa.jpg
 ---
 
 ## The Mini Moviemaker: A Fun Guide for Kids to Make Their Own Movies

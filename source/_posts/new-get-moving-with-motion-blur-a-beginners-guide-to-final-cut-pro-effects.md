@@ -1,7 +1,7 @@
 ---
 title: New Get Moving with Motion Blur A Beginners Guide to Final Cut Pro Effects
-date: 2024-05-19T11:47:31.331Z
-updated: 2024-05-20T11:47:31.331Z
+date: 2024-06-16T10:10:03.908Z
+updated: 2024-06-17T10:10:03.908Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Get Moving with Motion Blur A Beginners Guide to Final Cut Pro Effects
 excerpt: This Article Describes New Get Moving with Motion Blur A Beginners Guide to Final Cut Pro Effects
 keywords: protect your edits a beginners guide to saving in final cut pro,get moving with motion blur a beginners guide to final cut pro effects,get creative with free sound effects a beginners guide to final cut pro,get moving with final cut pro a beginners guide to motion blur,a beginners guide to audio editing in final cut pro,how to make a motion blur effect with final cut pro,complete guide creat motion blur effect with final cut pro
-thumbnail: https://www.lifewire.com/thmb/Z0ZdjJb5nz4Ek2qcGOTaqnhoZ04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1164718779-aa87dac78cd44ad7b71e76c27adc7e9a.jpg
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
 ---
 
 ## Get Moving with Motion Blur: A Beginner's Guide to Final Cut Pro Effects

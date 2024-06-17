@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Video Editing on Mac A Guide to OS X Mavericks
-date: 2024-05-19T11:47:04.128Z
-updated: 2024-05-20T11:47:04.128Z
+date: 2024-06-16T10:10:07.517Z
+updated: 2024-06-17T10:10:07.517Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Mastering Video Editing on Mac A Guide to OS X Mavericks
 excerpt: This Article Describes In 2024, Mastering Video Editing on Mac A Guide to OS X Mavericks
 keywords: video editing on mac os x mavericks a beginners guide,mastering video editing on mac a guide to os x mavericks,mastering video editing in os x mavericks a comprehensive guide,mastering quicktime video editing on mac a beginners guide,mastering video editing on mac a yosemite guide,ai animation mastering video editing on mac a guide to os x mavericks,mastering gopro video editing on mac a 2023 guide
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## Mastering Video Editing on Mac: A Guide to OS X Mavericks

@@ -1,7 +1,7 @@
 ---
 title: The Social Media Designers Handbook Aspect Ratios and Beyond for 2024
-date: 2024-05-19T11:47:54.124Z
-updated: 2024-05-20T11:47:54.124Z
+date: 2024-06-16T10:10:06.553Z
+updated: 2024-06-17T10:10:06.553Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Social Media Designers Handbook Aspect Ratios and Beyond for 2024
 excerpt: This Article Describes The Social Media Designers Handbook Aspect Ratios and Beyond for 2024
 keywords: the aspect ratio handbook mastering social media visual content,the social media designers handbook aspect ratios and beyond,the visual blueprint understanding social media aspect ratios for success,the 2024 tiktok creators handbook aspect ratio dimensions and more,get noticed the importance of aspect ratios in social media design,social media design essentials mastering aspect ratios and image sizes,social media design essentials aspect ratios and image dimensions
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## The Social Media Designer's Handbook: Aspect Ratios and Beyond

@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to MKV Trimming on Mac (2023 Edition) for 2024
-date: 2024-04-29T19:39:42.830Z
-updated: 2024-04-30T19:39:42.830Z
+date: 2024-06-16T10:10:11.352Z
+updated: 2024-06-17T10:10:11.352Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Ultimate Guide to MKV Trimming on Mac (2023 Edition) for 2024
 excerpt: This Article Describes Updated The Ultimate Guide to MKV Trimming on Mac (2023 Edition) for 2024
 keywords: fcp 2023 the ultimate guide to editing and mixing audio for video,ai animation the ultimate guide to video editing on a mac,the ultimate guide to editing gopro footage on mac 2023 edition,ai animation the ultimate guide to mkv trimming on mac 2023 edition,the ultimate guide to mkv trimming on mac 2023 edition,the ultimate guide to rapid video trimming on mac updated 2023,the ultimate guide to video editing on mac
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## The Ultimate Guide to MKV Trimming on Mac (2023 Edition)

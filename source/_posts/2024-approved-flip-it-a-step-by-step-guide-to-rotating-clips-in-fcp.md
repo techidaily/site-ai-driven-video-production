@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Flip It! A Step-by-Step Guide to Rotating Clips in FCP
-date: 2024-05-19T11:47:25.169Z
-updated: 2024-05-20T11:47:25.169Z
+date: 2024-06-16T10:10:04.014Z
+updated: 2024-06-17T10:10:04.014Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Flip It! A Step-by-Step Guide to Rotating Clips in FCP
 excerpt: This Article Describes 2024 Approved Flip It! A Step-by-Step Guide to Rotating Clips in FCP
 keywords: mastering titles in fcpx a step by step guide,mastering final cut pro a step by step guide to flipping clips,cut video clips online a step by step guide to kapwing editor,flipping out a step by step guide to rotating clips in final cut pro,4 detailed steps to flip a clip in final cut pro,flip it a step by step guide to rotating clips in fcp,aligning audio and video tracks in fcpx 2024 a step by step guide
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## Flip It! A Step-by-Step Guide to Rotating Clips in FCP

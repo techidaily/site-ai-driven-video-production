@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved FLV Editor for Windows 8 Easily Edit FLV Videos on PC
-date: 2024-04-29T19:39:08.640Z
-updated: 2024-04-30T19:39:08.640Z
+date: 2024-06-16T10:10:02.225Z
+updated: 2024-06-17T10:10:02.225Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved FLV Editor for Windows 8 Easily Edit FLV Videos on PC
 excerpt: This Article Describes New 2024 Approved FLV Editor for Windows 8 Easily Edit FLV Videos on PC
 keywords: top rated flv editor for windows 8 edit videos like a pro,easily edit flv videos on your windows 8 pc with our expert editor,avi editor for windows 8 easily edit avi files on pc,ai animation flv editor for windows 8 easily edit flv videos on pc,mp4 editor for windows 8 easily edit mp4 files on pc,avi editor for windows 8 easily edit avi files on pc 2023 update,flv editor for windows 8 easily edit flv videos on pc
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## Windows 8 FLV Video Editor: Simplify Your Editing Process

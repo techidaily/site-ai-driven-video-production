@@ -1,7 +1,7 @@
 ---
 title: New Mac Video Editing Software by AVS Easy and Powerful
-date: 2024-05-19T11:47:36.951Z
-updated: 2024-05-20T11:47:36.951Z
+date: 2024-06-16T10:10:03.205Z
+updated: 2024-06-17T10:10:03.205Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mac Video Editing Software by AVS Easy and Powerful
 excerpt: This Article Describes New Mac Video Editing Software by AVS Easy and Powerful
 keywords: mac video editing made easy the best software of,ai animation cheap but powerful video editing software,free and easy avi video editing software options,cheap but powerful video editing software,easy video editing software,free and easy video editing software for beginners,mac video editing software by avs easy and powerful
-thumbnail: https://www.lifewire.com/thmb/1giCJ_GI0g5IPS2wzD1NWNQqoBs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-shared-your-tiktok-5271091-8fc5445938ed433d830a2b5275079c62.jpg
+thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
 ---
 
 ## Mac Video Editing Software by AVS: Easy and Powerful

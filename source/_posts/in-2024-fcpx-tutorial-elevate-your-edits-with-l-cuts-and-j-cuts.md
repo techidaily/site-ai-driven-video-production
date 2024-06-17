@@ -1,7 +1,7 @@
 ---
 title: In 2024, FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts
-date: 2024-05-19T11:47:24.359Z
-updated: 2024-05-20T11:47:24.359Z
+date: 2024-06-16T10:10:27.731Z
+updated: 2024-06-17T10:10:27.731Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts
 excerpt: This Article Describes In 2024, FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts
 keywords: fcpx tutorial elevate your audio game with l cuts and j cuts,elevate your editing skills final cut pro 2024 tutorials,fcpx tutorial elevate your edits with l cuts and j cuts,elevate your video editing skills final cut pro 2024 tutorials,the ultimate fcpx tutorial hub best websites and youtube channels 2024,elevate your videos with free sound effects a final cut pro tutorial,elevate your edits advanced l cuts and j cuts techniques in fcpx
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## FCPX Tutorial: Elevate Your Edits with L-Cuts and J-Cuts

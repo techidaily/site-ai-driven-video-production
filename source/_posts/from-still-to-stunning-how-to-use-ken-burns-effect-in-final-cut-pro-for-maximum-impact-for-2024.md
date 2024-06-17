@@ -1,7 +1,7 @@
 ---
 title: From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact for 2024
-date: 2024-05-19T11:47:30.073Z
-updated: 2024-05-20T11:47:30.073Z
+date: 2024-06-16T10:10:14.549Z
+updated: 2024-06-17T10:10:14.549Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact for 2024
 excerpt: This Article Describes From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact for 2024
 keywords: ai animation how to use ken burns effect in final cut pro with detailed steps,from still to stunning how to achieve the ken burns effect,from basic to brilliant using ken burns effect in final cut pro like a pro,from still to stunning how to add the ken burns effect to your videos,from still to stunning how to use ken burns effect in final cut pro for maximum impact,how to make ken burns effect in final cut pro,unlock cinematic storytelling how to apply the ken burns effect in final cut pro
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## From Still to Stunning: How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact

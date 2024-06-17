@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate FCP Project Saving Cheat Sheet
-date: 2024-05-19T11:47:54.560Z
-updated: 2024-05-20T11:47:54.560Z
+date: 2024-06-16T10:10:29.765Z
+updated: 2024-06-17T10:10:29.765Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Ultimate FCP Project Saving Cheat Sheet
 excerpt: This Article Describes 2024 Approved The Ultimate FCP Project Saving Cheat Sheet
 keywords: the ultimate fcp project saving cheat sheet,the ultimate adobe premiere cheat sheet 6 time saving tips,the ultimate twitter video sizing cheat sheet aspect ratio included,the ultimate final cut pro saving cheat sheet,mastering facebook video the ultimate aspect ratio cheat sheet,the ultimate cheat sheet mastering facebook video aspect ratios,the ultimate fcp safety net saving and backing up your projects
-thumbnail: https://www.lifewire.com/thmb/sc_11h-4MIwIvQmqfGAXxwLWyt8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/istabletworthit-a75b20684e5241b8a64efc0733092fcd.jpg
+thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg
 ---
 
 ## The Ultimate FCP Project Saving Cheat Sheet

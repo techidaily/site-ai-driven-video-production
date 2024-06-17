@@ -1,7 +1,7 @@
 ---
 title: Ken Burns Effect in Minutes Quick and Easy Tutorial for 2024
-date: 2024-05-19T11:47:35.303Z
-updated: 2024-05-20T11:47:35.303Z
+date: 2024-06-16T10:10:23.138Z
+updated: 2024-06-17T10:10:23.138Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Ken Burns Effect in Minutes Quick and Easy Tutorial for 2024
 excerpt: This Article Describes Ken Burns Effect in Minutes Quick and Easy Tutorial for 2024
 keywords: add a timer in minutes a quick fcpx tutorial,the ultimate ken burns effect tutorial for final cut pro tips tricks and best practices,add emotional depth learn to create a ken burns effect in minutes,resize your video in minutes a quick tutorial,ken burns effect tutorial from basics to pro,ken burns effect in minutes quick and easy tutorial,ken burns effect in final cut pro a comprehensive guide with examples and tutorials
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## Ken Burns Effect in Minutes: Quick and Easy Tutorial

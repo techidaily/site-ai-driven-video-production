@@ -1,7 +1,7 @@
 ---
 title: Unleash Your Creativity Easy GoPro Video Editing for Beginners
-date: 2024-05-19T11:46:53.494Z
-updated: 2024-05-20T11:46:53.494Z
+date: 2024-06-16T10:10:16.852Z
+updated: 2024-06-17T10:10:16.852Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Unleash Your Creativity Easy GoPro Video Editing for Beginners
 excerpt: This Article Describes Unleash Your Creativity Easy GoPro Video Editing for Beginners
 keywords: unleash your creativity video editing on mac os x yosemite for beginners,unleash your creativity gopro video editing on mac for beginners,unleash your creativity a beginners guide to online video editing,unleash your creativity gopro video editing on mac made easy,unleash your creativity quicktime video editing on mac for beginners,unleash your creativity easy gopro video editing for beginners,unleash your creativity easy video editing with gopro quik for macbook
-thumbnail: https://www.lifewire.com/thmb/eyPEW_zh-5Xw0J7hoJ-kChdCQ1M=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-transfer-data-from-ps4-to-ps5-3392eb400af3482fabad65cabb2a1a91.jpg
+thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
 ---
 
 ## Unleash Your Creativity: Easy GoPro Video Editing for Beginners

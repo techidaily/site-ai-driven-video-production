@@ -1,7 +1,7 @@
 ---
 title: Quick and Easy Video Edits A GoPro Quik Tutorial for MacBook Users
-date: 2024-05-19T11:46:49.743Z
-updated: 2024-05-20T11:46:49.743Z
+date: 2024-06-16T10:10:05.500Z
+updated: 2024-06-17T10:10:05.500Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Quick and Easy Video Edits A GoPro Quik Tutorial for MacBook Users
 excerpt: This Article Describes Quick and Easy Video Edits A GoPro Quik Tutorial for MacBook Users
 keywords: gopro video editing for mac users tips tricks and tutorials,quick and easy video edits a gopro quik tutorial for macbook users,gopro video editing made easy a beginners guide to quik on macbook,gopro video editing simplified a macbook users guide to quik,transform your gopro footage quick and easy video editing on macbook,easy gopro video editing a step by step guide for macbook users,gopro quik for macbook how to edit your gopro videos easily
-thumbnail: https://www.lifewire.com/thmb/XF8XZEIjsJng0yh72ZnUp_8O804=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/young-muslim-woman-using-phone-1137305438-75947aa7fb484506bf9da8c38fc68a03.jpg
+thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
 ---
 
 ## Quick and Easy Video Edits: A GoPro Quik Tutorial for MacBook Users

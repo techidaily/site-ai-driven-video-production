@@ -1,7 +1,7 @@
 ---
 title: Updated Unleash Your Creativity 10 Public Domain Image Sites
-date: 2024-05-19T11:48:04.615Z
-updated: 2024-05-20T11:48:04.615Z
+date: 2024-06-16T10:10:18.285Z
+updated: 2024-06-17T10:10:18.285Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Unleash Your Creativity 10 Public Domain Image Sites
 excerpt: This Article Describes Updated Unleash Your Creativity 10 Public Domain Image Sites
 keywords: unleash creative freedom best public domain video resources,unleash creativity 10 best free public domain images sites,unleash your creativity 10 top rated music video makers,unleash your creativity 12 top rated online animation tools,unleash creativity 10 top public domain image sources,unleash your creativity 10 public domain image sites,free image heaven top 10 public domain sites
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## Unleash Your Creativity: 10 Public Domain Image Sites

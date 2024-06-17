@@ -1,7 +1,7 @@
 ---
 title: From Fast to Furious How to Create Slow-Motion Effects on Kapwing for 2024
-date: 2024-05-19T11:47:29.356Z
-updated: 2024-05-20T11:47:29.356Z
+date: 2024-06-16T10:10:04.194Z
+updated: 2024-06-17T10:10:04.194Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes From Fast to Furious How to Create Slow-Motion Effects on Kapwing for 2024
 excerpt: This Article Describes From Fast to Furious How to Create Slow-Motion Effects on Kapwing for 2024
 keywords: from fast to slow how to create engaging slow motion videos on kapwing,from fast to slow how to convert your videos to slow motion on kapwing,from fast to slow mastering slow motion video creation on kapwing,from fast to furiously slow kapwing slow motion tutorial,transform your videos how to add slow motion effects on kapwing,from fast to furious how to create slow motion effects on kapwing,from fast to furious add slow motion effects to your videos for free with filmora
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## From Fast to Furious: How to Create Slow-Motion Effects on Kapwing

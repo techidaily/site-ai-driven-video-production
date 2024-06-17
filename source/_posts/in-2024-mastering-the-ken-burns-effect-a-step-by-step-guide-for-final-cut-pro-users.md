@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users
-date: 2024-05-19T11:47:04.122Z
-updated: 2024-05-20T11:47:04.122Z
+date: 2024-06-16T10:09:55.560Z
+updated: 2024-06-17T10:09:55.560Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users
 excerpt: This Article Describes In 2024, Mastering the Ken Burns Effect A Step-by-Step Guide for Final Cut Pro Users
 keywords: mastering the ken burns effect in final cut pro a step by step guide,mastering the ken burns effect a step by step guide for final cut pro users,ai animation mastering the ken burns effect a step by step guide,mastering the ken burns effect a step by step guide,bring your videos to life a step by step guide to the ken burns effect in final cut pro,transform your footage a step by step guide to ken burns effect in final cut pro,ai animation mastering the ken burns effect a step by step guide for final cut pro users
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## Mastering the Ken Burns Effect: A Step-by-Step Guide for Final Cut Pro Users

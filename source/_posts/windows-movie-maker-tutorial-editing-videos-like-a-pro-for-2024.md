@@ -1,7 +1,7 @@
 ---
 title: Windows Movie Maker Tutorial Editing Videos Like a Pro for 2024
-date: 2024-05-19T11:47:08.900Z
-updated: 2024-05-20T11:47:08.900Z
+date: 2024-06-16T10:10:18.193Z
+updated: 2024-06-17T10:10:18.193Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Windows Movie Maker Tutorial Editing Videos Like a Pro for 2024
 excerpt: This Article Describes Windows Movie Maker Tutorial Editing Videos Like a Pro for 2024
 keywords: windows live movie maker tutorial splitting videos made easy,windows movie maker essentials learn to edit videos like a pro,editing videos like a pro a beginners guide to windows movie maker,windows movie maker tutorial editing videos like a pro,windows live movie maker tutorial splitting videos like a pro,ai animation windows movie maker tutorial editing videos like a pro,video editing made easy a windows movie maker tutorial for all
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Windows Movie Maker Tutorial: Editing Videos Like a Pro

@@ -1,7 +1,7 @@
 ---
 title: New From Jumpy to Smooth A Step-by-Step Guide to Video Stabilization in Adobe Premiere Pro
-date: 2024-05-19T11:47:29.507Z
-updated: 2024-05-20T11:47:29.507Z
+date: 2024-06-16T10:10:02.640Z
+updated: 2024-06-17T10:10:02.640Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New From Jumpy to Smooth A Step-by-Step Guide to Video Stabilization in Adobe Premiere Pro
 excerpt: This Article Describes New From Jumpy to Smooth A Step-by-Step Guide to Video Stabilization in Adobe Premiere Pro
 keywords: get steady a step by step guide to video stabilization in adobe premiere pro,from shaky to smooth adobe premiere pro video stabilization tutorial,fixing shaky videos a step by step guide to stabilization in adobe premiere pro,from jumpy to smooth a step by step guide to video stabilization in adobe premiere pro,fixing the shake a step by step guide to video stabilization in premiere pro,unshaking the camera a step by step guide to video stabilization in premiere pro,from jittery to smooth video stabilization in premiere pro made easy
-thumbnail: https://www.lifewire.com/thmb/3UFOh7_Yk35mO3BSnykTStwc6K4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
 ## From Jumpy to Smooth: A Step-by-Step Guide to Video Stabilization in Adobe Premiere Pro

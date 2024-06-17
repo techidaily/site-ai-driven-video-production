@@ -1,7 +1,7 @@
 ---
 title: In 2024, Video Cropping 101 A Beginners Guide to Using Avidemux
-date: 2024-05-19T11:48:08.057Z
-updated: 2024-05-20T11:48:08.057Z
+date: 2024-06-16T10:09:54.183Z
+updated: 2024-06-17T10:09:54.183Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Video Cropping 101 A Beginners Guide to Using Avidemux
 excerpt: This Article Describes In 2024, Video Cropping 101 A Beginners Guide to Using Avidemux
 keywords: video trimming 101 a beginners guide to using kapwing editor,avidemux video editing a beginners guide to cropping and resizing,video cropping made easy a comprehensive guide to using avidemux,yosemite video editing 101 a beginners guide to editing videos on mac,video cropping 101 a beginners guide to using avidemux,avidemux crop video a beginners guide to trimming and resizing,cropping videos in avidemux a comprehensive guide for beginners and pros
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## Video Cropping 101: A Beginner's Guide to Using Avidemux

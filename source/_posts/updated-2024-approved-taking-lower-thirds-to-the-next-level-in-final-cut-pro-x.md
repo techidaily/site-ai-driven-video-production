@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Taking Lower Thirds to the Next Level in Final Cut Pro X
-date: 2024-04-29T19:52:56.736Z
-updated: 2024-04-30T19:52:56.736Z
+date: 2024-06-16T10:10:08.401Z
+updated: 2024-06-17T10:10:08.401Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Taking Lower Thirds to the Next Level in Final Cut Pro X
 excerpt: This Article Describes Updated 2024 Approved Taking Lower Thirds to the Next Level in Final Cut Pro X
 keywords: taking your video editing to the next level with final cut pro,take your editing to the next level advanced jump cuts in final cut pro x,taking lower thirds to the next level in final cut pro x,the art of lower thirds elevating your videos in final cut pro x,unlocking the power of titles in final cut pro x 2023 update,final cut pro x adding text titles and lower thirds like a pro,what makes the best lower thirds in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/0ReomQ5wrb7WSffrn0hDnZKzgPU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-gaming-laptop-5235493-145a8c941b9f46e99d9a90bdee387893.jpg
+thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1ab1cb47d3f2f93a3bce610c.jpg
 ---
 
 ## Taking Lower Thirds to the Next Level in Final Cut Pro X

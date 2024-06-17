@@ -1,7 +1,7 @@
 ---
 title: Updated How to Create Captions in Final Cut Pro X A Comprehensive Guide
-date: 2024-05-19T11:47:34.094Z
-updated: 2024-05-20T11:47:34.094Z
+date: 2024-06-16T10:10:15.870Z
+updated: 2024-06-17T10:10:15.870Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated How to Create Captions in Final Cut Pro X A Comprehensive Guide
 excerpt: This Article Describes Updated How to Create Captions in Final Cut Pro X A Comprehensive Guide
 keywords: how to create captions in final cut pro x a comprehensive guide,mastering titles in final cut pro x a comprehensive guide,how to create closed captions in final cut pro x 2023 update,cropping images in final cut pro x a comprehensive guide,motion blur magic a comprehensive guide to final cut pro effects,motion blur magic a comprehensive guide to final cut pro techniques,aspect ratio editing in final cut pro a comprehensive guide
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## How to Create Captions in Final Cut Pro X: A Comprehensive Guide

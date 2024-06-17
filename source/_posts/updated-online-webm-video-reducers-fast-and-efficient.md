@@ -1,7 +1,7 @@
 ---
 title: Updated Online WebM Video Reducers Fast and Efficient
-date: 2024-05-19T11:47:41.557Z
-updated: 2024-05-20T11:47:41.557Z
+date: 2024-06-16T10:10:18.426Z
+updated: 2024-06-17T10:10:18.426Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Online WebM Video Reducers Fast and Efficient
 excerpt: This Article Describes Updated Online WebM Video Reducers Fast and Efficient
 keywords: fast and free webm video compression online,free and fantastic top 10 webm video editors,online webm video reducers fast and efficient,top rated online webm video minifiers,5 fantastic free online video editors like imovie updated 2023,mastering video rotation a simple and efficient process,best web based online vertical video editors
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## Online WebM Video Reducers: Fast and Efficient

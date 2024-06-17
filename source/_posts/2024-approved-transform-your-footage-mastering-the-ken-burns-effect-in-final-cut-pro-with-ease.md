@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Transform Your Footage Mastering the Ken Burns Effect in Final Cut Pro with Ease
-date: 2024-05-19T11:48:02.289Z
-updated: 2024-05-20T11:48:02.289Z
+date: 2024-06-16T10:10:21.758Z
+updated: 2024-06-17T10:10:21.758Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Transform Your Footage Mastering the Ken Burns Effect in Final Cut Pro with Ease
 excerpt: This Article Describes 2024 Approved Transform Your Footage Mastering the Ken Burns Effect in Final Cut Pro with Ease
 keywords: motion blur magic transform your footage with final cut pro,take your videos to the next level mastering the ken burns effect in final cut pro,how to use ken burns effect in final cut pro with detailed steps,mastering the ken burns effect a step by step guide for final cut pro users,transform your footage mastering the ken burns effect in final cut pro with ease,transform your footage a step by step guide to ken burns effect in final cut pro,ai animation final cut pro tutorial adding emotional depth with the ken burns effect updated 2023
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## Transform Your Footage: Mastering the Ken Burns Effect in Final Cut Pro with Ease

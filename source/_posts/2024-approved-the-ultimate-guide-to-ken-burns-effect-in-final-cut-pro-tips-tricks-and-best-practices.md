@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Ultimate Guide to Ken Burns Effect in Final Cut Pro Tips, Tricks, and Best Practices
-date: 2024-05-19T11:48:16.968Z
-updated: 2024-05-20T11:48:16.968Z
+date: 2024-06-16T10:10:16.909Z
+updated: 2024-06-17T10:10:16.909Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Ultimate Guide to Ken Burns Effect in Final Cut Pro Tips, Tricks, and Best Practices
 excerpt: This Article Describes 2024 Approved The Ultimate Guide to Ken Burns Effect in Final Cut Pro Tips, Tricks, and Best Practices
 keywords: the ultimate guide to subtitling in final cut pro x tips and tricks,free sound effect resources for final cut pro tips tricks and best practices,the ultimate guide to ken burns effect in final cut pro tips tricks and best practices,the ultimate guide to jump cuts in final cut pro x tips and tricks,the ultimate ken burns effect tutorial for final cut pro tips tricks and best practices,final cut pro time lapse essentials tips tricks and best practices,the ultimate fcp voice over guide tips tricks and best practices
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## The Ultimate Guide to Ken Burns Effect in Final Cut Pro: Tips, Tricks, and Best Practices

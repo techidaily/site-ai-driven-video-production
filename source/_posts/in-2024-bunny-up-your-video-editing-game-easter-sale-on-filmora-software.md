@@ -1,7 +1,7 @@
 ---
 title: In 2024, Bunny Up Your Video Editing Game Easter Sale on Filmora Software
-date: 2024-05-19T11:47:14.100Z
-updated: 2024-05-20T11:47:14.100Z
+date: 2024-06-16T10:10:17.911Z
+updated: 2024-06-17T10:10:17.911Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Bunny Up Your Video Editing Game Easter Sale on Filmora Software
 excerpt: This Article Describes In 2024, Bunny Up Your Video Editing Game Easter Sale on Filmora Software
 keywords: unleash your creativity free game video editing software,elevate your videos free slow motion editing software by filmora,bunny up your video editing game wondershare filmora easter discount,bunny up your video editing game wondershare filmora easter sale mar 2024,elevate your video game top 4k editing software,elevate your video game best 1080p editing software for creators,bunny up your video editing game easter sale on filmora software
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## Bunny Up Your Video Editing Game: Easter Sale on Filmora Software

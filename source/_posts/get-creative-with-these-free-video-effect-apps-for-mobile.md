@@ -1,7 +1,7 @@
 ---
 title: Get Creative with These Free Video Effect Apps for Mobile
-date: 2024-05-19T11:46:47.825Z
-updated: 2024-05-20T11:46:47.825Z
+date: 2024-06-16T10:09:59.893Z
+updated: 2024-06-17T10:09:59.893Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Get Creative with These Free Video Effect Apps for Mobile
 excerpt: This Article Describes Get Creative with These Free Video Effect Apps for Mobile
 keywords: get creative with these free video special effects apps for ios and android,create viral reaction videos with these mobile apps,unleash creativity best free video effects apps for mobile devices,top rated free video editing apps with effects for mobile,get creative top free mobile apps for adding video special effects,get creative with these top vignette apps for mobile phones,get creative with these free video effect apps for mobile
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## Get Creative with These Free Video Effect Apps for Mobile

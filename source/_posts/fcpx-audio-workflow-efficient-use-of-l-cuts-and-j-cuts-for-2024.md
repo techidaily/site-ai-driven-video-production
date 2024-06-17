@@ -1,7 +1,7 @@
 ---
 title: FCPX Audio Workflow Efficient Use of L-Cuts and J-Cuts for 2024
-date: 2024-05-19T11:47:24.166Z
-updated: 2024-05-20T11:47:24.166Z
+date: 2024-06-16T10:10:20.517Z
+updated: 2024-06-17T10:10:20.517Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes FCPX Audio Workflow Efficient Use of L-Cuts and J-Cuts for 2024
 excerpt: This Article Describes FCPX Audio Workflow Efficient Use of L-Cuts and J-Cuts for 2024
 keywords: final cut pro color workflow efficient and effective,fcpx tutorial elevate your audio game with l cuts and j cuts,final cut pro x audio fundamentals working with l cuts and j cuts,fcpx audio editing essentials learn l cuts and j cuts,fcpx audio editing essentials l cuts j cuts and more,audio post production in fcpx l cuts j cuts and more,fcpx audio workflow efficient use of l cuts and j cuts
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## FCPX Audio Workflow: Efficient Use of L-Cuts and J-Cuts
