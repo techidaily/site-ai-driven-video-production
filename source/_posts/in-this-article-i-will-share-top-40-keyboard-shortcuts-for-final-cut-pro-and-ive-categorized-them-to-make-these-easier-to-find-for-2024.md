@@ -1,7 +1,7 @@
 ---
 title: In This Article, I Will Share Top 40 Keyboard Shortcuts for Final Cut Pro and Ive Categorized Them to Make These Easier to Find for 2024
-date: 2024-05-19T11:47:34.543Z
-updated: 2024-05-20T11:47:34.543Z
+date: 2024-06-24T07:41:19.075Z
+updated: 2024-06-25T07:41:19.075Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In This Article, I Will Share Top 40 Keyboard Shortcuts for Final Cut Pro and Ive Categorized Them to Make These Easier to Find for 2024
 excerpt: This Article Describes In This Article, I Will Share Top 40 Keyboard Shortcuts for Final Cut Pro and Ive Categorized Them to Make These Easier to Find for 2024
 keywords: want to find the best video editor for mac read this article to find out the best video editing software on mac that weve picked out for you,ai animation top 40 keyboard shortcuts for final cut pro x,this article shows the detail steps to crop an image in final cut pro with screenshots,unleash your creativity top 40 keyboard shortcuts for final cut pro x users,for efficient workflow the keyboard shortcuts cannot be beaten so here i list top 20 adobe premiere shortcuts you will use when editing video,sony vegas pro has not the feature you want cant import your video source files any other problems find an alternative for windows in this article,in this article i will share top 40 keyboard shortcuts for final cut pro and ive categorized them to make these easier to find
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## In This Article, I Will Share Top 40 Keyboard Shortcuts for Final Cut Pro and I've Categorized Them to Make These Easier to Find
@@ -39,7 +39,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -88,8 +88,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 
@@ -142,7 +142,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -191,8 +191,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 
@@ -245,7 +245,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -294,8 +294,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 
@@ -348,7 +348,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **Cmd + N**           | Create a new Project                                                    |
 | **Shift + Cmd + D**   | Create a Project Snapshot                                               |
 | **Cmd + \[plus\]**    | Zoom into Timeline or image                                             |
-| **Cmd + \[ minus \]** | Zoom out of Timeline or image                                           |
+| **Cmd + \[minus \]** | Zoom out of Timeline or image                                           |
 | **Shift + Z**         | Size the Timeline or image to fit in the window                         |
 | **Control + Cmd + 1** | Toggle Library and Browser display on or off                            |
 | **Control + Cmd + 3** | Toggle Event Viewer open/closed                                         |
@@ -397,8 +397,8 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 | **B**                                          | Select the Blade tool                                                |
 | **R**                                          | Select the Range tool                                                |
 | **Shift + X**                                  | Jump the selected edit point to the position of the skimmer/playhead |
-| **\[ comma \] / \[ period \]**                 | Move the selected clip or edit point one frame left/right            |
-| **Shift + \[ comma \] / Shift + \[ period \]** | Move selected clip or edit point ten frames left/right               |
+| **\[comma \] / \[period \]**                 | Move the selected clip or edit point one frame left/right            |
+| **Shift + \[comma \] / Shift + \[period \]** | Move selected clip or edit point ten frames left/right               |
 
 #### Other cool shortcuts
 

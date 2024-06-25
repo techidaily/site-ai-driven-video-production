@@ -1,7 +1,7 @@
 ---
 title: New Craft Unique Invites with These Top Video Maker Apps for 2024
-date: 2024-04-29T19:42:34.509Z
-updated: 2024-04-30T19:42:34.509Z
+date: 2024-06-24T07:41:05.241Z
+updated: 2024-06-25T07:41:05.241Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Craft Unique Invites with These Top Video Maker Apps for 2024
 excerpt: This Article Describes New Craft Unique Invites with These Top Video Maker Apps for 2024
 keywords: make unforgettable video invitations with these mobile apps,transform photos into videos with these top makers,craft unique invites with these top video maker apps,send unforgettable invites with these best video apps for ios android,s top rated video maker apps with music for smartphones,make unforgettable video invites with these mobile apps,make unforgettable video invites with these free online tools
-thumbnail: https://www.lifewire.com/thmb/XTn22vUEhR1g5hO3UkHHYfR8z14=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
 ## Craft Unique Invites with These Top Video Maker Apps
@@ -24,7 +24,7 @@ If you need to develop templates for weddings, birthdays, or even business affai
 
 You may now create and customize your invitation card with whatever information you like as part of the design using these applications below. Check out the video invitation maker apps for iPhone and Android in this part of the article to get started with generating your invitation card.
 
-### 1\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Filmora
 
 **Supported OS**: Android and iOS
 
@@ -38,7 +38,7 @@ You can even change the aspect ratio and [playback your movie backward](https://
 * You can adjust transitions, overlays, apply filters, etc.
 * Straightforward interface.
 
-### 2\. [KineMaster](https://kinemaster.fileplanet.com/apk)
+### 2\. KineMaster
 
 **Supported OS**: Android and iOS
 
@@ -53,7 +53,7 @@ KineMaster enables you to [reverse your video](https://tools.techidaily.com/wond
 * It has many templates, designs, fonts, stickers, artworks, etc.
 * It even allows the user to play the video in reverse mode.
 
-### 3\. [Canva Design Photo Video](http://www.canva.com/)
+### 3\. Canva Design Photo Video
 
 **Supported OS**: Android and iOS
 
@@ -83,7 +83,7 @@ Using pre-built designs for each event, you can make spectacular and endearing V
 * For your Invitation, combine different effects with a backdrop image.
 * Add your photo or a photo of the place to cards from your camera or gallery.
 
-### 5\. [Video Invitation Maker](https://play.google.com/store/apps/details?id=com.invitationcardmaker.videomaker)
+### 5\. Video Invitation Maker
 
 **Supported OS:** Android
 
@@ -116,7 +116,7 @@ Vimeo is a video hosting platform, but it also provides an online video creator 
 
 _Read this article to find out_ [_how to edit and create videos with Video Create online_](https://tools.techidaily.com/wondershare/filmora/download/)_._
 
-### 7\. [Video Invitation Maker App](https://play.google.com/store/apps/details?id=com.videoinvites.app)
+### 7\. Video Invitation Maker App
 
 **Supported OS**: Android
 
@@ -149,7 +149,7 @@ Download the app from the App Store or the Google Play Store. After that, open t
 * It begins with a free trial for starters.
 * Large selection of hundreds of wedding invite templates and stickers.
 
-### 9\. [Inshot](https://inshot.com/)
+### 9\. Inshot
 
 **Supported OS:** Android and iOS
 
@@ -164,7 +164,7 @@ It's the ideal tool for anyone who wants to be more creative without having to m
 * It even edits 4K wedding invitation videos for free.
 * It allows you to add music in the background for your video invites.
 
-### 10\. [Magisto](https://www.magisto.com/)
+### 10\. Magisto
 
 **Supported OS**: Android and iOS
 
@@ -187,7 +187,7 @@ As previously said, these are the best **video invitation maker app** available.
 
 You may now create and customize your invitation card with whatever information you like as part of the design using these applications below. Check out the video invitation maker apps for iPhone and Android in this part of the article to get started with generating your invitation card.
 
-### 1\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Filmora
 
 **Supported OS**: Android and iOS
 
@@ -201,7 +201,7 @@ You can even change the aspect ratio and [playback your movie backward](https://
 * You can adjust transitions, overlays, apply filters, etc.
 * Straightforward interface.
 
-### 2\. [KineMaster](https://kinemaster.fileplanet.com/apk)
+### 2\. KineMaster
 
 **Supported OS**: Android and iOS
 
@@ -216,7 +216,7 @@ KineMaster enables you to [reverse your video](https://tools.techidaily.com/wond
 * It has many templates, designs, fonts, stickers, artworks, etc.
 * It even allows the user to play the video in reverse mode.
 
-### 3\. [Canva Design Photo Video](http://www.canva.com/)
+### 3\. Canva Design Photo Video
 
 **Supported OS**: Android and iOS
 
@@ -246,7 +246,7 @@ Using pre-built designs for each event, you can make spectacular and endearing V
 * For your Invitation, combine different effects with a backdrop image.
 * Add your photo or a photo of the place to cards from your camera or gallery.
 
-### 5\. [Video Invitation Maker](https://play.google.com/store/apps/details?id=com.invitationcardmaker.videomaker)
+### 5\. Video Invitation Maker
 
 **Supported OS:** Android
 
@@ -279,7 +279,7 @@ Vimeo is a video hosting platform, but it also provides an online video creator 
 
 _Read this article to find out_ [_how to edit and create videos with Video Create online_](https://tools.techidaily.com/wondershare/filmora/download/)_._
 
-### 7\. [Video Invitation Maker App](https://play.google.com/store/apps/details?id=com.videoinvites.app)
+### 7\. Video Invitation Maker App
 
 **Supported OS**: Android
 
@@ -312,7 +312,7 @@ Download the app from the App Store or the Google Play Store. After that, open t
 * It begins with a free trial for starters.
 * Large selection of hundreds of wedding invite templates and stickers.
 
-### 9\. [Inshot](https://inshot.com/)
+### 9\. Inshot
 
 **Supported OS:** Android and iOS
 
@@ -327,7 +327,7 @@ It's the ideal tool for anyone who wants to be more creative without having to m
 * It even edits 4K wedding invitation videos for free.
 * It allows you to add music in the background for your video invites.
 
-### 10\. [Magisto](https://www.magisto.com/)
+### 10\. Magisto
 
 **Supported OS**: Android and iOS
 
@@ -350,7 +350,7 @@ As previously said, these are the best **video invitation maker app** available.
 
 You may now create and customize your invitation card with whatever information you like as part of the design using these applications below. Check out the video invitation maker apps for iPhone and Android in this part of the article to get started with generating your invitation card.
 
-### 1\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Filmora
 
 **Supported OS**: Android and iOS
 
@@ -364,7 +364,7 @@ You can even change the aspect ratio and [playback your movie backward](https://
 * You can adjust transitions, overlays, apply filters, etc.
 * Straightforward interface.
 
-### 2\. [KineMaster](https://kinemaster.fileplanet.com/apk)
+### 2\. KineMaster
 
 **Supported OS**: Android and iOS
 
@@ -379,7 +379,7 @@ KineMaster enables you to [reverse your video](https://tools.techidaily.com/wond
 * It has many templates, designs, fonts, stickers, artworks, etc.
 * It even allows the user to play the video in reverse mode.
 
-### 3\. [Canva Design Photo Video](http://www.canva.com/)
+### 3\. Canva Design Photo Video
 
 **Supported OS**: Android and iOS
 
@@ -409,7 +409,7 @@ Using pre-built designs for each event, you can make spectacular and endearing V
 * For your Invitation, combine different effects with a backdrop image.
 * Add your photo or a photo of the place to cards from your camera or gallery.
 
-### 5\. [Video Invitation Maker](https://play.google.com/store/apps/details?id=com.invitationcardmaker.videomaker)
+### 5\. Video Invitation Maker
 
 **Supported OS:** Android
 
@@ -442,7 +442,7 @@ Vimeo is a video hosting platform, but it also provides an online video creator 
 
 _Read this article to find out_ [_how to edit and create videos with Video Create online_](https://tools.techidaily.com/wondershare/filmora/download/)_._
 
-### 7\. [Video Invitation Maker App](https://play.google.com/store/apps/details?id=com.videoinvites.app)
+### 7\. Video Invitation Maker App
 
 **Supported OS**: Android
 
@@ -475,7 +475,7 @@ Download the app from the App Store or the Google Play Store. After that, open t
 * It begins with a free trial for starters.
 * Large selection of hundreds of wedding invite templates and stickers.
 
-### 9\. [Inshot](https://inshot.com/)
+### 9\. Inshot
 
 **Supported OS:** Android and iOS
 
@@ -490,7 +490,7 @@ It's the ideal tool for anyone who wants to be more creative without having to m
 * It even edits 4K wedding invitation videos for free.
 * It allows you to add music in the background for your video invites.
 
-### 10\. [Magisto](https://www.magisto.com/)
+### 10\. Magisto
 
 **Supported OS**: Android and iOS
 
@@ -513,7 +513,7 @@ As previously said, these are the best **video invitation maker app** available.
 
 You may now create and customize your invitation card with whatever information you like as part of the design using these applications below. Check out the video invitation maker apps for iPhone and Android in this part of the article to get started with generating your invitation card.
 
-### 1\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Filmora
 
 **Supported OS**: Android and iOS
 
@@ -527,7 +527,7 @@ You can even change the aspect ratio and [playback your movie backward](https://
 * You can adjust transitions, overlays, apply filters, etc.
 * Straightforward interface.
 
-### 2\. [KineMaster](https://kinemaster.fileplanet.com/apk)
+### 2\. KineMaster
 
 **Supported OS**: Android and iOS
 
@@ -542,7 +542,7 @@ KineMaster enables you to [reverse your video](https://tools.techidaily.com/wond
 * It has many templates, designs, fonts, stickers, artworks, etc.
 * It even allows the user to play the video in reverse mode.
 
-### 3\. [Canva Design Photo Video](http://www.canva.com/)
+### 3\. Canva Design Photo Video
 
 **Supported OS**: Android and iOS
 
@@ -572,7 +572,7 @@ Using pre-built designs for each event, you can make spectacular and endearing V
 * For your Invitation, combine different effects with a backdrop image.
 * Add your photo or a photo of the place to cards from your camera or gallery.
 
-### 5\. [Video Invitation Maker](https://play.google.com/store/apps/details?id=com.invitationcardmaker.videomaker)
+### 5\. Video Invitation Maker
 
 **Supported OS:** Android
 
@@ -605,7 +605,7 @@ Vimeo is a video hosting platform, but it also provides an online video creator 
 
 _Read this article to find out_ [_how to edit and create videos with Video Create online_](https://tools.techidaily.com/wondershare/filmora/download/)_._
 
-### 7\. [Video Invitation Maker App](https://play.google.com/store/apps/details?id=com.videoinvites.app)
+### 7\. Video Invitation Maker App
 
 **Supported OS**: Android
 
@@ -638,7 +638,7 @@ Download the app from the App Store or the Google Play Store. After that, open t
 * It begins with a free trial for starters.
 * Large selection of hundreds of wedding invite templates and stickers.
 
-### 9\. [Inshot](https://inshot.com/)
+### 9\. Inshot
 
 **Supported OS:** Android and iOS
 
@@ -653,7 +653,7 @@ It's the ideal tool for anyone who wants to be more creative without having to m
 * It even edits 4K wedding invitation videos for free.
 * It allows you to add music in the background for your video invites.
 
-### 10\. [Magisto](https://www.magisto.com/)
+### 10\. Magisto
 
 **Supported OS**: Android and iOS
 
@@ -740,7 +740,7 @@ Type Splice video editor in the search box. Click on the Splice video editor ico
 
 ![install splice](https://images.wondershare.com/filmora/article-images/splice-for-mac-3.jpg)
 
-## Part3: Best Alternative to Splice for Mac - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part3: Best Alternative to Splice for Mac - Filmora
 
 Splice video editor is an easy-to-use tool with various features to edit your videos. However, there is a downside to this amazing tool, it does not have a desktop version, and downloading the app for Mac is not straightforward. The best alternative for Splice [Video Editor for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is Wondershare Filmora. It is not only easy-to-use but highly sophisticated, and you can download it on your Mac easily with a click of a button.
 
@@ -827,7 +827,7 @@ Type Splice video editor in the search box. Click on the Splice video editor ico
 
 ![install splice](https://images.wondershare.com/filmora/article-images/splice-for-mac-3.jpg)
 
-## Part3: Best Alternative to Splice for Mac - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part3: Best Alternative to Splice for Mac - Filmora
 
 Splice video editor is an easy-to-use tool with various features to edit your videos. However, there is a downside to this amazing tool, it does not have a desktop version, and downloading the app for Mac is not straightforward. The best alternative for Splice [Video Editor for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is Wondershare Filmora. It is not only easy-to-use but highly sophisticated, and you can download it on your Mac easily with a click of a button.
 
@@ -914,7 +914,7 @@ Type Splice video editor in the search box. Click on the Splice video editor ico
 
 ![install splice](https://images.wondershare.com/filmora/article-images/splice-for-mac-3.jpg)
 
-## Part3: Best Alternative to Splice for Mac - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part3: Best Alternative to Splice for Mac - Filmora
 
 Splice video editor is an easy-to-use tool with various features to edit your videos. However, there is a downside to this amazing tool, it does not have a desktop version, and downloading the app for Mac is not straightforward. The best alternative for Splice [Video Editor for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is Wondershare Filmora. It is not only easy-to-use but highly sophisticated, and you can download it on your Mac easily with a click of a button.
 
@@ -1001,7 +1001,7 @@ Type Splice video editor in the search box. Click on the Splice video editor ico
 
 ![install splice](https://images.wondershare.com/filmora/article-images/splice-for-mac-3.jpg)
 
-## Part3: Best Alternative to Splice for Mac - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part3: Best Alternative to Splice for Mac - Filmora
 
 Splice video editor is an easy-to-use tool with various features to edit your videos. However, there is a downside to this amazing tool, it does not have a desktop version, and downloading the app for Mac is not straightforward. The best alternative for Splice [Video Editor for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is Wondershare Filmora. It is not only easy-to-use but highly sophisticated, and you can download it on your Mac easily with a click of a button.
 
@@ -1085,7 +1085,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1097,17 +1097,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1115,15 +1115,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1176,7 +1176,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1188,17 +1188,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1206,15 +1206,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1267,7 +1267,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1279,17 +1279,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1297,15 +1297,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1358,7 +1358,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1370,17 +1370,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1388,15 +1388,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1560,7 +1560,7 @@ The better part, this calculator provides calculations for landscape and portrai
 
 As you edit videos, adjust them to ensure they fit in an email as an attachment. That will help you upload them easily after you have used some video editing tools. This article elaborates more by using Wondershare Filmora.
 
-### **Here’s why we recommend [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### **Here’s why we recommend Wondershare Filmora Video Editor
 
 The obvious reason is many features that will help you edit the video like a pro. For instance, you can resize, zoom and highlight the best parts of the video. These are some features of Wondershare Filmora’s video editing capabilities.
 
@@ -1756,7 +1756,7 @@ The better part, this calculator provides calculations for landscape and portrai
 
 As you edit videos, adjust them to ensure they fit in an email as an attachment. That will help you upload them easily after you have used some video editing tools. This article elaborates more by using Wondershare Filmora.
 
-### **Here’s why we recommend [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### **Here’s why we recommend Wondershare Filmora Video Editor
 
 The obvious reason is many features that will help you edit the video like a pro. For instance, you can resize, zoom and highlight the best parts of the video. These are some features of Wondershare Filmora’s video editing capabilities.
 
@@ -1952,7 +1952,7 @@ The better part, this calculator provides calculations for landscape and portrai
 
 As you edit videos, adjust them to ensure they fit in an email as an attachment. That will help you upload them easily after you have used some video editing tools. This article elaborates more by using Wondershare Filmora.
 
-### **Here’s why we recommend [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### **Here’s why we recommend Wondershare Filmora Video Editor
 
 The obvious reason is many features that will help you edit the video like a pro. For instance, you can resize, zoom and highlight the best parts of the video. These are some features of Wondershare Filmora’s video editing capabilities.
 
@@ -2148,7 +2148,7 @@ The better part, this calculator provides calculations for landscape and portrai
 
 As you edit videos, adjust them to ensure they fit in an email as an attachment. That will help you upload them easily after you have used some video editing tools. This article elaborates more by using Wondershare Filmora.
 
-### **Here’s why we recommend [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### **Here’s why we recommend Wondershare Filmora Video Editor
 
 The obvious reason is many features that will help you edit the video like a pro. For instance, you can resize, zoom and highlight the best parts of the video. These are some features of Wondershare Filmora’s video editing capabilities.
 

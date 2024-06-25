@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Transform Your Footage Mastering the Ken Burns Effect in Final Cut Pro with Ease
-date: 2024-06-16T10:10:21.758Z
-updated: 2024-06-17T10:10:21.758Z
+date: 2024-06-24T07:41:00.945Z
+updated: 2024-06-25T07:41:00.945Z
 tags: 
   - video editing software
   - video editing
@@ -538,7 +538,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -740,7 +740,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -942,7 +942,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -1144,7 +1144,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -1233,7 +1233,7 @@ You can use cartoon effects to make an animated photo with one click. You need t
 
 First, we would like to introduce you to some apps that will help you do picture animation on your phone in this section.
 
-#### 1. [Animate Me](https://itunes.apple.com/us/app/animate-me-funny-face-swap-and-moving-pictures/id667012622?mt=8)
+#### 1. Animate Me
 
 The first animation image-maker is Animate me, which is enjoyable for only iPhone users. In other words, this app can only be installed on an iOS device.
 
@@ -1254,7 +1254,7 @@ It is an amazing app that is worth giving a try to make others laugh by creating
 
 ![animate me](https://images.wondershare.com/filmora/article-images/Animate-Me.JPG)
 
-#### 2. [Loopsie](https://itunes.apple.com/us/app/loopsie/id1259909228?mt=8)
+#### 2. Loopsie
 
 Loopsie is yet another picture animation maker available for both Android and iPhone users. This is one of the best photo and video creation apps used on a mobile phone.
 
@@ -1273,7 +1273,7 @@ Loopsie is free to use and is a mix of pictures and videos.
 
 ![loopsie](https://images.wondershare.com/filmora/article-images/Loopsie.JPG)
 
-#### 3. [Picstun](https://play.google.com/store/apps/details?id=com.sunstarphotomedia.picstunanimationeffect&hl=en%5FUS)
+#### 3. Picstun
 
 The next picture animation maker is Picstun, for Android device users. This is a professional photo animator app giving awesome animated video effects that can be applied to a picture to animate it.
 
@@ -1296,7 +1296,7 @@ Download this app and give a creative look to your picture.
 
 This section will update you with the software or programs to know how to animate a picture on a computer. Here are those.
 
-#### 1. [GIF Brewery](https://itunes.apple.com/us/app/gif-brewery-by-gfycat/id1081413713?mt=12)
+#### 1. GIF Brewery
 
 GIF Brewery is free software for Mac users that offers a simple, easy, and intuitive user interface. Anyone can use it to make creative and amazing GIFs from videos since there is no video-making expertise needed for using it.
 
@@ -1315,7 +1315,7 @@ You can resize and crop your video and even set the preferred frame rate.
 
 ![gif brewery](https://images.wondershare.com/filmora/article-images/GIF-Brewery.JPG)
 
-#### 2. [GIFMaker.me](http://gifmaker.me/)
+#### 2. GIFMaker.me
 
 GIFMaker.me is one tool that can help you do photo animation online. This online animated photo maker allows the users to create GIFs, slideshows, animated videos with music effortlessly.
 
@@ -1334,7 +1334,7 @@ GIFMaker.me supports Windows, Mac, and Linux operating systems. You just need a 
 
 ![GIFMaker.me](https://images.wondershare.com/filmora/article-images/GIFMaker.me.JPG)
 
-#### 3. [GIF Toaster](https://itunes.apple.com/us/app/gif-toaster-gif-maker/id948064297?mt=8)
+#### 3. GIF Toaster
 
 Another GIF maker app is GIF Toaster, which claims to be the best quality GIF maker app ever. You are just 4 steps away from creating your creative GIF when using this app. Choose the photo you want to convert into GIF and then set encoding options. Start encoding and then choose the 'GIF' tab to give your picture GIF effect.
 
@@ -1351,7 +1351,7 @@ Another GIF maker app is GIF Toaster, which claims to be the best quality GIF ma
 
 ![gif toaster](https://images.wondershare.com/filmora/article-images/GIF-Toaster.JPG)
 
-#### 4. [Animated GIF Maker](https://ezgif.com/maker)
+#### 4. Animated GIF Maker
 
 This picture animation maker or GIF maker is also an online tool. You can upload images up to 6MB. This means you can execute the photo animation online by just moving to your web browser.
 
@@ -1363,7 +1363,7 @@ This picture animation maker or GIF maker is also an online tool. You can upload
 
 ![animated gif maker](https://images.wondershare.com/filmora/article-images/Animated-GIF-Maker.JPG)
 
-#### 5. [3Dthis](https://3dthis.com/)
+#### 5. 3Dthis
 
 The last, but certainly not the least, picture animation maker on today's list of best tools to make photo animation online is 3Dthis. With this online tool, you can easily create 3D models and morph animations quite quickly.
 
@@ -1425,7 +1425,7 @@ You can use cartoon effects to make an animated photo with one click. You need t
 
 First, we would like to introduce you to some apps that will help you do picture animation on your phone in this section.
 
-#### 1. [Animate Me](https://itunes.apple.com/us/app/animate-me-funny-face-swap-and-moving-pictures/id667012622?mt=8)
+#### 1. Animate Me
 
 The first animation image-maker is Animate me, which is enjoyable for only iPhone users. In other words, this app can only be installed on an iOS device.
 
@@ -1446,7 +1446,7 @@ It is an amazing app that is worth giving a try to make others laugh by creating
 
 ![animate me](https://images.wondershare.com/filmora/article-images/Animate-Me.JPG)
 
-#### 2. [Loopsie](https://itunes.apple.com/us/app/loopsie/id1259909228?mt=8)
+#### 2. Loopsie
 
 Loopsie is yet another picture animation maker available for both Android and iPhone users. This is one of the best photo and video creation apps used on a mobile phone.
 
@@ -1465,7 +1465,7 @@ Loopsie is free to use and is a mix of pictures and videos.
 
 ![loopsie](https://images.wondershare.com/filmora/article-images/Loopsie.JPG)
 
-#### 3. [Picstun](https://play.google.com/store/apps/details?id=com.sunstarphotomedia.picstunanimationeffect&hl=en%5FUS)
+#### 3. Picstun
 
 The next picture animation maker is Picstun, for Android device users. This is a professional photo animator app giving awesome animated video effects that can be applied to a picture to animate it.
 
@@ -1488,7 +1488,7 @@ Download this app and give a creative look to your picture.
 
 This section will update you with the software or programs to know how to animate a picture on a computer. Here are those.
 
-#### 1. [GIF Brewery](https://itunes.apple.com/us/app/gif-brewery-by-gfycat/id1081413713?mt=12)
+#### 1. GIF Brewery
 
 GIF Brewery is free software for Mac users that offers a simple, easy, and intuitive user interface. Anyone can use it to make creative and amazing GIFs from videos since there is no video-making expertise needed for using it.
 
@@ -1507,7 +1507,7 @@ You can resize and crop your video and even set the preferred frame rate.
 
 ![gif brewery](https://images.wondershare.com/filmora/article-images/GIF-Brewery.JPG)
 
-#### 2. [GIFMaker.me](http://gifmaker.me/)
+#### 2. GIFMaker.me
 
 GIFMaker.me is one tool that can help you do photo animation online. This online animated photo maker allows the users to create GIFs, slideshows, animated videos with music effortlessly.
 
@@ -1526,7 +1526,7 @@ GIFMaker.me supports Windows, Mac, and Linux operating systems. You just need a 
 
 ![GIFMaker.me](https://images.wondershare.com/filmora/article-images/GIFMaker.me.JPG)
 
-#### 3. [GIF Toaster](https://itunes.apple.com/us/app/gif-toaster-gif-maker/id948064297?mt=8)
+#### 3. GIF Toaster
 
 Another GIF maker app is GIF Toaster, which claims to be the best quality GIF maker app ever. You are just 4 steps away from creating your creative GIF when using this app. Choose the photo you want to convert into GIF and then set encoding options. Start encoding and then choose the 'GIF' tab to give your picture GIF effect.
 
@@ -1543,7 +1543,7 @@ Another GIF maker app is GIF Toaster, which claims to be the best quality GIF ma
 
 ![gif toaster](https://images.wondershare.com/filmora/article-images/GIF-Toaster.JPG)
 
-#### 4. [Animated GIF Maker](https://ezgif.com/maker)
+#### 4. Animated GIF Maker
 
 This picture animation maker or GIF maker is also an online tool. You can upload images up to 6MB. This means you can execute the photo animation online by just moving to your web browser.
 
@@ -1555,7 +1555,7 @@ This picture animation maker or GIF maker is also an online tool. You can upload
 
 ![animated gif maker](https://images.wondershare.com/filmora/article-images/Animated-GIF-Maker.JPG)
 
-#### 5. [3Dthis](https://3dthis.com/)
+#### 5. 3Dthis
 
 The last, but certainly not the least, picture animation maker on today's list of best tools to make photo animation online is 3Dthis. With this online tool, you can easily create 3D models and morph animations quite quickly.
 
@@ -1617,7 +1617,7 @@ You can use cartoon effects to make an animated photo with one click. You need t
 
 First, we would like to introduce you to some apps that will help you do picture animation on your phone in this section.
 
-#### 1. [Animate Me](https://itunes.apple.com/us/app/animate-me-funny-face-swap-and-moving-pictures/id667012622?mt=8)
+#### 1. Animate Me
 
 The first animation image-maker is Animate me, which is enjoyable for only iPhone users. In other words, this app can only be installed on an iOS device.
 
@@ -1638,7 +1638,7 @@ It is an amazing app that is worth giving a try to make others laugh by creating
 
 ![animate me](https://images.wondershare.com/filmora/article-images/Animate-Me.JPG)
 
-#### 2. [Loopsie](https://itunes.apple.com/us/app/loopsie/id1259909228?mt=8)
+#### 2. Loopsie
 
 Loopsie is yet another picture animation maker available for both Android and iPhone users. This is one of the best photo and video creation apps used on a mobile phone.
 
@@ -1657,7 +1657,7 @@ Loopsie is free to use and is a mix of pictures and videos.
 
 ![loopsie](https://images.wondershare.com/filmora/article-images/Loopsie.JPG)
 
-#### 3. [Picstun](https://play.google.com/store/apps/details?id=com.sunstarphotomedia.picstunanimationeffect&hl=en%5FUS)
+#### 3. Picstun
 
 The next picture animation maker is Picstun, for Android device users. This is a professional photo animator app giving awesome animated video effects that can be applied to a picture to animate it.
 
@@ -1680,7 +1680,7 @@ Download this app and give a creative look to your picture.
 
 This section will update you with the software or programs to know how to animate a picture on a computer. Here are those.
 
-#### 1. [GIF Brewery](https://itunes.apple.com/us/app/gif-brewery-by-gfycat/id1081413713?mt=12)
+#### 1. GIF Brewery
 
 GIF Brewery is free software for Mac users that offers a simple, easy, and intuitive user interface. Anyone can use it to make creative and amazing GIFs from videos since there is no video-making expertise needed for using it.
 
@@ -1699,7 +1699,7 @@ You can resize and crop your video and even set the preferred frame rate.
 
 ![gif brewery](https://images.wondershare.com/filmora/article-images/GIF-Brewery.JPG)
 
-#### 2. [GIFMaker.me](http://gifmaker.me/)
+#### 2. GIFMaker.me
 
 GIFMaker.me is one tool that can help you do photo animation online. This online animated photo maker allows the users to create GIFs, slideshows, animated videos with music effortlessly.
 
@@ -1718,7 +1718,7 @@ GIFMaker.me supports Windows, Mac, and Linux operating systems. You just need a 
 
 ![GIFMaker.me](https://images.wondershare.com/filmora/article-images/GIFMaker.me.JPG)
 
-#### 3. [GIF Toaster](https://itunes.apple.com/us/app/gif-toaster-gif-maker/id948064297?mt=8)
+#### 3. GIF Toaster
 
 Another GIF maker app is GIF Toaster, which claims to be the best quality GIF maker app ever. You are just 4 steps away from creating your creative GIF when using this app. Choose the photo you want to convert into GIF and then set encoding options. Start encoding and then choose the 'GIF' tab to give your picture GIF effect.
 
@@ -1735,7 +1735,7 @@ Another GIF maker app is GIF Toaster, which claims to be the best quality GIF ma
 
 ![gif toaster](https://images.wondershare.com/filmora/article-images/GIF-Toaster.JPG)
 
-#### 4. [Animated GIF Maker](https://ezgif.com/maker)
+#### 4. Animated GIF Maker
 
 This picture animation maker or GIF maker is also an online tool. You can upload images up to 6MB. This means you can execute the photo animation online by just moving to your web browser.
 
@@ -1747,7 +1747,7 @@ This picture animation maker or GIF maker is also an online tool. You can upload
 
 ![animated gif maker](https://images.wondershare.com/filmora/article-images/Animated-GIF-Maker.JPG)
 
-#### 5. [3Dthis](https://3dthis.com/)
+#### 5. 3Dthis
 
 The last, but certainly not the least, picture animation maker on today's list of best tools to make photo animation online is 3Dthis. With this online tool, you can easily create 3D models and morph animations quite quickly.
 
@@ -1809,7 +1809,7 @@ You can use cartoon effects to make an animated photo with one click. You need t
 
 First, we would like to introduce you to some apps that will help you do picture animation on your phone in this section.
 
-#### 1. [Animate Me](https://itunes.apple.com/us/app/animate-me-funny-face-swap-and-moving-pictures/id667012622?mt=8)
+#### 1. Animate Me
 
 The first animation image-maker is Animate me, which is enjoyable for only iPhone users. In other words, this app can only be installed on an iOS device.
 
@@ -1830,7 +1830,7 @@ It is an amazing app that is worth giving a try to make others laugh by creating
 
 ![animate me](https://images.wondershare.com/filmora/article-images/Animate-Me.JPG)
 
-#### 2. [Loopsie](https://itunes.apple.com/us/app/loopsie/id1259909228?mt=8)
+#### 2. Loopsie
 
 Loopsie is yet another picture animation maker available for both Android and iPhone users. This is one of the best photo and video creation apps used on a mobile phone.
 
@@ -1849,7 +1849,7 @@ Loopsie is free to use and is a mix of pictures and videos.
 
 ![loopsie](https://images.wondershare.com/filmora/article-images/Loopsie.JPG)
 
-#### 3. [Picstun](https://play.google.com/store/apps/details?id=com.sunstarphotomedia.picstunanimationeffect&hl=en%5FUS)
+#### 3. Picstun
 
 The next picture animation maker is Picstun, for Android device users. This is a professional photo animator app giving awesome animated video effects that can be applied to a picture to animate it.
 
@@ -1872,7 +1872,7 @@ Download this app and give a creative look to your picture.
 
 This section will update you with the software or programs to know how to animate a picture on a computer. Here are those.
 
-#### 1. [GIF Brewery](https://itunes.apple.com/us/app/gif-brewery-by-gfycat/id1081413713?mt=12)
+#### 1. GIF Brewery
 
 GIF Brewery is free software for Mac users that offers a simple, easy, and intuitive user interface. Anyone can use it to make creative and amazing GIFs from videos since there is no video-making expertise needed for using it.
 
@@ -1891,7 +1891,7 @@ You can resize and crop your video and even set the preferred frame rate.
 
 ![gif brewery](https://images.wondershare.com/filmora/article-images/GIF-Brewery.JPG)
 
-#### 2. [GIFMaker.me](http://gifmaker.me/)
+#### 2. GIFMaker.me
 
 GIFMaker.me is one tool that can help you do photo animation online. This online animated photo maker allows the users to create GIFs, slideshows, animated videos with music effortlessly.
 
@@ -1910,7 +1910,7 @@ GIFMaker.me supports Windows, Mac, and Linux operating systems. You just need a 
 
 ![GIFMaker.me](https://images.wondershare.com/filmora/article-images/GIFMaker.me.JPG)
 
-#### 3. [GIF Toaster](https://itunes.apple.com/us/app/gif-toaster-gif-maker/id948064297?mt=8)
+#### 3. GIF Toaster
 
 Another GIF maker app is GIF Toaster, which claims to be the best quality GIF maker app ever. You are just 4 steps away from creating your creative GIF when using this app. Choose the photo you want to convert into GIF and then set encoding options. Start encoding and then choose the 'GIF' tab to give your picture GIF effect.
 
@@ -1927,7 +1927,7 @@ Another GIF maker app is GIF Toaster, which claims to be the best quality GIF ma
 
 ![gif toaster](https://images.wondershare.com/filmora/article-images/GIF-Toaster.JPG)
 
-#### 4. [Animated GIF Maker](https://ezgif.com/maker)
+#### 4. Animated GIF Maker
 
 This picture animation maker or GIF maker is also an online tool. You can upload images up to 6MB. This means you can execute the photo animation online by just moving to your web browser.
 
@@ -1939,7 +1939,7 @@ This picture animation maker or GIF maker is also an online tool. You can upload
 
 ![animated gif maker](https://images.wondershare.com/filmora/article-images/Animated-GIF-Maker.JPG)
 
-#### 5. [3Dthis](https://3dthis.com/)
+#### 5. 3Dthis
 
 The last, but certainly not the least, picture animation maker on today's list of best tools to make photo animation online is 3Dthis. With this online tool, you can easily create 3D models and morph animations quite quickly.
 
@@ -1997,7 +1997,7 @@ Follow @Shanoon Cox
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -2012,7 +2012,7 @@ Follow @Shanoon Cox
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -2027,7 +2027,7 @@ Follow @Shanoon Cox
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -2042,7 +2042,7 @@ Follow @Shanoon Cox
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -2058,7 +2058,7 @@ Follow @Shanoon Cox
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 
@@ -2100,7 +2100,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -2115,7 +2115,7 @@ Follow @Ollie Mattison
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -2130,7 +2130,7 @@ Follow @Ollie Mattison
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -2145,7 +2145,7 @@ Follow @Ollie Mattison
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -2161,7 +2161,7 @@ Follow @Ollie Mattison
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 
@@ -2203,7 +2203,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -2218,7 +2218,7 @@ Follow @Ollie Mattison
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -2233,7 +2233,7 @@ Follow @Ollie Mattison
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -2248,7 +2248,7 @@ Follow @Ollie Mattison
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -2264,7 +2264,7 @@ Follow @Ollie Mattison
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 
@@ -2306,7 +2306,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -2321,7 +2321,7 @@ Follow @Ollie Mattison
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -2336,7 +2336,7 @@ Follow @Ollie Mattison
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -2351,7 +2351,7 @@ Follow @Ollie Mattison
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -2367,7 +2367,7 @@ Follow @Ollie Mattison
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 

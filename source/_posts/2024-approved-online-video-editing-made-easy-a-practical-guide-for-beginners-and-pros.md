@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Online Video Editing Made Easy A Practical Guide for Beginners and Pros
-date: 2024-04-29T20:01:10.731Z
-updated: 2024-04-30T20:01:10.731Z
+date: 2024-06-24T07:41:07.318Z
+updated: 2024-06-25T07:41:07.318Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Online Video Editing Made Easy A Practical Guide for Beginners and Pros
 excerpt: This Article Describes 2024 Approved Online Video Editing Made Easy A Practical Guide for Beginners and Pros
 keywords: online video editing made easy a practical guide for beginners and pros,mp4 video editing made easy a beginners guide for mac and windows,video editing mastery online tutorials for beginners and pros,ai animation mp4 video editing made easy a beginners guide for mac and windows,video editing mastery a beginners guide to online download and editing,vertical video editing made easy best mobile apps for beginners,the ultimate jaycut guide free online video editing for beginners and pros
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## Online Video Editing Made Easy: A Practical Guide for Beginners and Pros
@@ -2049,7 +2049,7 @@ Using the Bokeh effect is an excellent way to separate the focal point of your p
 
 As mentioned, there are other ways to achieve the Bokeh effect without an expensive and often fidget DSLR camera. The following apps have been deemed the best based on a variety of characteristics which will be mentioned below.
 
-### 1. Focos -[iOS](https://apps.apple.com/us/app/focos/id1274938524) \- FREE
+### 1. Focos - iOS
 
 The Focos app for iPhones is a free resource that uses computational photography and light-field camera settings to help you achieve the perfect blur. It offers users the option to apply the Bokeh effect to both the background and foreground of your image, with a variety of options for adjusting size and transparency.
 
@@ -2067,7 +2067,7 @@ To create the Bokeh effect in Focos:
 
 1. Once you’re happy with the effect, this app allows you to save to your camera roll or share to other apps, including Instagram.
 
-### 2. Photo Editor Pro - [Android](https://play.google.com/store/apps/details?id=com.baiwang.instabokeh&hl=en%5FUS)\- FREE
+### 2. Photo Editor Pro - Android
 
 ![add more bokeh effects with Photo Editor Pro app](https://images.wondershare.com/filmora/article-images/photo-editor-pro-bokeh-app.jpg)
 
@@ -2079,7 +2079,7 @@ To create the Bokeh effect in Photo Editor Pro:
 2. Select your desired image either via camera or camera roll；
 3. Choose between a variety of backgrounds and blending tools and adjust using the apps adjustable features, and download to camera roll or upload to a third-party app.
 
-### 3\.  Auto Blur Background - [Android](https://play.google.com/store/apps/details?id=com.judi.autoblur&hl=en%5FUS)\- FREE
+### 3\.  Auto Blur Background - Android
 
 ![add more bokeh effects with  Auto Blur Background app](https://images.wondershare.com/filmora/article-images/auto-blur-background-bokeh-effect.jpg)
 
@@ -2092,7 +2092,7 @@ To create the Bokeh effect in Auto Blur Background app:
 3. To export, select the Share icon in the bottom right hand corner;
 4. From this step you can either import directly to Instagram, or export to camera roll. If exported to camera roll, open Instagram app and add a new story, select photo from camera roll and hit add to story!
 
-### 4\.  SnapSeed- [iOS](https://apps.apple.com/us/app/snapseed/id439438619) & [Android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en%5FUS) \- FREE
+### 4\.  SnapSeed- iOS
 
 SnapSeed is one of the ultimate editing apps to help you achieve the Bokeh effect on iOS and Android devices. This app, owned by Google, provides an array of advanced editing tools to help improve your photography and editing capabilities.
 
@@ -2109,7 +2109,7 @@ To create the Bokeh effect in SnapSeed:
 
 1. Export and save to camera roll or upload to a third-party site.
 
-### 5\.  AfterFocus -[iOS](https://apps.apple.com/us/app/afterfocus/id506271165) & [Android -](https://play.google.com/store/apps/details?id=com.motionone.afterfocus&hl=en%5FUS) $0.99
+### 5\.  AfterFocus - iOS
 
 AfterFocus helps users achieve the Bokeh effect by letting you define the focal area and adjusting the blur of the surrounding regions.
 
@@ -2122,7 +2122,7 @@ To create the Bokeh effect in AfterFocus:
 3. Several blurring tools will appear, use the **focus selector** tool to select the regions in which you’d like your image to be focused;
 4. Then use the **background selector** tool to select the background of your photo, and choose between lens, motion and zoom blur
 
-### 6\.  Real Bokeh -[iOS](https://apps.apple.com/us/app/real-bokeh/id583783560) & [Android](https://play.google.com/store/apps/details?id=com.mobilab.realbokeh&hl=en%5FUS) \- $2.99
+### 6\.  Real Bokeh - iOS
 
 Real Bokeh allows users on both the iPhone and Android to add Bokeh light features to their photos. It includes 36 Bokeh shapes, 33 light leak effects, 23 image filters and much more.
 
@@ -2134,7 +2134,7 @@ To create the Bokeh effect in Real Bokeh:
 2. Choose between different filters, shapes and effects to add to your image;
 3. Adjust the transparency of your bokeh effect on the sliding bar provided by the app, and export to camera roll or to a third party site.
 
-### 7\.  Bokeh Lens -[iOS](https://apps.apple.com/us/app/bokeh-lens/id587849880)\- $0.99
+### 7\.  Bokeh Lens - iOS
 
 This app, designed for the iPhone, is a magnifying glass for photos, allowing users to create their own Bokeh effect without the use of a DSLR camera. The Bokeh level on this app is also customizable, making it great if you’re looking to get detailed.
 
@@ -2145,7 +2145,7 @@ To create the Bokeh effect in Bokeh Lens:
 1. Download the app and allow the app access to your camera and camera roll, and select the image given your options (camera, camera roll);
 2. Using the image below, follow the **focus area** tools, **adjustable bokeh level** and more to achieve your perfect photo, and then export to camera roll or third party app
 
-### 8\.  Blur Photo - [iOS](https://apps.apple.com/us/app/blur-photo-editor/id1048928936#?platform=iphone) & [Android](https://play.google.com/store/apps/details?id=com.vyroai.AiBlurEditor&referrer=utm%5Fsource%3Dgetandroidstuff) \- FREE
+### 8\.  Blur Photo - iOS
 
 Blur photo uses a one click method to achieve auto blurred backgrounds to help you achieve the Bokeh effect. It also allows you to manually adjust the settings to your own liking. Users can increase or decrease the blur effect, add filters to photos, and add emojis and text.
 
@@ -2157,7 +2157,7 @@ To create the Bokeh effect in Blur Photo:
 2. You are given a variety of image sizing options, once completed, select **Blur**, from here you are able to adjust the size and amount of blur and your image is blurred by using your finger to glide over desired areas;
 1. Upon completion, export and save to camera roll or third-party app.
 
-### 9\.  PhotoDirector -[iOS](https://apps.apple.com/us/app/photodirector-photo-editor/id907366587) & [Android](https://play.google.com/store/apps/details?id=com.cyberlink.photodirector&hl=en%5FUS)\- FREE
+### 9\.  PhotoDirector - iOS
 
 PhotoDirector is an app available on the iPhone and Android that offers extensive editing options, including the Bokeh effect. You can add animated overlays, animated decorations, sky placement, photo retouching, and much, much more.
 
@@ -2167,7 +2167,7 @@ To create the Bokeh effect in PhotoDirector:
 2. To find and utilize the **Bokeh effect**, click the **Live** button, from there, choose where you want the image to focus, which Bokeh effects you want and how animated you want them to be;
 3. Upon completion, export and save to camera roll or third-party app.
 
-### 10\.  Tadaa SLR - [iOS](https://apps.apple.com/us/app/tadaa-slr/id724662909) \- $3.99
+### 10\.  Tadaa SLR - iOS
 
 Although this app is the most expensive on the list, it also offers some of the best depth-of-field and bokeh effects. It is ultra-precise and easy to navigate.
 
@@ -2233,7 +2233,7 @@ Using the Bokeh effect is an excellent way to separate the focal point of your p
 
 As mentioned, there are other ways to achieve the Bokeh effect without an expensive and often fidget DSLR camera. The following apps have been deemed the best based on a variety of characteristics which will be mentioned below.
 
-### 1. Focos -[iOS](https://apps.apple.com/us/app/focos/id1274938524) \- FREE
+### 1. Focos - iOS
 
 The Focos app for iPhones is a free resource that uses computational photography and light-field camera settings to help you achieve the perfect blur. It offers users the option to apply the Bokeh effect to both the background and foreground of your image, with a variety of options for adjusting size and transparency.
 
@@ -2251,7 +2251,7 @@ To create the Bokeh effect in Focos:
 
 1. Once you’re happy with the effect, this app allows you to save to your camera roll or share to other apps, including Instagram.
 
-### 2. Photo Editor Pro - [Android](https://play.google.com/store/apps/details?id=com.baiwang.instabokeh&hl=en%5FUS)\- FREE
+### 2. Photo Editor Pro - Android
 
 ![add more bokeh effects with Photo Editor Pro app](https://images.wondershare.com/filmora/article-images/photo-editor-pro-bokeh-app.jpg)
 
@@ -2263,7 +2263,7 @@ To create the Bokeh effect in Photo Editor Pro:
 2. Select your desired image either via camera or camera roll；
 3. Choose between a variety of backgrounds and blending tools and adjust using the apps adjustable features, and download to camera roll or upload to a third-party app.
 
-### 3\.  Auto Blur Background - [Android](https://play.google.com/store/apps/details?id=com.judi.autoblur&hl=en%5FUS)\- FREE
+### 3\.  Auto Blur Background - Android
 
 ![add more bokeh effects with  Auto Blur Background app](https://images.wondershare.com/filmora/article-images/auto-blur-background-bokeh-effect.jpg)
 
@@ -2276,7 +2276,7 @@ To create the Bokeh effect in Auto Blur Background app:
 3. To export, select the Share icon in the bottom right hand corner;
 4. From this step you can either import directly to Instagram, or export to camera roll. If exported to camera roll, open Instagram app and add a new story, select photo from camera roll and hit add to story!
 
-### 4\.  SnapSeed- [iOS](https://apps.apple.com/us/app/snapseed/id439438619) & [Android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en%5FUS) \- FREE
+### 4\.  SnapSeed- iOS
 
 SnapSeed is one of the ultimate editing apps to help you achieve the Bokeh effect on iOS and Android devices. This app, owned by Google, provides an array of advanced editing tools to help improve your photography and editing capabilities.
 
@@ -2293,7 +2293,7 @@ To create the Bokeh effect in SnapSeed:
 
 1. Export and save to camera roll or upload to a third-party site.
 
-### 5\.  AfterFocus -[iOS](https://apps.apple.com/us/app/afterfocus/id506271165) & [Android -](https://play.google.com/store/apps/details?id=com.motionone.afterfocus&hl=en%5FUS) $0.99
+### 5\.  AfterFocus - iOS
 
 AfterFocus helps users achieve the Bokeh effect by letting you define the focal area and adjusting the blur of the surrounding regions.
 
@@ -2306,7 +2306,7 @@ To create the Bokeh effect in AfterFocus:
 3. Several blurring tools will appear, use the **focus selector** tool to select the regions in which you’d like your image to be focused;
 4. Then use the **background selector** tool to select the background of your photo, and choose between lens, motion and zoom blur
 
-### 6\.  Real Bokeh -[iOS](https://apps.apple.com/us/app/real-bokeh/id583783560) & [Android](https://play.google.com/store/apps/details?id=com.mobilab.realbokeh&hl=en%5FUS) \- $2.99
+### 6\.  Real Bokeh - iOS
 
 Real Bokeh allows users on both the iPhone and Android to add Bokeh light features to their photos. It includes 36 Bokeh shapes, 33 light leak effects, 23 image filters and much more.
 
@@ -2318,7 +2318,7 @@ To create the Bokeh effect in Real Bokeh:
 2. Choose between different filters, shapes and effects to add to your image;
 3. Adjust the transparency of your bokeh effect on the sliding bar provided by the app, and export to camera roll or to a third party site.
 
-### 7\.  Bokeh Lens -[iOS](https://apps.apple.com/us/app/bokeh-lens/id587849880)\- $0.99
+### 7\.  Bokeh Lens - iOS
 
 This app, designed for the iPhone, is a magnifying glass for photos, allowing users to create their own Bokeh effect without the use of a DSLR camera. The Bokeh level on this app is also customizable, making it great if you’re looking to get detailed.
 
@@ -2329,7 +2329,7 @@ To create the Bokeh effect in Bokeh Lens:
 1. Download the app and allow the app access to your camera and camera roll, and select the image given your options (camera, camera roll);
 2. Using the image below, follow the **focus area** tools, **adjustable bokeh level** and more to achieve your perfect photo, and then export to camera roll or third party app
 
-### 8\.  Blur Photo - [iOS](https://apps.apple.com/us/app/blur-photo-editor/id1048928936#?platform=iphone) & [Android](https://play.google.com/store/apps/details?id=com.vyroai.AiBlurEditor&referrer=utm%5Fsource%3Dgetandroidstuff) \- FREE
+### 8\.  Blur Photo - iOS
 
 Blur photo uses a one click method to achieve auto blurred backgrounds to help you achieve the Bokeh effect. It also allows you to manually adjust the settings to your own liking. Users can increase or decrease the blur effect, add filters to photos, and add emojis and text.
 
@@ -2341,7 +2341,7 @@ To create the Bokeh effect in Blur Photo:
 2. You are given a variety of image sizing options, once completed, select **Blur**, from here you are able to adjust the size and amount of blur and your image is blurred by using your finger to glide over desired areas;
 1. Upon completion, export and save to camera roll or third-party app.
 
-### 9\.  PhotoDirector -[iOS](https://apps.apple.com/us/app/photodirector-photo-editor/id907366587) & [Android](https://play.google.com/store/apps/details?id=com.cyberlink.photodirector&hl=en%5FUS)\- FREE
+### 9\.  PhotoDirector - iOS
 
 PhotoDirector is an app available on the iPhone and Android that offers extensive editing options, including the Bokeh effect. You can add animated overlays, animated decorations, sky placement, photo retouching, and much, much more.
 
@@ -2351,7 +2351,7 @@ To create the Bokeh effect in PhotoDirector:
 2. To find and utilize the **Bokeh effect**, click the **Live** button, from there, choose where you want the image to focus, which Bokeh effects you want and how animated you want them to be;
 3. Upon completion, export and save to camera roll or third-party app.
 
-### 10\.  Tadaa SLR - [iOS](https://apps.apple.com/us/app/tadaa-slr/id724662909) \- $3.99
+### 10\.  Tadaa SLR - iOS
 
 Although this app is the most expensive on the list, it also offers some of the best depth-of-field and bokeh effects. It is ultra-precise and easy to navigate.
 
@@ -2417,7 +2417,7 @@ Using the Bokeh effect is an excellent way to separate the focal point of your p
 
 As mentioned, there are other ways to achieve the Bokeh effect without an expensive and often fidget DSLR camera. The following apps have been deemed the best based on a variety of characteristics which will be mentioned below.
 
-### 1. Focos -[iOS](https://apps.apple.com/us/app/focos/id1274938524) \- FREE
+### 1. Focos - iOS
 
 The Focos app for iPhones is a free resource that uses computational photography and light-field camera settings to help you achieve the perfect blur. It offers users the option to apply the Bokeh effect to both the background and foreground of your image, with a variety of options for adjusting size and transparency.
 
@@ -2435,7 +2435,7 @@ To create the Bokeh effect in Focos:
 
 1. Once you’re happy with the effect, this app allows you to save to your camera roll or share to other apps, including Instagram.
 
-### 2. Photo Editor Pro - [Android](https://play.google.com/store/apps/details?id=com.baiwang.instabokeh&hl=en%5FUS)\- FREE
+### 2. Photo Editor Pro - Android
 
 ![add more bokeh effects with Photo Editor Pro app](https://images.wondershare.com/filmora/article-images/photo-editor-pro-bokeh-app.jpg)
 
@@ -2447,7 +2447,7 @@ To create the Bokeh effect in Photo Editor Pro:
 2. Select your desired image either via camera or camera roll；
 3. Choose between a variety of backgrounds and blending tools and adjust using the apps adjustable features, and download to camera roll or upload to a third-party app.
 
-### 3\.  Auto Blur Background - [Android](https://play.google.com/store/apps/details?id=com.judi.autoblur&hl=en%5FUS)\- FREE
+### 3\.  Auto Blur Background - Android
 
 ![add more bokeh effects with  Auto Blur Background app](https://images.wondershare.com/filmora/article-images/auto-blur-background-bokeh-effect.jpg)
 
@@ -2460,7 +2460,7 @@ To create the Bokeh effect in Auto Blur Background app:
 3. To export, select the Share icon in the bottom right hand corner;
 4. From this step you can either import directly to Instagram, or export to camera roll. If exported to camera roll, open Instagram app and add a new story, select photo from camera roll and hit add to story!
 
-### 4\.  SnapSeed- [iOS](https://apps.apple.com/us/app/snapseed/id439438619) & [Android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en%5FUS) \- FREE
+### 4\.  SnapSeed- iOS
 
 SnapSeed is one of the ultimate editing apps to help you achieve the Bokeh effect on iOS and Android devices. This app, owned by Google, provides an array of advanced editing tools to help improve your photography and editing capabilities.
 
@@ -2477,7 +2477,7 @@ To create the Bokeh effect in SnapSeed:
 
 1. Export and save to camera roll or upload to a third-party site.
 
-### 5\.  AfterFocus -[iOS](https://apps.apple.com/us/app/afterfocus/id506271165) & [Android -](https://play.google.com/store/apps/details?id=com.motionone.afterfocus&hl=en%5FUS) $0.99
+### 5\.  AfterFocus - iOS
 
 AfterFocus helps users achieve the Bokeh effect by letting you define the focal area and adjusting the blur of the surrounding regions.
 
@@ -2490,7 +2490,7 @@ To create the Bokeh effect in AfterFocus:
 3. Several blurring tools will appear, use the **focus selector** tool to select the regions in which you’d like your image to be focused;
 4. Then use the **background selector** tool to select the background of your photo, and choose between lens, motion and zoom blur
 
-### 6\.  Real Bokeh -[iOS](https://apps.apple.com/us/app/real-bokeh/id583783560) & [Android](https://play.google.com/store/apps/details?id=com.mobilab.realbokeh&hl=en%5FUS) \- $2.99
+### 6\.  Real Bokeh - iOS
 
 Real Bokeh allows users on both the iPhone and Android to add Bokeh light features to their photos. It includes 36 Bokeh shapes, 33 light leak effects, 23 image filters and much more.
 
@@ -2502,7 +2502,7 @@ To create the Bokeh effect in Real Bokeh:
 2. Choose between different filters, shapes and effects to add to your image;
 3. Adjust the transparency of your bokeh effect on the sliding bar provided by the app, and export to camera roll or to a third party site.
 
-### 7\.  Bokeh Lens -[iOS](https://apps.apple.com/us/app/bokeh-lens/id587849880)\- $0.99
+### 7\.  Bokeh Lens - iOS
 
 This app, designed for the iPhone, is a magnifying glass for photos, allowing users to create their own Bokeh effect without the use of a DSLR camera. The Bokeh level on this app is also customizable, making it great if you’re looking to get detailed.
 
@@ -2513,7 +2513,7 @@ To create the Bokeh effect in Bokeh Lens:
 1. Download the app and allow the app access to your camera and camera roll, and select the image given your options (camera, camera roll);
 2. Using the image below, follow the **focus area** tools, **adjustable bokeh level** and more to achieve your perfect photo, and then export to camera roll or third party app
 
-### 8\.  Blur Photo - [iOS](https://apps.apple.com/us/app/blur-photo-editor/id1048928936#?platform=iphone) & [Android](https://play.google.com/store/apps/details?id=com.vyroai.AiBlurEditor&referrer=utm%5Fsource%3Dgetandroidstuff) \- FREE
+### 8\.  Blur Photo - iOS
 
 Blur photo uses a one click method to achieve auto blurred backgrounds to help you achieve the Bokeh effect. It also allows you to manually adjust the settings to your own liking. Users can increase or decrease the blur effect, add filters to photos, and add emojis and text.
 
@@ -2525,7 +2525,7 @@ To create the Bokeh effect in Blur Photo:
 2. You are given a variety of image sizing options, once completed, select **Blur**, from here you are able to adjust the size and amount of blur and your image is blurred by using your finger to glide over desired areas;
 1. Upon completion, export and save to camera roll or third-party app.
 
-### 9\.  PhotoDirector -[iOS](https://apps.apple.com/us/app/photodirector-photo-editor/id907366587) & [Android](https://play.google.com/store/apps/details?id=com.cyberlink.photodirector&hl=en%5FUS)\- FREE
+### 9\.  PhotoDirector - iOS
 
 PhotoDirector is an app available on the iPhone and Android that offers extensive editing options, including the Bokeh effect. You can add animated overlays, animated decorations, sky placement, photo retouching, and much, much more.
 
@@ -2535,7 +2535,7 @@ To create the Bokeh effect in PhotoDirector:
 2. To find and utilize the **Bokeh effect**, click the **Live** button, from there, choose where you want the image to focus, which Bokeh effects you want and how animated you want them to be;
 3. Upon completion, export and save to camera roll or third-party app.
 
-### 10\.  Tadaa SLR - [iOS](https://apps.apple.com/us/app/tadaa-slr/id724662909) \- $3.99
+### 10\.  Tadaa SLR - iOS
 
 Although this app is the most expensive on the list, it also offers some of the best depth-of-field and bokeh effects. It is ultra-precise and easy to navigate.
 
@@ -2601,7 +2601,7 @@ Using the Bokeh effect is an excellent way to separate the focal point of your p
 
 As mentioned, there are other ways to achieve the Bokeh effect without an expensive and often fidget DSLR camera. The following apps have been deemed the best based on a variety of characteristics which will be mentioned below.
 
-### 1. Focos -[iOS](https://apps.apple.com/us/app/focos/id1274938524) \- FREE
+### 1. Focos - iOS
 
 The Focos app for iPhones is a free resource that uses computational photography and light-field camera settings to help you achieve the perfect blur. It offers users the option to apply the Bokeh effect to both the background and foreground of your image, with a variety of options for adjusting size and transparency.
 
@@ -2619,7 +2619,7 @@ To create the Bokeh effect in Focos:
 
 1. Once you’re happy with the effect, this app allows you to save to your camera roll or share to other apps, including Instagram.
 
-### 2. Photo Editor Pro - [Android](https://play.google.com/store/apps/details?id=com.baiwang.instabokeh&hl=en%5FUS)\- FREE
+### 2. Photo Editor Pro - Android
 
 ![add more bokeh effects with Photo Editor Pro app](https://images.wondershare.com/filmora/article-images/photo-editor-pro-bokeh-app.jpg)
 
@@ -2631,7 +2631,7 @@ To create the Bokeh effect in Photo Editor Pro:
 2. Select your desired image either via camera or camera roll；
 3. Choose between a variety of backgrounds and blending tools and adjust using the apps adjustable features, and download to camera roll or upload to a third-party app.
 
-### 3\.  Auto Blur Background - [Android](https://play.google.com/store/apps/details?id=com.judi.autoblur&hl=en%5FUS)\- FREE
+### 3\.  Auto Blur Background - Android
 
 ![add more bokeh effects with  Auto Blur Background app](https://images.wondershare.com/filmora/article-images/auto-blur-background-bokeh-effect.jpg)
 
@@ -2644,7 +2644,7 @@ To create the Bokeh effect in Auto Blur Background app:
 3. To export, select the Share icon in the bottom right hand corner;
 4. From this step you can either import directly to Instagram, or export to camera roll. If exported to camera roll, open Instagram app and add a new story, select photo from camera roll and hit add to story!
 
-### 4\.  SnapSeed- [iOS](https://apps.apple.com/us/app/snapseed/id439438619) & [Android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en%5FUS) \- FREE
+### 4\.  SnapSeed- iOS
 
 SnapSeed is one of the ultimate editing apps to help you achieve the Bokeh effect on iOS and Android devices. This app, owned by Google, provides an array of advanced editing tools to help improve your photography and editing capabilities.
 
@@ -2661,7 +2661,7 @@ To create the Bokeh effect in SnapSeed:
 
 1. Export and save to camera roll or upload to a third-party site.
 
-### 5\.  AfterFocus -[iOS](https://apps.apple.com/us/app/afterfocus/id506271165) & [Android -](https://play.google.com/store/apps/details?id=com.motionone.afterfocus&hl=en%5FUS) $0.99
+### 5\.  AfterFocus - iOS
 
 AfterFocus helps users achieve the Bokeh effect by letting you define the focal area and adjusting the blur of the surrounding regions.
 
@@ -2674,7 +2674,7 @@ To create the Bokeh effect in AfterFocus:
 3. Several blurring tools will appear, use the **focus selector** tool to select the regions in which you’d like your image to be focused;
 4. Then use the **background selector** tool to select the background of your photo, and choose between lens, motion and zoom blur
 
-### 6\.  Real Bokeh -[iOS](https://apps.apple.com/us/app/real-bokeh/id583783560) & [Android](https://play.google.com/store/apps/details?id=com.mobilab.realbokeh&hl=en%5FUS) \- $2.99
+### 6\.  Real Bokeh - iOS
 
 Real Bokeh allows users on both the iPhone and Android to add Bokeh light features to their photos. It includes 36 Bokeh shapes, 33 light leak effects, 23 image filters and much more.
 
@@ -2686,7 +2686,7 @@ To create the Bokeh effect in Real Bokeh:
 2. Choose between different filters, shapes and effects to add to your image;
 3. Adjust the transparency of your bokeh effect on the sliding bar provided by the app, and export to camera roll or to a third party site.
 
-### 7\.  Bokeh Lens -[iOS](https://apps.apple.com/us/app/bokeh-lens/id587849880)\- $0.99
+### 7\.  Bokeh Lens - iOS
 
 This app, designed for the iPhone, is a magnifying glass for photos, allowing users to create their own Bokeh effect without the use of a DSLR camera. The Bokeh level on this app is also customizable, making it great if you’re looking to get detailed.
 
@@ -2697,7 +2697,7 @@ To create the Bokeh effect in Bokeh Lens:
 1. Download the app and allow the app access to your camera and camera roll, and select the image given your options (camera, camera roll);
 2. Using the image below, follow the **focus area** tools, **adjustable bokeh level** and more to achieve your perfect photo, and then export to camera roll or third party app
 
-### 8\.  Blur Photo - [iOS](https://apps.apple.com/us/app/blur-photo-editor/id1048928936#?platform=iphone) & [Android](https://play.google.com/store/apps/details?id=com.vyroai.AiBlurEditor&referrer=utm%5Fsource%3Dgetandroidstuff) \- FREE
+### 8\.  Blur Photo - iOS
 
 Blur photo uses a one click method to achieve auto blurred backgrounds to help you achieve the Bokeh effect. It also allows you to manually adjust the settings to your own liking. Users can increase or decrease the blur effect, add filters to photos, and add emojis and text.
 
@@ -2709,7 +2709,7 @@ To create the Bokeh effect in Blur Photo:
 2. You are given a variety of image sizing options, once completed, select **Blur**, from here you are able to adjust the size and amount of blur and your image is blurred by using your finger to glide over desired areas;
 1. Upon completion, export and save to camera roll or third-party app.
 
-### 9\.  PhotoDirector -[iOS](https://apps.apple.com/us/app/photodirector-photo-editor/id907366587) & [Android](https://play.google.com/store/apps/details?id=com.cyberlink.photodirector&hl=en%5FUS)\- FREE
+### 9\.  PhotoDirector - iOS
 
 PhotoDirector is an app available on the iPhone and Android that offers extensive editing options, including the Bokeh effect. You can add animated overlays, animated decorations, sky placement, photo retouching, and much, much more.
 
@@ -2719,7 +2719,7 @@ To create the Bokeh effect in PhotoDirector:
 2. To find and utilize the **Bokeh effect**, click the **Live** button, from there, choose where you want the image to focus, which Bokeh effects you want and how animated you want them to be;
 3. Upon completion, export and save to camera roll or third-party app.
 
-### 10\.  Tadaa SLR - [iOS](https://apps.apple.com/us/app/tadaa-slr/id724662909) \- $3.99
+### 10\.  Tadaa SLR - iOS
 
 Although this app is the most expensive on the list, it also offers some of the best depth-of-field and bokeh effects. It is ultra-precise and easy to navigate.
 
