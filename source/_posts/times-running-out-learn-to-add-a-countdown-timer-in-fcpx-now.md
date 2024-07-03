@@ -1,7 +1,7 @@
 ---
 title: Times Running Out! Learn to Add a Countdown Timer in FCPX Now
-date: 2024-05-19T11:46:52.515Z
-updated: 2024-05-20T11:46:52.515Z
+date: 2024-07-02T21:03:27.714Z
+updated: 2024-07-03T21:03:27.714Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Times Running Out! Learn to Add a Countdown Timer in FCPX Now
 excerpt: This Article Describes Times Running Out! Learn to Add a Countdown Timer in FCPX Now
 keywords: times ticking learn how to add a countdown timer in fcpx in 3 steps,how to add a countdown timer in final cut pro x,times running out learn to add a countdown timer in fcpx now,fcpx essentials how to add a countdown timer in 3 easy steps,add countdown timer in fcpx,from zero to hero creating a countdown timer in fcpx,times running out learn to add a countdown timer in fcpx fast
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Time's Running Out! Learn to Add a Countdown Timer in FCPX Now
@@ -493,11 +493,11 @@ And in this top list of best video editing software, we have picked up both free
 
 We have listed the top best 4k video editing software for beginners and professionals based on its features, pros, cons and price. Let's check it in detail.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1\. Wondershare Filmora
 
 The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 
@@ -507,37 +507,37 @@ The newly added Action Cam Tool allows you to merge, cut and edit **4k videos sh
 
 Filmora features the ability to import and edit 4K videos with ease. After launching Filmora, create a new project by clicking New Project in the Get Started window and then go to Project Settings to change the resolution to **3840 x 2160 (16:9 4K UHD)** or **4096 x 2160 (DCI 4K)** based on your need.
 
-![ Filmora9 4K Project settings](https://images.wondershare.com/filmora/article-images/filmora9-4k-project-settings.jpg)
+![Filmora9 4K Project settings](https://images.wondershare.com/filmora/article-images/filmora9-4k-project-settings.jpg)
 
 Not sure the differences between these two options, check our guide about [What is 4K](https://tools.techidaily.com/wondershare/filmora/download/) to get a clue.
 
 The default project setting is 1920 x 1080 (16:9 Full HD), if you didn’t set up the project settings at the beginning, Filmora will prompt up a window asking you to change the project settings to match the 4K video. You can click **Match to Media** to change the project settings quickly.
 
-![ Filmora 9 change project settings ](https://images.wondershare.com/filmora/article-images/filmora9-change-project-settings-match.jpg)
+![Filmora 9 change project settings](https://images.wondershare.com/filmora/article-images/filmora9-change-project-settings-match.jpg)
 
 Editing 4K videos requires high computer performance, to avoid your computer overrunning, Filmora can [create proxy files](https://tools.techidaily.com/wondershare/filmora/download/) to load the video in lower resolution during editing, but rending the final export video with the original full quality. You can also customize the playback quality of the 4K videos to half quality or even 1/6 quality for smoother editing.
 
-![ Filmora 9 create proxy files ](https://images.wondershare.com/filmora/article-images/create-proxy-files.jpg)
+![Filmora 9 create proxy files](https://images.wondershare.com/filmora/article-images/create-proxy-files.jpg)
 
 When exporting to 4K Ultra High Definition Quality, just click the Settings button in the Export window to enter the Settings window to adjust the resolution to 3840 x 2160 or 4096 x 2160\. Besides, you can also change the frame rate and bit rate as well.
 
-![ Filmora 9 Export 4K videos](https://images.wondershare.com/filmora/article-images/export-4k-videos.jpg)
+![Filmora 9 Export 4K videos](https://images.wondershare.com/filmora/article-images/export-4k-videos.jpg)
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-#### 2\. [iMovie](http://www.apple.com/imovie/)
+#### 2\. iMovie
 
 If you are a Mac user and have iMovie 10.1 or version above, you can now edit 4K videos on your Mac with iMovie for free. iMovie is a free 4K video editing software for Mac. You can also import movies and trailers from iMovie for iPhone and iPad.
 
-![ iMovie Project Editing Interface](https://images.wondershare.com/filmora/article-images/imovie-project-editing-ineterface.jpg)
+![iMovie Project Editing Interface](https://images.wondershare.com/filmora/article-images/imovie-project-editing-ineterface.jpg)
 
 With iMovie for iOS and macOS, you can enjoy your videos like never before. It’s easy to browse your clips and create Hollywood-style trailers and stunning 4K-resolution movies. You can even start editing on iPhone or iPad, then finish on your Mac. And when you’re ready to premiere your movie on all your devices, iMovie Theater rolls out the red carpet.
 
 It should be noted that 4K video editing requires a Mac from 2011 or later with at least 4GB of RAM. To playback 4K video in full resolution, you'll need an iMac with Retina display or Mac Pro connected to a 4K display.
 
-#### 3\. [CyberLink PowerDirector Ultra](http://www.cyberlink.com/products/powerdirector-ultra/features%5Fen%5FAU.html?&r=1)
+#### 3\. CyberLink PowerDirector Ultra
 
 Video makers who want a very powerful, professional-level video editing program are often shocked by the price tag. However, they find that CyberLink PowerDirector Ultra, with a more beginner-friendly interface and easier to use, has virtually everything just as other programs with a higher price.
 
@@ -547,7 +547,7 @@ It's hard to look past PowerDirector Ultra if you need 4k support, and if you do
 
 This latest edition of PowerDirector supports 64-bit processors for faster editing, and of course, new support for 4K resolution videos. At under $100, CyberLink PowerDirector 19 Ultra comes amazingly close to being as advanced and capable as software that is priced multiple times more than it; making it an ideal choice for the budget-conscious video editing enthusiast.
 
-#### 4\. [Vegas Pro](http://www.sonycreativesoftware.com/vegaspro)
+#### 4\. Vegas Pro
 
 One of the higher end video editing software options is the highly renowned non-linear editor (NLE) Magix Vegas Pro. Now up to version 18, this software is used by professionals and amateurs alike. Vegas Pro 18 comes with native support for 4K video, with maximum frame sizes of up to 4096 x 4096\. There is native support for XAVC and XAVC S files, plus files from Red Epic and Red One. There are a number of extras and plugins included in Vegas Pro, including DVD Architect Pro.
 
@@ -557,13 +557,13 @@ Complete support for 4K editing puts Vegas Pro at the forefront of software in t
 
 The software is available at a cost of $399(on sale)/ $599.99(regularly); and the price is the same whether you select a download version, or the physical packaged version.
 
-#### 5\. [Vegas Movie Studio](http://www.sonycreativesoftware.com/moviestudiope?cpint=EURO%5FS3%5FMOVIE%5FAX100)
+#### 5\. Vegas Movie Studio
 
 At only $39.99, Studio 17 Platinum is just a fraction of the cost of Sony's fully fledged editor, Vegas Pro. Magix Movie Studio 17 Platinum is a basic video editing application, suited for the beginner and home user. With an emphasis on giving users the ability to easily create and share their videos on social media sites, or creating your own home DVDs, the workflow and interface has been designed to be as simple and intuitive as possible to use, without the extensive and more complex abilities of a high end application like Sony Vegas Pro.
 
 Notable features include a simple way of selecting the best output format with the Make Movie dialog, the choice of using the Simple Edit Mode or Advanced Edit Mode, fast direct upload to YouTube 4K, Color Match plug-in, and lots more.
 
-#### 6\. [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
+#### 6\. Adobe Premiere Pro
 
 Another video editing application that is considered to be at the highest end is Adobe's Premier Pro. As with most of Adobe's software, Premiere Pro is now part of the Creative Cloud plan. This requires subscription to use the application via Adobe's cloud service.
 
@@ -571,13 +571,13 @@ The sheer number of features within Premiere Pro CC is extensive. But the latest
 
 The minimum cost to access a CC plan that includes Premiere Pro is $20.99 per month. However many users will likely be inclined to select the $52.99 per month plan which includes Premiere Pro and After Effects, as well as Photoshop and more.
 
-#### 7\. [Apple Final Cut Pro X](https://www.apple.com/au/final-cut-pro/)
+#### 7\. Apple Final Cut Pro X
 
 The professional level video editing application for Mac is the very well known Apple Final Cut Pro X. Used extensively in the professional movie industry, as well as amongst amateurs, the latest version comes with full support for full resolution 4K ProRes in multiple streams (which is made for working particularly fast on the new Mac Pro).
 
 There are hundreds of features worthy of listing, however some of the most important and interesting ones include the Magnetic Timeline which has been designed to avoid sync problems or small unwanted gaps when editing, easy organization of media with keywords and metadata, multicam clip editing, multi channel audio editing.
 
-#### 8\. [MAGIX Movie Edit Pro 2021](http://www.magix.com/au/movie-edit-pro/)
+#### 8\. MAGIX Movie Edit Pro 2021
 
 Movie Edit Pro 2021 is another affordable video editing solution for home and amateur users that now has full support for 4K videos. This application is available in three versions: deluxe, Plus and Premium, with the Premium version containing the most features and capabilities.
 
@@ -644,11 +644,11 @@ And in this top list of best video editing software, we have picked up both free
 
 We have listed the top best 4k video editing software for beginners and professionals based on its features, pros, cons and price. Let's check it in detail.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1\. Wondershare Filmora
 
 The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 
@@ -658,37 +658,37 @@ The newly added Action Cam Tool allows you to merge, cut and edit **4k videos sh
 
 Filmora features the ability to import and edit 4K videos with ease. After launching Filmora, create a new project by clicking New Project in the Get Started window and then go to Project Settings to change the resolution to **3840 x 2160 (16:9 4K UHD)** or **4096 x 2160 (DCI 4K)** based on your need.
 
-![ Filmora9 4K Project settings](https://images.wondershare.com/filmora/article-images/filmora9-4k-project-settings.jpg)
+![Filmora9 4K Project settings](https://images.wondershare.com/filmora/article-images/filmora9-4k-project-settings.jpg)
 
 Not sure the differences between these two options, check our guide about [What is 4K](https://tools.techidaily.com/wondershare/filmora/download/) to get a clue.
 
 The default project setting is 1920 x 1080 (16:9 Full HD), if you didn’t set up the project settings at the beginning, Filmora will prompt up a window asking you to change the project settings to match the 4K video. You can click **Match to Media** to change the project settings quickly.
 
-![ Filmora 9 change project settings ](https://images.wondershare.com/filmora/article-images/filmora9-change-project-settings-match.jpg)
+![Filmora 9 change project settings](https://images.wondershare.com/filmora/article-images/filmora9-change-project-settings-match.jpg)
 
 Editing 4K videos requires high computer performance, to avoid your computer overrunning, Filmora can [create proxy files](https://tools.techidaily.com/wondershare/filmora/download/) to load the video in lower resolution during editing, but rending the final export video with the original full quality. You can also customize the playback quality of the 4K videos to half quality or even 1/6 quality for smoother editing.
 
-![ Filmora 9 create proxy files ](https://images.wondershare.com/filmora/article-images/create-proxy-files.jpg)
+![Filmora 9 create proxy files](https://images.wondershare.com/filmora/article-images/create-proxy-files.jpg)
 
 When exporting to 4K Ultra High Definition Quality, just click the Settings button in the Export window to enter the Settings window to adjust the resolution to 3840 x 2160 or 4096 x 2160\. Besides, you can also change the frame rate and bit rate as well.
 
-![ Filmora 9 Export 4K videos](https://images.wondershare.com/filmora/article-images/export-4k-videos.jpg)
+![Filmora 9 Export 4K videos](https://images.wondershare.com/filmora/article-images/export-4k-videos.jpg)
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-#### 2\. [iMovie](http://www.apple.com/imovie/)
+#### 2\. iMovie
 
 If you are a Mac user and have iMovie 10.1 or version above, you can now edit 4K videos on your Mac with iMovie for free. iMovie is a free 4K video editing software for Mac. You can also import movies and trailers from iMovie for iPhone and iPad.
 
-![ iMovie Project Editing Interface](https://images.wondershare.com/filmora/article-images/imovie-project-editing-ineterface.jpg)
+![iMovie Project Editing Interface](https://images.wondershare.com/filmora/article-images/imovie-project-editing-ineterface.jpg)
 
 With iMovie for iOS and macOS, you can enjoy your videos like never before. It’s easy to browse your clips and create Hollywood-style trailers and stunning 4K-resolution movies. You can even start editing on iPhone or iPad, then finish on your Mac. And when you’re ready to premiere your movie on all your devices, iMovie Theater rolls out the red carpet.
 
 It should be noted that 4K video editing requires a Mac from 2011 or later with at least 4GB of RAM. To playback 4K video in full resolution, you'll need an iMac with Retina display or Mac Pro connected to a 4K display.
 
-#### 3\. [CyberLink PowerDirector Ultra](http://www.cyberlink.com/products/powerdirector-ultra/features%5Fen%5FAU.html?&r=1)
+#### 3\. CyberLink PowerDirector Ultra
 
 Video makers who want a very powerful, professional-level video editing program are often shocked by the price tag. However, they find that CyberLink PowerDirector Ultra, with a more beginner-friendly interface and easier to use, has virtually everything just as other programs with a higher price.
 
@@ -698,7 +698,7 @@ It's hard to look past PowerDirector Ultra if you need 4k support, and if you do
 
 This latest edition of PowerDirector supports 64-bit processors for faster editing, and of course, new support for 4K resolution videos. At under $100, CyberLink PowerDirector 19 Ultra comes amazingly close to being as advanced and capable as software that is priced multiple times more than it; making it an ideal choice for the budget-conscious video editing enthusiast.
 
-#### 4\. [Vegas Pro](http://www.sonycreativesoftware.com/vegaspro)
+#### 4\. Vegas Pro
 
 One of the higher end video editing software options is the highly renowned non-linear editor (NLE) Magix Vegas Pro. Now up to version 18, this software is used by professionals and amateurs alike. Vegas Pro 18 comes with native support for 4K video, with maximum frame sizes of up to 4096 x 4096\. There is native support for XAVC and XAVC S files, plus files from Red Epic and Red One. There are a number of extras and plugins included in Vegas Pro, including DVD Architect Pro.
 
@@ -708,13 +708,13 @@ Complete support for 4K editing puts Vegas Pro at the forefront of software in t
 
 The software is available at a cost of $399(on sale)/ $599.99(regularly); and the price is the same whether you select a download version, or the physical packaged version.
 
-#### 5\. [Vegas Movie Studio](http://www.sonycreativesoftware.com/moviestudiope?cpint=EURO%5FS3%5FMOVIE%5FAX100)
+#### 5\. Vegas Movie Studio
 
 At only $39.99, Studio 17 Platinum is just a fraction of the cost of Sony's fully fledged editor, Vegas Pro. Magix Movie Studio 17 Platinum is a basic video editing application, suited for the beginner and home user. With an emphasis on giving users the ability to easily create and share their videos on social media sites, or creating your own home DVDs, the workflow and interface has been designed to be as simple and intuitive as possible to use, without the extensive and more complex abilities of a high end application like Sony Vegas Pro.
 
 Notable features include a simple way of selecting the best output format with the Make Movie dialog, the choice of using the Simple Edit Mode or Advanced Edit Mode, fast direct upload to YouTube 4K, Color Match plug-in, and lots more.
 
-#### 6\. [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
+#### 6\. Adobe Premiere Pro
 
 Another video editing application that is considered to be at the highest end is Adobe's Premier Pro. As with most of Adobe's software, Premiere Pro is now part of the Creative Cloud plan. This requires subscription to use the application via Adobe's cloud service.
 
@@ -722,13 +722,13 @@ The sheer number of features within Premiere Pro CC is extensive. But the latest
 
 The minimum cost to access a CC plan that includes Premiere Pro is $20.99 per month. However many users will likely be inclined to select the $52.99 per month plan which includes Premiere Pro and After Effects, as well as Photoshop and more.
 
-#### 7\. [Apple Final Cut Pro X](https://www.apple.com/au/final-cut-pro/)
+#### 7\. Apple Final Cut Pro X
 
 The professional level video editing application for Mac is the very well known Apple Final Cut Pro X. Used extensively in the professional movie industry, as well as amongst amateurs, the latest version comes with full support for full resolution 4K ProRes in multiple streams (which is made for working particularly fast on the new Mac Pro).
 
 There are hundreds of features worthy of listing, however some of the most important and interesting ones include the Magnetic Timeline which has been designed to avoid sync problems or small unwanted gaps when editing, easy organization of media with keywords and metadata, multicam clip editing, multi channel audio editing.
 
-#### 8\. [MAGIX Movie Edit Pro 2021](http://www.magix.com/au/movie-edit-pro/)
+#### 8\. MAGIX Movie Edit Pro 2021
 
 Movie Edit Pro 2021 is another affordable video editing solution for home and amateur users that now has full support for 4K videos. This application is available in three versions: deluxe, Plus and Premium, with the Premium version containing the most features and capabilities.
 
@@ -795,11 +795,11 @@ And in this top list of best video editing software, we have picked up both free
 
 We have listed the top best 4k video editing software for beginners and professionals based on its features, pros, cons and price. Let's check it in detail.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1\. Wondershare Filmora
 
 The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 
@@ -809,37 +809,37 @@ The newly added Action Cam Tool allows you to merge, cut and edit **4k videos sh
 
 Filmora features the ability to import and edit 4K videos with ease. After launching Filmora, create a new project by clicking New Project in the Get Started window and then go to Project Settings to change the resolution to **3840 x 2160 (16:9 4K UHD)** or **4096 x 2160 (DCI 4K)** based on your need.
 
-![ Filmora9 4K Project settings](https://images.wondershare.com/filmora/article-images/filmora9-4k-project-settings.jpg)
+![Filmora9 4K Project settings](https://images.wondershare.com/filmora/article-images/filmora9-4k-project-settings.jpg)
 
 Not sure the differences between these two options, check our guide about [What is 4K](https://tools.techidaily.com/wondershare/filmora/download/) to get a clue.
 
 The default project setting is 1920 x 1080 (16:9 Full HD), if you didn’t set up the project settings at the beginning, Filmora will prompt up a window asking you to change the project settings to match the 4K video. You can click **Match to Media** to change the project settings quickly.
 
-![ Filmora 9 change project settings ](https://images.wondershare.com/filmora/article-images/filmora9-change-project-settings-match.jpg)
+![Filmora 9 change project settings](https://images.wondershare.com/filmora/article-images/filmora9-change-project-settings-match.jpg)
 
 Editing 4K videos requires high computer performance, to avoid your computer overrunning, Filmora can [create proxy files](https://tools.techidaily.com/wondershare/filmora/download/) to load the video in lower resolution during editing, but rending the final export video with the original full quality. You can also customize the playback quality of the 4K videos to half quality or even 1/6 quality for smoother editing.
 
-![ Filmora 9 create proxy files ](https://images.wondershare.com/filmora/article-images/create-proxy-files.jpg)
+![Filmora 9 create proxy files](https://images.wondershare.com/filmora/article-images/create-proxy-files.jpg)
 
 When exporting to 4K Ultra High Definition Quality, just click the Settings button in the Export window to enter the Settings window to adjust the resolution to 3840 x 2160 or 4096 x 2160\. Besides, you can also change the frame rate and bit rate as well.
 
-![ Filmora 9 Export 4K videos](https://images.wondershare.com/filmora/article-images/export-4k-videos.jpg)
+![Filmora 9 Export 4K videos](https://images.wondershare.com/filmora/article-images/export-4k-videos.jpg)
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-#### 2\. [iMovie](http://www.apple.com/imovie/)
+#### 2\. iMovie
 
 If you are a Mac user and have iMovie 10.1 or version above, you can now edit 4K videos on your Mac with iMovie for free. iMovie is a free 4K video editing software for Mac. You can also import movies and trailers from iMovie for iPhone and iPad.
 
-![ iMovie Project Editing Interface](https://images.wondershare.com/filmora/article-images/imovie-project-editing-ineterface.jpg)
+![iMovie Project Editing Interface](https://images.wondershare.com/filmora/article-images/imovie-project-editing-ineterface.jpg)
 
 With iMovie for iOS and macOS, you can enjoy your videos like never before. It’s easy to browse your clips and create Hollywood-style trailers and stunning 4K-resolution movies. You can even start editing on iPhone or iPad, then finish on your Mac. And when you’re ready to premiere your movie on all your devices, iMovie Theater rolls out the red carpet.
 
 It should be noted that 4K video editing requires a Mac from 2011 or later with at least 4GB of RAM. To playback 4K video in full resolution, you'll need an iMac with Retina display or Mac Pro connected to a 4K display.
 
-#### 3\. [CyberLink PowerDirector Ultra](http://www.cyberlink.com/products/powerdirector-ultra/features%5Fen%5FAU.html?&r=1)
+#### 3\. CyberLink PowerDirector Ultra
 
 Video makers who want a very powerful, professional-level video editing program are often shocked by the price tag. However, they find that CyberLink PowerDirector Ultra, with a more beginner-friendly interface and easier to use, has virtually everything just as other programs with a higher price.
 
@@ -849,7 +849,7 @@ It's hard to look past PowerDirector Ultra if you need 4k support, and if you do
 
 This latest edition of PowerDirector supports 64-bit processors for faster editing, and of course, new support for 4K resolution videos. At under $100, CyberLink PowerDirector 19 Ultra comes amazingly close to being as advanced and capable as software that is priced multiple times more than it; making it an ideal choice for the budget-conscious video editing enthusiast.
 
-#### 4\. [Vegas Pro](http://www.sonycreativesoftware.com/vegaspro)
+#### 4\. Vegas Pro
 
 One of the higher end video editing software options is the highly renowned non-linear editor (NLE) Magix Vegas Pro. Now up to version 18, this software is used by professionals and amateurs alike. Vegas Pro 18 comes with native support for 4K video, with maximum frame sizes of up to 4096 x 4096\. There is native support for XAVC and XAVC S files, plus files from Red Epic and Red One. There are a number of extras and plugins included in Vegas Pro, including DVD Architect Pro.
 
@@ -859,13 +859,13 @@ Complete support for 4K editing puts Vegas Pro at the forefront of software in t
 
 The software is available at a cost of $399(on sale)/ $599.99(regularly); and the price is the same whether you select a download version, or the physical packaged version.
 
-#### 5\. [Vegas Movie Studio](http://www.sonycreativesoftware.com/moviestudiope?cpint=EURO%5FS3%5FMOVIE%5FAX100)
+#### 5\. Vegas Movie Studio
 
 At only $39.99, Studio 17 Platinum is just a fraction of the cost of Sony's fully fledged editor, Vegas Pro. Magix Movie Studio 17 Platinum is a basic video editing application, suited for the beginner and home user. With an emphasis on giving users the ability to easily create and share their videos on social media sites, or creating your own home DVDs, the workflow and interface has been designed to be as simple and intuitive as possible to use, without the extensive and more complex abilities of a high end application like Sony Vegas Pro.
 
 Notable features include a simple way of selecting the best output format with the Make Movie dialog, the choice of using the Simple Edit Mode or Advanced Edit Mode, fast direct upload to YouTube 4K, Color Match plug-in, and lots more.
 
-#### 6\. [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
+#### 6\. Adobe Premiere Pro
 
 Another video editing application that is considered to be at the highest end is Adobe's Premier Pro. As with most of Adobe's software, Premiere Pro is now part of the Creative Cloud plan. This requires subscription to use the application via Adobe's cloud service.
 
@@ -873,13 +873,13 @@ The sheer number of features within Premiere Pro CC is extensive. But the latest
 
 The minimum cost to access a CC plan that includes Premiere Pro is $20.99 per month. However many users will likely be inclined to select the $52.99 per month plan which includes Premiere Pro and After Effects, as well as Photoshop and more.
 
-#### 7\. [Apple Final Cut Pro X](https://www.apple.com/au/final-cut-pro/)
+#### 7\. Apple Final Cut Pro X
 
 The professional level video editing application for Mac is the very well known Apple Final Cut Pro X. Used extensively in the professional movie industry, as well as amongst amateurs, the latest version comes with full support for full resolution 4K ProRes in multiple streams (which is made for working particularly fast on the new Mac Pro).
 
 There are hundreds of features worthy of listing, however some of the most important and interesting ones include the Magnetic Timeline which has been designed to avoid sync problems or small unwanted gaps when editing, easy organization of media with keywords and metadata, multicam clip editing, multi channel audio editing.
 
-#### 8\. [MAGIX Movie Edit Pro 2021](http://www.magix.com/au/movie-edit-pro/)
+#### 8\. MAGIX Movie Edit Pro 2021
 
 Movie Edit Pro 2021 is another affordable video editing solution for home and amateur users that now has full support for 4K videos. This application is available in three versions: deluxe, Plus and Premium, with the Premium version containing the most features and capabilities.
 
@@ -946,11 +946,11 @@ And in this top list of best video editing software, we have picked up both free
 
 We have listed the top best 4k video editing software for beginners and professionals based on its features, pros, cons and price. Let's check it in detail.
 
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 1\. Wondershare Filmora
 
 The latest version of Filmora [video editor](https://tools.techidaily.com/wondershare/filmora/download/) is the stripped back, simpler option for video editors who do not want the complexity, advanced features and extra cost of the professional video editing software. It features an interface that has been created for ease of use, but there is also the option to select between Expert or Quick editing modes, depending upon your skill level and needs.
 
-![ Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
+![Filmora 9  4K video Editing](https://images.wondershare.com/filmora/article-images/start-filmora9-editing.jpg)
 
 Cool effects include the particularly interesting Hollywood style effects, sound effects and stunning templates. Other interesting and new features include the [Green Screen](https://tools.techidaily.com/wondershare/filmora/download/) and Scene Detection options. The software can also automatically fix the footage with lighting or color issues which can result in a much more polished end result.
 
@@ -960,37 +960,37 @@ The newly added Action Cam Tool allows you to merge, cut and edit **4k videos sh
 
 Filmora features the ability to import and edit 4K videos with ease. After launching Filmora, create a new project by clicking New Project in the Get Started window and then go to Project Settings to change the resolution to **3840 x 2160 (16:9 4K UHD)** or **4096 x 2160 (DCI 4K)** based on your need.
 
-![ Filmora9 4K Project settings](https://images.wondershare.com/filmora/article-images/filmora9-4k-project-settings.jpg)
+![Filmora9 4K Project settings](https://images.wondershare.com/filmora/article-images/filmora9-4k-project-settings.jpg)
 
 Not sure the differences between these two options, check our guide about [What is 4K](https://tools.techidaily.com/wondershare/filmora/download/) to get a clue.
 
 The default project setting is 1920 x 1080 (16:9 Full HD), if you didn’t set up the project settings at the beginning, Filmora will prompt up a window asking you to change the project settings to match the 4K video. You can click **Match to Media** to change the project settings quickly.
 
-![ Filmora 9 change project settings ](https://images.wondershare.com/filmora/article-images/filmora9-change-project-settings-match.jpg)
+![Filmora 9 change project settings](https://images.wondershare.com/filmora/article-images/filmora9-change-project-settings-match.jpg)
 
 Editing 4K videos requires high computer performance, to avoid your computer overrunning, Filmora can [create proxy files](https://tools.techidaily.com/wondershare/filmora/download/) to load the video in lower resolution during editing, but rending the final export video with the original full quality. You can also customize the playback quality of the 4K videos to half quality or even 1/6 quality for smoother editing.
 
-![ Filmora 9 create proxy files ](https://images.wondershare.com/filmora/article-images/create-proxy-files.jpg)
+![Filmora 9 create proxy files](https://images.wondershare.com/filmora/article-images/create-proxy-files.jpg)
 
 When exporting to 4K Ultra High Definition Quality, just click the Settings button in the Export window to enter the Settings window to adjust the resolution to 3840 x 2160 or 4096 x 2160\. Besides, you can also change the frame rate and bit rate as well.
 
-![ Filmora 9 Export 4K videos](https://images.wondershare.com/filmora/article-images/export-4k-videos.jpg)
+![Filmora 9 Export 4K videos](https://images.wondershare.com/filmora/article-images/export-4k-videos.jpg)
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-#### 2\. [iMovie](http://www.apple.com/imovie/)
+#### 2\. iMovie
 
 If you are a Mac user and have iMovie 10.1 or version above, you can now edit 4K videos on your Mac with iMovie for free. iMovie is a free 4K video editing software for Mac. You can also import movies and trailers from iMovie for iPhone and iPad.
 
-![ iMovie Project Editing Interface](https://images.wondershare.com/filmora/article-images/imovie-project-editing-ineterface.jpg)
+![iMovie Project Editing Interface](https://images.wondershare.com/filmora/article-images/imovie-project-editing-ineterface.jpg)
 
 With iMovie for iOS and macOS, you can enjoy your videos like never before. It’s easy to browse your clips and create Hollywood-style trailers and stunning 4K-resolution movies. You can even start editing on iPhone or iPad, then finish on your Mac. And when you’re ready to premiere your movie on all your devices, iMovie Theater rolls out the red carpet.
 
 It should be noted that 4K video editing requires a Mac from 2011 or later with at least 4GB of RAM. To playback 4K video in full resolution, you'll need an iMac with Retina display or Mac Pro connected to a 4K display.
 
-#### 3\. [CyberLink PowerDirector Ultra](http://www.cyberlink.com/products/powerdirector-ultra/features%5Fen%5FAU.html?&r=1)
+#### 3\. CyberLink PowerDirector Ultra
 
 Video makers who want a very powerful, professional-level video editing program are often shocked by the price tag. However, they find that CyberLink PowerDirector Ultra, with a more beginner-friendly interface and easier to use, has virtually everything just as other programs with a higher price.
 
@@ -1000,7 +1000,7 @@ It's hard to look past PowerDirector Ultra if you need 4k support, and if you do
 
 This latest edition of PowerDirector supports 64-bit processors for faster editing, and of course, new support for 4K resolution videos. At under $100, CyberLink PowerDirector 19 Ultra comes amazingly close to being as advanced and capable as software that is priced multiple times more than it; making it an ideal choice for the budget-conscious video editing enthusiast.
 
-#### 4\. [Vegas Pro](http://www.sonycreativesoftware.com/vegaspro)
+#### 4\. Vegas Pro
 
 One of the higher end video editing software options is the highly renowned non-linear editor (NLE) Magix Vegas Pro. Now up to version 18, this software is used by professionals and amateurs alike. Vegas Pro 18 comes with native support for 4K video, with maximum frame sizes of up to 4096 x 4096\. There is native support for XAVC and XAVC S files, plus files from Red Epic and Red One. There are a number of extras and plugins included in Vegas Pro, including DVD Architect Pro.
 
@@ -1010,13 +1010,13 @@ Complete support for 4K editing puts Vegas Pro at the forefront of software in t
 
 The software is available at a cost of $399(on sale)/ $599.99(regularly); and the price is the same whether you select a download version, or the physical packaged version.
 
-#### 5\. [Vegas Movie Studio](http://www.sonycreativesoftware.com/moviestudiope?cpint=EURO%5FS3%5FMOVIE%5FAX100)
+#### 5\. Vegas Movie Studio
 
 At only $39.99, Studio 17 Platinum is just a fraction of the cost of Sony's fully fledged editor, Vegas Pro. Magix Movie Studio 17 Platinum is a basic video editing application, suited for the beginner and home user. With an emphasis on giving users the ability to easily create and share their videos on social media sites, or creating your own home DVDs, the workflow and interface has been designed to be as simple and intuitive as possible to use, without the extensive and more complex abilities of a high end application like Sony Vegas Pro.
 
 Notable features include a simple way of selecting the best output format with the Make Movie dialog, the choice of using the Simple Edit Mode or Advanced Edit Mode, fast direct upload to YouTube 4K, Color Match plug-in, and lots more.
 
-#### 6\. [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
+#### 6\. Adobe Premiere Pro
 
 Another video editing application that is considered to be at the highest end is Adobe's Premier Pro. As with most of Adobe's software, Premiere Pro is now part of the Creative Cloud plan. This requires subscription to use the application via Adobe's cloud service.
 
@@ -1024,13 +1024,13 @@ The sheer number of features within Premiere Pro CC is extensive. But the latest
 
 The minimum cost to access a CC plan that includes Premiere Pro is $20.99 per month. However many users will likely be inclined to select the $52.99 per month plan which includes Premiere Pro and After Effects, as well as Photoshop and more.
 
-#### 7\. [Apple Final Cut Pro X](https://www.apple.com/au/final-cut-pro/)
+#### 7\. Apple Final Cut Pro X
 
 The professional level video editing application for Mac is the very well known Apple Final Cut Pro X. Used extensively in the professional movie industry, as well as amongst amateurs, the latest version comes with full support for full resolution 4K ProRes in multiple streams (which is made for working particularly fast on the new Mac Pro).
 
 There are hundreds of features worthy of listing, however some of the most important and interesting ones include the Magnetic Timeline which has been designed to avoid sync problems or small unwanted gaps when editing, easy organization of media with keywords and metadata, multicam clip editing, multi channel audio editing.
 
-#### 8\. [MAGIX Movie Edit Pro 2021](http://www.magix.com/au/movie-edit-pro/)
+#### 8\. MAGIX Movie Edit Pro 2021
 
 Movie Edit Pro 2021 is another affordable video editing solution for home and amateur users that now has full support for 4K videos. This application is available in three versions: deluxe, Plus and Premium, with the Premium version containing the most features and capabilities.
 
@@ -1475,7 +1475,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1487,17 +1487,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1505,15 +1505,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1566,7 +1566,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1578,17 +1578,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1596,15 +1596,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1657,7 +1657,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1669,17 +1669,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1687,15 +1687,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1748,7 +1748,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1760,17 +1760,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1778,15 +1778,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 

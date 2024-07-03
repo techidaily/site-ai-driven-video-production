@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Understanding Aspect Ratios A Beginners Guide to Image Sizing
-date: 2024-04-29T19:57:12.160Z
-updated: 2024-04-30T19:57:12.160Z
+date: 2024-07-02T21:03:32.744Z
+updated: 2024-07-03T21:03:32.744Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Understanding Aspect Ratios A Beginners Guide to Image Sizing
 excerpt: This Article Describes New In 2024, Understanding Aspect Ratios A Beginners Guide to Image Sizing
 keywords: a beginners guide to understanding aspect ratios and pixels,instagram video formatting 101 a beginners guide to aspect ratios and dimensions,understanding aspect ratios a beginners guide to image sizing,mastering aspect ratios in final cut pro a beginners guide,instagram video dimensions explained a beginners guide to aspect ratios,mastering aspect ratio in final cut pro a beginners guide,aspect ratio made simple a beginners guide to calculating image sizes
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## Understanding Aspect Ratios: A Beginner's Guide to Image Sizing
@@ -48,7 +48,7 @@ The image ratio depends directly on the camera's sensor. You can find the correc
 
 The photos that you click with your smartphones have a 16:9 or 4:3 ratio. The picture below shows some common photo ratios by type of camera and where it will look great in the home.
 
-![ Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
+![Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
 
 ### Method 2: Find Image Information
 
@@ -202,7 +202,7 @@ Change the name of the video and select the location where you want to save the 
 
 Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Adjust Aspect Ratio at Exporting
 
@@ -256,7 +256,7 @@ The image ratio depends directly on the camera's sensor. You can find the correc
 
 The photos that you click with your smartphones have a 16:9 or 4:3 ratio. The picture below shows some common photo ratios by type of camera and where it will look great in the home.
 
-![ Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
+![Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
 
 ### Method 2: Find Image Information
 
@@ -410,7 +410,7 @@ Change the name of the video and select the location where you want to save the 
 
 Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Adjust Aspect Ratio at Exporting
 
@@ -464,7 +464,7 @@ The image ratio depends directly on the camera's sensor. You can find the correc
 
 The photos that you click with your smartphones have a 16:9 or 4:3 ratio. The picture below shows some common photo ratios by type of camera and where it will look great in the home.
 
-![ Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
+![Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
 
 ### Method 2: Find Image Information
 
@@ -618,7 +618,7 @@ Change the name of the video and select the location where you want to save the 
 
 Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Adjust Aspect Ratio at Exporting
 
@@ -672,7 +672,7 @@ The image ratio depends directly on the camera's sensor. You can find the correc
 
 The photos that you click with your smartphones have a 16:9 or 4:3 ratio. The picture below shows some common photo ratios by type of camera and where it will look great in the home.
 
-![ Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
+![Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
 
 ### Method 2: Find Image Information
 
@@ -826,7 +826,7 @@ Change the name of the video and select the location where you want to save the 
 
 Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Adjust Aspect Ratio at Exporting
 
@@ -1610,7 +1610,7 @@ If you find some frames are out of the edge, you can manually adjust its positio
 
 After everything is finely adjusted, export the edited and adjusted video and save it to your device.
 
-### 5\. [Kamua](https://kamua.com/)
+### 5\. Kamua
 
 **Supported OS:** Online tool available for all devices
 
@@ -1774,7 +1774,7 @@ If you find some frames are out of the edge, you can manually adjust its positio
 
 After everything is finely adjusted, export the edited and adjusted video and save it to your device.
 
-### 5\. [Kamua](https://kamua.com/)
+### 5\. Kamua
 
 **Supported OS:** Online tool available for all devices
 
@@ -1938,7 +1938,7 @@ If you find some frames are out of the edge, you can manually adjust its positio
 
 After everything is finely adjusted, export the edited and adjusted video and save it to your device.
 
-### 5\. [Kamua](https://kamua.com/)
+### 5\. Kamua
 
 **Supported OS:** Online tool available for all devices
 
@@ -2102,7 +2102,7 @@ If you find some frames are out of the edge, you can manually adjust its positio
 
 After everything is finely adjusted, export the edited and adjusted video and save it to your device.
 
-### 5\. [Kamua](https://kamua.com/)
+### 5\. Kamua
 
 **Supported OS:** Online tool available for all devices
 

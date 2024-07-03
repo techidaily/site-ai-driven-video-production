@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Transform Your Videos in Minutes The Best Way to Resize for Social Media
-date: 2024-04-29T19:56:49.122Z
-updated: 2024-04-30T19:56:49.122Z
+date: 2024-07-02T21:04:03.242Z
+updated: 2024-07-03T21:04:03.242Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Transform Your Videos in Minutes The Best Way to Resize for Social Media
 excerpt: This Article Describes New 2024 Approved Transform Your Videos in Minutes The Best Way to Resize for Social Media
 keywords: transform your videos a step by step guide to resizing for social media,from landscape to portrait the art of resizing videos for social media,transform your videos a comprehensive guide to time lapses in final cut pro,the fastest way to resize your videos tips and tricks,transform your videos in minutes the best way to resize for social media,make your videos pop on social media the best way to resize vertical content,make your videos pop the top resize technique for social media
-thumbnail: https://www.lifewire.com/thmb/BPYPQrXsNWygpcoCT-Bo8NlAS2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1094009490-2694d308001d46049e0755f4dd7fdf4c.jpg
+thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg
 ---
 
 ## Transform Your Videos in Minutes: The Best Way to Resize for Social Media

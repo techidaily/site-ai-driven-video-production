@@ -1,7 +1,7 @@
 ---
 title: From Device to TV How to Cast Local Videos to Chromecast on Any Platform
-date: 2024-06-08T18:32:51.968Z
-updated: 2024-06-09T18:32:51.968Z
+date: 2024-07-02T21:03:51.204Z
+updated: 2024-07-03T21:03:51.204Z
 tags: 
   - video editing software
   - video editing
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  Mar 27, 2024• Proven solutions
 
-Get below a detailed Chromecast app list. It tells you how to stream local files to TV through Chromecast from PC, Mac, Android, or iPhone, iPad and more. Now the Google cast supported video formats are limited to MP4 and WebM. If you have the format incompatibility issue, just use [Video Converter](https://tools.techidaily.com/wondershare/videoconverter/download/)to convert your video to be supported by Chrome.
+Get below a detailed Chromecast app list. It tells you how to stream local files to TV through Chromecast from PC, Mac, Android, or iPhone, iPad and more. Now the Google cast supported video formats are limited to MP4 and WebM. If you have the format incompatibility issue, just use [Video Converter](https://tools.techidaily.com/wondershare/videoconverter/download/) to convert your video to be supported by Chrome.
 
 To stream local files to TV from PC or Mac, there are totally 4 ways to choose from. Just get the 4 solutions below.
 

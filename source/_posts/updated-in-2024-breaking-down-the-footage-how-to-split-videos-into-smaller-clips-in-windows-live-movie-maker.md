@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Breaking Down the Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker
-date: 2024-04-29T19:41:45.542Z
-updated: 2024-04-30T19:41:45.542Z
+date: 2024-07-02T21:03:46.257Z
+updated: 2024-07-03T21:03:46.257Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Breaking Down the Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker
 excerpt: This Article Describes Updated In 2024, Breaking Down the Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker
 keywords: breaking down your footage how to split videos into smaller clips in windows live movie maker,video editing essentials how to split clips in windows live movie maker updated,breaking down the footage how to split videos into smaller clips in windows live movie maker,video editing essentials how to split clips in windows live movie maker 2023 update,from one to many how to split a single video into multiple clips in windows live movie maker,breaking down the clip how to split videos in windows live movie maker,effortless video editing how to split and merge clips in windows live movie maker
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## Breaking Down the Footage: How to Split Videos Into Smaller Clips in Windows Live Movie Maker
@@ -283,7 +283,7 @@ A great app to animate text in the video, Tomo is a simple app with extraordinar
 
 ![Tomo](https://images.wondershare.com/filmora/article-images/Tomo.JPG)
 
-#### 3. [Hype Type Animated Text Videos](https://itunes.apple.com/us/app/hype-type-animated-text-videos/id1152687277?mt=8)
+#### 3. Hype Type Animated Text Videos
 
 Make your videos stand out amongst the crowd with the hype-type animated text videos app. You can animate text in the video by this auto-motion style and design typography app. The features of the hype type animated text videos include-
 
@@ -296,7 +296,7 @@ Make your videos stand out amongst the crowd with the hype-type animated text vi
 
 ![hype type](https://images.wondershare.com/filmora/article-images/Hype-Type-Animated-Text-Videos.JPG)
 
-#### 4. [Text Animation Maker](https://play.google.com/store/apps/details?id=film.orago.legend.videomaker.scopic&hl=en)
+#### 4. Text Animation Maker
 
 Create your own beautiful story with text animation maker. You just need to write, customize, and export it in mp4 format. The features of this app are-
 
@@ -310,7 +310,7 @@ Create your own beautiful story with text animation maker. You just need to writ
 
 ![Text Animation Maker](https://images.wondershare.com/filmora/article-images/Text-Animation-Maker1.JPG)
 
-#### 5. [Steller](https://itunes.apple.com/app/id785128002)
+#### 5. Steller
 
 One of the most simple and easy ways to create stories and share, Steller personalizes the feel and the look of your entire story with elegance and easily usable design themes. The features are-
 
@@ -326,7 +326,7 @@ One of the most simple and easy ways to create stories and share, Steller person
 
 If you feel that downloading an app to animate text in video is being troublesome, you can also try out the readily available online tools. Here are a few names that can be of great help in text animation online.
 
-#### 1. [Flaming Text](http://www.flamingtext.com/Animated-Logos)
+#### 1. Flaming Text
 
 Flaming text is more than just mere service. It offers graphic design tools completely free. No need of downloading or installing, just access it from any browser. Now, creating a logo or customizing text is just a matter of time. Text animation online has become simple and easy with Flaming Text. Create logos, draw or stick, make banners or invitations, Flaming text is an easy solution.The features are-
 
@@ -338,7 +338,7 @@ Flaming text is more than just mere service. It offers graphic design tools comp
 
 ![Flaming Text](https://images.wondershare.com/filmora/article-images/flaming-text.JPG)
 
-#### 2. [TEXTANIM](http://textanim.com/)
+#### 2. TEXTANIM
 
 Creating outstanding text animation on your browser is easy with this flash based text animation online tool Textanim. The feature of this app includes-
 
@@ -406,7 +406,7 @@ A great app to animate text in the video, Tomo is a simple app with extraordinar
 
 ![Tomo](https://images.wondershare.com/filmora/article-images/Tomo.JPG)
 
-#### 3. [Hype Type Animated Text Videos](https://itunes.apple.com/us/app/hype-type-animated-text-videos/id1152687277?mt=8)
+#### 3. Hype Type Animated Text Videos
 
 Make your videos stand out amongst the crowd with the hype-type animated text videos app. You can animate text in the video by this auto-motion style and design typography app. The features of the hype type animated text videos include-
 
@@ -419,7 +419,7 @@ Make your videos stand out amongst the crowd with the hype-type animated text vi
 
 ![hype type](https://images.wondershare.com/filmora/article-images/Hype-Type-Animated-Text-Videos.JPG)
 
-#### 4. [Text Animation Maker](https://play.google.com/store/apps/details?id=film.orago.legend.videomaker.scopic&hl=en)
+#### 4. Text Animation Maker
 
 Create your own beautiful story with text animation maker. You just need to write, customize, and export it in mp4 format. The features of this app are-
 
@@ -433,7 +433,7 @@ Create your own beautiful story with text animation maker. You just need to writ
 
 ![Text Animation Maker](https://images.wondershare.com/filmora/article-images/Text-Animation-Maker1.JPG)
 
-#### 5. [Steller](https://itunes.apple.com/app/id785128002)
+#### 5. Steller
 
 One of the most simple and easy ways to create stories and share, Steller personalizes the feel and the look of your entire story with elegance and easily usable design themes. The features are-
 
@@ -449,7 +449,7 @@ One of the most simple and easy ways to create stories and share, Steller person
 
 If you feel that downloading an app to animate text in video is being troublesome, you can also try out the readily available online tools. Here are a few names that can be of great help in text animation online.
 
-#### 1. [Flaming Text](http://www.flamingtext.com/Animated-Logos)
+#### 1. Flaming Text
 
 Flaming text is more than just mere service. It offers graphic design tools completely free. No need of downloading or installing, just access it from any browser. Now, creating a logo or customizing text is just a matter of time. Text animation online has become simple and easy with Flaming Text. Create logos, draw or stick, make banners or invitations, Flaming text is an easy solution.The features are-
 
@@ -461,7 +461,7 @@ Flaming text is more than just mere service. It offers graphic design tools comp
 
 ![Flaming Text](https://images.wondershare.com/filmora/article-images/flaming-text.JPG)
 
-#### 2. [TEXTANIM](http://textanim.com/)
+#### 2. TEXTANIM
 
 Creating outstanding text animation on your browser is easy with this flash based text animation online tool Textanim. The feature of this app includes-
 
@@ -529,7 +529,7 @@ A great app to animate text in the video, Tomo is a simple app with extraordinar
 
 ![Tomo](https://images.wondershare.com/filmora/article-images/Tomo.JPG)
 
-#### 3. [Hype Type Animated Text Videos](https://itunes.apple.com/us/app/hype-type-animated-text-videos/id1152687277?mt=8)
+#### 3. Hype Type Animated Text Videos
 
 Make your videos stand out amongst the crowd with the hype-type animated text videos app. You can animate text in the video by this auto-motion style and design typography app. The features of the hype type animated text videos include-
 
@@ -542,7 +542,7 @@ Make your videos stand out amongst the crowd with the hype-type animated text vi
 
 ![hype type](https://images.wondershare.com/filmora/article-images/Hype-Type-Animated-Text-Videos.JPG)
 
-#### 4. [Text Animation Maker](https://play.google.com/store/apps/details?id=film.orago.legend.videomaker.scopic&hl=en)
+#### 4. Text Animation Maker
 
 Create your own beautiful story with text animation maker. You just need to write, customize, and export it in mp4 format. The features of this app are-
 
@@ -556,7 +556,7 @@ Create your own beautiful story with text animation maker. You just need to writ
 
 ![Text Animation Maker](https://images.wondershare.com/filmora/article-images/Text-Animation-Maker1.JPG)
 
-#### 5. [Steller](https://itunes.apple.com/app/id785128002)
+#### 5. Steller
 
 One of the most simple and easy ways to create stories and share, Steller personalizes the feel and the look of your entire story with elegance and easily usable design themes. The features are-
 
@@ -572,7 +572,7 @@ One of the most simple and easy ways to create stories and share, Steller person
 
 If you feel that downloading an app to animate text in video is being troublesome, you can also try out the readily available online tools. Here are a few names that can be of great help in text animation online.
 
-#### 1. [Flaming Text](http://www.flamingtext.com/Animated-Logos)
+#### 1. Flaming Text
 
 Flaming text is more than just mere service. It offers graphic design tools completely free. No need of downloading or installing, just access it from any browser. Now, creating a logo or customizing text is just a matter of time. Text animation online has become simple and easy with Flaming Text. Create logos, draw or stick, make banners or invitations, Flaming text is an easy solution.The features are-
 
@@ -584,7 +584,7 @@ Flaming text is more than just mere service. It offers graphic design tools comp
 
 ![Flaming Text](https://images.wondershare.com/filmora/article-images/flaming-text.JPG)
 
-#### 2. [TEXTANIM](http://textanim.com/)
+#### 2. TEXTANIM
 
 Creating outstanding text animation on your browser is easy with this flash based text animation online tool Textanim. The feature of this app includes-
 
@@ -652,7 +652,7 @@ A great app to animate text in the video, Tomo is a simple app with extraordinar
 
 ![Tomo](https://images.wondershare.com/filmora/article-images/Tomo.JPG)
 
-#### 3. [Hype Type Animated Text Videos](https://itunes.apple.com/us/app/hype-type-animated-text-videos/id1152687277?mt=8)
+#### 3. Hype Type Animated Text Videos
 
 Make your videos stand out amongst the crowd with the hype-type animated text videos app. You can animate text in the video by this auto-motion style and design typography app. The features of the hype type animated text videos include-
 
@@ -665,7 +665,7 @@ Make your videos stand out amongst the crowd with the hype-type animated text vi
 
 ![hype type](https://images.wondershare.com/filmora/article-images/Hype-Type-Animated-Text-Videos.JPG)
 
-#### 4. [Text Animation Maker](https://play.google.com/store/apps/details?id=film.orago.legend.videomaker.scopic&hl=en)
+#### 4. Text Animation Maker
 
 Create your own beautiful story with text animation maker. You just need to write, customize, and export it in mp4 format. The features of this app are-
 
@@ -679,7 +679,7 @@ Create your own beautiful story with text animation maker. You just need to writ
 
 ![Text Animation Maker](https://images.wondershare.com/filmora/article-images/Text-Animation-Maker1.JPG)
 
-#### 5. [Steller](https://itunes.apple.com/app/id785128002)
+#### 5. Steller
 
 One of the most simple and easy ways to create stories and share, Steller personalizes the feel and the look of your entire story with elegance and easily usable design themes. The features are-
 
@@ -695,7 +695,7 @@ One of the most simple and easy ways to create stories and share, Steller person
 
 If you feel that downloading an app to animate text in video is being troublesome, you can also try out the readily available online tools. Here are a few names that can be of great help in text animation online.
 
-#### 1. [Flaming Text](http://www.flamingtext.com/Animated-Logos)
+#### 1. Flaming Text
 
 Flaming text is more than just mere service. It offers graphic design tools completely free. No need of downloading or installing, just access it from any browser. Now, creating a logo or customizing text is just a matter of time. Text animation online has become simple and easy with Flaming Text. Create logos, draw or stick, make banners or invitations, Flaming text is an easy solution.The features are-
 
@@ -707,7 +707,7 @@ Flaming text is more than just mere service. It offers graphic design tools comp
 
 ![Flaming Text](https://images.wondershare.com/filmora/article-images/flaming-text.JPG)
 
-#### 2. [TEXTANIM](http://textanim.com/)
+#### 2. TEXTANIM
 
 Creating outstanding text animation on your browser is easy with this flash based text animation online tool Textanim. The feature of this app includes-
 
@@ -779,7 +779,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -791,17 +791,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -809,15 +809,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -870,7 +870,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -882,17 +882,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -900,15 +900,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -961,7 +961,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -973,17 +973,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -991,15 +991,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1052,7 +1052,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1064,17 +1064,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1082,15 +1082,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1116,7 +1116,7 @@ Follow @Benjamin Arango
 
 ## Watch in Style: Mastering Amazon Prime Video's Display Options
 
-##### [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Video Editor
 
 Adjust the aspect ratio of Amazon Prime Video in an easy way!
 
@@ -1184,7 +1184,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 
@@ -1302,7 +1302,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 
@@ -1420,7 +1420,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 
@@ -1538,7 +1538,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 

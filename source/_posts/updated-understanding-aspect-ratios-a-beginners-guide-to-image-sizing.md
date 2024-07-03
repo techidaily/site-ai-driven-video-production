@@ -1,7 +1,7 @@
 ---
 title: Updated Understanding Aspect Ratios A Beginners Guide to Image Sizing
-date: 2024-05-19T11:48:04.292Z
-updated: 2024-05-20T11:48:04.292Z
+date: 2024-07-02T21:03:48.841Z
+updated: 2024-07-03T21:03:48.841Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Understanding Aspect Ratios A Beginners Guide to Image Sizing
 excerpt: This Article Describes Updated Understanding Aspect Ratios A Beginners Guide to Image Sizing
 keywords: sizing up success a beginners guide to image ratio calculation,instagram video dimensions explained a beginners guide to aspect ratios,aspect ratio made simple a beginners guide to calculating image sizes,understanding aspect ratios a beginners guide to image sizing,the ultimate guide to instagram video aspect ratios and sizes,a beginners guide to understanding aspect ratios and pixels,instagram video formatting 101 a beginners guide to aspect ratios and dimensions
-thumbnail: https://www.lifewire.com/thmb/FO5DJQJt8EUiF4veEftl-goajY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-151812569-ff7311e1de18461da9f8698205953384.jpg
+thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547c6bb5f5df0fa9181f11e1b7.jpg
 ---
 
 ## Understanding Aspect Ratios: A Beginner's Guide to Image Sizing
@@ -48,7 +48,7 @@ The image ratio depends directly on the camera's sensor. You can find the correc
 
 The photos that you click with your smartphones have a 16:9 or 4:3 ratio. The picture below shows some common photo ratios by type of camera and where it will look great in the home.
 
-![ Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
+![Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
 
 ### Method 2: Find Image Information
 
@@ -202,7 +202,7 @@ Change the name of the video and select the location where you want to save the 
 
 Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Adjust Aspect Ratio at Exporting
 
@@ -256,7 +256,7 @@ The image ratio depends directly on the camera's sensor. You can find the correc
 
 The photos that you click with your smartphones have a 16:9 or 4:3 ratio. The picture below shows some common photo ratios by type of camera and where it will look great in the home.
 
-![ Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
+![Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
 
 ### Method 2: Find Image Information
 
@@ -410,7 +410,7 @@ Change the name of the video and select the location where you want to save the 
 
 Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Adjust Aspect Ratio at Exporting
 
@@ -464,7 +464,7 @@ The image ratio depends directly on the camera's sensor. You can find the correc
 
 The photos that you click with your smartphones have a 16:9 or 4:3 ratio. The picture below shows some common photo ratios by type of camera and where it will look great in the home.
 
-![ Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
+![Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
 
 ### Method 2: Find Image Information
 
@@ -618,7 +618,7 @@ Change the name of the video and select the location where you want to save the 
 
 Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Adjust Aspect Ratio at Exporting
 
@@ -672,7 +672,7 @@ The image ratio depends directly on the camera's sensor. You can find the correc
 
 The photos that you click with your smartphones have a 16:9 or 4:3 ratio. The picture below shows some common photo ratios by type of camera and where it will look great in the home.
 
-![ Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
+![Common image Ratio](https://images.wondershare.com/filmora/article-images/2021/calculate-find-and-adjust-image-ratio-1.jpg)
 
 ### Method 2: Find Image Information
 
@@ -826,7 +826,7 @@ Change the name of the video and select the location where you want to save the 
 
 Now, click on the "Export" again to save.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Adjust Aspect Ratio at Exporting
 
@@ -1668,7 +1668,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -1696,13 +1696,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -1753,7 +1753,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -1781,13 +1781,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -1838,7 +1838,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -1866,13 +1866,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -1923,7 +1923,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+![Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -1951,13 +1951,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
-![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.

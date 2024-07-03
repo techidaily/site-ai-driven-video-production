@@ -1,7 +1,7 @@
 ---
 title: In 2024, From Capture to Cut A Comprehensive Guide to Editing Sony Camcorder Footage
-date: 2024-05-19T11:47:29.203Z
-updated: 2024-05-20T11:47:29.203Z
+date: 2024-07-02T21:03:36.874Z
+updated: 2024-07-03T21:03:36.874Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, From Capture to Cut A Comprehensive Guide to Editing Sony Camcorder Footage
 excerpt: This Article Describes In 2024, From Capture to Cut A Comprehensive Guide to Editing Sony Camcorder Footage
 keywords: canon camcorder video editing for beginners a comprehensive guide,sony camcorder video editing tutorial from capture to completion,free video editing apps for chrome os a comprehensive guide,from start to finish a comprehensive guide to quicktime video editing on mac,from capture to cut a comprehensive guide to editing sony camcorder footage,from capture to cut editing gopro footage on mac,transform your canon footage a comprehensive guide to video editing
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## From Capture to Cut: A Comprehensive Guide to Editing Sony Camcorder Footage
