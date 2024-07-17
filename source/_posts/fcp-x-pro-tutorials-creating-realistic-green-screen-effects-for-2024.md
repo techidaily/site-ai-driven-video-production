@@ -1,7 +1,7 @@
 ---
 title: FCP X Pro Tutorials Creating Realistic Green Screen Effects for 2024
-date: 2024-06-08T18:33:26.701Z
-updated: 2024-06-09T18:33:26.701Z
+date: 2024-07-16T07:23:14.227Z
+updated: 2024-07-17T07:23:14.227Z
 tags: 
   - video editing software
   - video editing
@@ -24,16 +24,22 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
  Mar 27, 2024• Proven solutions
 
-Chroma-key (also called "green screen") effects are a staple in video production. What [FCP X effect](https://tools.techidaily.com/wondershare/filmora/download/)does is allow you to make the background behind an actor transparent so you can place the actor into a different environment than a studio.
+Chroma-key (also called "green screen") effects are a staple in video production. What [FCP X effect](https://tools.techidaily.com/wondershare/filmora/download/) does is allow you to make the background behind an actor transparent so you can place the actor into a different environment than a studio.
 
 ---
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Getting Started
 
 First, the best thing you can do to improve the quality of your keys is to improve how you shoot them. Here are seven basic production rules:
@@ -48,6 +54,9 @@ First, the best thing you can do to improve the quality of your keys is to impro
 
 ## Setting up the Key
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fx chroma 01](https://images.wondershare.com/multimedia/fx-chroma-01.jpg)
 
 The green screen image is always placed above the background. You can place either the green screen or background image into the Primary Storyline. I find it easier to put the background in the Primary Storyline, because it makes editing the green screen image easier. But this is purely personal choice.
@@ -64,6 +73,9 @@ Don't panic if your image looks weird – we will fix it.
 
 Click the **Sample Color** icon. This allows fine-tuning the selection of the background color.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fx chroma 04](https://images.wondershare.com/multimedia/fx-chroma-04.jpg)
 
 In the green-screen image, drag to select a representative section of the background. I try to get close to the face, but not so close that I accidentally select loose hair or skin.
@@ -82,6 +94,9 @@ Click the **Matte** button to display your key as a white foreground on a black 
 
 Your goal is the make the foreground solid white, which means opaque, and the background solid black, which means transparent. Adjust the **Fill Holes** and **Edge Distance** sliders until your key looks solid. (For REALLY bad keys, you'll need to also adjust Color Selection, mentioned below.)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fx chroma 05](https://images.wondershare.com/multimedia/fx-chroma-05.jpg)
 
 If an edge is too pronounced, or needs help, click the **Edges** icon.
@@ -115,14 +130,23 @@ Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag 
 
 When you are done, you have a great looking key!
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Clean up the Image with a Garbage Mask
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
 
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
 
 Once you pull the key – which is film-speak for creating a green-screen shot, as I described above – and get it looking as good as possible, there's one more step: adding a garbage matte to get rid of all the garbage surrounding your actors.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fx chroma 13](https://images.wondershare.com/multimedia/fx-chroma-13.jpg)
 
 Once you get your key looking as good as you can – which in this case isn't all that good – drag the Mask effect (**Effects > Keying > Mask**) on top of the green-screen clip.
@@ -151,6 +175,9 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -167,3 +194,41 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-final-cut-pro-essentials-how-to-add-picture-in-picture-effects-to-your-projects/"><u>2024 Approved Final Cut Pro Essentials How to Add Picture-in-Picture Effects to Your Projects</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-final-cut-pro-essentials-how-to-use-the-ken-burns-effect-to-enhance-your-video-storytelling/"><u>2024 Approved Final Cut Pro Essentials How to Use the Ken Burns Effect to Enhance Your Video Storytelling</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-final-cut-pro-tutorial-adding-picture-in-picture-effects-to-your-videos/"><u>2024 Approved Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-final-cut-pro-voice-over-secrets-boost-your-audio-game/"><u>2024 Approved Final Cut Pro Voice Over Secrets Boost Your Audio Game</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-fcp-is-one-of-the-most-powerful-editing-tools-often-used-by-professional-editors-around-the-globe-for-2024/"><u>Final Cut Pro (FCP) Is One of the Most Powerful Editing Tools Often Used by Professional Editors Around the Globe for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-essentials-rotating-clips-with-ease-for-2024/"><u>Final Cut Pro Essentials Rotating Clips with Ease for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-on-a-budget-get-90-days-of-free-access-now-for-2024/"><u>Final Cut Pro on a Budget Get 90 Days of Free Access Now for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-on-a-budget-get-the-best-education-price-for-2024/"><u>Final Cut Pro on a Budget Get the Best Education Price for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-sound-design-discovering-and-adding-free-sound-effects-like-a-pro-for-2024/"><u>Final Cut Pro Sound Design Discovering and Adding Free Sound Effects Like a Pro for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-tips-and-tricks-reversing-video-clips-like-a-pro-for-2024/"><u>Final Cut Pro Tips and Tricks Reversing Video Clips Like a Pro for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-tutorial-adding-realistic-motion-blur-for-2024/"><u>Final Cut Pro Tutorial Adding Realistic Motion Blur for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-x-hacks-10-must-have-free-plugins-for-2024/"><u>Final Cut Pro X Hacks 10 Must-Have Free Plugins for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-plug-in-for-print-devices/"><u>Immediate Plug-In for Print Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-final-cut-pro-x-hack-add-a-countdown-timer-in-3-easy-steps/"><u>In 2024, Final Cut Pro X Hack Add a Countdown Timer in 3 Easy Steps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-the-ultimate-list-of-free-mp4-video-cutter-tools/"><u>In 2024, The Ultimate List of Free MP4 Video Cutter Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-tutorial-for-recording-your-fb-chat-history/"><u>In 2024, The Ultimate Tutorial for Recording Your FB Chat History</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtube-shorts-thumbnail-woes-a-quick-guide-to-solutions/"><u>In 2024, YouTube Shorts Thumbnail Woes  A Quick Guide to Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-essentials-how-to-add-picture-in-picture-effects-to-your-projects/"><u>New Final Cut Pro Essentials How to Add Picture-in-Picture Effects to Your Projects</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-essentials-how-to-use-the-ken-burns-effect-to-enhance-your-video-storytelling/"><u>New Final Cut Pro Essentials How to Use the Ken Burns Effect to Enhance Your Video Storytelling</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-sound-design-how-to-source-free-sound-effects-online/"><u>New Final Cut Pro Sound Design How to Source Free Sound Effects Online</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-tips-and-tricks-reversing-video-clips-like-a-pro/"><u>New Final Cut Pro Tips and Tricks Reversing Video Clips Like a Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-tutorial-adding-emotional-depth-with-ken-burns-effect/"><u>New Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-tutorial-changing-aspect-ratio-for-social-media-and-more/"><u>New Final Cut Pro Tutorial Changing Aspect Ratio for Social Media and More</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-tutorial-changing-aspect-ratio-made-easy-2023-update/"><u>New Final Cut Pro Tutorial Changing Aspect Ratio Made Easy (2023 Update)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-x-2024-essentials-syncing-audio-and-video-for-smooth-edits/"><u>New Final Cut Pro X 2024 Essentials Syncing Audio and Video for Smooth Edits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-start-inserting-images-into-your-instagram-feed/"><u>Quick Start  Inserting Images Into Your Instagram Feed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-science-and-magic-behind-perfecting-luts/"><u>The Science and Magic Behind Perfecting LUTs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-m54-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy M54 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-tecno-spark-20-proplus-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-final-cut-pro-on-a-budget-get-90-days-of-free-access-now/"><u>Updated Final Cut Pro on a Budget Get 90 Days of Free Access Now</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-final-cut-pro-project-backup-a-beginners-guide-to-securing-your-work/"><u>Updated Final Cut Pro Project Backup A Beginners Guide to Securing Your Work</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-final-cut-pro-vs-lumafusion-a-comprehensive-guide-to-choosing-the-best-video-editor/"><u>Updated Final Cut Pro vs LumaFusion A Comprehensive Guide to Choosing the Best Video Editor</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-final-cut-pro-x-jump-cuts-masterclass-learn-from-the-pros/"><u>Updated Final Cut Pro X Jump Cuts Masterclass Learn From the Pros</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-luminance-mastery-top-video-editing-software-for-brightness-control/"><u>Updated In 2024, Luminance Mastery Top Video Editing Software for Brightness Control</u></a></li>
+</ul></div>

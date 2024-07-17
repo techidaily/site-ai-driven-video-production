@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro X Title Tutorial A Step-by-Step Guide for 2024
-date: 2024-06-08T18:33:18.592Z
-updated: 2024-06-09T18:33:18.592Z
+date: 2024-07-16T07:23:04.739Z
+updated: 2024-07-17T07:23:04.739Z
 tags: 
   - video editing software
   - video editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 
 # How to Add Titles in Final Cut Pro X
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -30,6 +33,18 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -54,6 +69,18 @@ I'd like to introduce "Yertle," he's a sea turtle and the star of this article. 
 
 At its simplest, we use titles to display his (its?) name.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -68,10 +95,16 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles005.jpg)
 
 If you look right in the center of the screen, you'll see the word "Title." Yes, its darn near invisible. And, yes, it looks, um, ugly. However, we have a TON of formatting control to make this look however we want.
@@ -128,6 +161,9 @@ If you want a fast way to format text, click the word "Normal" at the top. This 
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -138,6 +174,9 @@ While many of these settings you already know there are a few you may not:
 * Tracking. Adjusts the horizontal spacing between letters.
 * Baseline. Adjusts the vertical spacing of text compared to the horizontal line running thru the center of the white circle in the Viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles013.jpg)
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
@@ -146,6 +185,9 @@ The Face section allows us to change font color, opacity and blue. Outline and G
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles014.jpg)
 
 After making a few changes in the Inspector, here's the final result. Very cool - and very different from where we started!
@@ -190,3 +232,38 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-from-silence-to-sonata-cropping-and-mixing-music-into-video-content/"><u>[New] 2024 Approved  From Silence to Sonata  Cropping & Mixing Music Into Video Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-playlist-pilgrimage-seamless-music-service-journeying/"><u>[New] Playlist Pilgrimage  Seamless Music Service Journeying</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-skys-boundaries-broken-by-endurance-drones-top-10/"><u>[New] Sky's Boundaries Broken by Endurance Drones (Top 10)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instantaneous-fb-video-updates-leading-extensions-and-app-analysis/"><u>2024 Approved  Instantaneous FB Video Updates - Leading Extensions & App Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-stabilizing-high-flying-camera-work-a-guide/"><u>2024 Approved  Stabilizing High-Flying Camera Work  A Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-a-beginners-guide-to-choose-rap-background-music/"><u>2024 Approved A Beginners Guide to Choose Rap Background Music</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-easy-video-aspect-ratio-conversion-a-quick-tutorial/"><u>2024 Approved Easy Video Aspect Ratio Conversion A Quick Tutorial</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-easy-video-aspect-ratio-conversion-no-expertise-needed/"><u>2024 Approved Easy Video Aspect Ratio Conversion No Expertise Needed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-easy-video-cutting-and-joining-software-for-starters-2023-update/"><u>2024 Approved Easy Video Cutting and Joining Software for Starters (2023 Update)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-easy-video-editing-top-free-cutters-and-joiners-for-starters/"><u>2024 Approved Easy Video Editing Top Free Cutters and Joiners for Starters</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-easy-video-editor-for-mac-mkvtoolnix-review/"><u>2024 Approved Easy Video Editor for Mac MKVtoolnix Review</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-easy-video-reversal-top-online-tools/"><u>2024 Approved Easy Video Reversal Top Online Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-edit-avi-files-with-ease-best-windows-8-video-editor-2023/"><u>2024 Approved Edit AVI Files with Ease Best Windows 8 Video Editor - 2023</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/easy-video-editing-how-to-freeze-frames-like-a-pro-in-minutes-for-2024/"><u>Easy Video Editing How to Freeze Frames Like a Pro in Minutes for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/easy-video-flipping-tips-and-tricks-for-a-pro-look-for-2024/"><u>Easy Video Flipping Tips and Tricks for a Pro-Look for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/economical-video-editing-solutions-a-roundup-for-2024/"><u>Economical Video Editing Solutions A Roundup for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/edit-and-organize-your-mp4-videos-with-these-tag-editors-for-2024/"><u>Edit and Organize Your MP4 Videos with These Tag Editors for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effective-strategies-for-google-voice-call-saves/"><u>Effective Strategies for Google Voice Call Saves</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-youtube-subscriptions-for-economic-updates/"><u>Essential YouTube Subscriptions for Economic Updates</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-easy-video-joiner-not-cutting-it-explore-these-10-powerful-alternatives/"><u>In 2024, Easy Video Joiner Not Cutting It? Explore These 10 Powerful Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-easy-video-joining-solutions-top-alternatives-to-popular-software/"><u>In 2024, Easy Video Joining Solutions Top Alternatives to Popular Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-economical-video-editing-solutions-a-roundup/"><u>In 2024, Economical Video Editing Solutions A Roundup</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-edit-and-organize-mp4-video-tags-with-ease/"><u>In 2024, Edit and Organize MP4 Video Tags with Ease</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-edit-avi-files-with-ease-best-windows-8-video-editor-2023/"><u>In 2024, Edit AVI Files with Ease Best Windows 8 Video Editor - 2023</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-edit-flv-videos-on-windows-8-with-ease-a-beginner-friendly-editor/"><u>In 2024, Edit FLV Videos on Windows 8 with Ease A Beginner-Friendly Editor</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-photo-carousel-magic/"><u>Insta-Photo Carousel Magic</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-5-leading-voice-modification-software-for-instant-impact-rankings/"><u>Updated 2024 Approved 5 Leading Voice Modification Software for Instant Impact ( Rankings)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-easy-video-editing-for-mac-users-a-guide-to-mkvtoolnix/"><u>Updated Easy Video Editing for Mac Users A Guide to MKVtoolnix</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-easy-video-rotation-tips-and-tricks-for-a-quick-flip/"><u>Updated Easy Video Rotation Tips and Tricks for a Quick Flip</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-avi-videos-on-windows-8-with-precision-the-best-editor/"><u>Updated Edit AVI Videos on Windows 8 with Precision The Best Editor</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-must-have-music-selections-for-peaceful-environmental-scenarios/"><u>Updated Must-Have Music Selections for Peaceful Environmental Scenarios</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo A78 | Dr.fone</u></a></li>
+</ul></div>

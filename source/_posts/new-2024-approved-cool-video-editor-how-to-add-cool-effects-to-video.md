@@ -1,0 +1,168 @@
+---
+title: New 2024 Approved Cool Video Editor How to Add Cool Effects to Video
+date: 2024-07-16T07:37:29.294Z
+updated: 2024-07-17T07:37:29.294Z
+tags: 
+  - video editing software
+  - video editing
+categories: 
+  - ai
+  - video
+description: This Article Describes New 2024 Approved Cool Video Editor How to Add Cool Effects to Video
+excerpt: This Article Describes New 2024 Approved Cool Video Editor How to Add Cool Effects to Video
+keywords: ai animation cool video editor how to add cool effects to video,vn video editor apk review a powerful video editing tool,cool video editor how to add cool effects to video,how to add 3d effects to video in windows computer,epic video editing add mind blowing effects to your videos,old school cool best apps for adding vintage vhs effects to your videos,pro video editor secrets adding awesome effects to your videos
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
+---
+
+## Visual Magic: How to Create Stunning Video Effects Like a Pro
+
+# Cool Video Editor: How to Add Cool Effects to Video
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+How to make a cool video? Besides creativities, you may also need a video editing software which allows you to add some cool video effects. Actually it's much simpler than you might expect if you use cool video editor like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to easily trim videos, add voice narration or a music sound track from your personal collection and add cool effects and give your plain old home videos the extra touch that makes them more special. In this article, we will introduce some cool video effects that you can use in Filmora as well as the step-by-step guide about how to add cool effects to videos for making a cool edit.
+
+## Part 1: Introducing 5 cool effects that you may be interested in
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**1\. Mask:** Filmora allows you add various image masks and shape mask to the image and video in the timeline, which will create a special effect. You can always add Mask effect to media when creating PIP videos.
+
+**2\. Green Screen Effect:** Green screen or chroma keying feature is used to key out colors from a subject of a photo or video and composite two images or videos together based on color chroma range.
+
+**3\. Transition Effect:** Transition video effect is used to be more visual and obvious when playing back one scene to another. Namely, it is what the scene showing between two clips. Filmora provides more than 200 transition effects, including the basic fade, bar, ripple & dissolve, 3D and slideshow transitions, you can also find the transition effects for special events such as birthday and wedding.
+
+**4\. Overlays:** A video overlay refers to an image or an animated video that appears over the background video. Filmora provides more than 110 overlays including frame overlay, bokeh blurs overlay, lens flares, old film, damaged film, TV static, and view finder overlays.
+
+**5\. Filters:** Filmora has a great collection of video filter effects and there are about 150 filters in it, including camera shake, distortion, Lomography, background blur, faux film and Instagram-like filters.
+
+Besides these common cool video effects, [Filmora Effects Store](https://tools.techidaily.com/wondershare/filmora/download/) offers more possibilities. There are packs, sets and bundles covering gaming, media, beauty and fashion, action cam, education, lifestyle, VFX and special event. Check the blockbuster video effects video below to check how it works.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: How to Add Cool Effects to Videos in Filmora \[Tutorial\]
+
+With Filmora, you can also add some cool effects conveniently to improve your video with ease. After several clicks, your video will turn out to be a stunning masterpiece which is really fantastic to share with your family and friends on YouTube or Facebook. Now follow this step-by-step guide on how to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with this cool software.
+
+#### 1 Import your videos
+
+Install and launch Wondershare Filmora. Click New Project and then click the “Import” button to load your media files through its navigation import panel or directly drag and drop your files to the media library.
+
+![cool video editor](https://images.wondershare.com/filmora/article-images/drag-and-drop.jpg)
+
+#### 2 Add cool effects to your video
+
+Now it's time to add cool effects to your video. Just drop the video and audio files from the media library to the corresponding timelines. Then click the “Effect” button in the toolbar to switch to the “Effect” tab. Here you will see filters and overlays effects for you to choose.
+
+To add transitions between two clips, or add an overlay or filter video effect to video, just go to the corresponding tab and drag and drop the target video effects to videos.
+
+You can also right click your favorite effect and select apply. You will see the “Effect” Timeline appear below the video track. If you want to increase the effect duration, just mouse over the edge of the effect in timeline, and when the "double arrow" cursor appears, drag it to any length you want.
+
+Detailed information about how to add a split-screen effect video, check our [guide about how to make a split screen video here](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For steps of compositing a green screen video, check this video tutorial below:
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Besides that, you can add more cool effects provided by Video Editor. Just highlight the target media file, then go to Effects Tab. Yu can select and apply more cool effects like Tilt-Shift, Mosaic, and Face Off under Utitliy filters. These effects will help you turn your video clip into a work of art.
+
+![Filmora9 Utility](https://images.wondershare.com/filmora/article-images/filmora9-utility-options.jpg)
+
+#### 3 Export your videos
+
+You can preview and watch your video by clicking the “Play” button before you export it. Go back and make some necessary adjustments. Then you can save and export the video to your computer in the “Format” tab. If you want to play video on mobile devices, go to the “Devices” tab and choose a device from the list. Of course, you can also directly burn it to DVD or post on YouTube or Vimeo.
+
+![cool video editor](https://images.wondershare.com/filmora/article-images/export-output.jpg)
+
+Filmora features more than 300 video effects, elements and motion effects and 100+ text and title styles to choose. Besides adding cool video effects to video clips, you can also reverse, speed up or slow down the video to make a cool effect. You can also choose music sound from the built in music library and do some audio editing with the Audio Mixer or Audio Equalizer tool.
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+As one of the best and easiest video editing software which comes with cool effects, Filmora can empower your imagination. Download this cool video editor with various effects and try it yourself!
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mobile-tech-wizardry-how-to-record-and-share-your-snapchat-stories-for-2024/"><u>[Updated] Mobile Tech Wizardry  How to Record and Share Your Snapchat Stories for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-using-fbx-for-gamers/"><u>[Updated] The Ultimate Guide to Using FBX for Gamers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-dissecting-video-production-mastery-with-xmedia-studio-suite/"><u>2024 Approved  Dissecting Video Production Mastery with XMedia Studio Suite</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-revolutionizing-broadcast-media-with-chroma-key-expertise/"><u>2024 Approved  Revolutionizing Broadcast Media with Chroma Key Expertise</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-smile-and-watch-your-guide-to-the-top-15-funny-youtubers/"><u>2024 Approved  Smile and Watch  Your Guide to the Top 15 Funny YouTubers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-the-best-free-online-webm-video-compressor-options/"><u>2024 Approved The Best Free Online WebM Video Compressor Options</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-2-ways-to-loop-a-youtube-video-on-tv/"><u>In 2024, 2 Ways to Loop a YouTube Video On TV</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-platforms-for-futuristic-font-designs/"><u>In 2024, Best Platforms for Futuristic Font Designs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-f23-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo F23 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-superior-panzoid-constructs-guide/"><u>In 2024, Superior Panzoid Constructs Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-xs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone XS</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-ways-to-disengage-music-elements-from-multimedia-projects/"><u>In 2024, Ways to Disengage Music Elements From Multimedia Projects</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/make-movies-without-breaking-the-bank-10-essential-low-budget-tools-for-2024/"><u>Make Movies Without Breaking the Bank 10 Essential Low-Budget Tools for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-mpeg-video-assembly-top-5-programs/"><u>New 2024 Approved Free MPEG Video Assembly Top 5 Programs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-online-dailymotion-converter-easy-and-fast/"><u>New 2024 Approved Free Online Dailymotion Converter Easy and Fast</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-online-photo-background-blur-apps-a-curated-list/"><u>New 2024 Approved Free Online Photo Background Blur Apps A Curated List</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-youtube-audio-grabber-how-to-download-and-convert-videos/"><u>New 2024 Approved YouTube Audio Grabber How to Download and Convert Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-mp4-video-splitters-top-9-options-for-2024/"><u>New Free MP4 Video Splitters Top 9 Options for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-mpeg-video-union-top-5-recommended-tools-for-2024/"><u>New Free MPEG Video Union Top 5 Recommended Tools for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-online-face-makers-design-your-own-virtual-visage-for-2024/"><u>New Free Online Face Makers Design Your Own Virtual Visage for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-online-film-editing-solutions-top-9-recommendations-for-2024/"><u>New Free Online Film Editing Solutions Top 9 Recommendations for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-online-dailymotion-converter-easy-and-fast/"><u>New In 2024, Free Online Dailymotion Converter Easy and Fast</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-online-dailymotion-downloader-and-converter/"><u>New In 2024, Free Online Dailymotion Downloader and Converter</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-online-subtitle-solutions-top-10-picks/"><u>New In 2024, Free Online Subtitle Solutions Top 10 Picks</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-hash-tags-skyrocketing-to-6-figure-views-on-youtube-for-2024/"><u>Top Hash Tags  Skyrocketing to 6-Figure Views on YouTube for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/transforming-ordinary-to-exceptional-tiktok-pfps/"><u>Transforming Ordinary to Exceptional TikTok PFPs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/unveiling-techniques-for-discriminating-premium-sound-artists/"><u>Unveiling Techniques for Discriminating Premium Sound Artists</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-online-tools-to-remove-background-from-images/"><u>Updated 2024 Approved Free Online Tools to Remove Background From Images</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-mpeg-video-concatenation-top-5-options-for-2024/"><u>Updated Free MPEG Video Concatenation Top 5 Options for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-mpeg-video-splitter-software-top-picks-for-2024/"><u>Updated Free MPEG Video Splitter Software Top Picks for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-music-production-software-the-top-11-options-for-2024/"><u>Updated Free Music Production Software The Top 11 Options for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-online-glitch-effects-the-top-picks-for-2024/"><u>Updated Free Online Glitch Effects The Top Picks for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-online-subtitle-solutions-top-10-picks-for-2024/"><u>Updated Free Online Subtitle Solutions Top 10 Picks for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-mpeg-video-joiner-software-top-selections/"><u>Updated In 2024, Free MPEG Video Joiner Software Top Selections</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-mpeg-video-splitter-downloads-top-5-picks/"><u>Updated In 2024, Free MPEG Video Splitter Downloads Top 5 Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-music-making-software-the-top-10-picks/"><u>Updated In 2024, Free Music Making Software The Top 10 Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-online-face-makers-design-your-own-virtual-visage/"><u>Updated In 2024, Free Online Face Makers Design Your Own Virtual Visage</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-online-glitch-effects-the-top-picks/"><u>Updated In 2024, Free Online Glitch Effects The Top Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-online-photo-blur-effects-top-websites-and-tools/"><u>Updated In 2024, Free Online Photo Blur Effects Top Websites and Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-online-subtitle-solutions-top-10-picks/"><u>Updated In 2024, Free Online Subtitle Solutions Top 10 Picks</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-what-is-ai-generated-text/"><u>Updated In 2024, What Is AI Generated Text?</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
