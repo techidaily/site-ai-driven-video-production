@@ -1,0 +1,215 @@
+---
+title: "Exploring the Features: A Look at the GPS and Cellular Apple Watch Variants"
+date: 2024-08-15T01:52:36.330Z
+updated: 2024-08-16T01:52:36.330Z
+categories:
+  - BestProducts
+description: "This Article Describes Exploring the Features: A Look at the GPS and Cellular Apple Watch Variants"
+excerpt: "This Article Describes Exploring the Features: A Look at the GPS and Cellular Apple Watch Variants"
+thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f5302c7ff78d5008912b4d02f9.jpg
+---
+
+## A Closer Look at Budget Smartwatches - Thrilling Review and Insight Into the Beantech Bitwatch S1 Plus
+
+4
+
+## Beantech Bitwatch S1 Plus
+
+![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/JogmBSjTGQl_gqbjuX8prgeJJPA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_4LW4157747-1-dfa15264b03549839f5145eaa099abb2.jpg)
+
+ Lifewire / Emily Ramirez
+
+ What We Like
+
+* Has a speaker and microphone
+* Has heart rate monitor
+* Easy to read screen
+
+ What We Don't Like
+
+* Bulky and awkward-looking
+* Compatibility issues with Android
+* Limited features
+
+ The Beantech Bitwatch S1 Plus has a lot of essential features and a great price tag, but it’s not the supreme budget option, either.
+
+[View On Amazon](https://www.amazon.com/Bit-Android-phones-Storage-leather/dp/B071VZMBH9/?tag=lifewire-onsite-prod-20&ascsubtag=4773105%7Cn9405fb50cb804e70a7f30ec502e40d9b21%7CB071VZMBH9)
+
+4
+
+## Beantech Bitwatch S1 Plus
+
+![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/RIxQYWLMnyHkO9IcguCoRX11EbY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_4LW4157747-1-dfa15264b03549839f5145eaa099abb2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+
+ Lifewire / Emily Ramirez
+
+[View On Amazon](https://www.amazon.com/Bit-Android-phones-Storage-leather/dp/B071VZMBH9/?tag=lifewire-onsite-prod-20&ascsubtag=4773105%7Cn9405fb50cb804e70a7f30ec502e40d9b21%7CB071VZMBH9)
+
+ in this article
+
+ Expand
+
+* [Design and Software](https://www.lifewire.com/#toc-design-and-software-a-surprising-amount-of-features-in-this-chunky-watch)
+* [Setup Process](https://www.lifewire.com/#toc-setup-process-easy-but-unexplained)
+* [Performance](https://www.lifewire.com/#toc-performance-you-get-what-you-pay-for)
+* [Battery](https://www.lifewire.com/#toc-battery-it-last-longer-than-most-flagship-smartwatches)
+* [Price](https://www.lifewire.com/#toc-price-reasonable-but-worth-paying-more)
+* [Competition](https://www.lifewire.com/#toc-competition-if-you-want-more-it-will-cost-more)
+* [Final Verdict](https://www.lifewire.com/#toc-final-verdict)
+* [Specs](https://www.lifewire.com/#toc-full-spec)
+
+ _We purchased the Beantech Bitwatch S1 Plus so our expert reviewer could thoroughly test and assess it. Keep reading for our full product review._
+
+ The Beantech Bitwatch S1 Plus is an interesting proposition. For only $50, it promises to provide heart rate monitoring, music storage, call management, voice control, and remote notifications. For the most part, it delivers. The Bitwatch has its share of design flaws, such as a poorly fitted watch strap and an iOS-only voice app, but it performs enough to be a reasonable consideration for those looking for their first smartwatch.
+
+![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/8rMhc1Lk5yFRFW4Zlt2K9cmPdFo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4157747-4-01d7e5ff51aa47008d803513064f4a7a.jpg)
+
+ Lifewire / Emily Ramirez
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Design and Software: A surprising amount of features in this chunky watch**
+
+ The most outstanding feature of the Bitwatch’s design is its chunkiness. For those with small wrists, this smartwatch looks ridiculous. Furthermore, the included bands are too small in comparison to the watch, giving the overall design a cheap feel. When you wear this watch, you will notice it weighing your wrists down, taunting you to take it off. But as ugly as the Bitwatch is, it is a functional little watch. It has a power button and volume buttons, as well as a strong vibration motor. Its touchscreen works without a problem, and the app layout is intuitive to understand.
+
+ The 2-inch IPS panel is bright and easy to read, although not the highest resolution (240 x 240). When you scroll through the Bitwatch’s apps, it’s apparent that it heavily favors Apple devices: there is a Siri app integration, but this will not work with Android devices. Its other apps are a phonebook, call log, dialer, messaging, remote notifier, “anti-theft” (Find My Phone), alarm, calendar, music storage and playback, remote capture, pedometer, sleep monitor, sedentary reminder, heart rate monitor, sound recorder, stopwatch, and calculator. It’s a fairly thorough collection of applications for a watch that doesn’t support third-party apps.
+
+ The 2-inch IPS panel is bright and easy to read, although not the highest resolution (240 x 240).
+
+ While it doesn’t have[NFC](https://www.lifewire.com/what-is-nfc-832715) or GPS, it does have a speaker, and you can send basic messages with the watch. The Bitwatch S1 is surprisingly robust for those who want to dip their toes into the smartwatch experience, with many of the features that mid-tier smartwatches possess.
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Setup Process: Easy, but unexplained**
+
+ Setting up the Bitwatch works as you’d expect. Pair it via the Bluetooth on your phone and download the Beantech app. It works with both Android and iOS, so you should have no difficulty. Alerts will show up in the remote notifier app, and apps such as the calendar are not synced with your phone’s calendar apps, so keep that in mind if you’d like to add any events, notifications, or alarms to your watch.
+
+![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/O7xHfA9sKsBdC0nmqNXbFky-Dm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4157747-2-3b838f1124184bbd9452b79bb8449c2b.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+
+ Lifewire / Emily Ramirez
+
+## **Performance: You get what you pay for**
+
+ The Bitwatch’s low price tag shows in its performance, unfortunately. The Siri app is just that: it interfaces with Siri, meaning that voice commands are iOS-exclusive. Notification handling on the device can get confusing also. You find notifications in the Remote Notifier app, and dismissing them on the Bitwatch does not dismiss them on your phone.
+
+ You get reliable notifications and a passable heart rate monitor, as well as some basic functions like alarms and a speaker.
+
+ However, notifications do sync almost instantly from your phone to the Bitwatch, and its heart rate monitor is fairly accurate when measuring a resting heart rate. The pedometer isn’t the best thought, often falling within a range of a hundred steps of the true value.
+
+ If you’d like to listen to calls or music through the speaker, you will miss a lot of information— think of those jingles they play when you’re on hold for a phone call. At least the screen is big and easy to read, and the notifications_do_ work. It’s good enough for someone that wants to get a feel to a smartwatch experience, but there are better options for a little more money if you can afford it.
+
+![Beantech Bitwatch S1 Plus Smartwatch](https://www.lifewire.com/thmb/7GtX2IU-w4sJA-BTqQtHQThxaJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4LW4157747-3-ade31135cd9d4fe0b6b01286941d2652.jpg)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Lifewire / Emily Ramirez
+
+## **Battery: It last longer than most flagship smartwatches**
+
+ The battery life on the Bitwatch is excellent. With regular usage (GPS, heart rate, Bluetooth all on), we got between two and three days of use before we had to recharge. Charging is a little annoying, though, since it uses a snapping charger base that’s difficult to remove.
+
+## **Price: Reasonable, but worth paying more**
+
+ The Bitwatch costs about $50, which is reasonable for its features and performance. You get reliable notifications and a passable heart rate monitor, as well as some basic functions like alarms and a speaker. If you want a cheap smartwatch, then the Bitwatch isn’t a bad pick, but $30 more can get you GPS and smarter notifications. If you are after a solid fitness tracker, both Garmin and[Fitbit](https://www.lifewire.com/what-is-fitbit-4176010) have[fantastic wearables](https://www.lifewire.com/phone-accessory-reviews-4102587) for under $100.
+
+ The Beantech Bitwatch is not a groundbreaking smartwatch, but it provides a lot of essential features for $50.
+
+## **Competition: If you want more, it will cost more**
+
+ For a budget smartwatch, the Bitwatch packs a lot of features. However, it suffers in reliability and style, which may turn users off from the smartwatch market altogether. For a little more money, you can get the Amazfit Bip_,_ a sleek smartwatch from Huami that has a thirty-day battery life, fitness tracking, onboard GPS, and notifications. If you’re looking to get something very cheap to try out the smartwatch lifestyle, you should also look at the Padgene DZ09 Smart Watch, which is only $15 and has a lot of the features on the Bitwatch.
+
+[Amazfit Bip Review](https://www.lifewire.com/amazfit-bip-review-4773112)
+
+ Final Verdict
+
+ **An ultra-budget smartwatch that covers the basics.**
+
+ The Beantech Bitwatch is not a groundbreaking smartwatch, but it provides a lot of essential features for $50\. If you’re looking to try out smartwatches, the Bitwatch will give you a solid battery life, music storage, passive notifications, phone call management, and a very large touchscreen.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Specs
+
+* Product Name  Bitwatch S1 Plus
+* Product Brand  Beantech
+* MPN  B071VZMBH9
+* Price  $59.99
+* Product Dimensions  1.97 x 1.61 x 0.54 in.
+* Compatibility  iOS, Android
+* Platform  Bitwatch App
+* Storage  8GB
+* Camera  Yes
+* Battery Capacity  Unknown; 2 days in field testing
+* Waterproof  No
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-precision-and-power-players-top-5-martial-arts-rpgs/"><u>[New] 2024 Approved  Precision & Power Players  Top 5 Martial Arts RPGs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-which-should-you-use-obs-studio-or-bandicam/"><u>[New] Which Should You Use, OBS Studio or Bandicam?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-comprehensive-insight-into-simple-high-dynamic-range-capture/"><u>[Updated] Comprehensive Insight Into Simple High-Dynamic Range Capture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-snapchats-call-feature-in-three-steps-for-2024/"><u>[Updated] Navigating Snapchat's Call Feature in Three Steps for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-5-low-cost-solar-panels-powering-your-tech/"><u>[Updated] Top 5 Low-Cost Solar Panels  Powering Your Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-captioning-for-success-instagram-videos-edition/"><u>2024 Approved  Captioning for Success  Instagram Videos Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-insiders-look-at-instagram-viewership-metrics/"><u>2024 Approved  Insider's Look at Instagram Viewership Metrics</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-sony-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/essential-info-for-tweeting-videos-aspect-ratios-required-for-2024/"><u>Essential Info for Tweeting Videos  Aspect Ratios Required for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-heart-of-srt-in-depth/"><u>In 2024, Exploring the Heart of SRT in Depth</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-s23plus-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-magic-5-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic 5 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-in-this-article-you-will-find-ten-of-the-best-and-most-trusted-video-editing-applications-that-do-support-4k-videos-including-both-free-4k-and-p/"><u>New In 2024, In This Article, You Will Find Ten of the Best and Most Trusted Video Editing Applications that Do Support 4K Videos, Including Both Free 4K and Paid 4K Video Editing Software for You to Choose</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-low-cost-filmmaking-essentials-7-must-know-software-2023-update/"><u>New In 2024, Low-Cost Filmmaking Essentials 7 Must-Know Software 2023 Update</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-troubleshooting-tips-for-final-cut-pro-x/"><u>New In 2024, Troubleshooting Tips for Final Cut Pro X</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-7-video-joiners-with-no-watermark-or-logo/"><u>New Top 7 Video Joiners with No Watermark or Logo</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unlock-your-creativity-how-to-edit-mp4-videos-on-mac-and-windows-computers/"><u>New Unlock Your Creativity How to Edit MP4 Videos on Mac and Windows Computers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-vlog-like-a-pro-10-essential-editing-apps-for-mobile-devices-for-2024/"><u>New Vlog Like a Pro 10 Essential Editing Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rx-570-graphics-enhancement-optimized-drivers-download-options/"><u>RX 570 Graphics Enhancement: Optimized Drivers Download Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/seasonal-steal-wondershare-filmora-coupon-code-valid-in-march-2024/"><u>Seasonal Steal Wondershare Filmora Coupon Code - Valid in March 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-animation-drawing-7-essential-tools-for-2024/"><u>The Ultimate Guide to Animation Drawing 7 Essential Tools for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-of-free-online-face-creators/"><u>The Ultimate List of Free Online Face Creators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-6-free-online-video-mergers-for-2024/"><u>Top 6 Free Online Video Mergers for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-hop-into-savings-wondershare-filmora-easter-discount-code-limited-time-offer/"><u>Updated 2024 Approved Hop Into Savings Wondershare Filmora Easter Discount Code - Limited Time Offer</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-macos-video-editing-made-easy-introducing-ezvid-slideshow-software/"><u>Updated 2024 Approved MacOS Video Editing Made Easy Introducing Ezvid Slideshow Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-epic-trailers-top-movie-maker-software-for-mac-and-pc/"><u>Updated Create Epic Trailers Top Movie Maker Software for Mac and PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-gopro-video-editing-software-for-pc-quik-and-its-competitors/"><u>Updated GoPro Video Editing Software for PC Quik and Its Competitors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-edit-videos-for-free-top-software-for-32-bit-windows-systems/"><u>Updated In 2024, Edit Videos for Free Top Software for 32-Bit Windows Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-online-video-editing-solutions-for-vertical-storytelling/"><u>Updated In 2024, Online Video Editing Solutions for Vertical Storytelling</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-time-warp-unlocking-freeze-frames-and-slow-motion-in-fcpx/"><u>Updated In 2024, Time Warp Unlocking Freeze Frames and Slow Motion in FCPX</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-maintain-anonymity-face-blurring-features-in-leading-video-editors-for-2024/"><u>Updated Maintain Anonymity Face Blurring Features in Leading Video Editors for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-make-it-a-valentines-day-to-remember-diy-video-ideas-for-your-loved-one/"><u>Updated Make It a Valentines Day to Remember DIY Video Ideas for Your Loved One</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-no-watermark-no-cost-top-10-online-video-editors/"><u>Updated No Watermark, No Cost Top 10 Online Video Editors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-the-best-3d-video-production-tools-you-must-use/"><u>Updated The Best of the Best 3D Video Production Tools You Must Use</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-web-based-video-editors-for-chromebook-users-for-2024/"><u>Updated The Best Web-Based Video Editors for Chromebook Users for 2024</u></a></li>
+</ul></div>
