@@ -1,0 +1,222 @@
+---
+title: "Guide: Fixing the Dilemma of Nonfunctional Audio Output on a Windows Device"
+date: 2024-08-21T14:49:19.704Z
+updated: 2024-08-22T14:49:19.704Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - SoundIssues
+description: "This Article Describes Guide: Fixing the Dilemma of Nonfunctional Audio Output on a Windows Device"
+excerpt: "This Article Describes Guide: Fixing the Dilemma of Nonfunctional Audio Output on a Windows Device"
+thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a90b0cd758e49ef9cfc3066d.jpg
+---
+
+## Troubleshooting the Non-Functional Onikuma Headset Mic - Solution Found
+
+If you’re experiencing Onikuma headset mic not working, you’re not alone. This is a common issue reported by many users, but don’t worry. After reading this post, you’ll learn 4 quick & easy fixes to get your headset mic back to working.
+
+## Here are the fixes
+
+ You don’t need to try them all. Simply work your way down the list until you find the one that does the trick.
+
+1. **[Run the audio troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Check the privacy settings](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Set your Onikuma mic as the default device](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your audio driver](https://tools.techidaily.com/drivereasy/download/)**
+
+ Before performing the fixes below, you should do some basic checks to rule out the hardware problems and connection failures.
+
+* The loose connection will prevent your microphone from working. Try**replugging your Onikuma headset** to PC securely and firmly and also**testing a different audio jack** .
+* **Use the microphone on another computer** to confirm it’s not physically damaged.
+* **Check the mute switches** on your microphone and make sure it’s disabled.
+
+### Fix 1 – Run the audio troubleshooter
+
+ Windows offers a set of troubleshooters to help you with the device glitches. So if something goes wrong with your Onikuma headset mic, you can start with this easy tool to detect the potential causes.
+
+1. Type**troubleshoot** in the Windows search box and select**Troubleshooting settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-1.jpg)
+2. Scroll down to**Recording Audio** . Then select it and click**Run the troubleshooter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
+
+ Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
+
+### Fix 2 – Check the privacy settings
+
+ To ensure your Onikuma headset mic functions as intended, you should allow the system and applications to access it. You can adjust the setup in your privacy settings.
+
+1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Windows Settings menu.
+2. Select**Privacy** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-2.jpg)
+3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
+4. **Toggle on the button** below Allow apps to access your microphone.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
+5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
+
+ Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
+
+### Fix 3 – Set your Onikuma mic as the default device
+
+ If there are multiple microphone inputs on your computer, the Onikuma headset mic might not be used properly until you set it as the default device. Here’s how:
+
+1. In the Windows search box, type**control** and select**Control Panel** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-3.jpg)
+2. Select**Small icons** next to View by and click**Sound** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
+3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+ If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
+4. Right-click the microphone again and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
+5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
+
+ If this method doesn’t help either, move on to the next fix to check your audio driver.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+### Fix 4 – Update your audio driver
+
+ If the audio driver is faulty or outdated, your Onikuma headset may constantly act up and the mic isn’t working. To keep your gaming headset up and running at all times, you should update the audio driver on a regular basis.
+
+ There are mainly two ways you can update your audio driver:**manually** or**automatically** .
+
+#### Option 1 – Download and install the driver manually
+
+ You can find the most recent correct driver on the website of your headset or computer manufacturer. Then download the one that is compatible with your Windows version.
+
+ Once you’ve downloaded the correct driver for your system, double-click the downloaded file and follow the on-screen instructions to install it.
+
+#### Option 2 – Automatically update your audio driver (recommended)
+
+ If you don’t have the time, patience or computer skills to update the audio driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  it takes just 2 clicks:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating all the available drivers, you’ll find the performance of your devices largely improves.
+
+---
+
+ Hopefully one of the fixes above resolves your Onikuma headset mic not working issue. If you have further questions or suggestions, feel free to leave a comment below and we’ll be glad to help.
+
+* [microphone](https://tools.techidaily.com/drivereasy/download/)
+* [sound problem](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-excellent-free-webcam-video-snapper-app/"><u>[New] 2024 Approved  Excellent Free Webcam Video Snapper App</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-in-stream-fb-ad-configurations-and-impact-assessment/"><u>[New] 2024 Approved  Mastering In-Stream FB Ad Configurations & Impact Assessment</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-design-dynamics-top-20-font-choices-for-youtube-success-for-2024/"><u>[New] Design Dynamics  Top 20 Font Choices for YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-live-audience-score-keeper-apps/"><u>[New] Live Audience Score Keeper Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-quintessential-10-fight-royale-games-for-2024/"><u>[New] Quintessential 10 Fight Royale Games for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-beyond-zoom-the-intricacies-of-iphone-xs-lens-tech/"><u>2024 Approved  Beyond Zoom  The Intricacies of iPhone X's Lens Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-craft-of-background-image-acquisition/"><u>2024 Approved  Mastering the Craft of Background Image Acquisition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-quick-engagement-techniques-for-zooms-camera-shots/"><u>2024 Approved  Quick Engagement Techniques for Zoom’s Camera Shots</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/communicate-research-findings/"><u>Communicate Research Findings</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-breaking-free-from-g/"><u>New In 2024, Breaking Free From G</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-how-to-reverse-a-video-in-final-cut-pro/"><u>New In 2024, How to Reverse A Video in Final Cut Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-loop-it-10-best-free-online-video-looping-software-this-year/"><u>New In 2024, Loop It! 10 Best Free Online Video Looping Software This Year</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-make-unforgettable-moments-top-video-collage-apps-for-ios/"><u>New In 2024, Make Unforgettable Moments Top Video Collage Apps for iOS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-pro-grade-video-editor-unleash-the-potential-of-your-everyday-videos/"><u>New In 2024, Pro-Grade Video Editor Unleash the Potential of Your Everyday Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unleash-your-creativity-top-10-free-quicktime-mov-editors/"><u>New In 2024, Unleash Your Creativity Top 10 Free QuickTime MOV Editors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mastering-video-editing-in-os-x-mavericks-a-comprehensive-guide/"><u>New Mastering Video Editing in OS X Mavericks A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-powerdirector-competitors-best-mobile-video-editors-for-android-and-ios/"><u>New PowerDirector Competitors Best Mobile Video Editors for Android & iOS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-quicktime-video-editing-made-easy-top-10-free-tools/"><u>New QuickTime Video Editing Made Easy Top 10 Free Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-time-lapse-video-editing-software-roundup/"><u>New The Ultimate Time-Lapse Video Editing Software Roundup</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unlock-creative-possibilities-top-text-animation-apps-for-mobile-devices-for-2024/"><u>New Unlock Creative Possibilities Top Text Animation Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-vllo-mac-download-plus-top-alternative-choices/"><u>New VLLO Mac Download Plus, Top Alternative Choices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/produce-professional-looking-videos-with-fcpx-stabilization-tools-for-2024/"><u>Produce Professional-Looking Videos with FCPX Stabilization Tools for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/split-screen-merge-creativity-top-video-editing-apps-for-mobile-devices/"><u>Split Screen, Merge Creativity Top Video Editing Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-fcpx-freebie-list-10-best-plugins-for-2024/"><u>The Ultimate FCPX Freebie List 10 Best Plugins for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-free-green-screen-apps-for-android-and-ios-for-2024/"><u>The Ultimate Guide to Free Green Screen Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-xbox-one-elite-series-2-gamepad-assessment-a-must-have-for-gamers/"><u>Top Xbox One Elite Series 2 Gamepad Assessment - A Must-Have for Gamers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unlock-fcps-full-potential-5-expert-editing-tips-you-need-to-know-for-2024/"><u>Unlock FCPs Full Potential 5 Expert Editing Tips You Need to Know for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-10-free-mp4-video-editing-software-picks-for-2024/"><u>Updated 10 Free MP4 Video Editing Software Picks for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-cheap-video-editing-software/"><u>Updated 2024 Approved Best Cheap Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-cut-and-split-wmv-videos-for-free-top-software-picks/"><u>Updated 2024 Approved Cut and Split WMV Videos for Free Top Software Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-in-this-article-we-will-introduce-how-to-make-a-time-lapse-video-with-photos-and-videos-with-one-of-the-best-time-lapse-software-filmo/"><u>Updated 2024 Approved In This Article, We Will Introduce How to Make a Time Lapse Video with Photos and Videos with One of the Best Time Lapse Software Filmora in Details</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-replace-sony-vegas-discover-the-best-video-editing-software-for-windows/"><u>Updated 2024 Approved Replace Sony Vegas Discover the Best Video Editing Software for Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-fcp-voice-over-guide-tips-tricks-and-best-practices/"><u>Updated 2024 Approved The Ultimate FCP Voice Over Guide Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-list-of-mac-video-metadata-editors-top-picks/"><u>Updated 2024 Approved The Ultimate List of Mac Video Metadata Editors Top Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-rated-online-tools-for-converting-images-to-videos/"><u>Updated 2024 Approved Top-Rated Online Tools for Converting Images to Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-fake-face-makers-the-ultimate-online-collection/"><u>Updated Free Fake Face Makers The Ultimate Online Collection</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-animation-powerhouses-top-8-software-for-mac-and-windows-creators/"><u>Updated In 2024, Animation Powerhouses Top 8 Software for Mac and Windows Creators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-best-pinnacle-studio-alternatives-on-mac/"><u>Updated In 2024, Best Pinnacle Studio Alternatives on Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-editstudio-for-macos/"><u>Updated In 2024, EditStudio for macOS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-get-your-plugins-back-on-track-fcpx-troubleshooting-tips/"><u>Updated In 2024, Get Your Plugins Back on Track FCPX Troubleshooting Tips</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-make-me-laugh-top-10-meme-generation-apps-for-mobile-devices/"><u>Updated Make Me Laugh Top 10 Meme Generation Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-must-have-3d-video-maker-tools-for-stunning-visuals/"><u>Updated Must-Have 3D Video Maker Tools for Stunning Visuals</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-no-cost-split-screen-video-creators-web-based-and-downloadable-options/"><u>Updated No-Cost Split Screen Video Creators Web-Based and Downloadable Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-s-top-free-cctv-software-for-home-and-business-security-for-2024/"><u>Updated S Top Free CCTV Software for Home and Business Security for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-s-top-rated-free-flv-video-editing-tools/"><u>Updated S Top-Rated Free FLV Video Editing Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-10-online-video-rotators-for-perfect-orientation-for-2024/"><u>Updated The Ultimate List 10 Online Video Rotators for Perfect Orientation for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-showdown-adobe-premiere-vs-after-effects-for-video-creators/"><u>Updated The Ultimate Showdown Adobe Premiere vs After Effects for Video Creators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-video-to-live-photo-best-apps-and-step-by-step-guides-for-2024/"><u>Updated Video to Live Photo Best Apps and Step-by-Step Guides for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/video-to-live-photo-conversion-made-easy-top-tools-and-how-tos/"><u>Video to Live Photo Conversion Made Easy Top Tools and How-Tos</u></a></li>
+</ul></div>

@@ -1,0 +1,524 @@
+---
+title: "A Comprehvehicle Guide: Resolving Phasmophobia VR Performance Issues"
+date: 2024-08-21T14:42:27.313Z
+updated: 2024-08-22T14:42:27.313Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes A Comprehvehicle Guide: Resolving Phasmophobia VR Performance Issues"
+excerpt: "This Article Describes A Comprehvehicle Guide: Resolving Phasmophobia VR Performance Issues"
+thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a185630128709ac4ffbfcbd9f4ba557fefe.jpg
+---
+
+## Expert Guide: Resolving Stellaris Game Crashes Once and For All
+
+Stellaris might crash or stop responding unexpectedly for various reasons, such as low RAM, software conflicts, driver issues, improper settings, corrupted game files, etc. The solutions here can help rule out some common causes of Stellaris crash. Check it out.
+
+## Fixes to try
+
+ You may not have to try them all, just work your way down the list until you find the one that works for you.
+
+1. **[Run Stellaris as an administrator](https://tools.techidaily.com/drivereasy/download/)**
+2. [**Update your**](https://tools.techidaily.com/drivereasy/download/) **[graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Check the DEP setting](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Run your game on compatibility modes](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+8. **[Perform a clean reboot](https://tools.techidaily.com/drivereasy/download/)**
+9. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Run Stellaris as an administrator
+
+ To ensure Stellaris has full access to game files and folder on your computer, you should run the game and game launcher as as administrator. Follow the instruction below:
+
+**1)** Right-click**Steam** on your desktop and select**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-05-49.jpg)
+
+**2)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-07-52.jpg)
+
+**3)** Click**Apply > OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-07-52-1.jpg)
+
+**4)** Right-click**Stellaris** , then select**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-02-45.jpg)
+
+**5)** Click the**Compatibility tab** , then check**Run this program as an administrator** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-07-45.jpg)
+
+**6)** Click**Apply** , then**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-07-45-1.jpg)
+
+**7)** Relaunch your game to test your issue.
+
+If the crashing issue continues to occur, move on to the fix below.
+
+### Fix 2: Update your graphics driver
+
+ You may encounter the Stellaris crashing issue when you are using the wrong graphics driver or it’s out of date. When something goes wrong with your game, try updating your graphics driver to see if it fixes your problem. There are two ways you can do this:
+
+**Manual driver update** – You can update your graphics driver manually by going to the manufacturer’s website for your graphics product, and searching for the most recent correct driver. Be sure to choose only driver that is compatible with your Windows version.
+
+**Automatic driver update** – If you don’t have the time, patience or computer skills to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your graphics product, and your Windows version, and it will download and install them correctly:
+
+ **1)[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+**2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-41-25.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+**3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-42-53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+ You can do it for free if you like, but it’s partly manual.
+
+ If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+### Fix 3: Verify the integrity of your game files
+
+ You may run into the Stellaris crashing issue when certain game files are corrupted or missing. If you’re playing the game on Steam, try verifying the integrity of your game files. Here is how:
+
+**1)** Run Steam.
+
+**2)** Click **LIBRARY** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42-1.jpg)
+
+**3)** Right-click**Stellaris** and select**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+**4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
+
+ This could take several minutes. Wait for the process to be complete.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ Relaunch your game to see if this has resolved your issue. If no, try the fix below.
+
+### Fix 4: Disable fullscreen optimizations
+
+ If you’re on Windows 10, try disabling fullscreen optimizations for your game. Follow the instructions below:
+
+**1)** Right-click**Stellaris** , then select**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-02-45.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+**5)** Click the**Compatibility tab** , then check**Disable fullscreen optimizations** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_12-04-04-1.jpg)
+
+**6)** Click**Apply** , then**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_12-04-04-2.jpg)
+
+ Relaunch your game to see if it runs correctly now. If your issue still exists, try the fix below.
+
+### Fix 5: Check the DEP setting
+
+ Data Execution Prevention is a Windows feature that monitors your programs to make sure they use system memory safely. It can shut down a program automatically when the program is identified as malicious. So, you may run into the crashing issue when DEP blocks your game.
+
+ To see if that’s the problem for you, follow the instructions below to check your DEP setting:
+
+**1)** On your keyboard, press the**Windows logo key** and**E** at the same time.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-22-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+**2)** Right-click**This PC** , then click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-21-20.jpg)
+
+**3)** Click**Advanced system settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-16-53.jpg)
+
+**3)** Under Performance, click**Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-23-40.jpg)
+
+**4)** Click the**Data Execution Prevention tab** , then check the DEP setting is set to**Turn on DEP for essential Windows programs and services only** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-25-13.jpg)
+
+**6)** Click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_11-25-13-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**7)** Relaunch your game to see if this worked for you.
+
+If the game is still unplayable, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### Fix 6:**Run your game on compatibility modes**
+
+ Some Windows updates may not be compatible with Stellaris_,_ causing it to crash constantly.**If you’re on Windows 8 or 10** , try running your game in compatibility mode to see if it can fix your problem. If you’re on Windows 7, skip this method and check**Fix 7** below.
+
+**1)** Right-click Stellaris, then select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-11_18-02-45-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+**2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-24-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)**  Click the list box below to select **Windows 7** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-24-11-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+**4)** Click **Apply** \>**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-24-11-2.jpg)
+
+**5)**  Relaunch your game to check if your issue had been resolved.
+
+If your issue still exists, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+### Fix 7:**Check for Windows updates**
+
+ Windows releases regular updates to fix bugs. If Stellaris has run previously, but is not running now, it’s probable that a recent update has stopped your game from running properly, and that a new update is required to fix it. To check if there is any update, follow the instructions below:
+
+**1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-07-57.jpg)
+
+**2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-08-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Restart your computer and your game. If your issue still exists, try the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 8:**Perform a clean reboot**
+
+ Your game may crash because of interference from certain services or programs running on your computer. To see if that’s the problem for you, try performing a clean boot. Here is how:
+
+#### If you’re on Windows 7…
+
+**1)**  On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-36-45.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+**2)**  Type **msconfig** . Then, on your keyboard, press the **Enter, Shift**  and **Ctrl**  keys at the same time to run System configuration as administrator.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-36-55.jpg)
+
+**3)** Uncheck the box next to **Load startup items** . Then click **Apply** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-37-03.jpg)
+
+**4)** Click the **Services tab,** and then check the box next to **Hide all Microsoft services** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-37-12.jpg)
+
+**5)** Click **Disable all** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-37-23.jpg)
+
+**6)** Click **Apply** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-37-32.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**7)**  Click the **Startup tab.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-37-43.jpg)
+
+**8)**  Uncheck the box next to the program that you want to prevent it from auto-launching, and then click **OK** .
+
+ Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-38-04.jpg)
+
+**9)** Click **Restart** and wait for your computer to restart.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-38-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**10)** After your computer restarts, relaunch your game to test your issue.
+
+**If your game runs correctly** , that means one of the services or programs on your PC conflicts with your game.
+
+ To narrow down the problematic service or program, repeat**steps 1-4** , then disabled the upper half of the services (the lower half of the services being enabled). Next, restart your PC to see if the game runs properly. If the issue reappears, then the problematic service is among the lower half of the services – you can then follow the same logic and focus on the lower half of the services until you isolate the one that causes the error.
+
+ Once you’ve identified the problematic service, you can contact the game developer for assistance, or just run Stellaris with the service disabled.
+
+**If your game still crashes after clean boot troubleshooting** , you should first **[reset your computer to start normally](https://tools.techidaily.com/drivereasy/download/)**  .
+
+#### If you’re on Windows 10…
+
+**1)**  On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-02-50.jpg)
+
+**2)**  Type **msconfig** . Then, on your keyboard, press the **Enter, Shift**  and **Ctrl**  keys at the same time (to run System configuration as administrator).
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-02-55.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+**3)** Uncheck the box next to **Load startup items** . Then click **Apply** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-02-59.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+**4)** Click the **Services tab,** and then check the box next to **Hide all Microsoft services** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-03-04.jpg)
+
+**5)** Click **Disable all** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-03-08.jpg)
+
+**6)** Click **Apply** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-03-12.jpg)
+
+**7)**  Click the **Startup tab** , then click **Open Task Manager** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-03-16.jpg)
+
+**8)** Right-click the program you want to prevent it from auto-launching and select **Disable** .
+
+ Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-04-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+**9)**  Restart your computer and check if this resolved your problem.
+
+**If your game runs correctly** , that means one of the services or programs on your PC conflicts with your game.
+
+ To narrow down the problematic service or program, repeat**steps 1-4** , then disabled the upper half of the services and enable the lower half. Next, restart your PC to see if the game runs properly. If the issue reappears, then the problematic service is among the lower half of the services – you can then follow the same logic and focus on the lower half of the services until you isolate the one that causes the error.
+
+ Once you’ve identified the problematic service, you can contact the game developer for assistance, or just run Stellaris with the service disabled.
+
+**If your game still crashes after clean boot troubleshooting** , you should first reset your computer to start normally. Follow the instructions below:
+
+#### Reset your computer to start normally
+
+**1)**  On your keyboard, press the **Windows logo key** and **R** at the same time.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-02-50-1.jpg)
+
+**2)**  Type **msconfig**  and click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-09-50.jpg)
+
+**3)** Click the button next to **Normal startup,**  and then click **Apply** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-10-24.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)**  Click the **Services tab** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-10-33.jpg)
+
+**5)**  Click **Enable all,** then click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-10-39.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
+**6)**  Click **Restart** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_15-10-44.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Your computer will start normally after you finish this step. If your issue persists, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 9:**Reinstall Steam**
+
+ If none of the fixes above worked for you, reinstalling Steam is very likely the solution to your issue. Here is how to do it:
+
+**1)** Right-click the **Steam icon** and select **Open file location** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-12-09-1.jpg)
+
+**2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-11-41.jpg)
+
+**3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-11-47.jpg)
+
+**4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-11-53.jpg)
+
+**5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-14-53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+ **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
+
+**7)** Right-click the **Steam icon** and select **Open file location** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-12-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+**8)**  Move the backup **steamapps**  folder you create before to your current directory location.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_14-12-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+**9)**  Restart your game to test your problem.
+
+ Hopefully, this article helped in resolving your issue. If you have any questions or suggestions, please feel free to leave a comment below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 7](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 8](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-your-buzz-factor-with-these-3-dynamic-approaches-to-youtube-video-reactions/"><u>[New] 2024 Approved  Boost Your Buzz Factor with These 3 Dynamic Approaches to YouTube Video Reactions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-fbx-the-ultimate-gaming-video-guide-for-2024/"><u>[New] FBX  The Ultimate Gaming Video Guide for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-in-class-skype-recorders-ranked/"><u>[Updated] 2024 Approved  Best-in-Class Skype Recorders Ranked</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-leading-the-pack-2023s-8-facebook-movie-downloads/"><u>[Updated] 2024 Approved  Leading the Pack  2023'S #8 Facebook Movie Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-peek-into-vegaspros-future/"><u>[Updated] A Peek Into VegasPro's Future</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-tools-to-master-voice-manipulation-and-sound-design/"><u>[Updated] Free Tools to Master Voice Manipulation and Sound Design</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-connect-and-use-arduino-with-a-windows-based-computer/"><u>How to Connect and Use Arduino with a Windows-Based Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-v30-lite-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo V30 Lite 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-pop-7-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Pop 7 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-f5-pro-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco F5 Pro 5G FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oneplus-11-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to OnePlus 11 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-smartphones-and-tablets-leading-gb-gameplayers/"><u>In 2024, Smartphones & Tablets  Leading GB Gameplayers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-gt-neo-5-se-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme GT Neo 5 SE without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-recovery-made-easy-steps-to-rebuild-your-device-without-using-itunes/"><u>IPhone Recovery Made Easy: Steps to Rebuild Your Device without Using iTunes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-of-the-best-top-10-free-game-download-websites-for-pc-and-android/"><u>New In 2024, Best of the Best Top 10 Free Game Download Websites for PC and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-capture-your-gaming-moments-3-easy-recording-options/"><u>New In 2024, Capture Your Gaming Moments 3 Easy Recording Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-remove-tiktok-watermarks-with-ease-top-online-solutions/"><u>New In 2024, Remove TikTok Watermarks with Ease Top Online Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-picture-in-picture-made-easy-final-cut-pro-tutorial/"><u>New Picture-in-Picture Made Easy Final Cut Pro Tutorial</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-setting-up-videoleap-on-macbook-download-install-and-start-editing-for-2024/"><u>New Setting Up Videoleap on MacBook Download, Install, and Start Editing for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-16-best-free-avi-video-rotators-windows-mac-android-iphone-an-for-2024/"><u>New Top 16 Best Free AVI Video Rotators Windows, MAC, Android, iPhone, An for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-video-resume-creators-get-started-with-free-templates/"><u>New Top Video Resume Creators Get Started with Free Templates</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-transform-your-video-how-to-adjust-shape-and-size-for-2024/"><u>New Transform Your Video How to Adjust Shape and Size for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-fcpxs-power-the-best-10-plugins-for-video-editing-pros-for-2024/"><u>New Unleash FCPXs Power The Best 10 Plugins for Video Editing Pros for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/night-shots-pro-tips-for-iphone-enthusiasts-for-2024/"><u>Night Shots Pro Tips for iPhone Enthusiasts for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quelling-screen-disruptions-with-effective-fixes/"><u>Quelling Screen Disruptions with Effective Fixes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-5-best-free-m4a-audio-editors-you-need-to-try/"><u>The 5 Best Free M4A Audio Editors You Need to Try</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-best-at-memes-app-version/"><u>The Best at Memes (App Version)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-best-virtualdub-alternatives-for-video-post-production-for-2024/"><u>The Best VirtualDub Alternatives for Video Post-Production for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unleash-your-full-potential-in-tiktok-video-making-with-templates-for-2024/"><u>Unleash Your Full Potential in TikTok Video Making with Templates for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-video-fx-apps-the-ultimate-list-for-ios-and-android/"><u>Updated 2024 Approved Free Video FX Apps The Ultimate List for iOS and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-here-are-the-ten-best-stop-motion-apps-for-ios-and-android-devices-that-enable-you-to-create-awesome-stop-motion-animations/"><u>Updated 2024 Approved Here Are the Ten Best Stop Motion Apps for iOS and Android Devices that Enable You to Create Awesome Stop Motion Animations</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-rated-free-video-editors-for-gamers/"><u>Updated 2024 Approved Top-Rated Free Video Editors for Gamers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-avs-video-editor-a-comprehensive-review-for-2024/"><u>Updated AVS Video Editor A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-cutting-edge-avi-video-editors-top-16-picks-for-trimming-and-cutting-cross-platform/"><u>Updated Cutting-Edge AVI Video Editors Top 16 Picks for Trimming and Cutting Cross-Platform</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-13-editor-download-free-no-subscription-needed/"><u>Updated Filmora 13 Editor Download Free No Subscription Needed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-promo-codes-2024-the-complete-list-of-deals-and-discounts/"><u>Updated Filmora Promo Codes 2024 The Complete List of Deals and Discounts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-best-video-editing-software-for-movie-trailers-on-mac-and-pc/"><u>Updated In 2024, Best Video Editing Software for Movie Trailers on Mac and PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-bokeh-magic-top-rated-apps-for-ios-and-android-phones/"><u>Updated In 2024, Bokeh Magic Top-Rated Apps for iOS and Android Phones</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-guide-to-alternatives-to-gopro-studio-for-video-editing/"><u>Updated In 2024, The Ultimate Guide to Alternatives to GoPro Studio for Video Editing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-video-metadata-editing-on-mac-made-simple-8-top-rated-options/"><u>Updated In 2024, Video Metadata Editing on Mac Made Simple 8 Top-Rated Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-premiere-elements-not-cutting-it-discover-these-10-alternative-video-editors/"><u>Updated Premiere Elements Not Cutting It? Discover These 10 Alternative Video Editors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-vignette-perfection-discover-the-best-apps-for-ios-and-android-for-2024/"><u>Updated Vignette Perfection Discover the Best Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-wevideo-the-ultimate-online-video-creation-solution/"><u>Updated WeVideo The Ultimate Online Video Creation Solution</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/vlog-like-a-pro-10-essential-editing-apps-for-mobile-creators/"><u>Vlog Like a Pro 10 Essential Editing Apps for Mobile Creators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/windows-10-video-editors-the-best-free-and-paid-imovie-alternatives/"><u>Windows 10 Video Editors The Best Free and Paid iMovie Alternatives</u></a></li>
+</ul></div>
