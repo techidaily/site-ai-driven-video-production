@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects
-date: 2024-08-26T04:47:58.118Z
-updated: 2024-08-27T04:47:58.118Z
+date: 2024-09-04T00:06:43.232Z
+updated: 2024-09-05T00:06:43.232Z
 tags: 
   - video editing software
   - video editing
@@ -228,5 +228,8 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
