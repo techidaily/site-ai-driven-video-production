@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Adobe Premiere Tutorial Importing and Exporting Videos Like a Pro
-date: 2024-09-09T02:04:47.195Z
-updated: 2024-09-10T02:04:47.195Z
+date: 2024-09-10T04:29:04.111Z
+updated: 2024-09-14T18:07:51.809Z
 tags: 
   - video editing software
   - video editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -40,12 +34,6 @@ This is a basic tutorial about Adobe Premiere, professional video editing softwa
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Importing
 
 There are two main ways to import media into Premiere, the import command and the media browser. They do things slightly differently and have uses they are both best suited to, here we will look at the process itself and which method to use in a given situation.
@@ -58,18 +46,6 @@ Whichever way you access it, you get the standard for the platform import dialog
 
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This method of importing is best suited to self-contained media such as audio or graphics, or video files such as MP4 that are single files themselves, whose location on your computer you know so you can navigate to them easily. This is not the way to import videos from cameras, as they invariably create complex file and folder arrangements that make choosing the correct files difficult. This is where you would opt for the media browser method instead.
 
 #### 2\.  Media Browser
@@ -108,28 +84,10 @@ Thankfully Premiere caters here as well. Instead of selecting the 'Match Sequenc
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Depending on which format you choose. The preset below will allow you to choose a wide range of output settings to suit the intended platform. For instance, selecting  format brings up a huge number of presets for various Tablets and Phones, but also for Vimeo and YouTube, which is why it is one of the most common output formats. Here's a look at some of the presets available from the menu.
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Once you choose a preset, you can further modify the parameters to suit the project you are working on and even save those as an additional custom preset for later projects should you wish. Again, choosing a suitable file name and clicking Export ends the process.
 
 The other common requirement is for DVD or Blu-Ray files. Whilst you need access to the appropriate hardware to burn the disk, Premiere creates the file structure for that natively and you have two options here. Mpeg2 in either DVD or Blu-Ray form, or  Blu-Ray. With high quality source material, the two formats are virtually indistinguishable in their final format, however, MPEG2 will be much quicker to render and is a good choice for most applications. Although  does allow more content to fit into a given space, so it does have uses. Importing and exporting are the foundation of Premiere use, and as we have shown Premiere makes it very easy to do and produces the right file types for whatever your project is to be used for.
@@ -138,53 +96,11 @@ With the addition of [Wondershare Video Converter Ultimate](https://tools.techid
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-revolutionary-gaming-documentation-beyond-fbx-norms/"><u>[New] Revolutionary Gaming Documentation Beyond FBX Norms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-youtube-short-content-techniques-unveiled-for-2024/"><u>[Updated] Essential YouTube Short Content Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-tech-manual-for-game-screen-recording-win10/"><u>2024 Approved  The Complete Tech Manual for Game Screen Recording Win10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/broadcom-netlink-ethernet-drivers-how-to-download-and-install-on-windows-10/"><u>Broadcom NetLink Ethernet Drivers: How to Download and Install on Windows 10</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-narzo-n55-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-prevent-metro-exodus-from-crashing-on-your-desktop-computer/"><u>How to Prevent Metro Exodus From Crashing on Your Desktop Computer</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-video-editing-software-the-best-options-without-watermarks/"><u>New In 2024, Free Video Editing Software The Best Options Without Watermarks</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-most-acclaimed-windows-based-digital-audio-workstation-daw-list-a-free-and-paid-comparison/"><u>New In 2024, The Most Acclaimed Windows-Based Digital Audio Workstation (DAW) List A Free & Paid Comparison</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-trim-your-videos-for-free-10-best-online-tools-for-2024/"><u>New Trim Your Videos for Free 10 Best Online Tools for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-lava-yuva-3-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Lava Yuva 3</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-windows-update-settings-quickly/"><u>Reviving Windows Update Settings Quickly</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/spring-into-savings-wondershare-filmora-coupon-code-march-2024/"><u>Spring Into Savings Wondershare Filmora Coupon Code - March 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/streamline-your-workflow-40-essential-fcpx-keyboard-shortcuts-for-2024/"><u>Streamline Your Workflow 40 Essential FCPX Keyboard Shortcuts for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-10-best-timecode-calculators-for-film-and-video-pros/"><u>The Ultimate List 10 Best Timecode Calculators for Film and Video Pros</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/unlock-the-power-of-animation-converting-videos-into-cartoons-for-2024/"><u>Unlock the Power of Animation Converting Videos Into Cartoons for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-discover-the-best-free-animation-software-for-windows-mac-and-beyond/"><u>Updated 2024 Approved Discover the Best Free Animation Software for Windows, Mac, and Beyond</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-iphone-and-ipad-video-compression-made-easy-5-free-apps-to-try/"><u>Updated 2024 Approved IPhone and iPad Video Compression Made Easy 5 Free Apps to Try</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-video-editing-made-easy-a-comprehensive-guide-to-windows-movie-maker/"><u>Updated 2024 Approved Video Editing Made Easy A Comprehensive Guide to Windows Movie Maker</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-cloud-based-vertical-video-editing-software-top-picks-2023-for-2024/"><u>Updated Cloud-Based Vertical Video Editing Software Top Picks 2023 for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-forget-reddit-weve-got-you-covered-for-filmora-coupons-for-2024/"><u>Updated Forget Reddit, Weve Got You Covered for Filmora Coupons for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-home-video-pro-on-mac-simplified-slideshow-creation-for-everyone-for-2024/"><u>Updated Home Video Pro on Mac Simplified Slideshow Creation for Everyone for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-arm-support-now-live-upgrade-your-filmora-x-experience/"><u>Updated In 2024, ARM Support Now Live Upgrade Your Filmora X Experience</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mastering-audio-post-production-in-final-cut-pro/"><u>Updated In 2024, Mastering Audio Post-Production in Final Cut Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-art-of-transitions-3-expert-tips-for-final-cut-pro-users/"><u>Updated In 2024, The Art of Transitions 3 Expert Tips for Final Cut Pro Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-timecode-calculator-showdown-the-top-8-tools/"><u>Updated In 2024, Timecode Calculator Showdown The Top 8 Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-vignette-apps-for-mobile-devices-free-and-premium-options/"><u>Updated In 2024, Top Vignette Apps for Mobile Devices Free and Premium Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-transform-your-3gp-videos-top-free-rotation-software-compared/"><u>Updated In 2024, Transform Your 3GP Videos Top Free Rotation Software Compared</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-mastering-image-cropping-in-final-cut-pro-x-2023-edition-for-2024/"><u>Updated Mastering Image Cropping in Final Cut Pro X 2023 Edition for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-say-goodbye-to-watermarks-best-online-tiktok-video-editors/"><u>Updated Say Goodbye to Watermarks Best Online TikTok Video Editors</u></a></li>
-<li><a href="https://win-dash.techidaily.com/xerox-printer-driver-download-for-windows/"><u>Xerox Printer Driver Download for Windows</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -192,3 +108,29 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-free-tools-to-craft-compelling-videos-for-effective-fb-advertising/"><u>[New] In 2024, Free Tools to Craft Compelling Videos for Effective Fb Advertising</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-9-windows-gif-capture-tools-perfect-animation-preservation/"><u>[New] In 2024, Top 9 Windows GIF Capture Tools Perfect Animation Preservation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-hd-mastery-in-action-top-5-screen-recorders-reviewed/"><u>[Updated] In 2024, HD Mastery in Action Top 5 Screen Recorders Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-value-for-vendors-and-viewers-through-youtuber-sponsorship/"><u>2024 Approved Unlocking Value for Vendors and Viewers Through YouTuber Sponsorship</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-sony-xperia-10-v-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Sony Xperia 10 V Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-finding-lost-wi-fi-passwords-the-ultimate-guide-for-windows-11-users/"><u>Master the Art of Finding Lost Wi-Fi Passwords: The Ultimate Guide for Windows 11 Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mastering-mp4-video-editing-a-step-by-step-guide-for-mac-and-windows-users-for-2024/"><u>New Mastering MP4 Video Editing A Step-by-Step Guide for Mac and Windows Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-conversion-with-winx-dvd-ripper-platinum-h2email-protected-hevc-quality-mp4-from-dvd-in-under-5/"><u>Quick Conversion with WinX DVD Ripper Platinum: H.2([email Protected]) HEVC Quality MP4 From DVD in Under 5!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-endless-fun-top-10-free-online-video-loop-generators/"><u>Updated 2024 Approved Endless Fun Top 10 Free Online Video Loop Generators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-best-online-video-spinners-rotate-your-clips-with-ease/"><u>Updated In 2024, Best Online Video Spinners Rotate Your Clips with Ease</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-sony-vegas-not-your-cup-of-tea-discover-top-alternatives-for-windows/"><u>Updated In 2024, Sony Vegas Not Your Cup of Tea? Discover Top Alternatives for Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-take-your-video-creations-to-the-next-level-with-64-bit-editing/"><u>Updated In 2024, Take Your Video Creations to the Next Level with 64-Bit Editing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-the-best-10-animated-text-software-for-pro-results/"><u>Updated The Best of the Best 10 Animated Text Software for Pro Results</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

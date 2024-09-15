@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2024-09-09T02:04:46.835Z
-updated: 2024-09-10T02:04:46.835Z
+date: 2024-09-11T21:59:34.612Z
+updated: 2024-09-15T04:46:20.444Z
 tags: 
   - video editing software
   - video editing
@@ -36,12 +36,6 @@ This tutorial offers only the basics of the audio fading techniques in Apple Fin
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 With this modern and extremely user-friendly tool, you'll find that applying effects like fade-in, fade-out, or crossfade to your audio clips is very easy.
 
 ---
@@ -58,22 +52,10 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
@@ -98,24 +80,12 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -129,55 +99,11 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expert-advice-yt-clip-sharing-using-your-google-id/"><u>[New] 2024 Approved  Expert Advice  YT Clip Sharing Using Your Google ID</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-content-creators-guide-to-thriving-in-a-digital-economy-on-vimeo-for-2024/"><u>[New] Content Creators' Guide to Thriving in a Digital Economy on Vimeo for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-innovative-enhancements-stardew-valleys-top-7-choices/"><u>[Updated] 2024 Approved  Innovative Enhancements  Stardew Valley's Top 7 Choices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-host-a-webinar-on-youtube-for-free/"><u>[Updated] How to Host a Webinar on YouTube for Free</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-make-your-fb-messages-go-global-solve-video-send-issues-iosandroid/"><u>[Updated] How to Make Your FB Messages Go Global  Solve Video Send Issues iOS/Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-assemble-digital-memories-with-picshot-apps/"><u>[Updated] Seamlessly Assemble Digital Memories with Picshot Apps</u></a></li>
-<li><a href="https://facebook.techidaily.com/best-practices-addressing-young-users-on-facebook/"><u>Best Practices: Addressing Young Users on Facebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-reading-experience-in-windows-11-notepad/"><u>Elevate Reading Experience in Windows 11 Notepad</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-print-quality-on-epson-v500-download-updated-driver-software/"><u>Enhance Print Quality on Epson V500 - Download Updated Driver Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/ensure-timely-meals-for-pets-with-petsafes-six-course-automatic-feeder-plan/"><u>Ensure Timely Meals for Pets with PetSafe’s Six-Course Automatic Feeder Plan</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-in-this-article-we-will-introduce-how-to-make-a-time-lapse-video-with-photos-and-videos-with-one-of-the-best-time-lapse-software-filmora-in-deta/"><u>New In 2024, In This Article, We Will Introduce How to Make a Time Lapse Video with Photos and Videos with One of the Best Time Lapse Software Filmora in Details</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unify-your-visuals-how-to-match-colors-across-video-clips-in-final-cut-pro/"><u>New In 2024, Unify Your Visuals How to Match Colors Across Video Clips in Final Cut Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-free-avi-video-rotators-2023-edition-for-2024/"><u>New The Ultimate Guide to Free AVI Video Rotators (2023 Edition) for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/no-cost-video-watermark-solutions-our-top-5-recommendations/"><u>No-Cost Video Watermark Solutions Our Top 5 Recommendations</u></a></li>
-<li><a href="https://games-able.techidaily.com/peak-into-vrs-expensive-ecosystem-exploring-four-factors/"><u>Peak Into VR's Expensive Ecosystem: Exploring Four Factors</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/protect-identities-the-best-face-blur-video-editing-tools/"><u>Protect Identities The Best Face Blur Video Editing Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/snap-your-way-up-quick-instagram-collage-ideas-for-2024/"><u>Snap Your Way Up  Quick Instagram Collage Ideas for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12T Pro FRP</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-tecno-spark-10c-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Tecno Spark 10C without backup.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-spacious-huion-kamvas-gt-191-graphics-tablet-an-elite-review/"><u>Unboxing & Testing the Spacious Huion Kamvas GT-191 Graphics Tablet: An Elite Review</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-10plus-best-video-editing-apps-for-kids/"><u>Updated 10+ Best Video Editing Apps for Kids</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-animation-artists-toolkit-7-best-drawing-software-for-exceptional-results/"><u>Updated 2024 Approved The Animation Artists Toolkit 7 Best Drawing Software for Exceptional Results</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-countdown-magic-mastering-fcpx-timers-in-3-short-steps-for-2024/"><u>Updated Countdown Magic Mastering FCPX Timers in 3 Short Steps for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-unforgettable-home-videos-top-dvd-authoring-software-for-2024/"><u>Updated Create Unforgettable Home Videos Top DVD Authoring Software for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-color-perfect-advanced-color-correction-in-final-cut-pro/"><u>Updated In 2024, Color Perfect Advanced Color Correction in Final Cut Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mkvtoolnix-for-macos-a-beginners-guide-to-video-editing-2023/"><u>Updated In 2024, MKVtoolnix for macOS A Beginners Guide to Video Editing 2023</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-slow-motion-mastery-the-top-10-video-players-you-need/"><u>Updated In 2024, Slow Motion Mastery The Top 10 Video Players You Need</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-rated-dailymotion-video-converter-for-free/"><u>Updated In 2024, Top-Rated Dailymotion Video Converter for Free</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-transform-your-videos-10-best-webm-to-mp4-converters-online/"><u>Updated In 2024, Transform Your Videos 10 Best WebM to MP4 Converters Online</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-mts-video-editing-made-easy-top-5-software-solutions/"><u>Updated MTS Video Editing Made Easy Top 5 Software Solutions</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-animation-toolkit-top-recommendations-for-2024/"><u>Updated The Ultimate Animation Toolkit Top Recommendations for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-best-free-online-video-editing-software-for-2024/"><u>Updated The Ultimate List Best Free Online Video Editing Software for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-of-free-wmv-video-editing-tools-for-2024/"><u>Updated The Ultimate List of Free WMV Video Editing Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-transform-your-video-how-to-adjust-shape-and-size/"><u>Updated Transform Your Video How to Adjust Shape and Size</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -185,3 +111,30 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/rafting-a-successful-online-business-with-youtube-studio-for-2024/"><u>[New] Crafting a Successful Online Business with Youtube Studio for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-discarding-your-windows-11-trail/"><u>Deciphering and Discarding Your Windows 11 Trail</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y100i-power-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y100i Power 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-oneplus-nord-n30-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For OnePlus Nord N30 5G Unlock Without Password</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-frame-by-frame-mastering-video-freeze-frames/"><u>In 2024, Frame by Frame Mastering Video Freeze Frames</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-12-pro-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 12 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-updated-graphics-drivers-on-a-toshiba-satellite-with-windows-os/"><u>Installing Updated Graphics Drivers on a Toshiba Satellite with Windows OS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-final-cut-pro-x-crash-fix-solutions/"><u>New In 2024, Final Cut Pro X Crash Fix Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-transform-your-videos-free-online-video-quality-improvement-tools/"><u>New In 2024, Transform Your Videos Free Online Video Quality Improvement Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-updating-windows-cards-a-comprehensive-guide/"><u>Swiftly Updating Windows Cards: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-producing-polished-professional-looking-videos/"><u>The Ultimate Guide to Producing Polished, Professional-Looking Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-on-a-budget-4-effective-tips-to-grab-discount-codes-for-2024/"><u>Updated Filmora on a Budget 4 Effective Tips to Grab Discount Codes for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-notch-free-video-splitters-our-favorites-for-2024/"><u>Updated Top-Notch Free Video Splitters Our Favorites for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-the-power-of-visual-storytelling-10-best-image-to-video-converters-for-2024/"><u>Updated Unleash the Power of Visual Storytelling 10 Best Image to Video Converters for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

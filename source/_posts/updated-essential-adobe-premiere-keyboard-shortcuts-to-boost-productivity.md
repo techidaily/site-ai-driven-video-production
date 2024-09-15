@@ -1,7 +1,7 @@
 ---
 title: Updated Essential Adobe Premiere Keyboard Shortcuts to Boost Productivity
-date: 2024-09-09T02:04:47.556Z
-updated: 2024-09-10T02:04:47.556Z
+date: 2024-09-13T06:23:19.407Z
+updated: 2024-09-14T23:58:22.776Z
 tags: 
   - video editing software
   - video editing
@@ -32,24 +32,12 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
 
 #### 1Select Window
@@ -89,12 +77,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 4 Timeline Panel
 
  In a similar vein to the Capture Panel, the Timeline Panel has a set of shortcuts specific to all its basic operations, and are essential for a faster workflow.
@@ -117,12 +99,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 5 Navigation within a clip
 
  This one works within the program monitor/timeline or source monitor windows, ensure the desired one is active first of course. You can move to a specific time code within the clip, or go forwards or backwards a set number of frames using the number pad. To go to a specific time code simply type that on the number pad. To travel a set number of frames simply type + or – (to signify direction) and the number of frames.
@@ -153,12 +129,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In addition, turning on looping for this can help to fine tune edits.
 
 #### 9Toggle Audio During Scrubbing
@@ -199,12 +169,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 15Add the default Transition
 
  This option applies the default transition to all selected media. To do this use Shift+D.
@@ -243,44 +207,36 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-leaving-no-trace-on-insta-permanent-deactivation-101/"><u>[New] Leaving No Trace on Insta  Permanent Deactivation 101</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-12-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi 12</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/corsairs-renewed-revival-series-brings-high-quality-cost-effective-peripherals-to-gamers-on-a-budget/"><u>Corsair's Renewed Revival Series Brings High-Quality, Cost-Effective Peripherals to Gamers on a Budget</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-nokia-c12-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Nokia C12 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-axon-40-lite-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock ZTE Axon 40 Lite Phone without Any Data Loss</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Pro Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-g54-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola G54 5G FRP Without Computer</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-swap-faces-like-a-pro-the-best-apps-for-ios-and-android/"><u>New In 2024, Swap Faces Like a Pro The Best Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unleash-your-creativity-the-best-online-stop-motion-animation-studios/"><u>New In 2024, Unleash Your Creativity The Best Online Stop Motion Animation Studios</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-video-on-the-go-how-to-speed-up-playback-in-quicktime-player/"><u>New In 2024, Video on the Go How to Speed Up Playback in QuickTime Player</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-vlc-trimmer-effortlessly-cut-videos-without-compromising-quality-for-2024/"><u>New Mac VLC Trimmer Effortlessly Cut Videos Without Compromising Quality for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-ranking-the-best-avchd-video-editing-software/"><u>New Ranking the Best AVCHD Video Editing Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-replace-pinnacle-studio-on-your-mac-with-these-top-picks/"><u>New Replace Pinnacle Studio on Your Mac with These Top Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/pro-vs-express-which-video-editing-software-reigns-supreme-in-2024/"><u>Pro Vs. Express Which Video Editing Software Reigns Supreme, In 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/reinstate-your-data-the-mac-digital-resurrectioner/"><u>Reinstate Your Data: The Mac Digital Resurrectioner</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-ai-conversational-tools-comparable-to-chatgpt/"><u>Top 10 AI Conversational Tools Comparable to ChatGPT</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleashing-brand-potential-with-essential-phrases-for-2024/"><u>Unleashing Brand Potential with Essential Phrases for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-divide-and-conquer-how-to-split-videos-in-windows-live-movie-maker/"><u>Updated 2024 Approved Divide and Conquer How to Split Videos in Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-here-are-some-of-the-best-glitch-video-editors-on-the-market/"><u>Updated 2024 Approved Here Are some of the Best Glitch Video Editors on the Market</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-best-free-avi-video-rotators-a-comprehensive-review/"><u>Updated 2024 Approved The Best Free AVI Video Rotators A Comprehensive Review</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-guide-to-virtualdub-features-pros-and-cons-plus-top-alternatives/"><u>Updated 2024 Approved The Ultimate Guide to Virtualdub Features, Pros, and Cons, Plus Top Alternatives</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-alternatives-to-gopro-quik-for-pc-video-editing-made-easy/"><u>Updated Alternatives to GoPro Quik for PC Video Editing Made Easy</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-effortless-video-rotation-a-beginners-guide/"><u>Updated Effortless Video Rotation A Beginners Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-crop-resize-and-rotate-mastering-video-shape-editing/"><u>Updated In 2024, Crop, Resize, and Rotate Mastering Video Shape Editing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-get-started-with-fcp-voice-over-expert-advice-for-newbies/"><u>Updated In 2024, Get Started with FCP Voice Over Expert Advice for Newbies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mac-video-maker-effortless-slideshow-creation-in-macos/"><u>Updated In 2024, Mac Video Maker Effortless Slideshow Creation in macOS</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-highlight-reel-creators-desktop-and-mobile-apps/"><u>Updated In 2024, Top Highlight Reel Creators Desktop and Mobile Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-video-resumes-best-makers-and-templates/"><u>Updated The Ultimate Guide to Video Resumes Best Makers and Templates</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-tiktok-watermark-erasers-remove-logos-in-seconds-for-2024/"><u>Updated Top TikTok Watermark Erasers Remove Logos in Seconds for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-video-editing-mastery-a-beginners-guide-to-online-download-and-editing-for-2024/"><u>Updated Video Editing Mastery A Beginners Guide to Online Download and Editing for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-your-cover-videos-pull/"><u>[New] In 2024, Enhancing Your Cover Video's Pull</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-asmr-microphones-impressive-audio-at-economical-costs/"><u>[New] Premium ASMR Microphones Impressive Audio at Economical Costs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-webcams-for-peak-twitch-performance/"><u>[Updated] In 2024, Essential Webcams for Peak Twitch Performance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-blogging-essentials-choosing-the-best-cameras-and-lenses/"><u>[Updated] Video Blogging Essentials Choosing the Best Cameras and Lenses</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-connect-instagram-to-facebook/"><u>2024 Approved How to Connect Instagram to Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-economical-growth-methodology-subscribe-now/"><u>In 2024, Economical Growth Methodology - Subscribe Now</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-video-splitter-and-merger-tools-for-beginners-top-picks-for-2024/"><u>New Free Video Splitter and Merger Tools for Beginners Top Picks for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-breathe-new-life-into-your-mac-how-to-clear-space-for-fcpx-and-more/"><u>New In 2024, Breathe New Life Into Your Mac How to Clear Space for FCPX and More</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-save-time-save-stress-mastering-final-cut-pro-project-saving/"><u>New In 2024, Save Time, Save Stress Mastering Final Cut Pro Project Saving</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-free-video-editing-software-for-rotating-and-flipping-videos/"><u>Updated 2024 Approved Best Free Video Editing Software for Rotating and Flipping Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-mavericks-video-editor-how-to-edit-mp4-files-with-ease/"><u>Updated 2024 Approved Mavericks Video Editor How to Edit MP4 Files with Ease</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-your-creativity-why-final-cut-pro-outshines-express/"><u>Updated 2024 Approved Unleash Your Creativity Why Final Cut Pro Outshines Express</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-freeze-rewind-repeat-fcpx-time-manipulation-mastery/"><u>Updated In 2024, Freeze, Rewind, Repeat FCPX Time Manipulation Mastery</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-split-trim-and-edit-mastering-video-editing-in-windows-live-movie-maker/"><u>Updated Split, Trim, and Edit Mastering Video Editing in Windows Live Movie Maker</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206126371-why-is-my-windows-10-taking-long-to-shut-down-solutions-inside/"><u>Why Is My Windows 10 Taking Long to Shut Down? Solutions Inside</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

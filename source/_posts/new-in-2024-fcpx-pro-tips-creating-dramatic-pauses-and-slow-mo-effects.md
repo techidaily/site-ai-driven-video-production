@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects
-date: 2024-09-09T02:04:48.494Z
-updated: 2024-09-10T02:04:48.494Z
+date: 2024-09-13T19:01:03.905Z
+updated: 2024-09-15T06:03:13.384Z
 tags: 
   - video editing software
   - video editing
@@ -36,40 +36,16 @@ For more tutorials on slow-motion please refer to this article: [Top 10 Slow Mot
 
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
 
 ![freeze frames](https://images.wondershare.com/multimedia/speed002.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This creates a two-second freeze-frame at the position of the playhead.
 
 ![create freeze frame](https://images.wondershare.com/multimedia/speed003.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
 
 ![freeze frames in FCP X](https://images.wondershare.com/multimedia/speed004.jpg)
@@ -106,12 +82,6 @@ Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using e
 
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
@@ -120,28 +90,10 @@ Change the duration of the Hold frame by dragging the small thumb at the right e
 
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
 
 NOTE: Changing the source frame is a feature that I like a LOT!
@@ -150,12 +102,6 @@ NOTE: Changing the source frame is a feature that I like a LOT!
 
 ![fast/slow motion](https://images.wondershare.com/multimedia/speed007.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 We use slow-motion to show events that are too fast for the unaided eye to see. And fast motion to speed up very slow events. Both of these effects use what's called a "constant speed change," where the entire clip changes by the same amount - either faster or slower.
 
 WE create either effect using the same tools, just different values. Here's how.
@@ -168,12 +114,6 @@ Choose one of the available speeds; in this case, 50%. (Yes, you can change this
 
 ![create slow/fast motion](https://images.wondershare.com/multimedia/speed009.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Three things happen at once:
 
 * The duration of the clip changes
@@ -182,12 +122,6 @@ Three things happen at once:
 
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
 There are two ways to change the speed of a clip.
@@ -215,12 +149,6 @@ There is one more setting to consider when slowing a clip. (This does not apply 
 
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
 
 * Normal. This is the best choice for speeds of 50% or faster.
@@ -245,59 +173,11 @@ Whether you want your clips to speed up, slow down or just plain stop, Final Cut
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-screen-guards-protect-your-device-capture-better/"><u>[New] Screen Guards  Protect Your Device, Capture Better</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-streamlining-video-creation-for-snapchat-on-mac/"><u>[Updated] 2024 Approved  Streamlining Video Creation for Snapchat on Mac</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-the-copyright-symphony-of-instagrams-sounds/"><u>[Updated] In 2024, Navigating the Copyright Symphony of Instagram's Sounds</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-step-by-step-framework-for-dimming-sounds-in-lumafusion/"><u>2024 Approved  A Step-by-Step Framework for Dimming Sounds in Lumafusion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-inside-vr-contemporary-insights-and-upcoming-struggles/"><u>2024 Approved  Inside VR  Contemporary Insights & Upcoming Struggles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-unveiling-the-secrets-of-popularity-a-guide-to-15-best-opener-plans/"><u>2024 Approved  Unveiling the Secrets of Popularity  A Guide to 15 Best Opener Plans</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/bose-frames-review/"><u>Bose Frames Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/cant-reach-windows-defender-smartscreen-here-are-some-possible-solutions/"><u>Can't Reach Windows Defender SmartScreen? Here Are Some Possible Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-in-action-the-7-key-areas-of-current-use-you-need-to-know/"><u>ChatGPT in Action: The 7 Key Areas of Current Use You Need to Know</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-v27e-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo V27e to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-free-to-profit-reaching-the-new-500-sub-total/"><u>In 2024, Free to Profit  Reaching the New 500 Sub Total</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-105-classic-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia 105 Classic Phone Screen?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1715859910073-in-2024-pinnacle-playtime-the-greatest-action-adventure-game-lineup-ever/"><u>In 2024, Pinnacle Playtime  The Greatest Action-Adventure Game Lineup Ever!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-power-of-free-countdown-tools-for-time-management/"><u>In 2024, Unveiling the Power of Free Countdown Tools for Time Management</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-regular-videos-to-vr-masterpieces-a-guide-to-the-best-converters/"><u>New In 2024, Regular Videos to VR Masterpieces A Guide to the Best Converters</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-transform-your-memories-video-editing-secrets-for-unforgettable-home-movies/"><u>New In 2024, Transform Your Memories Video Editing Secrets for Unforgettable Home Movies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-quik-but-not-quick-enough-a-review-and-pc-alternatives-for-faster-video-editing-for-2024/"><u>New Quik, But Not Quick Enough? A Review & PC Alternatives for Faster Video Editing for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-s-top-rated-video-editing-software-for-avchd-files/"><u>New S Top-Rated Video Editing Software for AVCHD Files</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-rated-pc-intro-makers-online-and-offline-options-compared/"><u>New Top-Rated PC Intro Makers Online and Offline Options Compared</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-videopad-video-editor-review-features-performance-and-value-for-money/"><u>New Videopad Video Editor Review Features, Performance, and Value for Money</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-meizu-21-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Meizu 21 Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-your-pcs-potential-the-ek-direct-aftermarket-cooler-achieves-exceptional-13900ks-overclocking-temps-and-performance/"><u>Unleash Your PC's Potential: The EK Direct Aftermarket Cooler Achieves Exceptional 13900KS Overclocking Temps and Performance</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-discover-the-top-free-android-video-editing-apps-plus-paid-options/"><u>Updated 2024 Approved Discover the Top Free Android Video Editing Apps Plus Paid Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-stop-motion-on-instagram-like-a-pro-a-beginners-guide/"><u>Updated 2024 Approved Stop Motion on Instagram Like a Pro A Beginners Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-engaging-reaction-videos-with-these-mobile-apps-for-2024/"><u>Updated Create Engaging Reaction Videos with These Mobile Apps for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-drawing-to-animating-the-best-software-tools-for-bringing-your-art-to-life/"><u>Updated Drawing to Animating The Best Software Tools for Bringing Your Art to Life</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-expert-approved-mkv-trimmers-for-mac-for-2024/"><u>Updated Expert-Approved MKV Trimmers for Mac for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-watermark-how-to-delete-it-permanently-for-2024/"><u>Updated Filmora Watermark How to Delete It Permanently for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-mpeg-video-union-top-5-recommended-tools-for-2024/"><u>Updated Free MPEG Video Union Top 5 Recommended Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-video-splitter-software-top-rated-options-for-this-year/"><u>Updated In 2024, Free Video Splitter Software Top-Rated Options for This Year</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-rated-online-video-ad-makers/"><u>Updated In 2024, Top-Rated Online Video Ad Makers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unleash-your-creativity-why-final-cut-pro-outshines-express/"><u>Updated In 2024, Unleash Your Creativity Why Final Cut Pro Outshines Express</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-s-best-mobile-video-editors-with-audio-tracks/"><u>Updated S Best Mobile Video Editors with Audio Tracks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-streamlining-your-workflow-import-and-export-videos-in-adobe-premiere-pro-2023/"><u>Updated Streamlining Your Workflow Import and Export Videos in Adobe Premiere Pro 2023</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-fast-video-trimming-on-mac-tips-and-tricks/"><u>Updated The Ultimate Guide to Fast Video Trimming on Mac Tips and Tricks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-vlog-editing-tools-for-popular-platforms-free-and-paid-options/"><u>Updated Top Vlog Editing Tools for Popular Platforms Free and Paid Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-rated-mp4-video-property-editors-for-2024/"><u>Updated Top-Rated MP4 Video Property Editors for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-voice-over-essentials-fast-track-to-pro-recordings-in-final-cut-pro-for-2024/"><u>Updated Voice Over Essentials Fast Track to Pro Recordings in Final Cut Pro for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -305,3 +185,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-quick-tips-for-editing-igtv-content-to-stand-out/"><u>[New] In 2024, Quick Tips for Editing IGTV Content to Stand Out</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-teaser-film-assortment/"><u>[New] Pinnacle Teaser Film Assortment</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/enhancing-productivity-how-my-switch-to-dual-mice-has-revolutionized-my-workflow/"><u>Enhancing Productivity: How My Switch to Dual Mice Has Revolutionized My Workflow</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y200mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y200Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-asus-rog-phone-8-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Asus ROG Phone 8 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-subtitle-edit-for-mac-not-working-try-these-top-alternatives-for-2024/"><u>New Subtitle Edit for Mac Not Working? Try These Top Alternatives for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-vignette-mastery-the-best-ios-and-android-apps-free-and-paid-for-2024/"><u>New Vignette Mastery The Best iOS and Android Apps Free & Paid for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-x-just-got-faster-arm-support-now-available-for-2024/"><u>Updated Filmora X Just Got Faster ARM Support Now Available for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-lego-stop-motion-channels-to-follow/"><u>Updated In 2024, The Best Lego Stop Motion Channels to Follow</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
