@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCP X Visual Effects How to Create Seamless Green Screen Composites
-date: 2024-09-13T05:09:08.692Z
-updated: 2024-09-14T20:01:47.040Z
+date: 2024-09-15T09:06:42.301Z
+updated: 2024-09-20T03:44:32.593Z
 tags: 
   - video editing software
   - video editing
@@ -135,6 +135,13 @@ Then, drag each of the four circles to create a shape such that your foreground 
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create a Chroma-Key in easier ways?
 
 Chroma-key, or green screen, is an essential part of every editor to make all kinds of effects. Is there any way to make this sophisticated procedure easier way? Yes, try Filmora.
@@ -145,13 +152,6 @@ By adopting AI portrait, you can add those stunning effects in simple steps: How
 
 Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
@@ -161,16 +161,10 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -188,19 +182,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unlock-social-media-success-hashtag-utilization-on-instagram/"><u>[New] 2024 Approved Unlock Social Media Success Hashtag Utilization on Instagram</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-free-stunning-photographs-for-2024/"><u>[New] The Ultimate Guide to Free, Stunning Photographs for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-guide-to-close-up-mastery-on-roblox/"><u>[Updated] 2024 Approved The Ultimate Guide to Close-Up Mastery on Roblox</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-11-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-honor-x50i-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Honor X50i Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-subtitle-edit-for-mac-not-working-try-these-top-alternatives-for-2024/"><u>New Subtitle Edit for Mac Not Working? Try These Top Alternatives for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-unlock-filmora-for-free-legit-and-secure-download-options-for-2024/"><u>New Unlock Filmora for Free Legit and Secure Download Options for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-vignette-mastery-the-best-ios-and-android-apps-free-and-paid-for-2024/"><u>New Vignette Mastery The Best iOS and Android Apps Free & Paid for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premier-webinar-creation-kit-for-2024/"><u>Premier Webinar Creation Kit for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-11-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 11 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-premiere-pro-transition-plugins-expert-picks/"><u>Updated 2024 Approved Best Premiere Pro Transition Plugins Expert Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-break-free-from-os-limits-running-windows-and-mac-video-editors-on-chromebook-for-2024/"><u>Updated Break Free From OS Limits Running Windows and Mac Video Editors on Chromebook for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-driveease-expert-review-for-2024/"><u>[New] DriveEase Expert Review for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-wacom-cintiq-pro-pen-display-drivers-enhance-your-artwork-creation-experience/"><u>Download Updated Wacom CintiQ Pro Pen Display Drivers - Enhance Your Artwork Creation Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-ch340-g-hardware-interface-driver-compatible-with-windows-11/"><u>Get the Newest CH340 G Hardware Interface Driver Compatible with Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-serial-port-mismatches/"><u>Rectify Serial Port Mismatches</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-guide-how-to-enable-mp4-support-on-your-samsung-television-efficiently/"><u>Troubleshooting Guide: How To Enable MP4 Support On Your Samsung Television Efficiently</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-from-zero-to-hero-15-free-video-editing-tools-for-beginners/"><u>Updated 2024 Approved From Zero to Hero 15 Free Video Editing Tools for Beginners</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-10-professional-video-editing-software-free-download/"><u>Updated 2024 Approved Top 10 Professional Video Editing Software Free Download</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-browser-based-vertical-video-editing-solutions/"><u>Updated Best Browser-Based Vertical Video Editing Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-elevate-your-videos-with-these-20-free-adobe-premiere-title-templates/"><u>Updated In 2024, Elevate Your Videos with These 20 Free Adobe Premiere Title Templates</u></a></li>
 </ul></div>
 

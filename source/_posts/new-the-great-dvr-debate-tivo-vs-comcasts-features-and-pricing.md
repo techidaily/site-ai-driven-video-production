@@ -1,7 +1,7 @@
 ---
 title: New The Great DVR Debate TiVo vs Comcasts Features and Pricing
-date: 2024-09-08T19:05:47.828Z
-updated: 2024-09-15T04:43:05.768Z
+date: 2024-09-17T21:29:35.576Z
+updated: 2024-09-19T20:00:40.002Z
 tags: 
   - video editing software
   - video editing
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. TiVo vs Comcast: Recording capacity
@@ -93,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
@@ -111,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
@@ -128,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  What it all comes down to is looking at how you use your TV, where you get your sources from, and what your budget is. Each device has its own set of things that are appealing, and its own drawbacks. For flexibility of being able to use multiple sources and devices, the TiVo is the clear winner. For cost in the long run, it’s almost a draw. For ease of connection to a TV, the Comcast box comes out on top. No matter which one you pick, you’ll never run out of great programs to watch.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -146,17 +146,12 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-master-audio-recording-the-micless-methodology/"><u>[New] Master Audio Recording The Micless Methodology</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximize-watch-time-minimize-leaving-6-key-tactics-to-retain-more-audience/"><u>[Updated] Maximize Watch Time, Minimize Leaving 6 Key Tactics to Retain More Audience</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-push-more-viewers-to-your-channel-with-easy-tricks-2/"><u>[Updated] Push More Viewers to Your Channel with Easy Tricks (2)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-revolutionize-your-social-media-strategy-use-free-video-creation-kit/"><u>2024 Approved Revolutionize Your Social Media Strategy – Use Free Video Creation Kit</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cheap-and-quick-camera-picks-your-2024-photography-buddy/"><u>Cheap & Quick Camera Picks - Your 2024 Photography Buddy</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/identifying-signs-of-mobile-internet-throttling-what-you-need-to-know/"><u>Identifying Signs of Mobile Internet Throttling: What You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-auto-gpt-effective-standalone/"><u>Is Auto-GPT Effective Standalone?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-kids-in-the-directors-chair-a-fun-guide-to-making-movies/"><u>New In 2024, Kids in the Directors Chair A Fun Guide to Making Movies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-s-hottest-android-video-editing-apps-free-and-paid-picks/"><u>New S Hottest Android Video Editing Apps Free and Paid Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-the-d3dx933dll-absence-a-user-friendly-fix-guide/"><u>Overcoming The d3dx9_33.dll Absence: A User-Friendly Fix Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-creativity-best-free-video-effects-apps-for-mobile-devices/"><u>Updated 2024 Approved Unleash Creativity Best Free Video Effects Apps for Mobile Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-purifying-audio-from-films-and-movies-cost-effective-methods-for-2024/"><u>[New] Purifying Audio From Films and Movies Cost-Effective Methods for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elevate-your-photos-tips-and-apps-on-android/"><u>Elevate Your Photos Tips & Apps on Android</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-lava-blaze-2-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Lava Blaze 2 by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/standout-80s-visual-tricks-to-enhance-films/"><u>Standout 80S Visual Tricks to Enhance Films</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-on-a-budget-4-effective-tips-to-grab-discount-codes-for-2024/"><u>Updated Filmora on a Budget 4 Effective Tips to Grab Discount Codes for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-notch-free-video-splitters-our-favorites-for-2024/"><u>Updated Top-Notch Free Video Splitters Our Favorites for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-the-power-of-visual-storytelling-10-best-image-to-video-converters-for-2024/"><u>Updated Unleash the Power of Visual Storytelling 10 Best Image to Video Converters for 2024</u></a></li>
 </ul></div>
 
