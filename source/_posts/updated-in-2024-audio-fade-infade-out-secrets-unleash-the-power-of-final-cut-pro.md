@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2024-09-14T03:25:19.519Z
-updated: 2024-09-20T11:00:32.391Z
+date: 2024-09-24T20:07:48.190Z
+updated: 2024-09-26T09:38:18.616Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -79,6 +86,20 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 **Step 3** **:** Now, you'll have to drag the fade handles of each clip to the exact points where you want the fade to start and finish.
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
 
@@ -99,6 +120,13 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -112,12 +140,20 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-immortal-gameplay-highlights-of-android-samsungs/"><u>[Updated] Immortal Gameplay Highlights of Android Samsungs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-camera-control-for-iphone-users/"><u>Advanced Camera Control for iPhone Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-5-gopro-filters-for-underwater-video-shooting/"><u>Best 5 GoPro Filters for Underwater Video Shooting</u></a></li>
+<li><a href="https://article-tips.techidaily.com/changing-the-face-of-healthcare-with-vr-for-2024/"><u>Changing the Face of Healthcare with VR for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-pro-creating-metaverse-laughter-for-2024/"><u>From Novice to Pro Creating Metaverse Laughter for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-5-best-free-video-editors-for-splitting-videos/"><u>In 2024, The 5 Best Free Video Editors for Splitting Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/looking-beyond-fcpx-top-10-video-editing-software-options/"><u>Looking Beyond FCPX Top 10 Video Editing Software Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-adding-senders-to-your-gmail-safe-list/"><u>Mastering the Art of Adding Senders to Your Gmail Safe List</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-avs-video-editor-2023-an-in-depth-analysis-and-review/"><u>New 2024 Approved AVS Video Editor 2023 An In-Depth Analysis and Review</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-take-your-editing-to-the-next-level-advanced-jump-cuts-in-final-cut-pro-x/"><u>New 2024 Approved Take Your Editing to the Next Level Advanced Jump Cuts in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unlock-fcps-full-potential-expert-voice-over-recording-techniques/"><u>New 2024 Approved Unlock FCPs Full Potential Expert Voice Over Recording Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-6-eco-friendly-affordable-4k-home-theaters-for-2024/"><u>Top 6 Eco-Friendly, Affordable 4K Home Theaters for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-issues-in-your-iphones-screen-mirroring-feature/"><u>Ultimate Guide: Resolving Issues in Your iPhone's Screen Mirroring Feature</u></a></li>
+</ul></div>
 
