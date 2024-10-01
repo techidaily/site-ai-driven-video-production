@@ -1,7 +1,7 @@
 ---
 title: New Mastering MP4 Video Editing A Step-by-Step Guide for Mac and Windows Users for 2024
-date: 2024-09-08T01:59:10.449Z
-updated: 2024-09-15T01:31:15.435Z
+date: 2024-09-28T06:07:32.148Z
+updated: 2024-10-01T01:13:15.479Z
 tags: 
   - video editing software
   - video editing
@@ -58,6 +58,13 @@ It's free to download now.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ####
 
 #### 1. Cut MP4 Video
@@ -67,6 +74,13 @@ To cut your MP4 video into certain parts, drag and drop the video on the Timelin
 After that, move the red marker to the end of the scene, and repeat this again to cut the video into several fragments. If you want to cut off the unwanted parts, right click the video and choose "Delete".
 
 ![export edited MP4 by cutting](https://images.wondershare.com/filmora/article-images/cut-a-section.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ####
 
@@ -93,6 +107,13 @@ No problem.
 Just highlight your MP4 video, right click and choose "Audio Detach". The audio file of your video will immediately be separated and appear on the music timeline. Since it is separated from the video, you can easily delete the audio track or replace it with your own music.
 
 ![edit MP4 audio](https://images.wondershare.com/filmora/article-images/add-audio-volume-keyframe.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ####
 
@@ -122,6 +143,13 @@ When all the editing is done, hit "Create" to save or share your videos in diffe
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -137,12 +165,20 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-essential-tactics-for-youtube-success-in-25-ways/"><u>[New] 2024 Approved Essential Tactics for YouTube Success in 25 Ways</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-igtv-videos-iphone-and-android-download-guide/"><u>[New] 2024 Approved Mastering IGTV Videos IPhone & Android Download Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-speedy-precision-the-leading-video-control-software/"><u>[New] 2024 Approved Speedy Precision The Leading Video Control Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-accelerate-follower-count-key-strategies-unlocked-for-2024/"><u>[New] Accelerate Follower Count Key Strategies Unlocked for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transforming-youtubers-into-titans-with-key-insights-from-the-hub/"><u>[Updated] Transforming YouTubers Into Titans with Key Insights From the Hub</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-prime-online-spots-for-availing-text-enhancement-files/"><u>2024 Approved Prime Online Spots for Availing Text Enhancement Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/googles-latest-innovation-a-deep-dive-into-the-rumored-features-and-expected-cost-of-its-upcoming-streamer/"><u>Google's Latest Innovation: A Deep Dive Into the Rumored Features and Expected Cost of Its Upcoming Streamer</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-glitch-art-makers-the-ultimate-online-generator-list/"><u>New In 2024, Free Glitch Art Makers The Ultimate Online Generator List</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-from-capture-to-edit-the-top-10-vlog-editor-apps-for-ios-and-android/"><u>New In 2024, From Capture to Edit The Top 10 Vlog Editor Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/s-top-animation-software-10-best-2d-tools-for-beginners-and-pros-for-2024/"><u>S Top Animation Software 10 Best 2D Tools for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-high-performance-components-at-toms-hardware-store/"><u>The Definitive Guide to High-Performance Components at Tom's Hardware Store</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-anonymize-in-seconds-top-video-editors-for-face-blurring/"><u>Updated 2024 Approved Anonymize in Seconds Top Video Editors for Face Blurring</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-best-video-editing-software-for-32-bit-windows/"><u>Updated 2024 Approved FREE Best Video Editing Software for 32-Bit Windows</u></a></li>
+</ul></div>
 

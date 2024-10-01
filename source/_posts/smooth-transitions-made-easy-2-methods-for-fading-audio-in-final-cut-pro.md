@@ -1,7 +1,7 @@
 ---
 title: Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro
-date: 2024-09-21T20:16:34.164Z
-updated: 2024-09-26T07:24:34.100Z
+date: 2024-09-23T20:14:19.107Z
+updated: 2024-10-01T06:00:31.534Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -81,17 +88,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,10 +108,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -119,13 +126,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,19 +142,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-dissecting-gopro-video-quality-max-360-meets-hero-11-for-2024/"><u>[New] Dissecting GoPro Video Quality Max 360 Meets Hero 11 for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-vs-video-edition-which-editor-wins-for-filmmaking/"><u>[Updated] 2024 Approved Vs. Video Edition Which Editor Wins for Filmmaking?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-crack-the-code-of-content-discovery-on-facebook/"><u>[Updated] In 2024, Crack the Code of Content Discovery on Facebook</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unveiling-the-secrets-of-enhancing-video-sessions-in-google-meet/"><u>2024 Approved Unveiling the Secrets of Enhancing Video Sessions in Google Meet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-15-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 15 and iPad?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mastering-voice-over-in-final-cut-pro-quick-start-guide/"><u>In 2024, Mastering Voice Over in Final Cut Pro Quick Start Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/methods-for-reducing-jello-like-video-stabilization-effects/"><u>Methods for Reducing Jello-Like Video Stabilization Effects</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-make-it-pop-how-to-add-eye-catching-effects-to-your-videos/"><u>New 2024 Approved Make It Pop How to Add Eye-Catching Effects to Your Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-premiere-rush-replacements-4-best-options-for-video-editing/"><u>New 2024 Approved Premiere Rush Replacements 4 Best Options for Video Editing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-collection-20-free-adobe-premiere-title-templates/"><u>New 2024 Approved The Ultimate Collection 20 Free Adobe Premiere Title Templates</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-fcp-safety-net-saving-and-backing-up-your-projects/"><u>New 2024 Approved The Ultimate FCP Safety Net Saving and Backing Up Your Projects</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unleash-your-creativity-10-best-cartoon-animation-apps-for-mobile/"><u>New 2024 Approved Unleash Your Creativity 10 Best Cartoon Animation Apps for Mobile</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-looking-for-a-change-here-are-8-compelling-alternatives-to-windows-10-photos-for-2024/"><u>Updated Looking for a Change? Here Are 8 Compelling Alternatives to Windows 10 Photos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-screenshots-programs-ranked-1-8/"><u>[New] 2024 Approved Best Screenshots Programs Ranked #1-8</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-30-groundbre-writers-making-metaverse-memes-thrive/"><u>[New] 30 Groundbre Writers Making Metaverse Memes Thrive</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-optimal-logitech-webcam-settings-for-professional-video-outputs/"><u>[Updated] 2024 Approved Optimal Logitech Webcam Settings for Professional Video Outputs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-most-impactful-personalities-top-25-edition/"><u>[Updated] Instagram's Most Impactful Personalities Top 25 Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-defy-2-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola Defy 2 without App | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-x-jump-cuts-take-your-editing-to-the-next-level-for-2024/"><u>Final Cut Pro X Jump Cuts Take Your Editing to the Next Level for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/free-video-enhancement-software-top-9-picks/"><u>Free Video Enhancement Software Top 9 Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-canon-video-editor-a-beginners-guide-to-editing-your-camcorder-footage/"><u>In 2024, Canon Video Editor A Beginners Guide to Editing Your Camcorder Footage</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oneplus-nord-3-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass OnePlus Nord 3 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-up-space-5-best-video-compression-apps-for-iphone-and-ipad/"><u>In 2024, Free Up Space 5 Best Video Compression Apps for iPhone and iPad</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-adobe-premiere-pro-cs6-free-download-for-mac-os-x/"><u>New 2024 Approved Adobe Premiere Pro CS6 Free Download for Mac OS X</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-adobe-premiere-pro-essentials-20-shortcuts-to-streamline-your-workflow/"><u>New 2024 Approved Adobe Premiere Pro Essentials 20 Shortcuts to Streamline Your Workflow</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-color-matching-made-easy-tips-and-tricks-for-final-cut-pro-users/"><u>New 2024 Approved Color Matching Made Easy Tips and Tricks for Final Cut Pro Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-cut-trim-and-edit-vlc-videos-on-mac-with-zero-quality-loss/"><u>New 2024 Approved Cut, Trim, and Edit VLC Videos on Mac with Zero Quality Loss</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unbeatable-free-game-video-editing-solutions/"><u>New 2024 Approved Unbeatable Free Game Video Editing Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-your-podcast-with-ease-for-2024/"><u>Streamline Your Podcast With Ease for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-art-of-livestreaming-seminars-at-no-expense/"><u>The Art of Livestreaming Seminars at No Expense</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/transition-smoothly-to-metaverse-living-with-these-tools/"><u>Transition Smoothly to Metaverse Living with These Tools</u></a></li>
 </ul></div>
 

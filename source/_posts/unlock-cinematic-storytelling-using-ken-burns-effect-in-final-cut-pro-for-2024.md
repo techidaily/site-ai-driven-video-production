@@ -1,7 +1,7 @@
 ---
 title: Unlock Cinematic Storytelling Using Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-09-10T22:18:48.145Z
-updated: 2024-09-15T00:01:23.826Z
+date: 2024-09-27T06:56:18.921Z
+updated: 2024-10-01T13:11:34.124Z
 tags: 
   - video editing software
   - video editing
@@ -43,6 +43,13 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -51,11 +58,25 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -85,13 +106,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -99,10 +113,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -126,5 +140,21 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/cross-network-stealth-securing-data-flow-in-winos/"><u>Cross-Network Stealth: Securing Data Flow in WinOS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-art-of-crafting-persuasive-video-covers-for-social-media-platforms/"><u>In 2024, The Art of Crafting Persuasive Video Covers for Social Media Platforms</u></a></li>
+<li><a href="https://fox-links.techidaily.com/innovation-unveiled-the-complete-moto-z2-review-for-2024/"><u>Innovation Unveiled The Complete Moto Z2 Review for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/instagram-sound-essentials-for-personalization/"><u>Instagram Sound Essentials for Personalization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-in-making-gifs-into-stickers-on-messaging-platforms-with-this-guide/"><u>Mastery in Making Gifs Into Stickers on Messaging Platforms with This Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-art-of-flawless-conversion-from-slides-to-videos/"><u>The Art of Flawless Conversion From Slides to Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-g54-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola G54 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-fcpx-image-editing-a-beginners-guide-to-cropping/"><u>Updated In 2024, FCPX Image Editing A Beginners Guide to Cropping</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-5-best-mp4-video-editors-totally-free/"><u>Updated In 2024, Top 5 Best MP4 Video Editors Totally Free</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-say-goodbye-to-format-restrictions-streaming-any-video-to-chromecast/"><u>Updated Say Goodbye to Format Restrictions Streaming Any Video to Chromecast</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-the-best-10-cartoon-video-maker-apps-for-android-and-iphone-for-2024/"><u>Updated The Best of the Best 10 Cartoon Video Maker Apps for Android and iPhone for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/upload-ps4-screenshots-to-social-media-a-step-by-step-guide-for-2024/"><u>Upload PS4 Screenshots to Social Media A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/watermark-free-tiktok-videos-the-best-online-removal-tools-for-2024/"><u>Watermark-Free TikTok Videos The Best Online Removal Tools for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Asus ROG Phone 7 | Dr.fone</u></a></li>
+</ul></div>
 

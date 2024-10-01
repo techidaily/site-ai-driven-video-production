@@ -1,7 +1,7 @@
 ---
 title: New The Great DVR Debate TiVo vs Comcasts Features and Pricing
-date: 2024-09-20T02:08:14.113Z
-updated: 2024-09-25T23:29:01.761Z
+date: 2024-09-28T11:29:53.110Z
+updated: 2024-09-30T20:29:56.852Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -48,23 +55,9 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  TiVo interface
 
@@ -81,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  The iPhone app remote screen looks like this:
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
@@ -104,18 +104,18 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
  Many reviewers liked the interface on the TiVo better than the grid used on the Comcast service. The TiVo programming guide allows you to delete channels you don’t watch so you’re only looking at the channels you like. Comcast’s guide covers every channel they offer, even ones that are not available on your tier of service.
 
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
 
@@ -124,16 +124,16 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
+<span id="1982485">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Summary**
@@ -142,14 +142,14 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -166,22 +166,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-approach-to-popularizing-instagram-posts-for-2024/"><u>A Step-by-Step Approach to Popularizing Instagram Posts for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/easy-steps-for-convert-free-windows-media-videos-wmv-into-crystal-clear-mp3s-without-hitches/"><u>Easy Steps for Convert Free Windows Media Videos (WMV) Into Crystal Clear MP3s Without Hitches</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-and-disabling-windows-key-an-in-depth-walkthrough/"><u>Enabling and Disabling Windows Key: An In-Depth Walkthrough</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-facebooks-journey-why-users-love-it-and-its-essential-functions/"><u>Exploring Facebook's Journey: Why Users Love It & Its Essential Functions</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-itel-p40plus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Itel P40+ 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-coordinated-duet-clips-with-tiktok-twist/"><u>In 2024, Coordinated Duet Clips with TikTok Twist</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-dissecting-the-revenue-sharing-mechanisms-in-youtube-shorts-economy/"><u>In 2024, Dissecting the Revenue-Sharing Mechanisms in YouTube Shorts Economy</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-fcpx-captioning-made-easy-a-quick-start-guide/"><u>In 2024, FCPX Captioning Made Easy A Quick Start Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-avi-video-rotation-tools-compare-the-best-options-for-windows-mac-mobile-and-online/"><u>In 2024, Free AVI Video Rotation Tools Compare the Best Options for Windows, MAC, Mobile & Online</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-from-console-to-cloud-how-to-share-ps4-screenshots-online/"><u>In 2024, From Console to Cloud How to Share PS4 Screenshots Online</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-create-stunning-animations-with-these-free-tools-for-windows-and-mac/"><u>New 2024 Approved Create Stunning Animations with These Free Tools for Windows and Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-elevate-your-storytelling-easy-video-creation-with-ezvid-on-mac/"><u>New 2024 Approved Elevate Your Storytelling Easy Video Creation with Ezvid on Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-reverse-tiktok-videos-like-a-pro-a-step-by-step-tutorial/"><u>New 2024 Approved Reverse TikTok Videos Like a Pro A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-best-of-the-best-professional-audio-editing-software/"><u>New 2024 Approved The Best of the Best Professional Audio Editing Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-video-editing-on-a-budget-free-software-for-32-bit-windows/"><u>New 2024 Approved Video Editing on a Budget Free Software for 32-Bit Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-to-the-xp-pen-artist-16-pro-drawing-pad-insights-and-reviews/"><u>Ultimate Guide to the XP-Pen Artist 16 Pro Drawing Pad - Insights & Reviews</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-oneplus-ace-2-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock OnePlus Ace 2 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-swiftly-secure-screen-shots-on-windows/"><u>[Updated] 2024 Approved Swiftly Secure Screen Shots on Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-secrets-to-saving-switch-gameplay-on-video-for-2024/"><u>[Updated] Secrets to Saving Switch Gameplay on Video for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bouncie-driving-connected-reviewed-affordable-navigation-on-a-budget/"><u>Bouncie Driving Connected Reviewed: Affordable Navigation on a Budget</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-infinix-gt-10-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Infinix GT 10 Pro? Try These Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-no-complications-in-hdr-a-thorough-review/"><u>In 2024, No Complications in HDR A Thorough Review</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-growth-at-50plus-five-key-advantages-unveiled/"><u>Linguistic Growth at 50+: Five Key Advantages Unveiled</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-list-8-professional-audio-editors-for-high-quality-results/"><u>New In 2024, The Ultimate List 8 Professional Audio Editors for High-Quality Results</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-install-kinemaster-on-mac-a-comprehensive-tutorial/"><u>New Install KineMaster on Mac A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-no-cost-video-trimming-10-best-online-solutions/"><u>New No-Cost Video Trimming 10 Best Online Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-of-free-video-hosting-sites-for-online-publishing-for-2024/"><u>New The Ultimate List of Free Video Hosting Sites for Online Publishing for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimized-wdf-performance-resolving-the-high-cpu-issue/"><u>Optimized WDF Performance: Resolving the 'High CPU' Issue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-in-depth-look-benefits-and-challenges-of-local-llms/"><u>The In-Depth Look: Benefits & Challenges of Local LLMs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-music-video-production-software-for-professional-results/"><u>Updated 2024 Approved Best Music Video Production Software for Professional Results</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-get-filmora-without-spending-a-dime-100-legal-methods/"><u>Updated Get Filmora Without Spending a Dime 100 Legal Methods</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-videopad-video-editor-buying-guide-top-features-and-pricing/"><u>Updated Videopad Video Editor Buying Guide Top Features and Pricing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/upgrade-your-video-game-top-software-for-higher-resolution-for-2024/"><u>Upgrade Your Video Game Top Software for Higher Resolution for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to QuickTime Video Editing on Mac
-date: 2024-09-20T12:27:53.266Z
-updated: 2024-09-25T23:12:20.069Z
+date: 2024-09-30T12:31:52.211Z
+updated: 2024-10-01T08:48:07.198Z
 tags: 
   - video editing software
   - video editing
@@ -41,13 +41,6 @@ The QuickTime player was originally designed to play almost all types of multime
 * Control subtitles, languages and more options.
 * Includes picture viewers for JPEG, BMP and PNG.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Trim Video With QuickTime Player on Mac
 
 Trimming Videos in QuickTime video player is another simple feature. You can delete the beginning or end, or simply shorten the movie or clip.
@@ -64,9 +57,30 @@ Step3: Use a handle on both sides to resist the part of the film that you want t
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Split Video With QuickTime Player on Mac
 
@@ -79,13 +93,6 @@ Step1: Click the Play button to jump to the part of the clip where you want to s
 Step2: Move the playhead where you want to split the position, then select Edit > Split Clip.
 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Rotate Video with QuickTime Player on Mac
 
@@ -122,20 +129,13 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -152,16 +152,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mute-instagrams-personalized-posts/"><u>[New] Mute Instagram's Personalized Posts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-pioneering-techniques-to-enhance-fb-video-ads/"><u>[Updated] 2024 Approved Pioneering Techniques to Enhance Fb Video Ads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/google-news-update-what-you-need-to-know/"><u>Google News Update: What You Need to Know</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-v30-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme V30 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/key-factors-to-evaluate-prior-to-acquiring-secondhand-ipad/"><u>Key Factors to Evaluate Prior to Acquiring Secondhand iPad</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-smart-explorers-choice-premium-vr-gear-ranked/"><u>The Smart Explorer's Choice Premium VR Gear Ranked</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-to-edit-top-10-online-video-editors-with-no-hidden-fees-or-watermarks/"><u>Updated 2024 Approved Free to Edit Top 10 Online Video Editors with No Hidden Fees or Watermarks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-from-fast-to-slow-mastering-the-art-of-slow-motion-in-windows-live-movie-maker/"><u>Updated From Fast to Slow Mastering the Art of Slow Motion in Windows Live Movie Maker</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-get-back-to-editing-how-to-reset-final-cut-pro-x-for-2024/"><u>Updated Get Back to Editing How to Reset Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-free-video-cutters-for-mov-file-editing-for-2024/"><u>Updated The Best Free Video Cutters for MOV File Editing for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-apps-to-convert-videos-to-live-photos-on-iphone-for-2024/"><u>Updated Top Apps to Convert Videos to Live Photos on iPhone for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[New] In 2024, 11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-charting-the-course-of-viral-stocks-and-stories/"><u>2024 Approved Charting the Course of Viral Stocks & Stories</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-the-hitman-sltd-hitman-3-link-up-problem-with-ease/"><u>Bypassing the Hitman ˈsɒltɪdː Hītmàn 3 Link-Up Problem with Ease</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-to-digiarty-winxdvd-eulas-for-consumers/"><u>Comprehensive Guide to Digiarty WinXDVD EULAs for Consumers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-recordingrealm-expedition-unveiling-snapcastpro-2023/"><u>In 2024, RecordingRealm Expedition Unveiling 'SnapCastPro' 2023</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unleash-your-creativity-best-reaction-video-maker-tools/"><u>New In 2024, Unleash Your Creativity Best Reaction Video Maker Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unlock-efficient-video-editing-6-adobe-premiere-hacks-you-need-to-know/"><u>New In 2024, Unlock Efficient Video Editing 6 Adobe Premiere Hacks You Need to Know</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-16-free-avi-video-rotators-for-every-device-and-browser/"><u>New The Ultimate List 16 Free AVI Video Rotators for Every Device and Browser</u></a></li>
+<li><a href="https://media-tips.techidaily.com/revamped-netflix-television-application-undergoes-beta-testing/"><u>Revamped Netflix Television Application Undergoes Beta Testing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/strategic-mastery-pinpointing-top-7-total-war-battles-for-2024/"><u>Strategic Mastery Pinpointing Top 7 Total War Battles for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategies-for-swift-fixes-in-youtubers-shorts-for-2024/"><u>Strategies for Swift Fixes in YouTubers' Shorts for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-make-an-impression-top-video-invitation-tools-for-ios-and-android/"><u>Updated In 2024, Make an Impression Top Video Invitation Tools for iOS and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-premiere-pro-essentials-20-free-title-and-intro-templates/"><u>Updated In 2024, Premiere Pro Essentials 20 Free Title and Intro Templates</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-both-worlds-top-10-free-and-paid-fcpx-plugins-for-every-editor-for-2024/"><u>Updated The Best of Both Worlds Top 10 Free and Paid FCPX Plugins for Every Editor for 2024</u></a></li>
 </ul></div>
 

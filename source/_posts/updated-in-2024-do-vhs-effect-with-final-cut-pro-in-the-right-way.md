@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Do VHS Effect with Final Cut Pro in the Right Way
-date: 2024-08-26T04:42:24.644Z
-updated: 2024-08-27T04:42:24.644Z
+date: 2024-09-28T09:05:48.713Z
+updated: 2024-10-01T12:23:14.884Z
 tags: 
   - video editing software
   - video editing
@@ -115,6 +115,13 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
@@ -160,12 +167,12 @@ You can play around with these values to change the intensity of the VHS effect.
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -189,8 +196,12 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -206,15 +217,17 @@ The appearance and feel of your production may be significantly enhanced by usin
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -222,3 +235,25 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-steps-to-acquire-free-picture-frame-videos/"><u>[New] 2024 Approved Steps to Acquire Free Picture Frame Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-add-personal-touch-to-videos-with-text-labels-using-photos-app-windows-11-for-2024/"><u>[New] Add Personal Touch to Videos with Text Labels Using Photos App (Windows 11) for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-navigating-the-path-to-wealthy-video-creators-via-vimeos-revenue-streams/"><u>[New] Navigating the Path to Wealthy Video Creators via Vimeo's Revenue Streams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-captivating-chronicles-a-guide-to-storytelling-schools-1-8/"><u>[Updated] Crafting Captivating Chronicles A Guide to Storytelling Schools (#1-#8)</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-behind-the-scenes-top-picks-of-monitors-and-tvs-for-xbox-series-x-gamers/"><u>2024 Approved Behind-the-Scenes Top Picks of Monitors & TVs for Xbox Series X Gamers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dia-a-dia-del-mundo-en-espanol-aprender-de-martes-a-sabado/"><u>Dia a Dia Del Mundo en Español: Aprender De Martes a Sábado</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-professional-capturer-snappy-windows-snap/"><u>In 2024, Professional Capturer Snappy Windows Snap</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-pcmobile-video-filter-techniques/"><u>Mastering PC/Mobile Video Filter Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-10-most-popular-free-video-compressor-apps-for-windows-10/"><u>New In 2024, The 10 Most Popular Free Video Compressor Apps for Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-lava-blaze-2-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Lava Blaze 2 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/two-screens-one-goal-the-best-split-screen-video-apps-for-ios-and-android-users/"><u>Two Screens, One Goal The Best Split-Screen Video Apps for iOS and Android Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-the-power-of-linux-on-your-chromebook-an-installation-guide-for-20/"><u>Updated 2024 Approved Unleash the Power of Linux on Your Chromebook An Installation Guide for 20</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-film-like-a-pro-on-a-budget-affordable-tips-for-high-quality-movie-making/"><u>Updated Film Like a Pro on a Budget Affordable Tips for High-Quality Movie Making</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-fcp-x-post-production-expert-chroma-keying-and-color-grading/"><u>Updated In 2024, FCP X Post-Production Expert Chroma Keying and Color Grading</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-video-looping-websites-top-10-picks-for-seamless-repeats/"><u>Updated In 2024, Free Video Looping Websites Top 10 Picks for Seamless Repeats</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-rotate-your-avi-videos-with-ease-top-5-free-tools/"><u>Updated In 2024, Rotate Your AVI Videos with Ease Top 5 Free Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-photo-to-cartoon-converter-online-for-2024/"><u>Updated Photo to Cartoon Converter Online for 2024</u></a></li>
+</ul></div>
+
