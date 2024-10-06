@@ -1,7 +1,7 @@
 ---
 title: New Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro
-date: 2024-08-21T14:49:18.580Z
-updated: 2024-08-22T14:49:18.580Z
+date: 2024-10-04T16:22:59.198Z
+updated: 2024-10-06T16:54:31.481Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -81,8 +88,12 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -90,8 +101,12 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -106,15 +121,17 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,3 +139,25 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-clip-concoction-station/"><u>[New] 2024 Approved Clip Concoction Station</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-best-humor-picture-processor/"><u>[New] In 2024, Best Humor Picture Processor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-deck-to-deck-users-manual-for-durecorder/"><u>[New] The Ultimate Deck-to-Deck User's Manual for DuRecorder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-memetic-engineering-techniques/"><u>2024 Approved 10 Memetic Engineering Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-on-changing-video-aspect-ratio-using-ffmpeg/"><u>Comprehensive Tutorial on Changing Video Aspect Ratio Using FFmpeg</u></a></li>
+<li><a href="https://techidaily.com/discover-the-top-10-game-torrents-your-guide-to-free-downloads/"><u>Discover the Top 10 Game Torrents: Your Guide to Free Downloads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-pro-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 Pro 5GFRP Lock</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-ma/"><u>New In 2024, Ma</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-transform-your-footage-the-top-10-most-useful-fcpx-plugins-free-and-paid/"><u>New In 2024, Transform Your Footage The Top 10 Most Useful FCPX Plugins Free and Paid</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/transform-your-photos-the-best-vignette-editing-apps-for-mobile-for-2024/"><u>Transform Your Photos The Best Vignette Editing Apps for Mobile for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-list-of-online-video-flipping-tools/"><u>Updated 2024 Approved The Ultimate List of Online Video Flipping Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-movie-makers-for-windows-10-for-2024/"><u>Updated Best Movie Makers for Windows 10 for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-most-popular-video-editing-software-among-pros/"><u>Updated In 2024, The Most Popular Video Editing Software Among Pros</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-top-stop-motion-animation-apps-for-mac-pc-and-beyond/"><u>Updated In 2024, The Top Stop Motion Animation Apps for Mac, PC, and Beyond</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-try-filmora-video-editor-and-download-this-powerful-and-intuitive-program-to-help-you-cut-trim-split-your-videos/"><u>Updated In 2024, Try Filmora Video Editor and Download This Powerful and Intuitive Program to Help You Cut, Trim, Split Your Videos</u></a></li>
+</ul></div>
+

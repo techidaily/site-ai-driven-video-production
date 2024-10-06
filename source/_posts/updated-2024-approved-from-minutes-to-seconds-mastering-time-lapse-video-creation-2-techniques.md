@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved From Minutes to Seconds Mastering Time Lapse Video Creation 2 Techniques
-date: 2024-08-21T14:47:09.285Z
-updated: 2024-08-22T14:47:09.285Z
+date: 2024-10-04T16:33:17.830Z
+updated: 2024-10-06T18:18:29.945Z
 tags: 
   - video editing software
   - video editing
@@ -85,6 +85,13 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -99,11 +106,31 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -115,6 +142,13 @@ That’s how to make a cool time lapse video with the time lapse video software 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -123,14 +157,27 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unveiling-8-exceptional-mirrorless-cameras-for-vloggers/"><u>[New] 2024 Approved Unveiling 8 Exceptional Mirrorless Cameras for Vloggers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photovideo-text-warping-essentials/"><u>[New] Photo/Video Text Warping Essentials</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-quick-avi-to-gif-transformation-in-filmora-for-2024/"><u>[New] Quick AVI to GIF Transformation in Filmora for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ideal-microphone-logging-software-on-mac-devices-compile-the-best-5/"><u>[Updated] In 2024, Ideal Microphone Logging Software on Mac Devices Compile the Best 5</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-glasses-and-screens-vrs-evolutionary-tale/"><u>Behind Glasses and Screens VR’s Evolutionary Tale</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/guide-to-convert-and-download-popular-german-tv-shows-from-prosieben-as-mp4movavi-on-windows-or-macos/"><u>Guide to Convert and Download Popular German TV Shows From ProSieben as MP4/MOV/AVI on Windows or macOS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-5-best-free-video-editors-for-splitting-videos/"><u>In 2024, The 5 Best Free Video Editors for Splitting Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/looking-beyond-fcpx-top-10-video-editing-software-options/"><u>Looking Beyond FCPX Top 10 Video Editing Software Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-avs-video-editor-2023-an-in-depth-analysis-and-review/"><u>New 2024 Approved AVS Video Editor 2023 An In-Depth Analysis and Review</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-convert-dailymotion-videos-online-for-free-no-cost/"><u>New 2024 Approved Convert Dailymotion Videos Online for Free - No Cost</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-take-your-editing-to-the-next-level-advanced-jump-cuts-in-final-cut-pro-x/"><u>New 2024 Approved Take Your Editing to the Next Level Advanced Jump Cuts in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unlock-fcps-full-potential-expert-voice-over-recording-techniques/"><u>New 2024 Approved Unlock FCPs Full Potential Expert Voice Over Recording Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-unveiled-a-dive-into-widgets/"><u>Windows 11 Unveiled - A Dive Into Widgets</u></a></li>
+</ul></div>
+

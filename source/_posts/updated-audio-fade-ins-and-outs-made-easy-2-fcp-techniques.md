@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-09-26T03:14:44.280Z
-updated: 2024-10-01T01:05:59.766Z
+date: 2024-09-29T18:21:28.509Z
+updated: 2024-10-06T19:34:17.070Z
 tags: 
   - video editing software
   - video editing
@@ -65,10 +65,10 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -88,17 +88,23 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -121,10 +127,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,24 +148,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-effortless-visual-enhancement-auto-scaling-videos-for-mac-instagramers/"><u>[Updated] In 2024, Effortless Visual Enhancement Auto-Scaling Videos for Mac Instagramers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gps-drones-the-ultimate-follower-guide-compilation/"><u>2024 Approved GPS Drones The Ultimate Follower Guide Compilation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choosing-between-vlc-and-mx-for-video-enjoyment/"><u>Choosing Between VLC and MX for Video Enjoyment</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/correct-no-sound-issue-on-shared-videos-for-2024/"><u>Correct No Sound Issue on Shared Videos for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/culinary-carousel-international-delights-on-social-media-platforms-for-2024/"><u>Culinary Carousel International Delights on Social Media Platforms for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-pure-browsing-our-selections-of-7-top-android-adblockers/"><u>Enjoy Pure Browsing Our Selections of 7 Top Android AdBlockers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/hand-drawn-whiteboard-video-creation-the-top-5-software-options-for-2024/"><u>Hand-Drawn Whiteboard Video Creation The Top 5 Software Options for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-from-sideways-to-right-side-up-easy-video-flipping/"><u>In 2024, From Sideways to Right-Side Up Easy Video Flipping</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/make-your-instagram-feed-pop-with-stop-motion-videos-tips-and-tricks/"><u>Make Your Instagram Feed Pop with Stop Motion Videos Tips and Tricks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-16-top-rated-free-avi-video-rotation-tools-for-all-devices/"><u>New 16 Top-Rated Free AVI Video Rotation Tools for All Devices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-fcp-audio-editing-essentials-a-step-by-step-guide/"><u>New 2024 Approved FCP Audio Editing Essentials A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-mov-video-orientation-changers-top-5-list/"><u>New 2024 Approved Free MOV Video Orientation Changers Top 5 List</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-how-to-blur-faces-in-photos-and-videos-a-step-by-step-tutorial/"><u>New 2024 Approved How to Blur Faces in Photos and Videos A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro/"><u>New 2024 Approved How to Find Free Sites for Sound Effect and Add Them in Final Cut Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-watermark-free-video-joining-7-top-rated-solutions/"><u>New 2024 Approved Watermark-Free Video Joining 7 Top-Rated Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/record-your-screen-on-any-device-az-screen-recorder-for-windows-and-mac-free-download/"><u>Record Your Screen on Any Device: AZ Screen Recorder for Windows & Mac - Free Download</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/save-and-share-your-custom-flipbuilder-designs-how-to-make-a-theme-out-of-it/"><u>Save & Share Your Custom FlipBuilder Designs: How to Make a Theme Out of It</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-s23plus-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy S23+ Location | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-in-2024-best-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/"><u>Updated In 2024, Best 6 Celebrity Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-experts-guide-to-infinite-space-utilization/"><u>[New] 2024 Approved Expert's Guide to Infinite Space Utilization</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-selecting-excellent-steadicams-for-dslr-cinematography/"><u>[Updated] Selecting Excellent Steadicams for DSLR Cinematography</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elite-cards-for-uhd-video-creation/"><u>2024 Approved Elite Cards for UHD Video Creation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-dark-launch-overcoming-initial-boot-issues-in-monster-hunter-world/"><u>Fixing the Dark Launch: Overcoming Initial Boot Issues in Monster Hunter: World</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/framing-perfection-a-filmmakers-guide-to-cinematic-youtube-videos/"><u>Framing Perfection A Filmmaker's Guide to Cinematic YouTube Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-yuva-3-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Lava Yuva 3.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-m34-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy M34 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/minimize-surround-loudness-economical-and-premium-solutions-for-2024/"><u>Minimize Surround Loudness - Economical & Premium Solutions for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-avs-video-editor-review-pros-cons-and-verdict-for-2024/"><u>New AVS Video Editor Review Pros, Cons, and Verdict for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-mobile-animation-tools-free-3d-apps-for-android-and-ios-for-2024/"><u>New Best Mobile Animation Tools Free 3D Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-budget-friendly-video-editing-top-free-imovie-alternatives/"><u>New Budget-Friendly Video Editing Top Free iMovie Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-cutting-edge-ipad-video-editing-the-top-5-tools/"><u>New Cutting-Edge iPad Video Editing The Top 5 Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-brand-20-professional-adobe-premiere-title-templates-free-to-download-for-2024/"><u>New Elevate Your Brand 20 Professional Adobe Premiere Title Templates Free to Download for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-flv-editor-for-windows-8-easily-edit-flv-videos-on-pc-for-2024/"><u>New FLV Editor for Windows 8 Easily Edit FLV Videos on PC for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-mov-video-combiner-software-top-picks-for-2024/"><u>New Free MOV Video Combiner Software Top Picks for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-basic-to-pro-3-advanced-transition-techniques-in-fcp-for-2024/"><u>New From Basic to Pro 3 Advanced Transition Techniques in FCP for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-moving-to-still-a-simple-guide-to-freezing-frames-in-videos-for-2024/"><u>New From Moving to Still A Simple Guide to Freezing Frames in Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/one-click-wonder-livestream-your-podcast-for-2024/"><u>One Click Wonder Livestream Your Podcast for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-audiovisual-integration-in-just-four-steps/"><u>Seamless Audiovisual Integration in Just Four Steps!</u></a></li>
 </ul></div>
 

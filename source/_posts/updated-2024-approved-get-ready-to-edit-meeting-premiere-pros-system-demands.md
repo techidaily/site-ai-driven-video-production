@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Get Ready to Edit Meeting Premiere Pros System Demands
-date: 2024-09-24T21:24:42.250Z
-updated: 2024-10-01T09:53:16.436Z
+date: 2024-10-04T18:05:16.854Z
+updated: 2024-10-06T18:13:40.542Z
 tags: 
   - video editing software
   - video editing
@@ -46,6 +46,13 @@ However, it is important to remember this is the minimum specification, and will
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to check Computer Specifications
 
 Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
@@ -54,13 +61,6 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 * Right click the **This PC** option in the sidebar and then select **Properties** from the context menu.
 
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
 
@@ -101,10 +101,10 @@ That is the theory, but how do you achieve this? This is done within Premiere it
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
@@ -112,10 +112,10 @@ Changing where the project files, previews and exports are stored is just as eas
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
@@ -130,6 +130,13 @@ The Preset Tab makes setting up a new sequence much simpler. Choosing a preset e
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
 
 Because the presets do such a good job it is not really necessary to adjust anything in the settings tab, and unless you are trying to do something very specific.
@@ -137,13 +144,6 @@ Because the presets do such a good job it is not really necessary to adjust anyt
 While the standard presets are usually suitable, on occasion you may desire a custom setting. To do this, choose a sequence preset that is close to your media, and then make custom selections in the Settings tab. By selecting the Save Preset option on the Settings tab you can then create a custom setting with those parameters. Give the preset a suitable name in the Save Settings dialog and add any notes that are needed. The preset can be found in the Custom folder under Available Presets.
 
 Those with the Apple Prores Codec on their computers can use this as the preview codec if required. By choosing Quicktime as the preview format in a custom editing mode, and lastly Apple Prores as the required codec.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -166,21 +166,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-perfect-guide-iosipad-podcast-recording-tips-for-engaging-interviews/"><u>[New] Perfect Guide IOS/iPad Podcast Recording Tips for Engaging Interviews</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-high-res-gaming-the-best-screen-capture-options-for-2024/"><u>[Updated] High-Res Gaming The Best Screen Capture Options for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-updated-epson-wf-3520-software-for-smooth-printing-on-your-windows-computer/"><u>How to Install Updated Epson WF-3520 Software for Smooth Printing on Your Windows Computer</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-dissecting-disadvantages-a-vr-analysis/"><u>In 2024, Dissecting Disadvantages A VR Analysis</u></a></li>
-<li><a href="https://techidaily.com/is-your-itel-a05s-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel A05s working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unlocking-picture-in-picture-a-beginners-guide-to-final-cut-pro/"><u>New In 2024, Unlocking Picture-in-Picture A Beginners Guide to Final Cut Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-upgrading-your-edit-why-final-cut-pro-outshines-final-cut-express/"><u>New In 2024, Upgrading Your Edit Why Final Cut Pro Outshines Final Cut Express</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-glitch-video-editing-software-for-windows-and-mac-free-and-paid-options-for-2024/"><u>New Top Glitch Video Editing Software for Windows and Mac Free and Paid Options for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimized-websites-with-the-power-of-cookiebot-technology/"><u>Optimized Websites with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/overcoming-mp4-import-errors-in-lightworks-with-effective-troubleshooting-techniques/"><u>Overcoming MP4 Import Errors in Lightworks with Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/swift-solution-for-clownfish-vocal-alteration-on-pc-systems-for-2024/"><u>Swift Solution for Clownfish Vocal Alteration on PC Systems for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-here-you-will-find-top-10-best-free-and-paid-final-cut-pro-x-alternatives-that-you-can-use-on-windows-mac-or-linux-computer/"><u>Updated 2024 Approved Here, You Will Find Top 10 Best Free and Paid Final Cut Pro X Alternatives that You Can Use on Windows, Mac or Linux Computer</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-nikon-video-editing-essentials-software-workflow-and-best-practices/"><u>Updated In 2024, Nikon Video Editing Essentials Software, Workflow, and Best Practices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-top-rated-free-video-stabilization-software-a-comprehensive-guide-for-2024/"><u>Updated The Top-Rated Free Video Stabilization Software A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-10-best-video-players-with-slow-motion/"><u>Updated The Ultimate Guide 10 Best Video Players with Slow Motion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-startup-zoom-navigating-participant-groups/"><u>[New] Startup Zoom Navigating Participant Groups</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-youtube-stats-efficiency-with-social-blades-advanced-analysis/"><u>[Updated] In 2024, Decoding YouTube Stats Efficiency with Social Blade's Advanced Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tips-for-reducing-unsteady-shots/"><u>[Updated] Tips for Reducing Unsteady Shots</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-turbo-charging-your-vimeo-views/"><u>[Updated] Turbo-Charging Your Vimeo Views</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-photographers-journey-to-jaw-dropping-colors-for-2024/"><u>A Photographer's Journey to Jaw-Dropping Colors for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/converti-gratuitamente-i-tuoi-gif-in-formato-3gp-con-ease-soluzione-on-line-di-movavi/"><u>Converti Gratuitamente I Tuoi GIF in Formato 3GP Con Ease: Soluzione On-Line Di Movavi</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-create-custom-titles-in-final-cut-pro-x-2023-update/"><u>New How to Create Custom Titles in Final Cut Pro X 2023 Update</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-take-your-videos-to-the-next-level-with-64-bit-editing/"><u>New Take Your Videos to the Next Level with 64-Bit Editing</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-motion-blur-on-video-star-for-2024/"><u>Updated How To Use Motion Blur On Video Star for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-stream-movie-trailers-anywhere-best-ios-apps/"><u>Updated In 2024, Stream Movie Trailers Anywhere Best iOS Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-slow-motion-video-editing-top-10-software/"><u>Updated The Ultimate Guide to Slow Motion Video Editing Top 10 Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-steal-final-cut-pro-education-bundle-at-a-fraction-of-the-cost/"><u>Updated The Ultimate Steal Final Cut Pro Education Bundle at a Fraction of the Cost</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/we-are-here-to-take-you-to-the-tour-of-the-easiest-video-editing-software-that-would-promise-a-professional-looking-end-product-in-ten-minutes-and-some-basi/"><u>We Are Here to Take You to the Tour of the Easiest Video Editing Software that Would Promise a Professional Looking End-Product in Ten Minutes and some Basic Editing Terms You Should Know</u></a></li>
 </ul></div>
 

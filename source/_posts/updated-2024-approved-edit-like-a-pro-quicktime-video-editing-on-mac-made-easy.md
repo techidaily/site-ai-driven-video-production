@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Edit Like a Pro QuickTime Video Editing on Mac Made Easy
-date: 2024-09-28T08:37:14.390Z
-updated: 2024-10-01T09:45:20.004Z
+date: 2024-10-02T16:57:13.489Z
+updated: 2024-10-06T17:36:34.328Z
 tags: 
   - video editing software
   - video editing
@@ -49,40 +49,13 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4: When you have done, click on “Trim”.
 
@@ -112,6 +85,13 @@ Step3: Choose to rotate the clip left or right, or flip it horizontally or verti
 
 Step4: When you're done, click Done.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
 [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is an easy-to-use video editor. Wondershare Filmora Mac version has powerful functions and rich functions. Using Wondershare Filmora Mac software, you can make high-quality videos. By using Filmora you will easily Create professional-like movies from video files, audio files, and photo files with transitions, effects and titles.
@@ -129,10 +109,23 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Wondershare Filmora Worth for Trying?
@@ -142,6 +135,13 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -158,21 +158,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-circling-the-globe-in-one-shot-versus-layered-visuals/"><u>[New] Circling the Globe in One Shot Versus Layered Visuals</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-11-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 11 and iPad Securely</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-g22-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia G22 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/coming-soon-the-new-macbook-with-touchscreen-technology-insights-into-release-schedule-pricing-forecasts-and-specs-breakdown/"><u>Coming Soon: The New MacBook with Touchscreen Technology - Insights Into Release Schedule, Pricing Forecasts, and Specs Breakdown</u></a></li>
-<li><a href="https://techtrends.techidaily.com/computer-boots-but-stays-dark-a-step-by-step-guide-to-fix-a-blank-monitor-issue/"><u>Computer Boots but Stays Dark: A Step-by-Step Guide to Fix a Blank Monitor Issue</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/conquer-console-gaming-world-with-asus-vg245h-a-masterful-display-experience/"><u>Conquer Console Gaming World with ASUS VG245H – A Masterful Display Experience</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-instagram-stories-learn-to-modify-video-velocity/"><u>In 2024, Instagram Stories Learn to Modify Video Velocity</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-list-10-animated-text-generators-for-stunning-visuals/"><u>New In 2024, The Ultimate List 10 Animated Text Generators for Stunning Visuals</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-streamline-your-workflow-expert-advice-on-managing-fcpx-storage-for-2024/"><u>New Streamline Your Workflow Expert Advice on Managing FCPX Storage for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-pova-5-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Pova 5 has been deleted.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamlessly-update-your-asus-wireless-adapter-with-these-easy-driver-download-steps/"><u>Seamlessly Update Your ASUS Wireless Adapter with These Easy Driver Download Steps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-art-of-cinematic-color-grading-in-final-cut-pro-x-for-2024/"><u>The Art of Cinematic Color Grading in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-make-a-movie-on-your-mac-a-comprehensive-guide/"><u>Updated 2024 Approved Make a Movie on Your Mac A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-videopad-review-is-it-the-best-video-editing-software-for-you/"><u>Updated 2024 Approved Videopad Review Is It the Best Video Editing Software for You ?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-funniest-in-the-business-5-reaction-video-makers-youll-love/"><u>Updated The Funniest in the Business 5 Reaction Video Makers Youll Love</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-time-lapse-apps-for-iphone-and-android/"><u>Updated The Ultimate Guide to Time-Lapse Apps for iPhone and Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-essential-lenovo-display-recording-hacks-for-2024/"><u>[New] The Essential Lenovo Display Recording Hacks for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-instagram-circle-of-power-the-leading-25-titans-revealed/"><u>[Updated] 2024 Approved The Instagram Circle of Power The Leading 25 Titans Revealed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-14-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on 14</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-future-of-walking-navigation-how-google-maps-live-view-transforms-travel/"><u>Discover the Future of Walking Navigation: How Google Maps Live View Transforms Travel</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-razer-driver-updates-for-windows-users-across-multiple-versions/"><u>Get the Newest Razer Driver Updates for Windows Users Across Multiple Versions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-15-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 15 Pro or iPad?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Xiaomi Civi 3 Disney 100th Anniversary Edition to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-c53-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme C53 Phone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-lights-camera-action-a-kid-friendly-guide-to-film-production/"><u>New In 2024, Lights, Camera, Action! A Kid-Friendly Guide to Film Production</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-simplify-your-storytelling-easy-movie-making-techniques/"><u>New In 2024, Simplify Your Storytelling Easy Movie Making Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-watermark-free-videos-how-to-remove-filmora-branding-with-or-without-paying/"><u>New In 2024, Watermark-Free Videos How to Remove Filmora Branding with or without Paying</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-10-animated-text-tools-you-need-to-try-this-year/"><u>New Top 10 Animated Text Tools You Need to Try This Year</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-a-swift-review-of-vn-video-editors-pc-version/"><u>Updated 2024 Approved A Swift Review of VN Video Editors PC Version</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-a-standout-video-resume-4-best-tools-with-free-templates/"><u>Updated Create a Standout Video Resume 4 Best Tools with Free Templates</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-final-cut-pro-color-grading-essentials/"><u>Updated Final Cut Pro Color Grading Essentials</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-elevate-your-video-game-top-4k8k-video-editing-solutions/"><u>Updated In 2024, Elevate Your Video Game Top 4K/8K Video Editing Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-reaction-video-mastery-top-ios-and-android-apps/"><u>Updated In 2024, Reaction Video Mastery Top iOS and Android Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-your-chromebooks-potential-how-to-install-linux/"><u>Updated Unlock Your Chromebooks Potential How to Install Linux</u></a></li>
 </ul></div>
 

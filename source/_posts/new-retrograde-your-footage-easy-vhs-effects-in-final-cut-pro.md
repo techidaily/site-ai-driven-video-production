@@ -1,7 +1,7 @@
 ---
 title: New Retrograde Your Footage Easy VHS Effects in Final Cut Pro
-date: 2024-09-24T17:36:26.295Z
-updated: 2024-10-01T11:45:26.735Z
+date: 2024-10-03T18:03:41.895Z
+updated: 2024-10-06T21:23:26.672Z
 tags: 
   - video editing software
   - video editing
@@ -94,15 +94,22 @@ First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Open Wondershare Filmora on your device.
@@ -114,6 +121,19 @@ To do VHS effects quickly, follow these steps:
 * Stretch it all the way to the black image. Change all the text in it as you like.
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
 
@@ -127,6 +147,13 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
@@ -139,19 +166,6 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
 
@@ -201,13 +215,6 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -221,13 +228,6 @@ The look of a VHS glitch effect is basic yet incredibly authentic. This one was 
 The appearance and feel of your production may be significantly enhanced by using VHS video effects. Nothing brings back memories for a viewer like a VHS video. By following the steps mentioned above, you can easily use the VHS effect in your video. However, we recommend you use Wondershare Filmore to create VHS effect as you wouldn't require any plugin. What are some of your favorite VHS effects?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -244,24 +244,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-3-strategies-for-clear-online-interaction-4/"><u>[New] In 2024, Top 3 Strategies for Clear Online Interaction (#4)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-tips-to-rank-facebook-page-better-for-2024/"><u>[New] Tips to Rank Facebook Page Better for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-of-both-worlds-exclusive-11-bridge-camera-guide/"><u>[Updated] In 2024, Best of Both Worlds Exclusive 11 Bridge Camera Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unmatched-audio-changer-applications-for-smartphones/"><u>[Updated] In 2024, Unmatched Audio Changer Applications for Smartphones</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-enhancing-conversations-the-essential-guide-to-using-gifs-on-discord/"><u>2024 Approved Enhancing Conversations The Essential Guide to Using GIFs on Discord</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-a-course-for-wealth-ajeys-youtube-income-blueprint/"><u>Charting a Course for Wealth Ajey's YouTube Income Blueprint</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/daenerys-dialer-leading-online-picks-to-download-game-ringtones/"><u>Daenerys' Dialer Leading Online Picks to Download Game Ringtones</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/explore-and-organize-your-files-a-guide-to-effective-version-tab-management/"><u>Explore & Organize Your Files - A Guide to Effective Version Tab Management</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-beat-of-the-moment-the-1-10-music-video-ranks/"><u>In 2024, Beat of the Moment The #1-#10 Music Video Ranks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-edit-flv-files-with-ease-top-windows-8-video-editing-software/"><u>New In 2024, Edit FLV Files with Ease Top Windows 8 Video Editing Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-replace-vsdc-with-these-top-notch-video-editors-on-mac/"><u>New In 2024, Replace VSDC with These Top-Notch Video Editors on Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-s-top-free-quicktime-video-editors-for-beginners-and-pros/"><u>New S Top Free QuickTime Video Editors for Beginners and Pros</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-your-creativity-avi-editor-for-windows-8-with-advanced-features-for-2024/"><u>New Unleash Your Creativity AVI Editor for Windows 8 with Advanced Features for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-webm-to-mp4-converter-roundup-top-10-picks-for-2024/"><u>New WebM to MP4 Converter Roundup Top 10 Picks for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/restoring-clarity-resolving-iphones-blurry-photos-for-2024/"><u>Restoring Clarity Resolving iPhone's Blurry Photos for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-of-public-domain-video-download-websites/"><u>The Ultimate List of Public Domain Video Download Websites</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-lego-animation-all-stars-the-top-creators/"><u>Updated 2024 Approved Lego Animation All-Stars The Top Creators</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-update-expert-picks-for-the-top-2d-animation-software/"><u>Updated In 2024, Update Expert Picks for the Top 2D Animation Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-your-creativity-how-to-make-a-professional-looking-video-from-photos/"><u>Updated Unleash Your Creativity How to Make a Professional-Looking Video From Photos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-a-beginners-pathway-to-innovative-snapchat-expressions/"><u>[New] A Beginner's Pathway to Innovative Snapchat Expressions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-save-instagram-videos-on-desktop-devices/"><u>[New] Step-by-Step Save Instagram Videos on Desktop Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-tutorial-for-powerdirector-2024-users/"><u>[New] Ultimate Tutorial for PowerDirector 2024 Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-prime-gear-picks-for-beginning-creators/"><u>[Updated] 2024 Approved Prime Gear Picks for Beginning Creators</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-enhancing-collaboration-with-win11-and-zoom-techniques/"><u>2024 Approved Enhancing Collaboration with Win11 and Zoom Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/audio-troubleshooting-techniques-for-non-responsive-chromecasts/"><u>Audio Troubleshooting Techniques for Non-Responsive Chromecasts</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/how-to-prevent-metro-exodus-from-crashing-on-your-desktop-computer/"><u>How to Prevent Metro Exodus From Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-solutions-for-upgrading-synaptics-mouse-pad-drivers-with-ps2-connectors/"><u>Speedy Solutions for Upgrading Synaptics Mouse Pad Drivers with PS/2 Connectors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/spring-into-savings-wondershare-filmora-coupon-code-march-2024/"><u>Spring Into Savings Wondershare Filmora Coupon Code - March 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-from-still-to-motion-mastering-time-lapse-video-creation-with-software/"><u>Updated 2024 Approved From Still to Motion Mastering Time Lapse Video Creation with Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-art-of-transitions-3-expert-tips-for-final-cut-pro-users/"><u>Updated In 2024, The Art of Transitions 3 Expert Tips for Final Cut Pro Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-vignette-apps-for-mobile-devices-free-and-premium-options/"><u>Updated In 2024, Top Vignette Apps for Mobile Devices Free and Premium Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-transform-your-3gp-videos-top-free-rotation-software-compared/"><u>Updated In 2024, Transform Your 3GP Videos Top Free Rotation Software Compared</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-free-avi-video-rotators-a-comprehensive-review/"><u>Updated The Best Free AVI Video Rotators A Comprehensive Review</u></a></li>
 </ul></div>
 

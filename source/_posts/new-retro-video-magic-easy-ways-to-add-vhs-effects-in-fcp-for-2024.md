@@ -1,7 +1,7 @@
 ---
 title: New Retro Video Magic Easy Ways to Add VHS Effects in FCP for 2024
-date: 2024-08-21T14:51:42.236Z
-updated: 2024-08-22T14:51:42.236Z
+date: 2024-10-02T19:30:24.368Z
+updated: 2024-10-06T18:15:31.146Z
 tags: 
   - video editing software
   - video editing
@@ -108,6 +108,13 @@ To do VHS effects quickly, follow these steps:
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go to Effect, and in the search bar, type **VHS**.
 
 * Drag and drop the VHS Distortion Bad effect on the timeline above the text layer.
@@ -120,10 +127,24 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
 
@@ -159,9 +180,6 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -185,9 +203,12 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -202,16 +223,11 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -219,3 +235,27 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/avigating-youtube-success-through-strategic-studio-use-for-2024/"><u>[New] Navigating YouTube Success Through Strategic Studio Use for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tips-and-tricks-for-successful-social-media-video-for-2024/"><u>[New] Tips & Tricks for Successful Social Media Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-fast-and-reliable-download-your-favorite-youtube-content/"><u>[Updated] In 2024, Free, Fast and Reliable Download Your Favorite YouTube Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rmvbflv-movavi/"><u>安心です!無料ウェブサイトでのRMVB/FLV動画変換 - Movaviツール</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-smart-8-hd-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Smart 8 HD</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-k70-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi K70 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-the-ideal-set-of-keywords-for-your-youtube-videos/"><u>In 2024, Crafting the Ideal Set of Keywords for Your Youtube Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-weightless-power-next-gen-structural-carbon-fiber-battery-technology-transforms-device-design/"><u>Introducing Weightless Power: Next-Gen Structural Carbon Fiber Battery Technology Transforms Device Design</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-download-games-safely-top-10plus-reputable-websites/"><u>New In 2024, Download Games Safely Top 10+ Reputable Websites</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-mac-video-editor-adobe-premiere-pro-for-pros/"><u>New The Ultimate Mac Video Editor Adobe Premiere Pro for Pros</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/pro-level-color-correction-in-final-cut-pro/"><u>Pro-Level Color Correction in Final Cut Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-and-trouble-free-mp4-video-uploads-for-youtube-success/"><u>Quick and Trouble-Free MP4 Video Uploads for YouTube Success</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-art-of-slow-motion-tips-and-tricks-for-windows-live-movie-maker-users-for-2024/"><u>The Art of Slow Motion Tips and Tricks for Windows Live Movie Maker Users for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-of-animation-tools-for-schools/"><u>The Ultimate List of Animation Tools for Schools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-how-to-fix-a-non-responsive-apple-watch-display/"><u>Troubleshooting Tips: How to Fix a Non-Responsive Apple Watch Display</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-rated-4k-proxy-video-editing-tools-a-review/"><u>Updated 2024 Approved Top-Rated 4K Proxy Video Editing Tools A Review</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-hacks-streamline-your-reaction-video-creation-process/"><u>Updated Filmora Hacks Streamline Your Reaction Video Creation Process</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-alternatives-to-powerdirector-top-mobile-video-editing-software/"><u>Updated In 2024, Alternatives to PowerDirector Top Mobile Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-record-like-a-pro-10-best-free-music-production-software-for-2024/"><u>Updated Record Like a Pro 10 Best Free Music Production Software for 2024</u></a></li>
+</ul></div>
+

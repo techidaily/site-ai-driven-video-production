@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2024-09-28T04:32:28.896Z
-updated: 2024-10-01T10:34:26.067Z
+date: 2024-10-02T19:43:32.131Z
+updated: 2024-10-06T17:43:27.000Z
 tags: 
   - video editing software
   - video editing
@@ -65,10 +65,10 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -88,17 +88,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -106,13 +106,6 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -126,6 +119,19 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,20 +148,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-5-superior-ps2-android-gaming-simulators-reviewed/"><u>[New] 2024 Approved The 5 Superior PS2 Android Gaming Simulators Reviewed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-androids-premier-photographic-tool-is-pickup-at-the-forefront/"><u>[New] Android’s Premier Photographic Tool – Is PickUp at the Forefront?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-self-expression-through-instacraze-100-captivating-captions/"><u>[Updated] 2024 Approved Self-Expression Through #InstaCraze 100 Captivating Captions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-fast-forward-freedom-in-snapchat-a-noobs-handbook/"><u>[Updated] Fast-Forward Freedom in Snapchat A Noob’s Handbook</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-realme-c67-4g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Realme C67 4G</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ey-beyond-reality-the-best-of-youtubes-virtual-worlds/"><u>Journey Beyond Reality The Best of YouTube’s Virtual Worlds</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-ideapad-notebook-assessment-an-efficient-device-with-impressive-design/"><u>Lenovo Ideapad Notebook Assessment: An Efficient Device with Impressive Design</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-cheap-but-powerful-video-editing-software-options-for-2024/"><u>New Cheap but Powerful Video Editing Software Options for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-cut-to-the-chase-filmora-coupon-codes-without-the-fuss-for-2024/"><u>New Cut to the Chase Filmora Coupon Codes Without the Fuss for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-easter-eggstravaganza-wondershare-filmora-promo-code-inside/"><u>New Easter Eggstravaganza Wondershare Filmora Promo Code Inside</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-edit-m4a-files-for-free-top-software-picks/"><u>New Edit M4A Files for Free Top Software Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-edits-3-simple-transition-techniques-in-final-cut-pro-for-2024/"><u>New Elevate Your Edits 3 Simple Transition Techniques in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-storytelling-adding-picture-in-picture-elements-to-your-fcp-projects-for-2024/"><u>New Elevate Your Storytelling Adding Picture-in-Picture Elements to Your FCP Projects for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-here-are-10-best-trailer-makers-for-mac-and-windows-to-creating-attractive-movie-trailers-for-2024/"><u>New Here Are 10 Best Trailer Makers for Mac and Windows to Creating Attractive Movie Trailers for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/step-by-step-facebook-live-on-roku-platform-for-2024/"><u>Step-by-Step Facebook Live on Roku Platform for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-choices-animation-friendly-3d-model-tools/"><u>[New] In 2024, Top Choices Animation-Friendly 3D Model Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cutting-down-on-workload-the-ultimate-mac-mp4-apps-list-for-2024/"><u>[Updated] Cutting Down on Workload The Ultimate Mac MP4 Apps List for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/altering-windows-fn-key-behavior-for-efficiency/"><u>Altering Windows Fn Key Behavior for Efficiency</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-funniest-memes-to-download-iphone/"><u>In 2024, Funniest Memes to Download (iPhone)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mkvtoolnix-for-mac-the-easiest-way-to-edit-videos-for-2024/"><u>New MKVtoolnix for Mac The Easiest Way to Edit Videos for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-fake-face-creators-top-picks-for-online-identity-design/"><u>Updated In 2024, Fake Face Creators Top Picks for Online Identity Design</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-color-grading-tutorial-final-cut-pro-edition/"><u>Updated In 2024, The Ultimate Color Grading Tutorial Final Cut Pro Edition</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-say-goodbye-to-watermarks-7-top-video-merger-apps-for-2024/"><u>Updated Say Goodbye to Watermarks 7 Top Video Merger Apps for 2024</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-x6-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo Find X6 Pro</u></a></li>
 </ul></div>
 
