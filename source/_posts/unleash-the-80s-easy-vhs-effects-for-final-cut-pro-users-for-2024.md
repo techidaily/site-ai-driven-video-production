@@ -1,7 +1,7 @@
 ---
 title: Unleash the 80S Easy VHS Effects for Final Cut Pro Users for 2024
-date: 2024-09-29T23:08:55.079Z
-updated: 2024-10-01T09:40:49.752Z
+date: 2024-10-06T04:48:32.820Z
+updated: 2024-10-11T22:27:25.129Z
 tags: 
   - video editing software
   - video editing
@@ -94,16 +94,22 @@ First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
@@ -116,10 +122,10 @@ To do VHS effects quickly, follow these steps:
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
@@ -128,6 +134,19 @@ Go to Effect, and in the search bar, type **VHS**.
 * Double click on it and change the Alpha value to 25 and click Ok.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
@@ -156,13 +175,6 @@ Search for **Chromatic Aberration effect**.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now Search for **VCR Distortion** in the search bar.
 
 1. Drag and drop it above the previous layer.
@@ -179,13 +191,6 @@ Search for **Chromatic Aberration effect**.
 You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
@@ -208,6 +213,19 @@ A resources center built for Filmora. You can find all the materials and effects
 Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
 
@@ -238,17 +256,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-how-to-fix-slime-rancher-2-crashing-on-pc/"><u>[Solved] How to Fix Slime Rancher 2 Crashing on PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oneplus-ace-2-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On OnePlus Ace 2 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-if-you-want-to-make-animated-photo-easily-here-is-8-best-photo-animation-app-and-software-to-make-animated-photos-on-phone-and-desktop-check-this-post-f/"><u>New If You Want to Make Animated Photo Easily, Here Is 8 Best Photo Animation App and Software to Make Animated Photos on Phone and Desktop. Check This Post for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-your-creativity-top-free-vob-video-editors-for-2024/"><u>New Unleash Your Creativity Top Free VOB Video Editors for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/no-copyright-worries-10-best-public-domain-image-sites/"><u>No Copyright Worries 10 Best Public Domain Image Sites</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/al-film-and-camera-choices-for-youtube-vloggers-for-2024/"><u>Optimal Film & Camera Choices for YouTube Vloggers for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-avi-editor-for-windows-8-effortless-video-editing-experience-2023-for-2024/"><u>The Ultimate AVI Editor for Windows 8 Effortless Video Editing Experience - 2023 for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-tutorial-using-windows-media-player-to-enjoy-dvd-movies-and-more/"><u>Ultimate Tutorial: Using Windows Media Player to Enjoy DVD Movies & More</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unleash-youtube-potential-with-imaginative-splitscreens-for-2024/"><u>Unleash YouTube Potential with Imaginative Splitscreens for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-free-vob-video-editing-programs-for-windows-and-macos/"><u>Updated In 2024, The Best Free VOB Video Editing Programs for Windows and macOS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-premium-memory-compatible-with-sony-a7-cams/"><u>[New] 2024 Approved Premium Memory Compatible with Sony A7 Cams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-conquer-youtube-vimeo-editing-5-advanced-trimming-strategies/"><u>[Updated] Conquer YouTube-Vimeo Editing 5 Advanced Trimming Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-fb-lives-dual-screen-dynamics-essential-insights/"><u>2024 Approved Navigating FB Live's Dual-Screen Dynamics Essential Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers/"><u>2024 Approved Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fast-windows-content-survey-blueprint/"><u>Fast Windows Content Survey Blueprint</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-error-free-workflow-tips-tricks-and-techniques-for-2024/"><u>FCPX Error-Free Workflow Tips, Tricks, and Techniques for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/free-video-upgrades-the-8-best-online-quality-enhancers-this-year/"><u>Free Video Upgrades The 8 Best Online Quality Enhancers This Year</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-create-engaging-videos-with-these-10-free-whiteboard-animation-tools/"><u>In 2024, Create Engaging Videos with These 10 Free Whiteboard Animation Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-disappointed-that-cant-use-pinnacle-studio-on-mac-weve-got-you-covered-check-out-our-list-below-for-some-great-alternatives-to-pinnacle-studio-for-m/"><u>In 2024, Disappointed that Cant Use Pinnacle Studio on Mac? Weve Got You Covered! Check Out Our List Below for some Great Alternatives to Pinnacle Studio for Mac Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-from-ordinary-to-outstanding-unveiling-the-secrets-of-engaging-biographies/"><u>In 2024, From Ordinary to Outstanding Unveiling the Secrets of Engaging Biographies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c12-plus-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia C12 Plus to New Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-snapchats-language-decoding-emoji-significances-inside-out/"><u>Mastering Snapchat's Language: Decoding Emoji Significances Inside Out</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-no-cost-video-trimming-10-best-online-solutions/"><u>New 2024 Approved No-Cost Video Trimming 10 Best Online Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-article-below-will-show-you-some-of-the-best-apps-to-convert-a-video-to-a-live-photo-and-how-to-set-up-live-photos-as-wallpaper-on-iph/"><u>New 2024 Approved The Article Below Will Show You some of the Best Apps to Convert a Video to a Live Photo, and How to Set up Live Photos as Wallpaper on iPhone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-windows-10-video-editing-software-best-imovie-alternatives/"><u>New 2024 Approved Windows 10 Video Editing Software Best iMovie Alternatives</u></a></li>
 </ul></div>
 

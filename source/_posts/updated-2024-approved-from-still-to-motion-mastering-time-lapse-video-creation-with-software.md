@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved From Still to Motion Mastering Time Lapse Video Creation with Software
-date: 2024-08-21T14:40:51.329Z
-updated: 2024-08-22T14:40:51.329Z
+date: 2024-10-09T04:39:54.209Z
+updated: 2024-10-12T03:17:33.543Z
 tags: 
   - video editing software
   - video editing
@@ -99,11 +99,25 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -115,7 +129,21 @@ That’s how to make a cool time lapse video with the time lapse video software 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -123,23 +151,30 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-exploring-ice-cream-screen-recorder-technology/"><u>[New] 2024 Approved Exploring Ice Cream Screen Recorder Technology</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-artisans-guide-to-flawless-skype-calls-capture-and-storage/"><u>[New] In 2024, The Artisan's Guide to Flawless Skype Calls Capture and Storage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-bring-your-presentations-to-life-with-aiseesoft-screencast-capabilities/"><u>[Updated] 2024 Approved Bring Your Presentations to Life with Aiseesoft Screencast Capabilities</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-mute-non-stop-fb-video-ad-content/"><u>[Updated] In 2024, How to Mute Non-Stop FB Video Ad Content</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-infinix-hot-40i-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Hot 40i to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-video-editing-techniques-on-snapchat-a-step-by-step-guide/"><u>Easy Video Editing Techniques on Snapchat: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ensure-error-free-content-with-pre-conversion-text-editing-services-by-flipbuildercom/"><u>Ensure Error-Free Content with Pre-Conversion Text Editing Services by FlipBuilder.com</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-avoiding-the-blank-thumbnail-scenario-in-shorts/"><u>In 2024, Avoiding the Blank Thumbnail Scenario in Shorts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-s-best-free-avi-video-rotators-expert-recommendations/"><u>New In 2024, S Best Free AVI Video Rotators Expert Recommendations</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-users-download-splice-video-editor-now-and-edit-like-a-pro/"><u>New Mac Users, Download Splice Video Editor Now and Edit Like a Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-streaming-local-media-to-chromecast-on-windows-mac-android-and-ios-for-2024/"><u>New The Ultimate Guide to Streaming Local Media to Chromecast on Windows, Mac, Android, and iOS for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-video-highlight-creators-desktop-and-mobile-options-for-2024/"><u>New Top Video Highlight Creators Desktop and Mobile Options for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-10-movie-trailer-apps-for-iphones-and-ipads-for-2024/"><u>Top 10 Movie Trailer Apps for iPhones and iPads for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-forward-to-reverse-mastering-video-reversal-in-final-cut-pro/"><u>Updated In 2024, From Forward to Reverse Mastering Video Reversal in Final Cut Pro</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-the-essential-guide-to-emoji-memoji-animoji-and-bitmoji-for-2024/"><u>Updated The Essential Guide to Emoji, Memoji, Animoji, and Bitmoji for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-the-power-of-time-lapse-expert-tips-for-final-cut-pro-users/"><u>Updated Unleash the Power of Time Lapse Expert Tips for Final Cut Pro Users</u></a></li>
+</ul></div>
+

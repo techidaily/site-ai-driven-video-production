@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Get Ready to Edit Meeting Premiere Pros System Demands
-date: 2024-10-04T18:05:16.854Z
-updated: 2024-10-06T18:13:40.542Z
+date: 2024-10-11T01:42:23.975Z
+updated: 2024-10-12T13:28:21.342Z
 tags: 
   - video editing software
   - video editing
@@ -46,13 +46,6 @@ However, it is important to remember this is the minimum specification, and will
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to check Computer Specifications
 
 Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, we will show you how to check if your PC meets the requirements to run Premiere Pro on Windows 10
@@ -61,6 +54,13 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 * Right click the **This PC** option in the sidebar and then select **Properties** from the context menu.
 
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
 
@@ -100,22 +100,15 @@ That is the theory, but how do you achieve this? This is done within Premiere it
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
 
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-2.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 7\. Sequence Setting
@@ -131,10 +124,10 @@ The Preset Tab makes setting up a new sequence much simpler. Choosing a preset e
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
@@ -144,6 +137,13 @@ Because the presets do such a good job it is not really necessary to adjust anyt
 While the standard presets are usually suitable, on occasion you may desire a custom setting. To do this, choose a sequence preset that is close to your media, and then make custom selections in the Settings tab. By selecting the Save Preset option on the Settings tab you can then create a custom setting with those parameters. Give the preset a suitable name in the Save Settings dialog and add any notes that are needed. The preset can be found in the Custom folder under Available Presets.
 
 Those with the Apple Prores Codec on their computers can use this as the preview codec if required. By choosing Quicktime as the preview format in a custom editing mode, and lastly Apple Prores as the required codec.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -166,18 +166,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-startup-zoom-navigating-participant-groups/"><u>[New] Startup Zoom Navigating Participant Groups</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-youtube-stats-efficiency-with-social-blades-advanced-analysis/"><u>[Updated] In 2024, Decoding YouTube Stats Efficiency with Social Blade's Advanced Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tips-for-reducing-unsteady-shots/"><u>[Updated] Tips for Reducing Unsteady Shots</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-turbo-charging-your-vimeo-views/"><u>[Updated] Turbo-Charging Your Vimeo Views</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-photographers-journey-to-jaw-dropping-colors-for-2024/"><u>A Photographer's Journey to Jaw-Dropping Colors for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/converti-gratuitamente-i-tuoi-gif-in-formato-3gp-con-ease-soluzione-on-line-di-movavi/"><u>Converti Gratuitamente I Tuoi GIF in Formato 3GP Con Ease: Soluzione On-Line Di Movavi</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-create-custom-titles-in-final-cut-pro-x-2023-update/"><u>New How to Create Custom Titles in Final Cut Pro X 2023 Update</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-take-your-videos-to-the-next-level-with-64-bit-editing/"><u>New Take Your Videos to the Next Level with 64-Bit Editing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-motion-blur-on-video-star-for-2024/"><u>Updated How To Use Motion Blur On Video Star for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-stream-movie-trailers-anywhere-best-ios-apps/"><u>Updated In 2024, Stream Movie Trailers Anywhere Best iOS Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-slow-motion-video-editing-top-10-software/"><u>Updated The Ultimate Guide to Slow Motion Video Editing Top 10 Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-steal-final-cut-pro-education-bundle-at-a-fraction-of-the-cost/"><u>Updated The Ultimate Steal Final Cut Pro Education Bundle at a Fraction of the Cost</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/we-are-here-to-take-you-to-the-tour-of-the-easiest-video-editing-software-that-would-promise-a-professional-looking-end-product-in-ten-minutes-and-some-basi/"><u>We Are Here to Take You to the Tour of the Easiest Video Editing Software that Would Promise a Professional Looking End-Product in Ten Minutes and some Basic Editing Terms You Should Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-ultimate-photo-frame-tools/"><u>[New] Unveiling the Ultimate Photo Frame Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instaflash-compile-your-pics-fast/"><u>[Updated] InstaFlash Compile Your Pics Fast</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevating-your-youtube-comments-with-emoji-skills/"><u>2024 Approved Elevating Your YouTube Comments with Emoji Skills</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-common-crash-issues-in-gears-5/"><u>Expert Tips to Overcome Common Crash Issues in Gears 5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubers-advanced-toolkit-studio-selection-over-beta/"><u>In 2024, YouTuber's Advanced Toolkit Studio Selection Over Beta</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-lego-stop-motion-superstars-the-best-of-the-best/"><u>New Lego Stop Motion Superstars The Best of the Best</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-a-blockbuster-trailer-best-software-for-mac-and-windows-for-2024/"><u>New Make a Blockbuster Trailer Best Software for Mac and Windows for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-guide-to-youtube-autoplay-on-facebook-for-2024/"><u>The Ultimate Guide to YouTube Autoplay on Facebook for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-download-source-for-official-nvidia-driver-update-compatible-with-win10-8/"><u>Ultimate Download Source for Official NVIDIA Driver Update - Compatible with Win10, 8</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-capture-your-screen-a-beginners-guide-to-filmora-scrn-desktop-recording/"><u>Updated 2024 Approved Capture Your Screen A Beginners Guide to Filmora Scrn Desktop Recording</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-games-galore-the-best-download-sites-for-pc-android-and-mobile/"><u>Updated 2024 Approved Free Games Galore The Best Download Sites for PC, Android, and Mobile</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-16-avi-video-cutters-trimcut-avi-videos-windows-mac-android/"><u>Updated 2024 Approved Top 16 AVI Video Cutters Trim/Cut AVI Videos Windows, MAC, Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-trim-and-cut-avi-videos-like-a-pro-top-16-software-solutions/"><u>Updated 2024 Approved Trim and Cut AVI Videos Like a Pro Top 16 Software Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-avs-video-editor-software-review-pros-cons-and-verdict-for-2024/"><u>Updated AVS Video Editor Software Review Pros, Cons, and Verdict for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-from-fcp-to-vhs-effortless-ways-to-add-retro-flair/"><u>Updated From FCP to VHS Effortless Ways to Add Retro Flair</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-how-do-you-get-the-bokeh-effect-app-here-are-some-of-the-best-bokeh-apps-for-the-iphone-and-android/"><u>Updated In 2024, How Do You Get the Bokeh Effect App? Here Are some of the Best Bokeh Apps for the iPhone and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-pc-intro-maker-showdown-top-online-and-offline-tools/"><u>Updated PC Intro Maker Showdown Top Online and Offline Tools</u></a></li>
 </ul></div>
 

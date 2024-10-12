@@ -1,7 +1,7 @@
 ---
 title: Updated From FCP to VHS Effortless Ways to Add Retro Flair
-date: 2024-10-05T19:33:14.835Z
-updated: 2024-10-06T18:10:33.313Z
+date: 2024-10-08T16:10:04.917Z
+updated: 2024-10-12T09:58:32.427Z
 tags: 
   - video editing software
   - video editing
@@ -98,6 +98,13 @@ To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
 * Select the Black Color.
@@ -107,13 +114,6 @@ To do VHS effects quickly, follow these steps:
 * Stretch it all the way to the black image. Change all the text in it as you like.
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Go to Effect, and in the search bar, type **VHS**.
 
@@ -128,23 +128,16 @@ Go to Effect, and in the search bar, type **VHS**.
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
 
@@ -155,10 +148,10 @@ Go to Effect, and in the search bar, type **VHS**.
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
@@ -223,6 +216,13 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -238,22 +238,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-100-instagram-captions-to-show-yourself-to-the-world-filmora/"><u>[New] 100 Instagram Captions to Show Yourself to the World - Filmora</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-acceleration-trendsetting-with-likes-and-videos/"><u>[New] In 2024, Instagram Acceleration Trendsetting with Likes & Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-monetizing-video-content-8-essentials-for-novices/"><u>[Updated] Monetizing Video Content - 8 Essentials for Novices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-s23-ultra-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy S23 Ultra to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-firefox-pip-a-complete-users-manual/"><u>In 2024, Firefox PIP A Complete User's Manual</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-merriment-joining-and-leaving-rituals/"><u>In 2024, Merriment Joining & Leaving Rituals</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-redmi-note-13-pro-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi Redmi Note 13 Pro 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-capture-your-gaming-moments-3-easy-recording-options/"><u>New In 2024, Capture Your Gaming Moments 3 Easy Recording Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-16-best-free-avi-video-rotators-windows-mac-android-iphone-an-for-2024/"><u>New Top 16 Best Free AVI Video Rotators Windows, MAC, Android, iPhone, An for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-transform-your-video-how-to-adjust-shape-and-size-for-2024/"><u>New Transform Your Video How to Adjust Shape and Size for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-5-best-free-m4a-audio-editors-you-need-to-try/"><u>The 5 Best Free M4A Audio Editors You Need to Try</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-path-to-flawless-film-recording-device-agnostic-guide/"><u>The Path to Flawless Film Recording Device Agnostic Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-video-fx-apps-the-ultimate-list-for-ios-and-android/"><u>Updated 2024 Approved Free Video FX Apps The Ultimate List for iOS and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-here-are-the-ten-best-stop-motion-apps-for-ios-and-android-devices-that-enable-you-to-create-awesome-stop-motion-animations/"><u>Updated 2024 Approved Here Are the Ten Best Stop Motion Apps for iOS and Android Devices that Enable You to Create Awesome Stop Motion Animations</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-rated-free-video-editors-for-gamers/"><u>Updated 2024 Approved Top-Rated Free Video Editors for Gamers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-guide-to-alternatives-to-gopro-studio-for-video-editing/"><u>Updated In 2024, The Ultimate Guide to Alternatives to GoPro Studio for Video Editing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unleashing-the-power-of-color-in-final-cut-pro/"><u>Updated In 2024, Unleashing the Power of Color in Final Cut Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-effortless-pc-sound-logging-with-x-recorder-software/"><u>[New] 2024 Approved Effortless PC Sound Logging with X-Recorder Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cutting-edge-techniques-for-fb-streaming-records/"><u>[New] Cutting-Edge Techniques for FB Streaming Records</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-reviving-the-gone-retrieving-former-reddit-discussions/"><u>[New] Reviving the Gone Retrieving Former Reddit Discussions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-silent-whispers-of-comfort-leading-asmr-voices/"><u>[New] Silent Whispers of Comfort Leading ASMR Voices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-step-by-step-guide-to-excelling-at-final-cut-pro/"><u>2024 Approved Step-by-Step Guide to Excelling at Final Cut Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/exquisite-quintet-of-precision-engineered-cameras/"><u>Exquisite Quintet of Precision-Engineered Cameras</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-freeze-resolving-steam-problems-during-games-on-win-11/"><u>Fixing the Freeze: Resolving Steam Problems During Games on Win 11</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/gratis-online-omzettingen-van-qt-fliesjes-naar-mp3-movavi/"><u>Gratis Online Omzettingen Van QT-Fliesjes Naar MP3 - Movavi</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-the-power-of-slow-mo-top-video-players/"><u>New Unleash the Power of Slow Mo Top Video Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/repairing-the-grayscale-crisis-in-fallout-4-gaming-experience/"><u>Repairing the Grayscale Crisis in Fallout 4 Gaming Experience</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-4k-video-editors-expert-reviews-and-comparisons-for-2024/"><u>Updated Best 4K Video Editors Expert Reviews and Comparisons for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-make-reaction-videos-like-a-pro-simplified-with-filmoras-user-friendly-tools/"><u>Updated In 2024, Make Reaction Videos Like a Pro Simplified with Filmoras User-Friendly Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/windows-live-movie-maker-tutorial-splitting-videos-made-easy/"><u>Windows Live Movie Maker Tutorial Splitting Videos Made Easy</u></a></li>
 </ul></div>
 

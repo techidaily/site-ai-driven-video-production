@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Audio Editing Essentials 2 Ways to Fade In and Out in FCP
-date: 2024-08-21T14:43:39.603Z
-updated: 2024-08-22T14:43:39.603Z
+date: 2024-10-05T06:15:36.507Z
+updated: 2024-10-11T22:46:37.403Z
 tags: 
   - video editing software
   - video editing
@@ -81,9 +81,25 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -91,8 +107,12 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -107,15 +127,17 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +145,23 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-complete-guide-to-safaris-picture-in-picture-mode/"><u>[New] 2024 Approved The Complete Guide to Safari's Picture-in-Picture Mode</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-effortless-note-management-on-mematic-platform-for-2024/"><u>[New] Effortless Note Management on Mematic Platform for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ideo-content-battle-who-wins-with-vimeo-youtube-or-dailymotion-in-2024/"><u>[New] Video Content Battle Who Wins with Vimeo, YouTube, or DailyMotion, In 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-x-debugging-secrets-unleash-your-editing-potential/"><u>Final Cut Pro X Debugging Secrets Unleash Your Editing Potential</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-discover-the-top-free-android-video-editing-apps-plus-paid-options/"><u>In 2024, Discover the Top Free Android Video Editing Apps Plus Paid Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/longeebility-showdown-ev-battery-life-vs-gasoline-car-engine-lifespans/"><u>Longeebility Showdown: EV Battery Life vs Gasoline Car Engine Lifespans</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-avs-video-editor-a-review-of-its-performance-and-capabilities/"><u>New 2024 Approved AVS Video Editor A Review of Its Performance and Capabilities</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-final-cut-pro-color-correction-from-basics-to-advanced/"><u>New 2024 Approved Final Cut Pro Color Correction From Basics to Advanced</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-make-a-fake-face-online-top-free-tools-and-apps/"><u>New 2024 Approved Make a Fake Face Online Top Free Tools and Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-trending-android-apps-on-google-play-this-month/"><u>New 2024 Approved Top-Trending Android Apps on Google Play This Month</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mkvtoolnix-for-macos-a-beginners-guide-to-video-editing-2023-for-2024/"><u>New MKVtoolnix for macOS A Beginners Guide to Video Editing 2023 for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-timely-notifications-in-ios-a-comprehensive-guide/"><u>Understanding Timely Notifications in iOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleashing-brand-potential-with-free-youtube-marketing-templates-for-2024/"><u>Unleashing Brand Potential with FREE YouTube Marketing Templates for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-how-to-mute-audio-from-video/"><u>Updated In 2024, How to Mute Audio From Video</u></a></li>
+</ul></div>
+

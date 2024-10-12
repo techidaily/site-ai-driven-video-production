@@ -1,7 +1,7 @@
 ---
 title: Unlock Smooth Editing Premiere Pro System Requirements Explained
-date: 2024-09-26T04:13:54.252Z
-updated: 2024-10-01T03:06:06.919Z
+date: 2024-10-06T09:32:11.894Z
+updated: 2024-10-12T08:06:30.005Z
 tags: 
   - video editing software
   - video editing
@@ -56,10 +56,16 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 ![check PC system](https://images.wondershare.com/filmora/filmorapro/check-system-requirements.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * The system specification window will show up which you see the **Processor**, RAM, system type and other system information.
@@ -67,13 +73,6 @@ Since Premiere Pro CC only works on Windows 10 system after 2018 13.0 release, w
 Checking the specification on your Mac is easy, just click the **Apple icon** in the top-left corner of your Mac, and then select **About This Mac** option. In the pop-up window you will see the information including Processor speed, memory and graphic card etc.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Computer for Premiere
 
@@ -108,10 +107,10 @@ That is the theory, but how do you achieve this? This is done within Premiere it
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-1.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Changing where the project files, previews and exports are stored is just as easy, and is accessed via the project menu by taking the path project > project settings > scratchdisks.
@@ -131,10 +130,10 @@ The Preset Tab makes setting up a new sequence much simpler. Choosing a preset e
 ![adobe premiere requirements](https://images.wondershare.com/images/multimedia/video-editor/adobe-premiere-3.png "adobe premiere requirements")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once the preset is chosen you can move to the settings tab to adjust the preset manually. Some settings will not be adjustable in this tab due to the specific optimization required for the input media.
@@ -144,6 +143,13 @@ Because the presets do such a good job it is not really necessary to adjust anyt
 While the standard presets are usually suitable, on occasion you may desire a custom setting. To do this, choose a sequence preset that is close to your media, and then make custom selections in the Settings tab. By selecting the Save Preset option on the Settings tab you can then create a custom setting with those parameters. Give the preset a suitable name in the Save Settings dialog and add any notes that are needed. The preset can be found in the Custom folder under Available Presets.
 
 Those with the Apple Prores Codec on their computers can use this as the preview codec if required. By choosing Quicktime as the preview format in a custom editing mode, and lastly Apple Prores as the required codec.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -166,15 +172,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-acclaimed-ideas-top-tone-creators-for-apple-phones/"><u>[New] Acclaimed Ideas Top Tone Creators for Apple Phones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-iphone-creating-and-editing-low-speed-video-clips/"><u>[New] Mastering iPhone Creating & Editing Low-Speed Video Clips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-tiktok-video-viewership-through-zoom/"><u>Enhancing TikTok Video Viewership Through Zoom</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instabeats-blending-music-and-visuals-tactfully/"><u>InstaBeats Blending Music & Visuals Tactfully</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-inter-system-file-transfer-with-nearby-share-protocols/"><u>Mastering Inter-System File Transfer with Nearby Share Protocols</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-video-freedom-on-chromecast-playing-any-file-type/"><u>New Video Freedom on Chromecast Playing Any File Type</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-supercharge-your-video-edits-top-adobe-premiere-plugins-free-trial/"><u>Updated 2024 Approved Supercharge Your Video Edits Top Adobe Premiere Plugins (Free Trial)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-rated-tiktok-watermark-remover-tools-online/"><u>Updated 2024 Approved Top Rated TikTok Watermark Remover Tools Online</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-what-makes-the-best-lower-thirds-in-final-cut-pro-x-for-2024/"><u>Updated What Makes the Best Lower Thirds in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-cinematic-basics-unveiled-fundamental-shots-explained-clearly/"><u>[Updated] 2024 Approved Cinematic Basics Unveiled Fundamental Shots Explained Clearly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-crafting-unique-ps3-gameplay-presentations-with-screen-recordings-for-2024/"><u>[Updated] Crafting Unique PS3 Gameplay Presentations with Screen Recordings for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-cinematic-treasures-15-incredible-stop-motion-films/"><u>2024 Approved Cinematic Treasures 15 Incredible Stop-Motion Films</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-transformative-tactics-for-developing-a-professional-youtubers-sanctuary-on-mobile/"><u>2024 Approved Transformative Tactics for Developing a Professional YouTubers' Sanctuary on Mobile</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-moto-g73-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-chatgpt-limitations-the-ceiling-of-character-input-possibilities/"><u>Deciphering ChatGPT Limitations: The Ceiling of Character Input Possibilities</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/from-funny-to-fascinating-best-reaction-video-apps/"><u>From Funny to Fascinating Best Reaction Video Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-here-we-are-going-to-go-through-the-process-of-getting-avidemux-running-on-your-system-and-cropping-some-video/"><u>In 2024, Here We Are Going to Go Through the Process of Getting Avidemux Running on Your System and Cropping some Video</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-fcpx-fix-it-handbook-solving-common-problems/"><u>In 2024, The FCPX Fix-It Handbook Solving Common Problems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-free-video-branding-software-for-watermarks-and-more/"><u>In 2024, Top Free Video Branding Software for Watermarks and More</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mobile-animation-made-easy-top-10-apps-for-android-and-ios-for-2024/"><u>Mobile Animation Made Easy Top 10 Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-missing-windows-storage-access/"><u>Regain Missing Windows Storage Access</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/succeeded-clean-install-of-nvidia-driver/"><u>Succeeded: Clean Install of NVIDIA Driver</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-the-stuck-loading-page-in-red-dead-redemption-2/"><u>Troubleshooting and Fixing the Stuck Loading Page in Red Dead Redemption 2</u></a></li>
 </ul></div>
 

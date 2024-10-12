@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Metro Exodus From Crashing on Your Desktop Computer
-date: 2024-08-21T14:40:55.746Z
-updated: 2024-08-22T14:40:55.746Z
+date: 2024-10-05T01:47:26.973Z
+updated: 2024-10-12T05:58:24.933Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable your antivirus software
 
  Some antivirus software (like Bitdefender) may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -56,9 +63,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify your game cache
 
  If your game crashes on XCOM 2 startup, it’s possible that the installation of XCOM 2 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -68,13 +72,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 3. Under the**LOCAL FILES** tab, click**Verify integrity of game cache** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
@@ -82,8 +80,12 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable Steam Overlay
 
  The Steam overlay is a piece of Steam user interface that can let users access friend list, web browser and in-game DLC purchasing. This feature is very useful but sometimes it can be the reason for game crash. You can disable it and check whether it could solve the crashes.
@@ -92,13 +94,14 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your driver
 
  Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
@@ -124,6 +127,13 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
@@ -136,8 +146,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +153,19 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/neaky-soundtrack-watching-youtube-unobtrusively/"><u>[New] Sneaky Soundtrack Watching YouTube Unobtrusively</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-skyrocket-viewer-count-the-most-proven-ways-to-enhance-views/"><u>[Updated] Skyrocket Viewer Count The Most Proven Ways to Enhance Views</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-enhanced-chrome-extensions-for-superior-productivity-ranked/"><u>AI-Enhanced Chrome Extensions for Superior Productivity Ranked</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-the-whispered-hours-comprehensive-slomo-app-study-2024/"><u>Capturing the Whispered Hours Comprehensive SloMo App Study, 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-gigaware-serial-port-converter-software-for-windows-get-your-driver-here/"><u>Free Gigaware Serial Port Converter Software for Windows - Get Your Driver Here</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-ultimate-compilation-ringtone-renaissance-sites/"><u>In 2024, Ultimate Compilation Ringtone Renaissance Sites</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-animation-toolkit-top-recommendations/"><u>New In 2024, The Ultimate Animation Toolkit Top Recommendations</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-os-x-mavericks-video-editing-tutorial-mastering-the-basics/"><u>New OS X Mavericks Video Editing Tutorial Mastering the Basics</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-try-before-you-buy-90-day-final-cut-pro-free-trial-offer/"><u>New Try Before You Buy 90-Day Final Cut Pro Free Trial Offer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/supercharge-your-pc-direct-rtx-3090-driver/"><u>Supercharge Your PC: Direct RTX 3090 Driver</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-elevate-your-video-content-with-advanced-64-bit-editing-capabilities/"><u>Updated 2024 Approved Elevate Your Video Content with Advanced 64-Bit Editing Capabilities</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-quickcut-pro-for-mac/"><u>Updated QuickCut Pro for Mac</u></a></li>
+</ul></div>
 

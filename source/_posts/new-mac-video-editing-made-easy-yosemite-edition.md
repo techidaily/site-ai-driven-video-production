@@ -1,7 +1,7 @@
 ---
 title: New Mac Video Editing Made Easy Yosemite Edition
-date: 2024-09-29T16:10:59.079Z
-updated: 2024-09-30T21:12:30.243Z
+date: 2024-10-06T01:36:05.881Z
+updated: 2024-10-12T06:28:51.125Z
 tags: 
   - video editing software
   - video editing
@@ -37,10 +37,10 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
@@ -53,18 +53,24 @@ You have two different ways to edit the video. One is to double click the video 
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Edit and enhance audio**
 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Add transition and other effects**
 
@@ -79,22 +85,28 @@ After you preview the effect, just click the “Export” button to export the v
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -111,24 +123,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/irqlfix-bsod-error-on-windows-11/"><u>[IRQL_FIX] BSOD Error on Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-identifying-top-economical-iosandroid-live-streaming-tools/"><u>[New] In 2024, Identifying Top Economical iOS/Android Live Streaming Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-turn-youtube-clips-into-animated-gifs-step-by-step-guide/"><u>[Updated] 2024 Approved Turn Youtube Clips Into Animated GIFs Step-by-Step Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/evaluating-the-improvements-of-macos-ventura-should-you-consider-upgrading/"><u>Evaluating the Improvements of macOS Ventura – Should You Consider Upgrading?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/explore-the-full-potential-of-your-apple-watch-with-these-12-key-capabilities/"><u>Explore the Full Potential of Your Apple Watch with These 12 Key Capabilities</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-moto-g-play-exceptional-battery-endurance-combined-with-solid-operating-capabilities/"><u>Exploring the Moto G Play: Exceptional Battery Endurance Combined with Solid Operating Capabilities</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fixing-issues-intel-graphics-driver-and-support-software-malfunction-on-desktops/"><u>Fixing Issues: Intel Graphics Driver & Support Software Malfunction on Desktops</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-tags-to-achieve-six-figures-in-views/"><u>In 2024, Tailoring #Tags to Achieve Six Figures in Views</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-guide-to-filming-live-scenes/"><u>In 2024, Ultimate Guide to Filming Live Scenes</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-free-video-rotation-apps-for-android-iphone-windows-and-mac/"><u>New In 2024, Best Free Video Rotation Apps for Android, iPhone, Windows, and Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-gif-speed-boosters-top-online-and-mobile-apps/"><u>New In 2024, GIF Speed Boosters Top Online and Mobile Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-time-lapse-video-editing-made-easy-top-software-picks/"><u>New In 2024, Time-Lapse Video Editing Made Easy Top Software Picks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-techniques-for-perfect-hdr-photos-in-adobe-lightroom-for-2024/"><u>Step-by-Step Techniques for Perfect HDR Photos in Adobe Lightroom for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/top-10-4k-video-samples/"><u>Top 10 4K Video Samples</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-resolving-logitech-g430-mic-problems-and-restoring-sound/"><u>Troubleshooting Tips for Resolving Logitech G430 Mic Problems and Restoring Sound</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unbrand-your-videos-removing-filmora-watermark-with-free-and-paid-options/"><u>Updated 2024 Approved Unbrand Your Videos Removing Filmora Watermark with Free and Paid Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-footage-to-film-mastering-video-editing-with-windows-movie-maker/"><u>Updated In 2024, From Footage to Film Mastering Video Editing with Windows Movie Maker</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-fcp-effect-10-movies-that-benefited-from-this-powerful-editing-software/"><u>Updated The FCP Effect 10 Movies That Benefited From This Powerful Editing Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-jump-cuts-in-final-cut-pro-x-tips-and-tricks-for-2024/"><u>Updated The Ultimate Guide to Jump Cuts in Final Cut Pro X Tips and Tricks for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-solution-of-iphone-x-face-id-not-working/"><u>[New] The Ultimate Solution of iPhone X Face ID Not Working</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-realme-narzo-60x-5g-frp-bypass-by-drfone-android/"><u>About Realme Narzo 60x 5G FRP Bypass</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/demystifying-samsungs-u2-nvme-ssds-understanding-their-function-and-mastering-cloning-techniques/"><u>Demystifying Samsung's U.2 NVMe SSDs: Understanding Their Function & Mastering Cloning Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-10-synaptic-touchpad-not-responding-when-scrolling/"><u>Fix: Windows 10 Synaptic Touchpad Not Responding When Scrolling</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oppo-reno-8t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Oppo Reno 8T to iPad | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-macos-video-editing-made-easy-introducing-ezvid-slideshow-software/"><u>New In 2024, MacOS Video Editing Made Easy Introducing Ezvid Slideshow Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-macs-top-rated-mkv-trimming-software-for-2024/"><u>New Macs Top-Rated MKV Trimming Software for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/rotate-videos-for-free-top-10-video-flip-and-rotate-tools/"><u>Rotate Videos for Free Top 10 Video Flip and Rotate Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-90-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor 90</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/transform-your-streaming-skills-with-compreenass-obs-guide/"><u>Transform Your Streaming Skills with Compreenas's OBS Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-streamline-video-editing-fast-and-easy-ways-to-trim-large-files-on-mac/"><u>Updated 2024 Approved Streamline Video Editing Fast and Easy Ways to Trim Large Files on Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-effortless-gopro-video-editing-a-beginners-guide/"><u>Updated Effortless GoPro Video Editing A Beginners Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-fast-and-free-dailymotion-to-mp3-converter-online-for-2024/"><u>Updated Fast and Free Dailymotion to MP3 Converter Online for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-here-are-the-best-gif-loop-maker-tools-for-you-to-give-expression-to-your-creativity/"><u>Updated Here Are the Best GIF Loop Maker Tools for You to Give Expression to Your Creativity</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-wmv-video-editing-on-a-budget-top-5-free-options/"><u>Updated In 2024, WMV Video Editing on a Budget Top 5 Free Options</u></a></li>
 </ul></div>
 

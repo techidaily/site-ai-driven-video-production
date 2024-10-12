@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Video Editing Essentials How to Resize and Crop Videos
-date: 2024-09-24T18:54:25.870Z
-updated: 2024-10-01T06:39:41.088Z
+date: 2024-10-10T06:35:44.101Z
+updated: 2024-10-12T02:04:13.219Z
 tags: 
   - video editing software
   - video editing
@@ -55,10 +55,10 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -66,6 +66,19 @@ For more details, please refer to this article: [How to Resize a Video to Right 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -86,10 +99,10 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -99,13 +112,6 @@ Another, rather better way of changing videos to custom shapes is with the help 
 In Filmora you can apply image masks either from the existing presets, i.e. circle, star, diamond, etc., or you can add custom photos if need be. Professionals generally use custom pictures to create fancy logos and titles.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
 
@@ -158,10 +164,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -179,16 +185,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-a-comprehensive-walkthrough-of-adobe-presenter-recording/"><u>[New] 2024 Approved A Comprehensive Walkthrough of Adobe Presenter Recording</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-comprerancial-free-imagery-tips-and-tricks/"><u>[New] 2024 Approved Comprerancial Free Imagery Tips and Tricks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-10-exceptional-educational-sites-a-look-without-udemy/"><u>[Updated] 2024 Approved 10 Exceptional Educational Sites A Look without Udemy</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-uncovering-true-reflection-in-distorted-facebook-video-for-2024/"><u>[Updated] Uncovering True Reflection in Distorted Facebook Video for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-samsung-galaxy-m34-by-fonelab-android-recover-data/"><u>How to recover lost data from Samsung Galaxy M34?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-cutting-edge-text-tracking-technology/"><u>New In 2024, Cutting-Edge Text Tracking Technology</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-record-your-gameplay-3-beginner-friendly-options-for-2024/"><u>New Record Your Gameplay 3 Beginner-Friendly Options for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/omnicharge-omni-20-portable-charger-explored-versatile-compact-power-hub-with-seamless-qi-wireless-charging-capabilities/"><u>Omnicharge Omni 20 Portable Charger Explored - Versatile, Compact Power Hub with Seamless Qi Wireless Charging Capabilities</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/premiere-pro-exposure-corrections-to-fix-overlit-iphone-videos-for-2024/"><u>Premiere Pro Exposure Corrections to Fix Overlit iPhone Videos for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-bringing-your-vision-to-life-top-7-animation-drawing-software-tools/"><u>Updated 2024 Approved Bringing Your Vision to Life Top 7 Animation Drawing Software Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-rated-free-video-editors-for-beginners-no-experience-needed/"><u>Updated Top-Rated Free Video Editors for Beginners No Experience Needed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-path-to-precision-audio-starting-with-an-adobe-auditions-fade-in/"><u>[New] The Path to Precision Audio Starting with an Adobe Audition's Fade In</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-adventure-seekers-choice-black-hero5-or-star-sj7/"><u>[Updated] Adventure Seekers Choice Black Hero5 or Star SJ7?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-vlcs-screen-recording-capabilities/"><u>[Updated] In 2024, VLC's Screen Recording Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-your-windows-photos-display-filters-and-audio-options/"><u>2024 Approved Tailoring Your Windows Photos Display Filters & Audio Options</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-ops-approach-amidst-growing-pains-and-opportunities-for-innovation/"><u>Enterprise Tech Adopts 'Ops' Approach Amidst Growing Pains and Opportunities for Innovation</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/from-blurry-to-brilliant-top-video-enhancement-tools-for-2024/"><u>From Blurry to Brilliant Top Video Enhancement Tools for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-create-stunning-animations-5-best-online-stop-motion-makers/"><u>In 2024, Create Stunning Animations 5 Best Online Stop Motion Makers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-glitch-reboot-repeat-the-best-mobile-video-editing-apps/"><u>In 2024, Glitch, Reboot, Repeat The Best Mobile Video Editing Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-tips-and-tricks-for-efficient-twitch-stream-recordings/"><u>In 2024, Tips and Tricks for Efficient Twitch Stream Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/logging-live-audio-on-the-go-a-user-friendly-manual/"><u>Logging Live Audio On-the-Go A User-Friendly Manual</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mastering-gopro-video-editing-on-mac-a-step-by-step-guide/"><u>Mastering GoPro Video Editing on Mac A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-how-to-anonymize-faces-in-media-a-beginners-guide-to-free-apps/"><u>New 2024 Approved How to Anonymize Faces in Media A Beginners Guide to Free Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-premiere-rush-too-expensive-check-out-these-4-affordable-alternatives/"><u>New 2024 Approved Premiere Rush Too Expensive? Check Out These 4 Affordable Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-10-best-free-dvd-players-compatible-with-windows-10/"><u>New 2024 Approved The 10 Best Free DVD Players Compatible with Windows 10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlimited-video-merging-7-best-watermark-free-solutions-for-2024/"><u>New Unlimited Video Merging 7 Best Watermark-Free Solutions for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977483642-secure-and-improve-your-soundscape-gigabytes-new-audio-drivers-for-no-cost/"><u>Secure and Improve Your Soundscape – Gigabyte's New Audio Drivers for No Cost</u></a></li>
 </ul></div>
 

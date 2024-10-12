@@ -1,7 +1,7 @@
 ---
 title: Updated Unleash Your Creativity How to Edit Video Files on Mac OS X Yosemite
-date: 2024-08-21T14:46:14.331Z
-updated: 2024-08-22T14:46:14.331Z
+date: 2024-10-06T20:53:29.651Z
+updated: 2024-10-12T01:55:14.357Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,13 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -45,6 +52,13 @@ When all the media files have been imported to the software, drag and drop them 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Edit and enhance audio**
 
@@ -59,8 +73,12 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
@@ -68,25 +86,21 @@ After you preview the effect, just click the “Export” button to export the v
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -94,3 +108,27 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-5-good-book-trailer-examples/"><u>[New] In 2024, 5 Good Book Trailer Examples</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-all-about-io-screen-capture-mastery-guidebook-for-2024/"><u>[Updated] All About IO Screen Capture Mastery Guidebook for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-9-youtube-video-extraction-tools-for-android-reviewed/"><u>[Updated] In 2024, 9 YouTube Video Extraction Tools for Android Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-intellectual-property-on-instagram/"><u>[Updated] In 2024, Navigating Intellectual Property on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-6-tools-for-audiovisual-interpretation/"><u>[Updated] Ultimate 6 Tools for Audio/Visual Interpretation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-game-recording-made-easy-with-xbox-one-capture-techniques/"><u>2024 Approved Game Recording Made Easy with Xbox One Capture Techniques</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-poco-f5-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco F5 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-samsung-galaxy-s23plus-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Samsung Galaxy S23+ Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/improving-your-gameplay-on-dragons-dogma-2-addressing-and-fixing-frame-rate-hurdles-and-fluctuations/"><u>Improving Your Gameplay on Dragon's Dogma 2: Addressing and Fixing Frame Rate Hurdles & Fluctuations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a79-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A79 5G Device</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/s-hottest-iphone-apps-what-you-need-to-know/"><u>S Hottest iPhone Apps What You Need to Know</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/tailor-made-youtube-closings-how-to-get-them-right/"><u>Tailor-Made YouTube Closings How to Get Them Right</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-stop-wasting-time-exclusive-filmora-discounts-inside/"><u>Updated 2024 Approved Stop Wasting Time Exclusive Filmora Discounts Inside</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-adobe-premiere-pro-vs-sony-vegas-pro-a-side-by-side-comparison-for-2024/"><u>Updated Adobe Premiere Pro vs Sony Vegas Pro A Side-by-Side Comparison for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-complete-guide-on-how-to-create-a-video-slideshow-with-final-cut-pro-for-2024/"><u>Updated Complete Guide on How to Create a Video Slideshow with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-videos-for-free-top-14-watermark-free-software/"><u>Updated Edit Videos for Free Top 14 Watermark-Free Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-guide-to-4k-video-editing-software/"><u>Updated In 2024, The Ultimate Guide to 4K Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unleash-your-creativity-how-to-flip-a-clip-in-final-cut-pro/"><u>Updated In 2024, Unleash Your Creativity How to Flip a Clip in Final Cut Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-video-editing-mastery-how-to-add-professional-looking-effects-fast/"><u>Updated Video Editing Mastery How to Add Professional-Looking Effects Fast</u></a></li>
+</ul></div>
+

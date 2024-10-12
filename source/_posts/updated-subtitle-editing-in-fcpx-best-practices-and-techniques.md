@@ -1,7 +1,7 @@
 ---
 title: Updated Subtitle Editing in FCPX Best Practices and Techniques
-date: 2024-09-27T16:17:11.171Z
-updated: 2024-09-30T19:35:49.780Z
+date: 2024-10-05T19:33:22.425Z
+updated: 2024-10-11T22:56:40.698Z
 tags: 
   - video editing software
   - video editing
@@ -50,13 +50,6 @@ It is a standard caption format for web videos and broadcasts.
 
 It is a simple and popular format used in online videos.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -86,10 +79,10 @@ Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
@@ -107,6 +100,13 @@ The Quick Caption is another free tool available in Mac App Store to automatical
 * [Word Pop by Stupid Raisins](https://fxfactory.com/info/wordpop/)
 
 It is the go-to free plugin by Stupid Raisins to display the text in animated templates. It generally depicts different kinds of paragraph titles, which you can edit as per the subtitles. It is one of the ideal plugins to impart professionalism into your videos with catchy descriptions. There are lots of templates available to select among them. Also, the simple drag and drop feature won't let you down in any scenario of adding subtitles or captions effectively.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Tips for adding Subtitles/Captions in Final Cut Pro X
 
@@ -131,10 +131,10 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -144,16 +144,10 @@ So, this is all about adding Final Cut Pro subtitles and captions via the step-b
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -171,24 +165,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-audfreetech-a-deep-dive-into-audio-file-liberation-techniques/"><u>[New] AudFreeTech A Deep Dive Into Audio File Liberation Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-reel-creating-stunning-slow-motion-content-for-2024/"><u>[Updated] Mastering Instagram Reel Creating Stunning Slow-Motion Content for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-and-effective-methods-to-upgrade-drivers-on-your-hp-envy-5660-laptop/"><u>Easy and Effective Methods to Upgrade Drivers on Your HP Envy 5660 Laptop</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-sharing-your-chatgpt-conversations-with-others-online/"><u>Guide: Sharing Your ChatGPT Conversations with Others Online</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a14-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy A14 4G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-convert-ppt-to-motion-picture/"><u>In 2024, Convert PPT to Motion Picture</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-face-fluidity-adding-dynamic-blur-to-photos-via-picsart/"><u>In 2024, Face Fluidity Adding Dynamic Blur to Photos via Picsart</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-motorola-moto-g23-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Motorola Moto G23 Phone that is Locked?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-jaycut-tutorial-unlock-the-power-of-free-online-video-editing/"><u>New In 2024, Jaycut Tutorial Unlock the Power of Free Online Video Editing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-free-video-editors-for-32-bit-windows-computers/"><u>New In 2024, Top Free Video Editors for 32-Bit Windows Computers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-install-lumafusion-on-macbook-proair-or-find-suitable-alternatives-for-2024/"><u>New Install Lumafusion on MacBook Pro/Air or Find Suitable Alternatives for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-looking-for-a-change-here-are-8-compelling-alternatives-to-windows-10-photos/"><u>New Looking for a Change? Here Are 8 Compelling Alternatives to Windows 10 Photos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-art-of-video-enhancement-expert-guidance/"><u>New The Art of Video Enhancement Expert Guidance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/protect-your-system-with-latest-malware-defense-in-google-chrome-update-version-127/"><u>Protect Your System with Latest Malware Defense in Google Chrome Update, Version 127</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-your-creativity-top-free-green-screen-apps-for-mobile/"><u>Updated 2024 Approved Unleash Your Creativity Top Free Green Screen Apps for Mobile</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-effortless-mkv-trimming-on-mac-the-best-tools-for-2024/"><u>Updated Effortless MKV Trimming on Mac The Best Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-guide-to-online-stop-motion-software-5-top-picks/"><u>Updated In 2024, The Ultimate Guide to Online Stop Motion Software 5 Top Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-rated-stop-motion-software-for-windows-and-macos-this-year-for-2024/"><u>Updated Top-Rated Stop Motion Software for Windows and macOS This Year for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upgrade-your-device-with-ios-18-no-charge-for-the-latest-innovations-and-news-revealed/"><u>Upgrade Your Device with iOS 1#8: No Charge for the Latest Innovations & News Revealed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unveiling-the-secrets-of-crafting-perfect-audio-for-videos/"><u>[New] 2024 Approved Unveiling the Secrets of Crafting Perfect Audio for Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-free-youtube-channel-art-templates-find-them-here/"><u>[New] Free YouTube Channel Art Templates - Find Them Here!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-essential-photographic-tool-dynamic-wallpaper-editor/"><u>[Updated] 2024 Approved Essential Photographic Tool Dynamic Wallpaper Editor</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-review-of-samsung-galaxy-watch-3-classic-aesthetics-upgraded-for-todays-tech-enthusiasts/"><u>In-Depth Review of Samsung Galaxy Watch 3: Classic Aesthetics Upgraded for Today's Tech Enthusiasts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-premiere-pro-pc-build-a-beginners-guide/"><u>New The Ultimate Premiere Pro PC Build A Beginners Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reflecting-on-whether-id-benefit-most-from-new-watch-innovations/"><u>Reflecting on Whether I'd Benefit Most From New Watch Innovations</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-installing-your-acer-aspire-laptops-drivers-on-a-windows-system/"><u>Step-by-Step Guide: Installing Your Acer Aspire Laptop's Drivers on a Windows System</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-of-free-video-editors-without-watermarks-for-2024/"><u>The Ultimate List of Free Video Editors Without Watermarks for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unleash-your-creativity-the-top-10-free-webm-video-editors/"><u>Unleash Your Creativity The Top 10 Free WebM Video Editors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-s-most-popular-free-video-fx-apps-for-iphone-and-android/"><u>Updated 2024 Approved S Most Popular Free Video FX Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-download-filmora-13-for-free-professional-video-editing-made-easy/"><u>Updated Download Filmora 13 for Free Professional Video Editing Made Easy</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-merge-wmv-files-with-ease-the-best-free-tools/"><u>Updated In 2024, Merge WMV Files with Ease The Best Free Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-no-cost-imovie-alternatives-expert-approved-video-editing-options/"><u>Updated In 2024, No-Cost iMovie Alternatives Expert-Approved Video Editing Options</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

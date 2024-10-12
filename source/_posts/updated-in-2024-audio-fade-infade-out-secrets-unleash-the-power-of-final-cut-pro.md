@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2024-10-02T19:43:32.131Z
-updated: 2024-10-06T17:43:27.000Z
+date: 2024-10-08T07:14:03.057Z
+updated: 2024-10-12T03:24:14.553Z
 tags: 
   - video editing software
   - video editing
@@ -65,10 +65,10 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -88,17 +88,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -106,6 +99,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -121,16 +121,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -148,15 +142,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-choices-animation-friendly-3d-model-tools/"><u>[New] In 2024, Top Choices Animation-Friendly 3D Model Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cutting-down-on-workload-the-ultimate-mac-mp4-apps-list-for-2024/"><u>[Updated] Cutting Down on Workload The Ultimate Mac MP4 Apps List for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/altering-windows-fn-key-behavior-for-efficiency/"><u>Altering Windows Fn Key Behavior for Efficiency</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager in Windows 7</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-funniest-memes-to-download-iphone/"><u>In 2024, Funniest Memes to Download (iPhone)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mkvtoolnix-for-mac-the-easiest-way-to-edit-videos-for-2024/"><u>New MKVtoolnix for Mac The Easiest Way to Edit Videos for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-fake-face-creators-top-picks-for-online-identity-design/"><u>Updated In 2024, Fake Face Creators Top Picks for Online Identity Design</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-color-grading-tutorial-final-cut-pro-edition/"><u>Updated In 2024, The Ultimate Color Grading Tutorial Final Cut Pro Edition</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-say-goodbye-to-watermarks-7-top-video-merger-apps-for-2024/"><u>Updated Say Goodbye to Watermarks 7 Top Video Merger Apps for 2024</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-x6-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo Find X6 Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-discovering-the-prime-stardew-modifications-for-perfection/"><u>[New] 2024 Approved Discovering the Prime Stardew Modifications for Perfection</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-creating-an-auditory-ambiance-choosing-background-music-for-trailers-for-2024/"><u>[New] Creating an Auditory Ambiance Choosing Background Music for Trailers for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-render-and-upload-your-youtube-video-faster/"><u>[New] In 2024, How to Render and Upload Your YouTube Video Faster?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-move-videos-from-your-iphone-to-a-mac-computer-a-comprehensive-guide/"><u>How to Move Videos From Your iPhone to a Mac Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-ensuring-privacy-in-zoom-meetings-by-recording/"><u>In 2024, Ensuring Privacy in Zoom Meetings by Recording</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-video-editing-freedom-how-to-use-any-app-on-your-chromebook-updated-2023-for-2024/"><u>New Video Editing Freedom How to Use Any App on Your Chromebook (Updated 2023) for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-virtualdub-the-good-the-bad-and-the-best-alternatives-for-you-for-2024/"><u>New Virtualdub The Good, the Bad, and the Best Alternatives for You for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-what-to-use-instead-of-virtualdub-best-video-editing-tools/"><u>New What to Use Instead of VirtualDub Best Video Editing Tools</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/story-1-the-misconception-of-regional-compensation-limitations/"><u>Story 1: The Misconception of Regional Compensation Limitations</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-advanced-fcpx-editing-l-cuts-j-cuts-and-expert-audio-tips/"><u>Updated 2024 Approved Advanced FCPX Editing L-Cuts, J-Cuts, and Expert Audio Tips</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-final-cut-pro-for-beginners-rotating-and-flipping-clips-like-a-pro/"><u>Updated 2024 Approved Final Cut Pro for Beginners Rotating and Flipping Clips Like a Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-list-best-animation-software-for-android-and-ios/"><u>Updated In 2024, The Ultimate List Best Animation Software for Android and iOS</u></a></li>
 </ul></div>
 
