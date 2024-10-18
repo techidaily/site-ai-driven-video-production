@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Trim and Cut AVI Videos Like a Pro Top 16 Software Solutions
-date: 2024-10-06T08:24:37.834Z
-updated: 2024-10-11T20:57:45.573Z
+date: 2024-10-13T19:48:41.368Z
+updated: 2024-10-18T07:49:37.645Z
 tags: 
   - video editing software
   - video editing
@@ -56,6 +56,13 @@ First, [download](https://tools.techidaily.com/wondershare/filmora/download/) Fi
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Run the setup and let it finish without any pause or break.
 
 **Step 2: Import Your Video to Filmora Video Editor**
@@ -63,13 +70,6 @@ Run the setup and let it finish without any pause or break.
 Importing your AVI video is a very simple process. Just click on the “Film Clip” icon.
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It will open a new window screen on your computer to select the video from the directory. Find the clip you want to import and cut. Use your mouse to select it and click the “Open” button.
 
@@ -90,6 +90,13 @@ Select the video in the media folder by clicking over it once. Now, without leav
 After that, a message will pop up, asking about your preference for the project settings. It is recommended to choose the “Match to Media” option unless you’re an experienced video editor who knows how to play with the resolution and frame rates.
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You will see the video on the timeline with its preview on the “Preview Screen” on the right side of the interface.
 
@@ -125,6 +132,13 @@ And place the playhead anywhere on the clip. And click on the “scissor” icon
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If done correctly, there should be three clips now of the same video, as you can observe in this screenshot.
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-14.jpg)
@@ -136,13 +150,6 @@ Again, the “Red” area in the above photo indicates the gap, and the “Yello
 Keep in mind that there are three clips on the timeline. Now, if you want to remove the second clip from the video, you need to select that portion first by clicking on it.
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then, right-click on the mouse and choose “Cut” from the menu.
 
@@ -167,6 +174,13 @@ So feel free to skip this step if you’re happy learning the cutting technique.
 Take your mouse cursor at the beginning or end of the clip you want to trim. Keep holding the clip’s corner and slide the mouse back or front to trim the part
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-19.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **_Note:_** _Since the trim tool doesn’t delete the video, the final project based on trimming will be of a larger size. Therefore, it is advised to cut videos rather than trimming for fast rendering, better results, and small video size._
 
@@ -222,29 +236,9 @@ That’s it!
 * Not included in older Windows versions
 * It doesn’t support selective focus or panorama stitching
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Handbrake
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-24.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Handbrake](https://handbrake.fr/downloads.php) is best-known for its video transcoding traits. Unlike typical video editors, this open-source tool includes limited options to rip Blu-rays and DVDs. Moreover, you can mix the 5.1 soundtracks and convert them to stereo to make the audio compatible with your TV speakers.
 
@@ -371,6 +365,13 @@ VideoPad supports video files, including AVI, WMV, MPEG, MOV, MP4, ASF, and XviD
 * The auto speech feature performs poorly
 * The free version has annoying notifications
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Xilisoft Video Cutter
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-28.jpg)
@@ -455,10 +456,10 @@ Plus, you can use the app to add custom animations, effects, and many other exci
 No wonder iPhone’s camera captures high-quality videos. But the problem begins when there’s no free app to cut AVI videos. So if you’re recording great spots, but deep inside, you really want to remove some parts, then these 3 free AVI video cutters will work smoothly on your iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cut, Trim, Split Video Editor
@@ -488,13 +489,6 @@ The app supports multiple video file types, including MOV, MP4, AVI, MPEG, MPEG-
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Splice](https://apps.apple.com/us/app/splice-video-editor-maker/id409838725) is an extraordinary video editor that makes it easy to make fully customized and professional videos from your iPhone. The app is also best for video cutting. Besides, it has many interesting features, which you can use from your device.
 
 **Features**
@@ -523,6 +517,19 @@ The app supports multiple video file types, including MOV, MP4, AVI, MPEG, MPEG-
 Don’t want to install video cutters on your MAC, Windows, smartphone, or any other device? No problem! You can use online video cutters and trimmers to split, cut, or trim your clips for free.
 
 However, the problem still exists in online tools, as not all web-based editors allow importing AVI files. So to save your time and energy, you can directly go to the following online AVI cutters to complete your tasks.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Kapwing
 
@@ -558,23 +565,9 @@ However, the problem still exists in online tools, as not all web-based editors 
 * Only 10 minutes transcription limit is available for free users
 * You need to purchase a monthly or annual subscription to remove the watermark from multiple videos
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Clideo
 
 ![av video cutters](https://images.wondershare.com/filmora/article-images/2022/07/avi-video-cutters-36.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Clideo](https://clideo.com/cut-video) is not just a video cutter but an online solution to all your video editing problems. The tool is super popular, with 4 million+ users a month. And why not? This is one of those web-based platforms that allow AVI video files to be imported and exported without converting them into any other formats.
 
@@ -632,6 +625,19 @@ And within a few moments, you can enjoy a trimmed video clip. And if you plan to
 
 Tired of finding AVI cutters? Relax and try these **top 16 AVI video cutters** for Windows, MAC, iPhone, Android, and online. Almost all these tools are free to use and are extremely handy. On the other hand, if you want to cut and trim videos professionally, download Filmora and follow the step-by-step guide in this article for making clean cuts.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 8: FAQs
 
 ### Q1\. How do I trim an AVI video?
@@ -669,24 +675,22 @@ But, guess what? These **top 16 AVI video cutters** for Windows, MAC, Android, i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-from-gameplay-to-recording-expert-techniques-for-ps3-screenshots/"><u>[New] From Gameplay to Recording Expert Techniques for PS3 Screenshots</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-expert-strategies-to-capture-snapchats-on-devices/"><u>[New] In 2024, Expert Strategies to Capture Snapchats on Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-free-mp3-skype-call-logger-for-2024/"><u>[Updated] Ultimate Free MP3 Skype Call Logger for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725290644707-dvdusb-type-csurface-hubmacbookchromebook-pixel/"><u>DVD到USB Type-C的转换指南：支持Surface Hub、MacBook和Chromebook Pixel</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-unable-to-call-dilemmas-on-your-iphone-in-just-10-steps/"><u>How to Troubleshoot Unable-to-Call Dilemmas on Your iPhone in Just 10 Steps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-why-are-social-media-suggested-videos-evanescent/"><u>In 2024, Why Are Social Media Suggested Videos Evanescent?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/navigating-the-complexities-of-gaming-recordings-with-obs/"><u>Navigating the Complexities of Gaming Recordings with OBS</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-filmora-discount-code-finder-explore-the-best-deals/"><u>New In 2024, Filmora Discount Code Finder Explore the Best Deals</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-squeeze-the-most-out-of-your-storage-5-best-free-video-compression-apps/"><u>New Squeeze the Most Out of Your Storage 5 Best Free Video Compression Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-vn-video-editor-pc-version-a-compact-review-for-2024/"><u>New VN Video Editor PC Version A Compact Review for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/reaction-video-mastery-the-top-tools-and-software-for-2024/"><u>Reaction Video Mastery The Top Tools and Software for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-top-contenders-the-best-17-inch-laptops-edition/"><u>Unveiling the Top Contenders: The Best 17-Inch Laptops Edition</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-filmora-discount-code-finder-explore-the-best-deals/"><u>Updated 2024 Approved Filmora Discount Code Finder Explore the Best Deals</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-from-clips-to-masterpieces-top-highlight-video-makers-revealed/"><u>Updated 2024 Approved From Clips to Masterpieces Top Highlight Video Makers Revealed</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-no-more-scrolling-find-your-filmora-promo-code-now/"><u>Updated 2024 Approved No More Scrolling Find Your Filmora Promo Code Now</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-digitalize-your-dvds-a-beginners-guide-to-conversion/"><u>Updated Digitalize Your DVDs A Beginners Guide to Conversion</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-ditch-subtitle-edit-explore-these-exceptional-mac-subtitle-editors/"><u>Updated Ditch Subtitle Edit Explore These Exceptional Mac Subtitle Editors</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-get-noticed-top-rated-free-animated-logo-creators-plus-creative-insights/"><u>Updated In 2024, Get Noticed Top-Rated Free Animated Logo Creators + Creative Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-advanced-visual-treatment-adding-effects-on-videos-pcmobile/"><u>[New] In 2024, Advanced Visual Treatment Adding Effects on Videos (PC/Mobile)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-making-the-most-of-your-ginger-island-venture/"><u>[New] Making the Most of Your Ginger Island Venture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-compilation-top-11-streaming-gear-insights-for-2024/"><u>[New] Ultimate Compilation Top 11 Streaming Gear Insights for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-demystifying-viewer-statistics-on-instagram-images/"><u>[Updated] 2024 Approved Demystifying Viewer Statistics on Instagram Images</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-everyday-youtubes-finest-yoga-influencers/"><u>[Updated] 2024 Approved Elevate Everyday - YouTube's Finest Yoga Influencers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-navigating-devices-for-google-meet-session/"><u>2024 Approved Navigating Devices for Google Meet Session</u></a></li>
+<li><a href="https://article-helps.techidaily.com/dramatic-lighting-in-hdr-portrait-photography/"><u>Dramatic Lighting in HDR Portrait Photography</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-footage-transform-ordinary-videos-into-extraordinary-movies-for-2024/"><u>Elevate Your Footage Transform Ordinary Videos Into Extraordinary Movies for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-avi-video-trimming-made-easy-16-best-tools-for-windows-mac-and-android-devices/"><u>In 2024, AVI Video Trimming Made Easy 16 Best Tools for Windows, MAC, and Android Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-bring-your-videos-to-life-the-magic-of-cartoon-conversion-explained/"><u>In 2024, Bring Your Videos to Life The Magic of Cartoon Conversion Explained</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-rise-and-shine-wake-up-to-savings-with-our-filmora-easter-sale/"><u>In 2024, Rise and Shine Wake Up to Savings with Our Filmora Easter Sale</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-art-of-video-resizing-tips-for-perfect-proportions/"><u>In 2024, The Art of Video Resizing Tips for Perfect Proportions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-turning-photos-into-cartoon-online/"><u>In 2024, Turning Photos Into Cartoon Online</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-zoom-innovations-key-techniques-to-improve-video-transformation-processes/"><u>In 2024, Zoom Innovations Key Techniques to Improve Video Transformation Processes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-adobe-premiere-rush-not-for-you-try-these-top-4-alternatives-instead/"><u>New 2024 Approved Adobe Premiere Rush Not for You? Try These Top 4 Alternatives Instead</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-final-cut-pro-essentials-how-to-create-engaging-videos-with-the-ken-burns-effect/"><u>New 2024 Approved Final Cut Pro Essentials How to Create Engaging Videos with the Ken Burns Effect</u></a></li>
 </ul></div>
 

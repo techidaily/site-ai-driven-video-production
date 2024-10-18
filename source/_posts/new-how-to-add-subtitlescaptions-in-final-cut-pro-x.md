@@ -1,7 +1,7 @@
 ---
 title: New How to Add Subtitles/Captions in Final Cut Pro X?
-date: 2024-08-15T01:56:20.494Z
-updated: 2024-08-16T01:56:20.494Z
+date: 2024-10-11T03:35:35.242Z
+updated: 2024-10-18T08:22:21.599Z
 tags: 
   - video editing software
   - video editing
@@ -51,8 +51,12 @@ It is a standard caption format for web videos and broadcasts.
 It is a simple and popular format used in online videos.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -80,15 +84,27 @@ Thus, similar steps are required even if you want to add subtitles.
 Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
 
 Let's list some incredibly efficient and free subtitles tools that you can use for Final Cut Pro X.
@@ -105,9 +121,6 @@ The Quick Caption is another free tool available in Mac App Store to automatical
 
 It is the go-to free plugin by Stupid Raisins to display the text in animated templates. It generally depicts different kinds of paragraph titles, which you can edit as per the subtitles. It is one of the ideal plugins to impart professionalism into your videos with catchy descriptions. There are lots of templates available to select among them. Also, the simple drag and drop feature won't let you down in any scenario of adding subtitles or captions effectively.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Tips for adding Subtitles/Captions in Final Cut Pro X
 
 Given below are some quick tips to add Final Cut Pro captions or subtitles.
@@ -121,9 +134,6 @@ You can use the transcriptions feature of YouTube to import captions file into y
 Every Caption set must export individually in Final Cut Pro X. However; there is a shortcut to it using the Compressor feature. Send your captions to Compressor by clicking the **File**\> **Send to Compressor**.
 
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -134,22 +144,12 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 [Click here for some best shortcuts we summarised for you!](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 So, this is all about adding Final Cut Pro subtitles and captions via the step-by-step guide. Captions and Subtitles are an excellent way to expand your audience base across all regions globally since it removes the limitations or boundaries set by one language.
@@ -162,11 +162,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-fullscreen-innovations-unveiled-in-adobe-premiere-pro/"><u>[Updated] Fullscreen Innovations Unveiled in Adobe Premiere Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-trust-the-privacy-of-chatgpt-unveiling-the-facts/"><u>Can You Trust the Privacy of ChatGPT? Unveiling the Facts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/discovery-unearthing-the-best-videos-from-fbs-sphere/"><u>Discovery Unearthing the Best Videos From FB's Sphere</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-newest-zebra-printer-software-on-your-pc-windows-compatible/"><u>How to Get the Newest Zebra Printer Software on Your PC: Windows Compatible</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100a-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100A by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-classroom-innovation-with-chatgpt-5-student-focused-approaches/"><u>Navigating Classroom Innovation with ChatGPT: 5 Student-Focused Approaches</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-mac-users-rejoice-download-splice-video-editor-today/"><u>New In 2024, Mac Users Rejoice Download Splice Video Editor Today</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-3d-video-makers-free-paid-and-everything-in-between/"><u>New The Ultimate Guide to 3D Video Makers Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-to-customized-pdf-program-on-pc/"><u>Switching to Customized PDF Program on PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts/"><u>The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-10-free-video-stabilization-tools-to-smooth-out-your-footage-for-2024/"><u>Top 10 Free Video Stabilization Tools to Smooth Out Your Footage for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-smart-8-plus-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-kinemaster-on-mac-download-install-and-start-editing/"><u>Updated In 2024, KineMaster on Mac Download, Install, and Start Editing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-lumafusion-on-mac-os-a-complete-installation-and-alternative-guide/"><u>Updated In 2024, Lumafusion on Mac OS A Complete Installation and Alternative Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-guide-to-iphone-video-editing-top-5-apps/"><u>Updated In 2024, The Ultimate Guide to iPhone Video Editing Top 5 Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-revolutionize-your-video-collection-from-amateur-to-pro-in-minutes-for-2024/"><u>Updated Revolutionize Your Video Collection From Amateur to Pro in Minutes for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-vn-video-editor-for-pc-a-brief-review/"><u>Updated VN Video Editor For PC - A Brief Review</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/vn-video-editor-app-analysis-strengths-and-weaknesses-for-2024/"><u>VN Video Editor App Analysis Strengths and Weaknesses for 2024</u></a></li>
+</ul></div>
+

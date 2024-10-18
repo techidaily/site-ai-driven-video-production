@@ -1,7 +1,7 @@
 ---
 title: Updated FCP X The Ultimate Guide to Creating Realistic Green Screen Composites
-date: 2024-10-06T01:56:19.029Z
-updated: 2024-10-12T01:21:22.110Z
+date: 2024-10-17T13:08:52.251Z
+updated: 2024-10-18T11:04:08.096Z
 tags: 
   - video editing software
   - video editing
@@ -66,6 +66,13 @@ Click the **Sample Color** icon. This allows fine-tuning the selection of the ba
 
 ![fx chroma 04](https://images.wondershare.com/multimedia/fx-chroma-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the green-screen image, drag to select a representative section of the background. I try to get close to the face, but not so close that I accidentally select loose hair or skin.
 
 Your key should look better immediately. Most of the time, you can probably stop here. But there are three other adjustments that can make your key look even better:
@@ -76,37 +83,44 @@ Your key should look better immediately. Most of the time, you can probably stop
 
 ![fx chroma 06](https://images.wondershare.com/multimedia/fx-chroma-06.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click the **Matte** button to display your key as a white foreground on a black background.
 
 ![fx chroma 07](https://images.wondershare.com/multimedia/fx-chroma-07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Your goal is the make the foreground solid white, which means opaque, and the background solid black, which means transparent. Adjust the **Fill Holes** and **Edge Distance** sliders until your key looks solid. (For REALLY bad keys, you'll need to also adjust Color Selection, mentioned below.)
 
 ![fx chroma 05](https://images.wondershare.com/multimedia/fx-chroma-05.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If an edge is too pronounced, or needs help, click the **Edges** icon.
 
 ![fx chroma 09](https://images.wondershare.com/multimedia/fx-chroma-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Tweaks Video**
 
@@ -134,24 +148,31 @@ Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag 
 ![fx chroma 11](https://images.wondershare.com/multimedia/fx-chroma-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When you are done, you have a great looking key!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Clean up the Image with a Garbage Mask
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
 
@@ -169,19 +190,6 @@ Then, drag each of the four circles to create a shape such that your foreground 
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create a Chroma-Key in easier ways?
 
 Chroma-key, or green screen, is an essential part of every editor to make all kinds of effects. Is there any way to make this sophisticated procedure easier way? Yes, try Filmora.
@@ -192,25 +200,11 @@ By adopting AI portrait, you can add those stunning effects in simple steps: How
 
 Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -229,22 +223,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebook-fanfare-unveiled-android-and-iphones-most-liked-apps-for-2024/"><u>[New] Facebook Fanfare Unveiled Android & iPhone's Most Liked Apps for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-clip-conquest-top-tags-for-dominating-video-trends-on-social-media/"><u>2024 Approved Clip Conquest Top Tags for Dominating Video Trends on Social Media</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-google-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Google</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-the-pros-and-cons-of-local-language-models/"><u>Deciphering the Pros and Cons of Local Language Models</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/eliminate-counter-strike-2-lag-with-essential-pc-tweaks-boost-your-ranking/"><u>Eliminate Counter-Strike 2 Lag with Essential PC Tweaks – Boost Your Ranking!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-digital-marketing-efforts-with-cookiebot-support/"><u>Enhance Digital Marketing Efforts With Cookiebot Support</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-online-video-editors-handbook-from-download-to-masterpiece/"><u>New In 2024, The Ultimate Online Video Editors Handbook From Download to Masterpiece</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-webm-to-mp4-the-10-best-webm-to-mp4-converters/"><u>New WebM to MP4 The 10 Best WebM to MP4 Converters</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/split-trim-and-perfect-video-editing-techniques-in-windows-live-movie-maker-for-2024/"><u>Split, Trim, and Perfect Video Editing Techniques in Windows Live Movie Maker for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleash-your-creativity-the-leading-phone-apps-for-image-stickers-for-2024/"><u>Unleash Your Creativity The Leading Phone Apps for Image Stickers for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-blur-faces-or-backgrounds-in-videos-best-apps-for-ios-and-android/"><u>Updated 2024 Approved Blur Faces or Backgrounds in Videos Best Apps for iOS and Android</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-mkv-video-trimming-made-easy-best-mac-apps-2023/"><u>Updated 2024 Approved MKV Video Trimming Made Easy Best Mac Apps 2023</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-6-best-explainer-video-software-you-should-try/"><u>Updated 6 Best Explainer Video Software You Should Try</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-get-the-best-of-both-worlds-convert-mp4-to-mp3-with-these-top-converters-for-2024/"><u>Updated Get the Best of Both Worlds Convert MP4 to MP3 with These Top Converters for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-make-your-own-movie-masterpiece-a-fun-and-easy-guide-for-kids/"><u>Updated Make Your Own Movie Masterpiece A Fun and Easy Guide for Kids</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-vllo-on-mac-a-comprehensive-guide-with-alternative-solutions-for-2024/"><u>Updated VLLO on Mac A Comprehensive Guide with Alternative Solutions for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-edge-40-neo-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola Edge 40 Neo? Fixed | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-beginner-to-expert-choose-studio-or-beta/"><u>[New] In 2024, From Beginner to Expert Choose Studio or Beta</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-affordable-wireless-charging-pads-for-modern-phones/"><u>[Updated] 2024 Approved Affordable Wireless Charging Pads for Modern Phones</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-savor-spectaculars-youtubes-best-cooking-channels/"><u>2024 Approved Savor Spectaculars YouTube's Best Cooking Channels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-best-complimentary-pc-based-image-collage-creators-of-202n-a-ranking-by-movavi/"><u>Discover the Best Complimentary PC-Based Image Collage Creators of 202N: A Ranking by Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/gratis-omzettingen-van-pef-bestandsformaten-professioneel-zonder-kosten-met-movavi/"><u>Gratis Omzettingen Van PEF-Bestandsformaten: Professioneel Zonder Kosten Met Movavi</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-insert-jpg-png-and-bmp-images-into-your-website-with-ease-mastering-the-art-of-web-design-using-flipbuilder/"><u>How to Insert JPG, PNG & BMP Images Into Your Website with Ease - Mastering the Art of Web Design Using FlipBuilder</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-crisp-videos-for-free-top-online-video-quality-enhancement-tools/"><u>New In 2024, Get Crisp Videos for Free Top Online Video Quality Enhancement Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-ps4-screenshot-sharing-for-beginners-a-quick-start-guide/"><u>New In 2024, PS4 Screenshot Sharing for Beginners A Quick Start Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-5-free-mpeg-video-joiner-tools-reviewed/"><u>New In 2024, Top 5 Free MPEG Video Joiner Tools Reviewed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-zero-cost-wonders-the-best-free-vob-video-editing-software-for-2024/"><u>New Zero-Cost Wonders The Best Free VOB Video Editing Software for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974628291-obtain-your-sound-blaster-audigy-fx-driver-software-here/"><u>Obtain Your Sound Blaster Audigy FX Driver Software Here!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-gear-for-ultimate-vr-glove-experience/"><u>Pioneering Gear for Ultimate VR Glove Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-apple-watchs-endurance-top-8-configurations-for-extended-battery-performance-insights/"><u>Revolutionize Your Apple Watch's Endurance: Top 8 Configurations for Extended Battery Performance - Insights</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/streamline-your-video-editing-best-flv-editor-for-windows-8-users/"><u>Streamline Your Video Editing Best FLV Editor for Windows 8 Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unhappy-with-windows-10-photos-here-are-8-better-options-for-2024/"><u>Unhappy with Windows 10 Photos? Here Are 8 Better Options for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-experience-the-future-of-video-top-10-4k-samples/"><u>Updated In 2024, Experience the Future of Video Top 10 4K Samples</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unleash-the-glitch-top-video-editing-software-for-creatives/"><u>Updated In 2024, Unleash the Glitch Top Video Editing Software for Creatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-zero-cost-4k-video-conversion-top-10-solutions/"><u>Updated Zero-Cost 4K Video Conversion Top 10 Solutions</u></a></li>
 </ul></div>
 

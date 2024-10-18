@@ -1,7 +1,7 @@
 ---
 title: Updated From Chrome OS to Linux A Comprehensive Installation Guide
-date: 2024-08-21T14:38:40.222Z
-updated: 2024-08-22T14:38:40.222Z
+date: 2024-10-16T07:12:16.775Z
+updated: 2024-10-18T05:12:58.701Z
 tags: 
   - video editing software
   - video editing
@@ -52,6 +52,13 @@ The first step of the process is to reboot your system, while your Chromebook is
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2. Installing Chroot
 
 At this stage of the process, your Chromebook is ready for the installation of the Crouton environment. Crouton is a series of scripts that makes running a Linux OS much easier, especially for inexperienced users. In order to download Crouton, go to [GitHub](https://github.com/dnschneid/crouton) and find the download link, detailed instructions or extensions that can add more functionality to your OS. Once the installation file or files are in the Download folder, your next step is to access the Chromebook's terminal a feature called 'Crosh'. The fastest way to do this is to hold CTRL + ALT keys and then hit the T key. This action will cause the Chrome window to appear on the screen, and you will need to type the 'shell' command without using quotation marks. Afterwards, enter the following command: 'sudo sh \~/Downloads/crouton -t xfce' and if you want to install extensions you will have to add 'xfce,extension' command at the end.
@@ -68,9 +75,6 @@ You may have to optimize your new OS in order to improve the experience of using
 
 If for some reason you want to uninstall Linux from your Chromebook, simply reboot the system and press the spacebar when the 'OS verification is off' message appears on the screen. In this manner, you will exit the Developer Mode and all locally stored data, including all installed environments, will be deleted.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Dual-Boot a Chromebook Using ChrUbuntu
 
 An alternative option is available for Chromebook users that have Intel based devices like recently released Haswell models. The ChrUbuntu can be installed on the USB stick or external hard-drive or directly to the local memory of your Chromebook. Even though ARM-based machines can also use ChrUbuntu it isn't advisable because they may perform poorly due to slower processor speeds and less RAM power. Unlike Chroot, ChrUbuntu will not allow you to switch between operating systems without a reboot, and if the system is stored locally, you may need to go through the full system recovery.
@@ -88,17 +92,24 @@ Once the installation is completed, restart your Chromebook to finalize the proc
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### 3. Uninstall ChrUbuntu
 
 Removing ChrUbuntu is a relatively painless process that can be completed with just a few simple commands. If the OS is stored locally the only way to erase it is to perform a full system recovery. While all your data located on the cloud will re-sync with your Chromebook, the data stored locally will be deleted, which is why it is important to backup all the important files before starting a system recovery process. The fastest and easiest way to perform a system recovery is by creating a recovery disk from your device. Insert 'chrome://imageburner' in your browser's address bar, and carefully read and follow the instructions.
 
 This Linux removal method will also require you to have a USB stick with a minimum of 4GB of storage space. After you created the disk, you can go into the Recovery Mode, by holding Esc and Refresh buttons simultaneously and then pressing the Power button. In the Recovery Mode, you will be asked to insert the recovery disk and the process will be on the way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Part 4: How to Dual-Boot a Chromebook Using Gallium OS
 
 If neither Chroot nor ChrUbuntu work for you, using Gallium OS may be the right choice. The Gallium is Xbuntu-based OS that is equipped with touchpad mouse drivers among other advantages it offers over other operating systems. The installation process isn't complicated, although it may require more effort than installing Crouton.
@@ -122,8 +133,12 @@ Each of the options to install a Linux OS on your Chromebook we described has it
 On the other hand, other methods require more knowledge about the Linux OS installation process and switching between OS' is not that simple. If you are looking for an easy way to dual-boot your Chromebook that best way to do it is to install Linux as a Chroot using Crouton.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 5: Recommended Linux Video Editing Software: Lightworks
 
 **Price:** $24.99/month, although free versions of the software are also available.
@@ -139,15 +154,17 @@ The software is compatible with Mac, Windows, and Linux OS, which makes it a per
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -155,3 +172,23 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-polishing-up-your-past-looking-back-in-style/"><u>[Updated] In 2024, Polishing Up Your Past Looking Back in Style</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unleash-the-potential-of-video-marketing-on-facebook/"><u>2024 Approved Unleash the Potential of Video Marketing on Facebook</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-12-pro-max-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 12 Pro Max online without jailbreak</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-audio-working-in-avidemux-proven-solutions/"><u>New In 2024, Get Audio Working in Avidemux Proven Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-start-engaging-snipping-tool-on-windows-11/"><u>Quick Start: Engaging Snipping Tool on Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/techniques-for-exceptional-audio-recording-without-a-mic/"><u>Techniques for Exceptional Audio Recording without a Mic</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-free-video-editors-for-wmv-files-updated-2023/"><u>Top-Rated Free Video Editors for WMV Files (Updated 2023)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unlock-the-power-of-green-screen-top-10-free-apps-for-android-and-ios/"><u>Unlock the Power of Green Screen Top 10 Free Apps for Android & iOS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-say-goodbye-to-upside-down-videos-easy-flipping-hacks/"><u>Updated Say Goodbye to Upside-Down Videos Easy Flipping Hacks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-the-best-online-stop-motion-makers-reviewed-for-2024/"><u>Updated The Best of the Best Online Stop Motion Makers , Reviewed for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/whats-hot-the-best-ipad-video-editors-you-need-to-know/"><u>Whats Hot The Best iPad Video Editors You Need to Know</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/windows-8-video-editor-easy-avi-file-editing-made-possible-2023-edition/"><u>Windows 8 Video Editor Easy AVI File Editing Made Possible - 2023 Edition</u></a></li>
+</ul></div>
+

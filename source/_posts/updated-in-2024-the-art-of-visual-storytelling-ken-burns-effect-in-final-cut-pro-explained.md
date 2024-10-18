@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Art of Visual Storytelling Ken Burns Effect in Final Cut Pro Explained
-date: 2024-08-21T14:38:39.071Z
-updated: 2024-08-22T14:38:39.071Z
+date: 2024-10-15T19:36:53.201Z
+updated: 2024-10-18T13:36:15.099Z
 tags: 
   - video editing software
   - video editing
@@ -35,6 +35,13 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -44,8 +51,12 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -70,16 +81,10 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
 
 Now that we know how to open and apply the Ken Burns Effect in Final Cut Pro. Let’s examine how we zoom in Final Cut Pro using keyframing. Keyframing, of course, involves [basic animation](https://tools.techidaily.com/wondershare/filmora/download/) that allows movement to be added to a still frame. So how do you use the Ken Burns Effect in Final Cut Pro X in conjunction with keyframing? Let’s talk you through it.
@@ -94,9 +99,6 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -104,8 +106,12 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Ken Burns Conclusion
 
 The Ken Burns Effect is famous for a reason. It allows you to fill up space if you don’t have footage for certain things. It can be used to depict ancient battles without the use of CGI.
@@ -115,15 +121,17 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +139,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-instant-messaging-guide-start-a-skype-group-talk/"><u>[New] In 2024, Instant Messaging Guide Start a Skype Group Talk</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-tips-and-tricks-voice-overseas-that-elevate-your-film-projects/"><u>[New] Tips & Tricks Voice Overseas That Elevate Your Film Projects</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-memories-in-motion-the-premier-archive-for-tweeter-gifs/"><u>[Updated] Memories in Motion The Premier Archive for Tweeter GIFs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-raw-files-to-stunning-artwork-mastering-polarrs-editing/"><u>2024 Approved From Raw Files to Stunning Artwork Mastering Polarr's Editing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-airplay-link-between-apple-devices-quick-guide/"><u>Fixing a Broken AirPlay Link Between Apple Devices Quick Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-address-pnpdetected-fatal-errors-in-your-windows-11-setup/"><u>How to Correctly Address PNP_Detected Fatal Errors in Your Windows 11 Setup</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-poco-m6-pro-4g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Poco M6 Pro 4G Phone Now with These Tips</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-6-video-dubbing-software-for-pc/"><u>New In 2024, Best 6 Video Dubbing Software for PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-5-mts-video-editing-software-recommended/"><u>New In 2024, Top 5 MTS Video Editing Software Recommended</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-repeat-repeat-repeat-10-free-video-loopers-for-endless-fun-for-2024/"><u>New Repeat, Repeat, Repeat 10 Free Video Loopers for Endless Fun for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-your-brands-potential-best-free-animated-logo-creators/"><u>New Unleash Your Brands Potential Best Free Animated Logo Creators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-zero-cost-wonders-the-best-free-vob-video-editing-software/"><u>New Zero-Cost Wonders The Best Free VOB Video Editing Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-browsing-with-defender-aguard-on-windows-11-edge/"><u>Secure Browsing with Defender Aguard on Windows 11 Edge</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-easiest-way-to-make-mac-slideshows-and-home-videos-ezvid-guide/"><u>The Easiest Way to Make Mac Slideshows and Home Videos Ezvid Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-techniques-to-preserve-and-store-mov-files-on-windows-pcs/"><u>Top Techniques to Preserve and Store Mov Files on Windows PCs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-online-stop-motion-software-a-comprehensive-review/"><u>Updated Best Online Stop Motion Software A Comprehensive Review</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-imovie-free-alternatives-the-best-online-video-editing-tools/"><u>Updated IMovie Free Alternatives The Best Online Video Editing Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-looking-beyond-vsdc-top-mac-video-editing-alternatives-for-2024/"><u>Updated Looking Beyond VSDC Top Mac Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-gamers-need-to-know-why-macs-cant-match-pc-performance/"><u>What Gamers Need to Know: Why Macs Can't Match PC Performance</u></a></li>
+</ul></div>
+

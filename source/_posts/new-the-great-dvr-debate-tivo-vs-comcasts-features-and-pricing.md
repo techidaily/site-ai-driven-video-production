@@ -1,7 +1,7 @@
 ---
 title: New The Great DVR Debate TiVo vs Comcasts Features and Pricing
-date: 2024-10-05T07:23:06.720Z
-updated: 2024-10-12T02:46:20.504Z
+date: 2024-10-12T08:01:51.370Z
+updated: 2024-10-18T08:02:31.362Z
 tags: 
   - video editing software
   - video editing
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. TiVo vs Comcast: Connection to a network
 
  TiVos can be connected to your home computer network, and the newest one, the Roamio, comes with built-in wifi, for total freedom of use. Because it’s on the network, you can stream shows from your computer through the TiVo box for later playback. It supports channels like Netflix, Hulu Plus, and Amazon Instant. You can also stream shows to your Apple portable devices and then take the shows with you on the plane or to the gym, or use the device as a remote control. (Android devices will have the same capacity soon.) The network capacity also means you can use your computer to control the TiVo box and view content wherever you are.
@@ -75,16 +68,16 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. TiVo vs Comcast: Recording capacity
 
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  TiVos have recording capacities that range from 75 to 450 hours, depending on whether it is standard definition or high definition, and which device you are using. You can choose from three models of the Roamio. The base model costs $200 and has 75 hours of capacity. The menu and features are more limited on this one than on the others. There is a middle model priced at $400 that has the same six tuners as the high-end one but can only hold 150 hours of recordings. Then the top tier model costs $600 and has 450 hours of recording capacity, all of it in high definition.
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. TiVo vs Comcast: User interface
 
@@ -104,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
  Many reviewers liked the interface on the TiVo better than the grid used on the Comcast service. The TiVo programming guide allows you to delete channels you don’t watch so you’re only looking at the channels you like. Comcast’s guide covers every channel they offer, even ones that are not available on your tier of service.
@@ -111,16 +118,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
@@ -130,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Summary**
@@ -143,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -166,18 +160,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-perfecting-eq-adjustments-in-ableton/"><u>[Updated] Perfecting EQ Adjustments in Ableton</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-automating-your-voice-a-comprehensive-audacity-autotune-installation-and-usage-manual/"><u>2024 Approved Automating Your Voice A Comprehensive Audacity Autotune Installation and Usage Manual</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ai-and-creativity-collide-the-best-podcast-renaming-solutions/"><u>AI & Creativity Collide The Best Podcast Renaming Solutions</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fixing-issues-intel-graphics-driver-and-support-software-malfunction-on-desktops/"><u>Fixing Issues: Intel Graphics Driver & Support Software Malfunction on Desktops</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-z50-ultra-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Z50 Ultra to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-c51-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme C51 online without jailbreak</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-real-world-perceptions-of-vllo/"><u>In 2024, Real-World Perceptions of VLLO</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-free-video-rotation-apps-for-android-iphone-windows-and-mac/"><u>New In 2024, Best Free Video Rotation Apps for Android, iPhone, Windows, and Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-gif-speed-boosters-top-online-and-mobile-apps/"><u>New In 2024, GIF Speed Boosters Top Online and Mobile Apps</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/tga-jpg-movavi/"><u>TGA 파일을 자동화된 JPG로 바꾸기: 가상 컴퓨터에서 무료 스위트 - Movavi</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/top-10-4k-video-samples/"><u>Top 10 4K Video Samples</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unbrand-your-videos-removing-filmora-watermark-with-free-and-paid-options/"><u>Updated 2024 Approved Unbrand Your Videos Removing Filmora Watermark with Free and Paid Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-jump-cuts-in-final-cut-pro-x-tips-and-tricks-for-2024/"><u>Updated The Ultimate Guide to Jump Cuts in Final Cut Pro X Tips and Tricks for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-streaming-directly-from-facebook-to-your-screen/"><u>[New] 2024 Approved Streaming Directly From Facebook to Your Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-speeding-up-periscope-live-streams-explained/"><u>[New] Speeding Up Periscope Live Streams Explained</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y28-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y28 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/cut-off-and-re-engage-users-on-twitch-live/"><u>Cut Off & Re-Engage Users on Twitch Live</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tial-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-4k-showcase-must-see-video-clips-for-any-enthusiast/"><u>The Ultimate 4K Showcase Must-See Video Clips for Any Enthusiast</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-5-hand-drawing-whiteboard-animation-makers-for-2024/"><u>Top 5 Hand Drawing Whiteboard Animation Makers for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-mp4-to-mp3-conversion-made-easy-top-converters-reviewed/"><u>Updated 2024 Approved MP4 to MP3 Conversion Made Easy Top Converters Reviewed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-6-best-free-online-imovie-alternatives/"><u>Updated 6 Best Free Online iMovie Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-engaging-videos-on-the-go-best-animated-text-apps-for-phones/"><u>Updated Create Engaging Videos on the Go Best Animated Text Apps for Phones</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vocal-interaction-redefined-in-the-augmented-realm/"><u>Vocal Interaction Redefined in the Augmented Realm</u></a></li>
 </ul></div>
 

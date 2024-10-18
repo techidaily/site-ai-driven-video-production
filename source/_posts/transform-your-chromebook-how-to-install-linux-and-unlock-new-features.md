@@ -1,7 +1,7 @@
 ---
 title: Transform Your Chromebook How to Install Linux and Unlock New Features
-date: 2024-08-15T01:57:06.571Z
-updated: 2024-08-16T01:57:06.571Z
+date: 2024-10-11T20:44:08.296Z
+updated: 2024-10-18T08:33:25.033Z
 tags: 
   - video editing software
   - video editing
@@ -42,6 +42,13 @@ The first step of the process of installing the Linux OS is the decision itself,
 * Regardless of which method of installing Linux OS you choose, you will have to switch to the Developer Mode, a special built-in function that allows you to install the unapproved operating system, among other things.
 * Now that you are aware of the requirements and risks, you will have to backup all the files you have on your Chromebook because once you switch to the Developer Mode all the information stored locally will be erased. You can save the files on another computer or on the cloud depending on how much data you need to move and which one is more convenient for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Install Linux as a Chroot Using Crouton on Chromebook
 
 After you have stored all your data safely, your Chromebook is ready for the beginning of the installation process of the secondary operating system. You will have to perform a series of actions that will allow you to start the installation, starting from accessing the Developer Mode.
@@ -51,18 +58,12 @@ After you have stored all your data safely, your Chromebook is ready for the beg
 The first step of the process is to reboot your system, while your Chromebook is on. In order to do so hold Escape and Refresh keys on your keyboard and then hit the power button. Once your device is back online you will find yourself in the recovery mode, and you will see a message telling you to insert a recovery disc. Instead of inserting the disc, hold Ctrl+D and wait for OS verification menu to appear on the screen. At this point, if you are still having second thoughts about this process, you can hit the spacebar to return to recovery mode, or press Enter to proceed. Hitting Enter will delete all the data stored on your device and take you into the Developer Mode. Once your Chromebook lets you know that you are now in the Developer Mode, reboot the system and install a fresh version of the Chrome OS. Insert your login information and follow the instructions until you are looking at the Chrome OS desktop.
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 2. Installing Chroot
 
 At this stage of the process, your Chromebook is ready for the installation of the Crouton environment. Crouton is a series of scripts that makes running a Linux OS much easier, especially for inexperienced users. In order to download Crouton, go to [GitHub](https://github.com/dnschneid/crouton) and find the download link, detailed instructions or extensions that can add more functionality to your OS. Once the installation file or files are in the Download folder, your next step is to access the Chromebook's terminal a feature called 'Crosh'. The fastest way to do this is to hold CTRL + ALT keys and then hit the T key. This action will cause the Chrome window to appear on the screen, and you will need to type the 'shell' command without using quotation marks. Afterwards, enter the following command: 'sudo sh \~/Downloads/crouton -t xfce' and if you want to install extensions you will have to add 'xfce,extension' command at the end.
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Press the Enter key and wait for the system to start setting up the Chroot. This process may take a while, so it is important to be patient, but more importantly, do not interfere with it in any way. Installation of your secondary OS is now on the way, and you may be asked to insert your login data, like your Gmail username and password. Wait patiently until the process is over and then return to shell and enter this command: 'sudo enter-chroot startxfce4'. Your screen will go black for a while, but after the black screen is gone your Chromebook will be in the freshly installed Linux OS.
 
@@ -74,9 +75,6 @@ You may have to optimize your new OS in order to improve the experience of using
 
 If for some reason you want to uninstall Linux from your Chromebook, simply reboot the system and press the spacebar when the 'OS verification is off' message appears on the screen. In this manner, you will exit the Developer Mode and all locally stored data, including all installed environments, will be deleted.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to Dual-Boot a Chromebook Using ChrUbuntu
 
 An alternative option is available for Chromebook users that have Intel based devices like recently released Haswell models. The ChrUbuntu can be installed on the USB stick or external hard-drive or directly to the local memory of your Chromebook. Even though ARM-based machines can also use ChrUbuntu it isn't advisable because they may perform poorly due to slower processor speeds and less RAM power. Unlike Chroot, ChrUbuntu will not allow you to switch between operating systems without a reboot, and if the system is stored locally, you may need to go through the full system recovery.
@@ -92,8 +90,12 @@ Once the partitioning of your hard-drive is completed, you will have to repeat t
 Once the installation is completed, restart your Chromebook to finalize the process, and when you see the 'OS Verification is Off' notification press Ctrl+L to access Linux or Ctrl+D boot into Chrome OS.
 
 ![Install Linux on Chromebook](https://images.wondershare.com/filmora/article-images/install-linux-on-chromebook-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 3. Uninstall ChrUbuntu
@@ -101,6 +103,13 @@ Once the installation is completed, restart your Chromebook to finalize the proc
 Removing ChrUbuntu is a relatively painless process that can be completed with just a few simple commands. If the OS is stored locally the only way to erase it is to perform a full system recovery. While all your data located on the cloud will re-sync with your Chromebook, the data stored locally will be deleted, which is why it is important to backup all the important files before starting a system recovery process. The fastest and easiest way to perform a system recovery is by creating a recovery disk from your device. Insert 'chrome://imageburner' in your browser's address bar, and carefully read and follow the instructions.
 
 This Linux removal method will also require you to have a USB stick with a minimum of 4GB of storage space. After you created the disk, you can go into the Recovery Mode, by holding Esc and Refresh buttons simultaneously and then pressing the Power button. In the Recovery Mode, you will be asked to insert the recovery disk and the process will be on the way.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Dual-Boot a Chromebook Using Gallium OS
 
@@ -125,8 +134,12 @@ Each of the options to install a Linux OS on your Chromebook we described has it
 On the other hand, other methods require more knowledge about the Linux OS installation process and switching between OS' is not that simple. If you are looking for an easy way to dual-boot your Chromebook that best way to do it is to install Linux as a Chroot using Crouton.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 5: Recommended Linux Video Editing Software: Lightworks
 
 **Price:** $24.99/month, although free versions of the software are also available.
@@ -140,9 +153,6 @@ Lightworks Resolve may not be as popular as Adobe Premiere Pro or Final Cut Pro,
 The software is compatible with Mac, Windows, and Linux OS, which makes it a perfect choice for Chromebook users that have a Linux OS installed on their devices. Lightworks features literally every editing tool imaginable and for that reason, it is a perfect choice for editing videos you would like to upload to Vimeo or YouTube or high-end professional projects. This editing software offers plenty of transitions and visual effects that will help its users to create seamless jumps between shots and visually impressive videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -150,11 +160,23 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-fortune-on-screen-achieving-youtube-earnings-unlinked-from-ads/"><u>[Updated] Fortune on Screen Achieving YouTube Earnings Unlinked From Ads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amplify-your-iphone-films-with-free-audio-additions-discover-three-ways/"><u>Amplify Your iPhone Films with Free Audio Additions – Discover Three Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-zte-nubia-z60-ultra-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to ZTE Nubia Z60 Ultra Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-revolutionizing-gameplay-with-innovative-file-logging-tools/"><u>In 2024, Revolutionizing Gameplay with Innovative File Logging Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-free-up-disk-space-for-final-cut-pro-x-for-2024/"><u>New How to Free Up Disk Space for Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-no-cost-wmv-video-editing-the-best-free-software/"><u>New No-Cost WMV Video Editing The Best Free Software</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unseen-cost-10-dangers-of-digital-networking/"><u>The Unseen Cost: 10 Dangers of Digital Networking</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-best-value-video-editing-software/"><u>Updated 2024 Approved The Best Value Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-os-x-mavericks-video-editing-tutorial-from-basics-to-advanced-for-2024/"><u>Updated OS X Mavericks Video Editing Tutorial From Basics to Advanced for 2024</u></a></li>
+</ul></div>
+

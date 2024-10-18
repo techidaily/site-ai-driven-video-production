@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Premiere Pro Essentials 20 Free Title and Intro Templates
-date: 2024-08-21T14:38:51.519Z
-updated: 2024-08-22T14:38:51.519Z
+date: 2024-10-17T06:00:46.094Z
+updated: 2024-10-17T18:08:48.228Z
 tags: 
   - video editing software
   - video editing
@@ -72,9 +72,6 @@ Currently, there are Title Expansion Set, business title set, wedding title set,
 
 Learn more details about [How to Add Text to Video with Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2 Richard Harrington
 
 This is another site that offers templates for download but is also a great place to visit for ideas and information. Richard approaches Premiere from a photographer's viewpoint, and so has a slightly different view on many topics that are well worth reading.
@@ -88,6 +85,19 @@ He has links to a sizable number of templates on Richard Harrington covering a r
 * More than title templates also has DVD menus and animated text
 
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/RichardHarrington.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3 [ProVideoCoalition](http://provideocoalition.com/ryoung/story/free%5Flower%5Fthirds%5Fand%5Ftutorials/)
 
@@ -116,9 +126,6 @@ All templates are quality professionally produced products and worth the visit a
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Coremelt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5 [Bestproaction](https://ezmediart.com/users/BestProAction)
 
 Another commercial site. This one has a range of free templates and presets to download for Premiere. Fourteen open items altogether can be downloaded. This site at least deserves a browse through their catalog after a download. The emphasis here is on low cost but high quality, useful templates, and plugins to suit any project.
@@ -134,8 +141,19 @@ Even for those of us with a limited budget, there may be something that catches 
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/Bestproaction.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6 [FXFactory](http://fxfactory.com/free/)
 
 This is another commercial site that has a smattering of very high-quality free downloads on offer, including a beautiful template for the original Star Wars movie style scrolling titles.
@@ -151,10 +169,6 @@ FX Factory has also created some great video tutorials on a variety of aspects o
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/FXFactory.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 7 [Creative Impatience](http://www.creativeimpatience.com/download/)
 
 A fantastic site full of information, tips, and opinion on all aspects of video production, it's a great place to spend some time, with the bonus of a bunch of free downloads for Premiere.
@@ -168,6 +182,13 @@ Of particular note are the tutorials, an excellent source of information and tri
 * Safe and clean to use. All real
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Creative-Impatience.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8[Filmimpact](https://www.filmimpact.net/)
 
@@ -192,12 +213,6 @@ There are already a lot of free templates on offer covering a wide variety of st
 
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/Style4Type.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10 [Premiere Beat](https://www.premiumbeat.com/blog/21-free-motion-graphics-templates-premiere-pro/)
 
 Lots of information on this site as its been running for a decade, it is a website that imparts a wealth of knowledge along the way on not just video editing but music.
@@ -221,8 +236,12 @@ It is a clean title template without unnecessary parts. If you like simple title
 ![premiere pro intro template free download](https://images.wondershare.com/filmora/filmorapro/premiere-clean-elegant-rotation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 12 [Unfolding Titles](https://motionarray.com/premiere-pro-templates/unfolding-titles-13030)
 
 It is a clean title template with an unfolding effect. Each text has two unfolding effects, which are convenient to use with customization. It supports 4K and HD versions. In this pack, it wons 10 title formats. After importing Premiere, you can also change text size.
@@ -243,10 +262,6 @@ These are five modern title packs for Premiere. With it, you don't need to use A
 * Include 5 title packs
 * Modern and clean titles
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### 14 [Video Intro Templates](https://motionarray.com/premiere-pro-templates/video-intro-templates-15485) \- Premiere Pro intro template free download
 
 It is a free download Premiere Pro intro template that you can add to your video. It is highly recommended to use promotion and commercial video.
@@ -273,23 +288,21 @@ You can use it for your presentation, promotional video, and product video. Besi
 
 ![premiere pro intro template free download Elegant Promo](https://images.wondershare.com/filmora/filmorapro/premiere-pro-intro-template-free-download.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 These are free templates, and they are enough to get anyone up and running with a new project. As said before, with the commercial enterprises that offer freebies, it's always worth checking out their paid for output as well, you may not be in the market for it right now, but something may stick for a later time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Bonus: Best 5 Premiere Pro Intro Templates Free Download
 
 Even though all websites we featured in this article offer some free intro templates for Adobe Premiere Pro. However, it is still a much better solution to buy a subscription plan on a platform if you are working on a large number of projects each month.
 
 Let's see which websites you can use to download the intro and title templates for Premiere Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 16. [Motion Array](https://motionarray.com/browse)
 
 In addition to an impressive library of intro templates, Motion Array offers presets, sound effects, royalty-free music, and stock footage.
@@ -304,9 +317,6 @@ The Pro subscription plan that can be purchased for $54 per month will grant you
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Motion-Array.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 17. [Cinecom – Simple Intro for Premiere Pro](https://www.cinecom.net/designer-packs/simple-titles-for-premiere-pro/)
 
 It is a designer pack that features ten pre-animated lower-thirds intro templates. You can change the duration of the font and color of the text in each template, and you can choose if you want to download a 1080 or the 4K version of the designer pack.
@@ -320,11 +330,12 @@ Even though this can be a bit inconvenient, it is very well worth the trouble si
 ![title template for Premiere Pro](https://images.wondershare.com/filmora/article-images/simple-titles-for-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### 18. [EnvatoElements](https://elements.envato.com/)
 
 You can find much more than intro templates on the EnvatoElements platform since you can choose from 740.000 items you can use for anything from creating a WordPress website to preparing your next business presentation.
@@ -338,8 +349,18 @@ Prices start from $16.50 per month, and packages include virtually unlimited acc
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/EnvatoElements.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 19. [Videohive](https://videohive.net/category/premiere-pro-templates/titles)
 
 Videohive is a part of the Envato Market platform that also features Web Themes and Templates, Code, Audio, or Graphic sections. It is free to use, but only a limited amount of assets can be downloaded for free.
@@ -366,12 +387,6 @@ On the other hand, Premiere Pro's users who don't often use title templates can 
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/RocketStock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Import and Customize Title Templates in Premiere
 
 If you download the template, all the title templates support customization. You can change its size, font, color, and add 3D effects.
@@ -400,16 +415,11 @@ You can sync audio automatically, use detailed color correction to make your tit
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -417,3 +427,25 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-complete-guide-to-recording-flawless-zoom-based-podcasts/"><u>[New] 2024 Approved The Complete Guide to Recording Flawless Zoom-Based Podcasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-cineblend-app-seamless-video-mashups-for-instagram-for-2024/"><u>[New] CineBlend App Seamless Video Mashups for Instagram for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-how-to-use-green-screen-in-kinemaster/"><u>[Updated] How To Use Green Screen In KineMaster</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x8b-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X8b Phone?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-14-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-stand-out-with-custom-youtube-imagery/"><u>In 2024, Stand Out with Custom YouTube Imagery</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-endless-fun-top-10-free-online-video-loop-generators/"><u>New In 2024, Endless Fun Top 10 Free Online Video Loop Generators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-lights-camera-action-a-kid-friendly-guide-to-film-production/"><u>New In 2024, Lights, Camera, Action! A Kid-Friendly Guide to Film Production</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unlock-screen-recording-potential-tips-and-tricks-for-filmora-scrn-users/"><u>New In 2024, Unlock Screen Recording Potential Tips and Tricks for Filmora Scrn Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-must-have-iphone-apps-expertly-curated-list-with-reviews/"><u>New Must-Have iPhone Apps Expertly Curated List with Reviews</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-10-animated-text-tools-you-need-to-try-this-year/"><u>New Top 10 Animated Text Tools You Need to Try This Year</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-playbook-skyrocket-your-youtube-shorts-traffic-and-engagement-for-2024/"><u>The Ultimate Playbook Skyrocket Your YouTube Shorts Traffic and Engagement for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-a-swift-review-of-vn-video-editors-pc-version/"><u>Updated 2024 Approved A Swift Review of VN Video Editors PC Version</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-elevate-your-video-game-top-4k8k-video-editing-solutions/"><u>Updated In 2024, Elevate Your Video Game Top 4K/8K Video Editing Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-reaction-video-mastery-top-ios-and-android-apps/"><u>Updated In 2024, Reaction Video Mastery Top iOS and Android Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-your-chromebooks-potential-how-to-install-linux/"><u>Updated Unlock Your Chromebooks Potential How to Install Linux</u></a></li>
+</ul></div>
+

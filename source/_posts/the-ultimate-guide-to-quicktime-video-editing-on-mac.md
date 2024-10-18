@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to QuickTime Video Editing on Mac
-date: 2024-10-08T20:03:43.070Z
-updated: 2024-10-12T08:22:40.770Z
+date: 2024-10-17T01:57:40.570Z
+updated: 2024-10-18T01:48:18.780Z
 tags: 
   - video editing software
   - video editing
@@ -50,30 +50,37 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Split Video With QuickTime Player on Mac
 
@@ -86,13 +93,6 @@ Step1: Click the Play button to jump to the part of the clip where you want to s
 Step2: Move the playhead where you want to split the position, then select Edit > Split Clip.
 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Rotate Video with QuickTime Player on Mac
 
@@ -129,10 +129,10 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -152,19 +152,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-15-facebook-videograbber-add-ons-compatible-with-firefox/"><u>[Updated] 2024 Approved Top 15 Facebook Videograbber Add-Ons, Compatible with FireFox</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/5-simple-steps-to-quickly-improve-your-filmmaking-skills/"><u>5 Simple Steps to Quickly Improve Your Filmmaking Skills</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/6windows-10/"><u>6効果的な解決策：Windows 10へのアップグレードが不可能な容量不足を克服する</u></a></li>
-<li><a href="https://win-dash.techidaily.com/convert-your-youtube-videos-to-ogv-format-for-free-on-windows/"><u>Convert Your YouTube Videos to OGV Format for Free on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/grandest-directors-reveals/"><u>Grandest Directors' Reveals</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-c53-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme C53 Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-gt-3-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme GT 3 FRP Without Computer</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Why does the pokemon go battle league not available On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-trimming-vlc-videos-on-mac-without-compromising-quality-for-2024/"><u>New The Ultimate Guide to Trimming VLC Videos on Mac Without Compromising Quality for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/streamline-your-workflow-how-to-optimize-your-macs-storage-for-fcpx/"><u>Streamline Your Workflow How to Optimize Your Macs Storage for FCPX</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-sound-of-silence-expert-advice-on-noise-reduction-in-final-cut-pro-x/"><u>Updated 2024 Approved The Sound of Silence Expert Advice on Noise Reduction in Final Cut Pro X</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-discover-the-power-of-fcp-90-days-free-no-strings-attached-for-2024/"><u>Updated Discover the Power of FCP 90 Days Free, No Strings Attached for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-top-4k-video-editing-solutions-for-professionals/"><u>Updated The Top 4K Video Editing Solutions for Professionals</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-free-video-editors-for-32-bit-windows-computers-for-2024/"><u>Updated Top Free Video Editors for 32-Bit Windows Computers for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-complete-analysis-of-yi-4k-plus-hdvr-review-for-2024/"><u>[New] The Complete Analysis of Yi 4K + HDVR Review for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-high-speed-screen-grabber-with-audible-narration/"><u>[Updated] In 2024, High-Speed Screen Grabber with Audible Narration</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/expert-video-editing-on-mac-the-power-of-adobe-premiere-pro/"><u>Expert Video Editing on Mac The Power of Adobe Premiere Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-s17e-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo S17e to PC? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-vn-video-editor-android-review-features-pros-and-cons/"><u>In 2024, VN Video Editor Android Review Features, Pros, and Cons</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-best-powerdirector-substitutes-for-mobile-video-editing/"><u>New 2024 Approved The Best PowerDirector Substitutes for Mobile Video Editing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unleash-your-creativity-best-time-lapse-video-editing-tools/"><u>New 2024 Approved Unleash Your Creativity Best Time-Lapse Video Editing Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unlock-filmora-for-free-legit-and-secure-download-options/"><u>New 2024 Approved Unlock Filmora for Free Legit and Secure Download Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stability-excellence-the-top-10-gimbal-options-for-phones-and-cameras/"><u>Stability Excellence The Top 10 Gimbal Options for Phones & Cameras</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-s23-tactical-edition-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy S23 Tactical Edition Device</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-audacity-setup-guide-for-ubuntu-installs-uninstalls-and-troubleshooting-tips/"><u>Updated Audacity Setup Guide for Ubuntu Installs, Uninstalls & Troubleshooting Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-10-06T06:01:59.144Z
-updated: 2024-10-12T07:20:13.447Z
+date: 2024-10-11T11:15:54.044Z
+updated: 2024-10-17T21:55:21.701Z
 tags: 
   - video editing software
   - video editing
@@ -43,13 +43,6 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Making the Ken Burns Effect Final Cut Pro
 
 Now that we know what is Ken Burns Effect. Let’s go over the steps to making the Ken Burns Effect in Final Cut Pro.
@@ -58,18 +51,18 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -82,10 +75,10 @@ You can also customize the ken burns effects in Final Cut.
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
@@ -93,10 +86,10 @@ You can also customize the ken burns effects in Final Cut.
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -112,6 +105,19 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **Step 3** – Seek out the scale and position tools. You can use these to size your animation, decide how much of a zoom you like, and how fast it will go.
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
@@ -142,20 +148,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dissecting-youtubes-features-and-mechanisms-after-uploading-content/"><u>[Updated] 2024 Approved Dissecting YouTube’s Features and Mechanisms After Uploading Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-h501x4-fpv-quadcopter-unveiled-review-breakdown/"><u>[Updated] 2024 Approved H501X4 FPV Quadcopter Unveiled - Review Breakdown</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-discover-the-prime-lineup-of-affordable-cutting-tools-for-2024/"><u>[Updated] Discover the Prime Lineup of Affordable Cutting Tools for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-examining-youtubes-mobile-app-for-iosandroid-devices/"><u>[Updated] Examining YouTube's Mobile App for iOS/Android Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-change-wmv-files-into-high-quality-flac-format-with-ease/"><u>Free Online Converter: Change WMV Files Into High-Quality FLAC Format with Ease</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-note-12-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi Note 12 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-streaming-made-easy-discover-how-manycam-transforms-your-online-presence-with-virtual-webcam-capabilities/"><u>Live Streaming Made Easy: Discover How ManyCam Transforms Your Online Presence with Virtual Webcam Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-citations-in-depth-strategies-for-quoting-chatgpt-accurately/"><u>Mastering Citations: In-Depth Strategies for Quoting ChatGPT Accurately</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-and-fantastic-the-best-mp4-video-editors/"><u>New In 2024, Free and Fantastic The Best MP4 Video Editors</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-5-best-mp4-video-editors-totally-free/"><u>New Top 5 Best MP4 Video Editors Totally Free</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-avchd-video-editing-programs/"><u>Top-Rated AVCHD Video Editing Programs</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-guide-to-video-invitation-apps-for-iphone-and-android/"><u>Updated 2024 Approved The Ultimate Guide to Video Invitation Apps for iPhone and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-your-creativity-how-to-edit-videos-with-windows-movie-maker/"><u>Updated 2024 Approved Unleash Your Creativity How to Edit Videos with Windows Movie Maker</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-vegas-or-premiere-choosing-the-best-video-editing-software-for-you/"><u>Updated 2024 Approved Vegas or Premiere? Choosing the Best Video Editing Software for You</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-rated-mts-video-editors-expert-reviews/"><u>Updated In 2024, Top-Rated MTS Video Editors Expert Reviews</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-obs-alternatives-reviewed-by-experienced-broadcinas/"><u>[New] OBS Alternatives Reviewed by Experienced Broadcinas</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-detailed-look-at-pre-purchasing-your-smart-tv/"><u>A Detailed Look at Pre-Purchasing Your Smart TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-rumors-around-the-new-xbox-vr-setup-probable-cost-estimates-specs-and-availability-dates/"><u>Decoding Rumors Around the New Xbox VR Setup: Probable Cost Estimates, Specs, and Availability Dates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-corsair-hs60-mic-issues-with-these-easy-steps/"><u>Fix Your Corsair HS60 Mic Issues with These Easy Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-csr-bluetooth-device-drivers-download/"><u>Free CSR Bluetooth Device Drivers Download</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-glitch-repeat-revolutionize-top-video-editing-apps-for-ios-and-android/"><u>In 2024, Glitch, Repeat, Revolutionize Top Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-10-best-apps-to-create-mind-bending-glitch-art-videos-on-mobile-for-2024/"><u>New 10 Best Apps to Create Mind-Bending Glitch Art Videos on Mobile for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-add-a-sense-of-urgency-3-quick-steps-to-create-a-countdown-in-fcpx/"><u>New 2024 Approved Add a Sense of Urgency 3 Quick Steps to Create a Countdown in FCPX</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-pro-video-editor-convert-casual-clips-into-cinematic-masterpieces/"><u>New 2024 Approved Pro Video Editor Convert Casual Clips Into Cinematic Masterpieces</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-error-code-navigating-and-fixing-a-detailed-manual/"><u>Steam Error Code Navigating and Fixing: A Detailed Manual</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-reliable-companion-on-your-drives-a-comprehensive-look-at-the-rexing-v1-dashcam/"><u>The Reliable Companion on Your Drives: A Comprehensive Look at the Rexing V1 Dashcam</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-tips-for-clearing-up-the-fuzz-on-your-iphones-camera/"><u>Top 7 Tips for Clearing Up the Fuzz on Your iPhone's Camera</u></a></li>
 </ul></div>
 

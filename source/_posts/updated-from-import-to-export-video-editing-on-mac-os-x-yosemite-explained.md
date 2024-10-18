@@ -1,7 +1,7 @@
 ---
 title: Updated From Import to Export Video Editing on Mac OS X Yosemite Explained
-date: 2024-10-08T01:11:29.290Z
-updated: 2024-10-11T20:43:35.921Z
+date: 2024-10-17T06:41:58.020Z
+updated: 2024-10-17T20:50:35.461Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,13 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -46,24 +53,18 @@ You have two different ways to edit the video. One is to double click the video 
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Edit and enhance audio**
 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Add transition and other effects**
 
@@ -72,16 +73,10 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
@@ -93,20 +88,13 @@ After you preview the effect, just click the “Export” button to export the v
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -123,22 +111,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-understanding-the-technicalities-of-fb-360-streaming/"><u>[Updated] 2024 Approved Understanding the Technicalities of FB 360 Streaming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-leveraging-technology-tips-for-screenrec-utilization/"><u>2024 Approved Leveraging Technology Tips for ScreenRec Utilization</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-c65-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Poco C65 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa-for-2024/"><u>New How to Translate Audio/Video Content From Spanish to English and Vice Versa for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-online-video-creation-made-simple-wevideos-easy-editor/"><u>New In 2024, Online Video Creation Made Simple WeVideos Easy Editor</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unleash-your-inner-animator-top-animation-software-for-every-skill-level/"><u>New In 2024, Unleash Your Inner Animator Top Animation Software for Every Skill Level</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-quicktime-video-editing-made-easy-top-10-free-tools/"><u>New QuickTime Video Editing Made Easy Top 10 Free Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-time-lapse-video-editing-software-roundup/"><u>New The Ultimate Time-Lapse Video Editing Software Roundup</u></a></li>
-<li><a href="https://article-tips.techidaily.com/no1-video-recorders-headset-display-enhanced-for-2024/"><u>No.1 Video Recorders Headset Display Enhanced for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/split-screen-merge-creativity-top-video-editing-apps-for-mobile-devices/"><u>Split Screen, Merge Creativity Top Video Editing Apps for Mobile Devices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-fcp-voice-over-guide-tips-tricks-and-best-practices/"><u>Updated 2024 Approved The Ultimate FCP Voice Over Guide Tips, Tricks, and Best Practices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-rated-online-tools-for-converting-images-to-videos/"><u>Updated 2024 Approved Top-Rated Online Tools for Converting Images to Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/videography-on-fb-horizontal-or-vertical-placement-in-2024/"><u>Videography on FB Horizontal or Vertical Placement, In 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728510070950-windows-115/"><u>Windows 11更新後の消えたファイルを取り戻す手順：上位5選</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/xfinity-vs-tivo-a-comprehensive-comparison-of-dvr-options-for-2024/"><u>Xfinity vs TiVo A Comprehensive Comparison of DVR Options for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-drive-subscriptions-upward-through-effective-youtube-branding/"><u>[New] 2024 Approved Drive Subscriptions Upward Through Effective YouTube Branding</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-google-meet-go-live-your-youtube-broadcast-companion-for-2024/"><u>[New] Google Meet Go Live - Your YouTube Broadcast Companion for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-instantpause-live-image-save-tips/"><u>[New] InstantPause Live Image Save Tips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-using-tiktok-on-mac-and-windows/"><u>[Updated] In 2024, The Ultimate Guide to Using TikTok on Mac & Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-future-with-advanced-vr-finger-tech/"><u>2024 Approved Explore the Future with Advanced VR Finger Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-the-fine-art-of-instagram-photo-borders/"><u>2024 Approved Mastering the Fine Art of Instagram Photo Borders</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/bypassing-launch-errors-for-civilization-vi-on-windows-11-expert-tips-and-tricks/"><u>Bypassing Launch Errors for Civilization VI on Windows 11 - Expert Tips & Tricks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-best-8-youtube-editing-software-for-linux/"><u>In 2024, Best 8 YouTube Editing Software for Linux</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oneplus-ace-2-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from OnePlus Ace 2 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-sony-vegas-replacements-for-windows-users-for-2024/"><u>New Top Sony Vegas Replacements for Windows Users for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/noise-negotiation-managing-system-alerts-effectively/"><u>Noise Negotiation: Managing System Alerts Effectively</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-animated-photos-made-easy-the-9-best-tools-and-apps/"><u>Updated Animated Photos Made Easy The 9 Best Tools and Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-capturing-memories-a-guide-to-sharing-ps4-screenshots-online/"><u>Updated Capturing Memories A Guide to Sharing PS4 Screenshots Online</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-discover-the-best-free-3d-animation-apps-for-android-and-ios-devices-for-2024/"><u>Updated Discover the Best Free 3D Animation Apps for Android and iOS Devices for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-film-like-a-pro-on-a-budget-affordable-tips-for-high-quality-movie-making/"><u>Updated Film Like a Pro on a Budget Affordable Tips for High-Quality Movie Making</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-photo-to-cartoon-converter-online-for-2024/"><u>Updated Photo to Cartoon Converter Online for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-premiere-rush-not-your-cup-of-tea-try-these-4-alternatives/"><u>Updated Premiere Rush Not Your Cup of Tea? Try These 4 Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/video-post-production-powerhouses-a-comparison-of-adobe-premiere-and-after-effects/"><u>Video Post-Production Powerhouses A Comparison of Adobe Premiere and After Effects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-discords-black-display-problem-during-screen-casting-expert-tips/"><u>Winning Against Discord's Black Display Problem During Screen Casting - Expert Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Effective Lower Thirds in Final Cut Pro X for 2024
-date: 2024-10-09T21:49:32.601Z
-updated: 2024-10-12T04:40:33.895Z
+date: 2024-10-15T17:43:09.332Z
+updated: 2024-10-18T10:51:36.137Z
 tags: 
   - video editing software
   - video editing
@@ -85,20 +85,6 @@ Proper alignment and the best coordinates on the screen make the lower third mod
 
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part3: How to make a lower third quickly in final cut pro X?**
 
 The Final Cut Pro X is a fabulous program to edit your videos professionally. Insert the desired elements and customize them quickly. To work on this platform, you do not require any special skills.
@@ -115,6 +101,19 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -123,18 +122,18 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
 
@@ -142,18 +141,18 @@ Now, you can edit the texts in the inserted titles and add animation to the elem
 
 ![customize-lower-third](https://images.wondershare.com/filmora/images/final-cut-pro/customize-lower-third.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Use the above instructions, insert the lower third element in your video effortlessly. Simple click and drag actions are sufficient to carry out the desired effects on the element.
 
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -172,6 +171,13 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 **Minimalistic collection**
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/-gamers-guide-to-twisting-videos-on-youtube-2e/"><u>[New] A Gamer's Guide to Twisting Videos on YouTube (2E)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-cut-to-impact-video-editing-secrets-for-instagram-professionals/"><u>2024 Approved Cut to Impact Video Editing Secrets for Instagram Professionals</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-chatgpt-tailored-directive-capabilities/"><u>Discovering ChatGPT: Tailored Directive Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-claude-2-its-features-and-how-they-benefit-users/"><u>Exploring Claude 2 - Its Features & How They Benefit Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-your-guide-to-facebook-video-angle-selection/"><u>In 2024, Your Guide to Facebook Video Angle Selection</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-professional-video-editor-for-mac-os-unleash-your-creativity-for-2024/"><u>New Professional Video Editor for Mac OS Unleash Your Creativity for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-10-mac-video-tag-editors-for-seamless-organization/"><u>New Top 10 Mac Video Tag Editors for Seamless Organization</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-unlocking-global-audiences-top-video-language-converters/"><u>New Unlocking Global Audiences Top Video Language Converters</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/step-by-step-process-of-crafting-perfect-tweet-ads/"><u>Step-by-Step Process of Crafting Perfect Tweet Ads</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-10-best-free-avi-concatenators-for-seamless-video-editing-for-2024/"><u>The 10 Best Free AVI Concatenators for Seamless Video Editing for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transforma-i-tuoi-file-mod-in-mp3-senza-costi-usando-movavi-strumento-di-conversione-online-gratuito/"><u>Transforma I Tuoi File MOD in MP3 Senza Costi Usando Movavi - Strumento Di Conversione Online Gratuito!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/unlock-the-power-of-green-screen-top-10-free-apps-for-android-and-ios/"><u>Unlock the Power of Green Screen Top 10 Free Apps for Android & iOS</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-engaging-videos-online-with-wevideo-for-2024/"><u>Updated Create Engaging Videos Online with WeVideo for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-say-goodbye-to-upside-down-videos-easy-flipping-hacks/"><u>Updated Say Goodbye to Upside-Down Videos Easy Flipping Hacks</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>Updated Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-the-best-online-stop-motion-makers-reviewed-for-2024/"><u>Updated The Best of the Best Online Stop Motion Makers , Reviewed for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/whats-hot-the-best-ipad-video-editors-you-need-to-know/"><u>Whats Hot The Best iPad Video Editors You Need to Know</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/windows-8-video-editor-easy-avi-file-editing-made-possible-2023-edition/"><u>Windows 8 Video Editor Easy AVI File Editing Made Possible - 2023 Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>[New] 2024 Approved Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nnovative-youtube-channel-names-for-the-next-gen-vloggers-and-film-makers-keep-it-under-or-at-156-characters/"><u>[New] Innovative YouTube Channel Names for the Next Gen Vloggers and Film Makers (Keep It Under or at 156 Characters)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-innovative-youtube-intro-strategies-using-imovie-for-2024/"><u>[Updated] Innovative YouTube Intro Strategies Using iMovie for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-sky-high-technology-unleashed-compreeive-review-of-dji-phantom-4-for-2024/"><u>[Updated] Sky High Technology Unleashed Compreeive Review of DJI Phantom 4 for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-lenovo-thinkphone-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Lenovo ThinkPhone without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-spark-20c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Spark 20C</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-mp4-to-mp3-apps-for-ios-and-android-devices/"><u>New In 2024, Best MP4 to MP3 Apps for iOS and Android Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-major-mileston/"><u>New In 2024, Major Mileston</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-lip-sync-mastery-explore-the-top-5-apps-for-creating-engaging-content-for-2024/"><u>New Lip Sync Mastery Explore the Top 5 Apps for Creating Engaging Content for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-smartphone-photography-the-groundbreaking-features-of-the-upcoming-iphone-16-ultra/"><u>Revolutionizing Smartphone Photography: The Groundbreaking Features of the Upcoming iPhone 16 Ultra</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tailor-made-templates-for-movie-endings-all-free-of-charge-for-2024/"><u>Tailor-Made Templates for Movie Endings – All Free of Charge for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ai-face-off-enhanced-gemini-vs-plush-gptplus/"><u>The AI Face-Off: Enhanced Gemini Vs. Plush GPT+</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-restoring-system-health-in-windows-11-via-sfcdsim-strategies/"><u>The Ultimate Guide to Restoring System Health in Windows 11 via SFC/DSIM Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/turning-classic-computers-into-modern-windows-11-hubs-with-tools/"><u>Turning Classic Computers Into Modern Windows 11 Hubs with Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unlock-chromecast-streaming-any-video-format-made-easy-updated-2023/"><u>Unlock Chromecast Streaming Any Video Format Made Easy (Updated 2023)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unlock-smooth-4k-editing-the-top-video-editing-apps-for-proxy-videos-for-2024/"><u>Unlock Smooth 4K Editing The Top Video Editing Apps for Proxy Videos for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-animated-text-in-video-best-mobile-apps/"><u>Updated The Ultimate Guide to Animated Text in Video Best Mobile Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-free-online-glitch-effect-makers-2023-edition/"><u>Updated The Ultimate Guide to Free Online Glitch Effect Makers (2023 Edition)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-slow-motion-video-editing-solutions/"><u>Updated The Ultimate List Slow Motion Video Editing Solutions</u></a></li>
 </ul></div>
 

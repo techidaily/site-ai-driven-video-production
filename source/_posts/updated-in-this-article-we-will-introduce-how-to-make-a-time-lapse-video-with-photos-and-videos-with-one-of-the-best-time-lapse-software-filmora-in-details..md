@@ -1,7 +1,7 @@
 ---
 title: Updated In This Article, We Will Introduce How to Make a Time Lapse Video with Photos and Videos with One of the Best Time Lapse Software Filmora in Details
-date: 2024-08-15T01:57:11.947Z
-updated: 2024-08-16T01:57:11.947Z
+date: 2024-10-11T10:14:57.715Z
+updated: 2024-10-18T06:38:40.123Z
 tags: 
   - video editing software
   - video editing
@@ -86,8 +86,12 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Speed Up to Make a Time lapse Video
 
 In case that you want to make a time lapse video with video footage, below are the step-by-step tutorial:
@@ -101,17 +105,18 @@ Just like importing photos to Filmora, follow the steps to import the video clip
 Next, drag your video onto the video column in the timeline. Select the loaded video and click the "Play" button. While playing the video, drag the slider bar at the start time and hit the "Split" icon to cut out the part you want to do time lapse editing.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
@@ -123,13 +128,21 @@ If you are satisfied with the newly made time lapse video, just click **Export**
 That’s how to make a cool time lapse video with the time lapse video software Filmora, no matter whether you want to make a time lapse video from photos, or speed up the video to make a time lapse video, you can achieve that with a few clicks.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -138,11 +151,27 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-windows-users-take-note-camcorders-guide-ahead-for-2024/"><u>[New] Windows Users, Take Note Camcorders Guide Ahead for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-free-stock-footage-from-these-4-youtube-channels-for-2024/"><u>[Updated] Get Free Stock Footage From These 4 YouTube Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-upload-longer-video-to-youtube-as-you-wished/"><u>[Updated] In 2024, Upload Longer Video to YouTube As You Wished</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-composition-ideal-plugins-and-websites-to-frame-your-images/"><u>2024 Approved Capture Composition Ideal Plugins and Websites to Frame Your Images</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-zoom-transcribing-top-5-suggestions-for-all-budgets/"><u>2024 Approved Mastering Zoom Transcribing Top 5 Suggestions for All Budgets</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-8-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-replace-vsdc-with-these-top-notch-video-editors-on-mac/"><u>New In 2024, Replace VSDC with These Top-Notch Video Editors on Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-your-creativity-avi-editor-for-windows-8-with-advanced-features-for-2024/"><u>New Unleash Your Creativity AVI Editor for Windows 8 with Advanced Features for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-webm-to-mp4-converter-roundup-top-10-picks-for-2024/"><u>New WebM to MP4 Converter Roundup Top 10 Picks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-and-streamline-commands-in-modern-windows-systems/"><u>Optimize and Streamline Commands in Modern Windows Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-of-public-domain-video-download-websites/"><u>The Ultimate List of Public Domain Video Download Websites</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-update-expert-picks-for-the-top-2d-animation-software/"><u>Updated In 2024, Update Expert Picks for the Top 2D Animation Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-your-creativity-how-to-make-a-professional-looking-video-from-photos/"><u>Updated Unleash Your Creativity How to Make a Professional-Looking Video From Photos</u></a></li>
+</ul></div>
+
