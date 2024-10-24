@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-10-10T17:31:24.933Z
-updated: 2024-10-18T06:15:00.845Z
+date: 2024-10-18T04:39:12.992Z
+updated: 2024-10-23T16:47:42.208Z
 tags: 
   - video editing software
   - video editing
@@ -64,13 +64,6 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -88,23 +81,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -112,6 +99,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -127,10 +121,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -148,19 +142,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-essential-tips-and-techniques-for-obs-setup-use-on-a-mac-for-2024/"><u>[New] Essential Tips & Techniques for OBS Setup, Use, on a Mac for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cease-automatic-footage-collection-qt-for-2024/"><u>[Updated] Cease Automatic Footage Collection QT for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-a-practical-approach-to-scheduling-on-zoom-platforms/"><u>[Updated] In 2024, A Practical Approach to Scheduling on Zoom Platforms</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-obs-settings-for-smooth-skype-video-streaming-for-2024/"><u>[Updated] OBS Settings for Smooth Skype Video Streaming for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/boosting-creativity-top-tips-and-tricks-for-lunapic-editors/"><u>Boosting Creativity Top Tips & Tricks for LunaPic Editors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-valedictions-sign-off-strategies-for-online-platforms/"><u>In 2024, Video Valedictions Sign-Off Strategies for Online Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/jumpstart-your-pc-for-windows-11-compatibility/"><u>Jumpstart Your PC for Windows 11 Compatibility</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-merge-mov-files-for-free-top-5-video-joiner-tools/"><u>New In 2024, Merge MOV Files for Free Top 5 Video Joiner Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-no-more-jitters-the-top-free-online-video-stabilizers-for-smoother-videos/"><u>New In 2024, No More Jitters The Top Free Online Video Stabilizers for Smoother Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-retro-video-magic-easy-ways-to-add-vhs-effects-in-fcp-for-2024/"><u>New Retro Video Magic Easy Ways to Add VHS Effects in FCP for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile/"><u>Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-top-free-video-editors-for-avi-file-conversion/"><u>Updated 2024 Approved The Top Free Video Editors for AVI File Conversion</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-avs-video-editor-2023-is-it-worth-the-hype/"><u>Updated AVS Video Editor 2023 Is It Worth the Hype?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-ultimate-guide-to-4k-video-editing-software/"><u>Updated The Ultimate Guide to 4K Video Editing Software</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-drafting-an-emotional-tiktok-conclusion/"><u>[New] Drafting an Emotional TikTok Conclusion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-block-youtube-ads-on-chromefirefoxandroidiphone/"><u>[New] In 2024, How to Block YouTube Ads on Chrome/Firefox/Android/iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sunset-to-silhouette-adobe-guide/"><u>[Updated] Sunset to Silhouette Adobe Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-keeping-track-of-your-google-voice-conversations/"><u>2024 Approved Keeping Track of Your Google Voice Conversations</u></a></li>
+<li><a href="https://article-files.techidaily.com/deep-dive-into-the-features-of-lgs-ultrafine-4k-display-for-2024/"><u>Deep Dive Into the Features of LG's UltraFine 4K Display for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-brawlers-the-right-control-for-fighting-games/"><u>Digital Brawlers: The Right Control for Fighting Games</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/editing-gopro-footage-on-pc-quik-and-its-competitors/"><u>Editing GoPro Footage on PC Quik and Its Competitors</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-monitor-blinking-issues/"><u>How to Fix Monitor Blinking Issues</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-discover-the-top-free-android-video-editing-apps-plus-paid-options/"><u>In 2024, Discover the Top Free Android Video Editing Apps Plus Paid Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-final-cut-pro-tutorial-reversing-video-clips-made-easy/"><u>In 2024, Final Cut Pro Tutorial Reversing Video Clips Made Easy</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/install-lumafusion-on-your-mac-or-find-a-suitable-replacement-for-2024/"><u>Install Lumafusion on Your Mac or Find a Suitable Replacement for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mobile-animation-magic-top-stop-motion-apps-revealed/"><u>Mobile Animation Magic Top Stop Motion Apps Revealed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-how-to-get-filmora-torrent-for-free-no-virus/"><u>New 2024 Approved How to Get Filmora Torrent for FREE? No Virus</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-trending-android-apps-on-google-play-this-month/"><u>New 2024 Approved Top-Trending Android Apps on Google Play This Month</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-11r-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 11R Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
 

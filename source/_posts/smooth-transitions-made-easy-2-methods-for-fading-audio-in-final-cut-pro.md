@@ -1,7 +1,7 @@
 ---
 title: Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro
-date: 2024-10-17T04:12:15.416Z
-updated: 2024-10-17T22:54:50.930Z
+date: 2024-10-22T07:29:18.105Z
+updated: 2024-10-23T19:21:16.240Z
 tags: 
   - video editing software
   - video editing
@@ -65,10 +65,10 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -88,17 +88,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -106,6 +106,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -119,13 +126,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -142,24 +142,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-masterful-phone-apps-altering-speech-patterns/"><u>[Updated] Masterful Phone Apps Altering Speech Patterns</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-a-guide-to-pinpointing-posted-videos-in-fb-groups/"><u>2024 Approved A Guide to Pinpointing Posted Videos in FB Groups</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cursor-constantly-blinks-heres-how-you-can-fix-it/"><u>Cursor Constantly Blinks? Here’s How You Can Fix It!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/fachkundige-unterstutzung-im-internet-fur-die-nutzung-von-winx-dvd-ripping-und-videobearbeitungssoftware/"><u>Fachkundige Unterstützung Im Internet Für Die Nutzung Von WinX DVD Ripping Und Videobearbeitungssoftware</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-a15-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy A15 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-a70-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel A70 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-fcp-audio-editing-101-a-beginners-guide-to-better-sound/"><u>New In 2024, FCP Audio Editing 101 A Beginners Guide to Better Sound</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-make-video-editing-easy-download-videoleap-on-your-macbook-now/"><u>New Make Video Editing Easy Download Videoleap on Your MacBook Now</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-of-timecode-calculators-web-iphone-and-android-apps/"><u>New The Ultimate List of Timecode Calculators Web, iPhone, and Android Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-10-best-free-webm-video-editors/"><u>New Top 10 Best Free WebM Video Editors</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/online-streaming-capture-a-comprehensive-guide-for-2024/"><u>Online Streaming Capture A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-resolving-failed-to-install-hcmon-driver-issues/"><u>Step-by-Step Guide: Resolving 'Failed to Install HCMon Driver' Issues</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/taking-your-instagram-game-up-a-notch-advanced-tracking-tools-overview/"><u>Taking Your Instagram Game Up a Notch Advanced Tracking Tools Overview</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-capture-perfection-top-rated-webcam-recording-software-for-windows-10/"><u>Updated 2024 Approved Capture Perfection Top-Rated Webcam Recording Software for Windows 10</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-from-novice-to-expert-how-to-edit-mp4-videos-on-mac-and-windows-for-2024/"><u>Updated From Novice to Expert How to Edit MP4 Videos on Mac and Windows for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-virtualdub-alternative-guide-features-and-pricing/"><u>Updated In 2024, The Ultimate Virtualdub Alternative Guide Features and Pricing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-instagram-stop-motion-101-tips-and-tricks-for-beginners-for-2024/"><u>Updated Instagram Stop Motion 101 Tips and Tricks for Beginners for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-your-footage-a-gopro-quik-review-and-top-pc-editing-alternatives/"><u>Updated Unleash Your Footage A GoPro Quik Review & Top PC Editing Alternatives</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-how-to-prominently-display-messages-on-discord/"><u>[New] How To Prominently Display Messages on Discord</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-five-ideas-of-winter-youtube-background-to-warm-up-your-videos/"><u>[Updated] Five Ideas of Winter YouTube Background to Warm Up Your Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-picks-free-fb-to-mp4-file-transformers-for-2024/"><u>[Updated] Top Picks Free FB to MP4 File Transformers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-intricacies-of-whatsapp-voice-calls/"><u>2024 Approved Exploring the Intricacies of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-downloading-and-setting-up-fortnite-on-pc-without-hitches/"><u>Comprehensive Tutorial: Downloading and Setting Up Fortnite on PC Without Hitches</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/expert-approved-highlight-video-makers-for-any-device-for-2024/"><u>Expert-Approved Highlight Video Makers for Any Device for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-league-of-legends-crashing-issues-like-a-pro-effortlessly/"><u>Fixing League of Legends Crashing Issues Like a Pro, Effortlessly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-accelerate-your-videos-10-free-speed-changer-apps-for-ios-and-android/"><u>In 2024, Accelerate Your Videos 10 Free Speed Changer Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-creative-time-manipulation-in-fcpx-freeze-frames-and-slow-motion/"><u>In 2024, Creative Time Manipulation in FCPX Freeze Frames and Slow Motion</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-do-you-recently-update-to-mac-os-x-yosemite-do-you-need-to-edit-video-files-on-this-new-system-this-article-tells-you-how/"><u>In 2024, Do You Recently Update to Mac OS X Yosemite? Do You Need to Edit Video Files on This New System. This Article Tells You How</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-make-music-without-spending-a-dime-10-best-free-recording-software/"><u>In 2024, Make Music Without Spending a Dime 10 Best Free Recording Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mobile-reaction-video-creation-top-tools-and-apps/"><u>In 2024, Mobile Reaction Video Creation Top Tools and Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-meme-maker-apps-for-android-and-ios-devices-updated-2023/"><u>In 2024, Top Meme Maker Apps for Android and iOS Devices (Updated 2023)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-mac-mkv-editors-for-trimming-videos/"><u>In 2024, Top-Rated Mac MKV Editors for Trimming Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-stop-motion-software-for-windows-and-macos/"><u>In 2024, Top-Rated Stop Motion Software for Windows and macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-upward-landscapes-with-phones-for-2024/"><u>The Art of Upward Landscapes with Phones for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-high-cpu-load-from-windows-audio-service/"><u>Troubleshooting High CPU Load From Windows Audio Service</u></a></li>
 </ul></div>
 

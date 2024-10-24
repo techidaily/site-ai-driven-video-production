@@ -1,7 +1,7 @@
 ---
 title: Updated How to Play Video in Reverse Using Final Cut Pro 2023 Update for 2024
-date: 2024-08-15T01:52:19.881Z
-updated: 2024-08-16T01:52:19.881Z
+date: 2024-10-18T20:32:03.781Z
+updated: 2024-10-24T04:30:32.203Z
 tags: 
   - video editing software
   - video editing
@@ -76,9 +76,6 @@ In case if you want to customize speed of reversed clip then use retiming handle
 
 Now hit the play option to view video with reverse effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Rewind Videos using Final Cut Pro
 
 On Apple platform you can also Rewind videos clips as per need. This option is mostly utilized for action sequences as well as for sports.
@@ -92,17 +89,18 @@ Go to timeline and select clips that you want to rewind.
 Now from pop-up menu select rewind option and choose desired speed limit for this action.
 
 ![ Rewind Videos using Final Cut Pro -1](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-5.png)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **Step 3:**
 
 Drag the retiming handler to adjust the speed as per need.
 
 ![ Rewind Videos using Final Cut Pro -2](https://images.wondershare.com/filmora/article-images/reverse-clips-in-fcp-6.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **Step 4:**
@@ -115,28 +113,46 @@ Play the clip to view editing effects.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 1**: To upload a video, first click "Import." You may also simply drag and drop media files into the Media Library, and they will display on the preview/program monitor. You may see your videos in waveform display and Vectorscope format after you've added them to the timeline. You may also watch a live filmstrip preview to see what's going on in the video.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-1.png)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2**: Place the video on the video track by dragging and dropping it. You may select Speed and Duration by right-clicking it on the track. Then, on the Custom Speed panel, enable the Reverse Speed option. You may also select Reverse by clicking the Speed symbol in the toolbar.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-9.png)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**: Click “Export” to save your file.
 
 ![filmora](https://images.wondershare.com/filmora/article-images/2022/02/editing-video-3.png)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -146,11 +162,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-what-is-screencasting-and-how-to-choose-the-right-screencasting-software-for-2024/"><u>[New] What Is Screencasting and How to Choose the Right Screencasting Software for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-achieve-side-by-side-viewing-on-chrome-the-pip-method/"><u>[Updated] Achieve Side-by-Side Viewing on Chrome The PIP Method</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-calculating-youtubes-adsense-gains-per-thousand-viewer-income/"><u>[Updated] In 2024, Calculating Youtube's AdSense Gains Per Thousand Viewer Income</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-acoustic-transitions-in-audacity-pro-suite/"><u>[Updated] Mastering Acoustic Transitions in Audacity Pro Suite</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-full-spectrum-of-editing-power-in-polarr-for-2024/"><u>[Updated] Unlocking the Full Spectrum of Editing Power in Polarr for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-x100-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo X100 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-edit-like-a-pro-gopro-video-editing-for-mac-users-2023-update/"><u>New In 2024, Edit Like a Pro GoPro Video Editing for Mac Users (2023 Update)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-fcpx-glitch-busters-quick-fixes-for-common-problems/"><u>New In 2024, FCPX Glitch Busters Quick Fixes for Common Problems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-video-to-dvd-conversion-a-comprehensive-guide-for-windows-and-mac/"><u>New In 2024, Video to DVD Conversion A Comprehensive Guide for Windows and Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-visual-masterpieces-10-best-music-video-creation-services/"><u>New Visual Masterpieces 10 Best Music Video Creation Services</u></a></li>
+<li><a href="https://facebook.techidaily.com/paving-friend-paths-with-effective-fb-tags-learn-3-strategies/"><u>Paving Friend Paths with Effective FB Tags – Learn 3 Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-and-expert-tutorial-for-converting-videos-into-gifs-in-different-file-types-such-as-mp4-mov-avi/"><u>Quick & Expert Tutorial for Converting Videos Into GIFs in Different File Types Such as MP4, MOV, AVI</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-gdx-creation-failure-in-oswin/"><u>Rectified GDX Creation Failure in OS/Win</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-nonfunctioning-windows-11-search-effective-methods-revealed/"><u>Solving the Mystery of Nonfunctioning Windows 11 Search – Effective Methods Revealed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/today-we-will-take-a-look-at-the-best-motion-tracking-video-editing-apps-for-ios-and-android-devices-for-2024/"><u>Today We Will Take a Look at the Best Motion Tracking Video Editing Apps for iOS & Android Devices for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-list-7-video-mergers-with-no-watermark/"><u>Updated 2024 Approved The Ultimate List 7 Video Mergers with No Watermark</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-design-your-dream-collage-top-online-photo-and-video-tools/"><u>Updated Design Your Dream Collage Top Online Photo and Video Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-extract-audio-from-mp4-the-best-mp4-to-mp3-converters-for-2024/"><u>Updated Extract Audio From MP4 The Best MP4 to MP3 Converters for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-and-easy-mov-video-rotation-solutions/"><u>Updated In 2024, Free and Easy MOV Video Rotation Solutions</u></a></li>
+</ul></div>
+
