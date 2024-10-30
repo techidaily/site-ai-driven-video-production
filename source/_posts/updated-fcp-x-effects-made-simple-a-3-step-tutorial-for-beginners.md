@@ -1,7 +1,7 @@
 ---
 title: Updated FCP X Effects Made Simple A 3-Step Tutorial for Beginners
-date: 2024-08-09T05:20:28.615Z
-updated: 2024-08-10T05:20:28.615Z
+date: 2024-10-24T00:51:22.222Z
+updated: 2024-10-29T21:14:46.095Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972da
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -35,9 +32,6 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -57,23 +51,14 @@ Here is our clip - a fearsome polar bear.
 
 To apply an effect, first select the clip in the Timeline.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
@@ -95,15 +80,6 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
 #### Disable and delete an effect
@@ -136,11 +112,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enriched-tv-experience-seamlessly-looping-online-content/"><u>[New] 2024 Approved Enriched TV Experience Seamlessly Looping Online Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-value-in-the-marketplace-for-quality-cost-effective-microphones/"><u>[New] Best Value in the Marketplace for Quality, Cost-Effective Microphones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/horus-of-creators-guidelines-for-sharing-sounds-online-for-2024/"><u>[New] Chorus of Creators Guidelines for Sharing Sounds Online for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-30-cameras-frontal-screen-for-convenience-for-2024/"><u>[Updated] Top 30 Cameras Frontal Screen for Convenience for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-top-7-dslr-cameras-enhancing-real-time-online-interactions/"><u>[Updated] Top 7 DSLR Cameras Enhancing Real-Time Online Interactions</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-htc-u23-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting HTC U23 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-easy-movie-maker-how-to-easily-make-a-movie/"><u>New In 2024, Easy Movie Maker How to Easily Make a Movie</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-powerdirector-color-correction-a-step-by-step-guide-to-perfecting-your-footage/"><u>New PowerDirector Color Correction A Step-by-Step Guide to Perfecting Your Footage</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-top-5-free-m4a-file-editors-you-need/"><u>New The Top 5 Free M4A File Editors You Need</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-remedies-to-clean-liquid-from-internal-phone-speakers/"><u>Quick Remedies to Clean Liquid From Internal Phone Speakers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/stream-the-hottest-trailers-top-10-iphone-and-ipad-movie-apps-for-2024/"><u>Stream the Hottest Trailers Top 10 iPhone and iPad Movie Apps for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-benefits-of-live-streaming-on-youtube/"><u>Updated Benefits of Live Streaming on YouTube</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-s-top-rated-free-home-security-camera-apps/"><u>Updated In 2024, S Top-Rated Free Home Security Camera Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-free-online-tool-to-convert-dailymotion-videos/"><u>Updated In 2024, The Best Free Online Tool to Convert Dailymotion Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unlocking-filmora-scrn-a-comprehensive-guide-to-desktop-recording/"><u>Updated In 2024, Unlocking Filmora Scrn A Comprehensive Guide to Desktop Recording</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-quick-and-easy-video-edits-a-gopro-quik-tutorial-for-macbook-users/"><u>Updated Quick and Easy Video Edits A GoPro Quik Tutorial for MacBook Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-the-power-of-dvd-creation-a-beginners-guide-to-movie-making-software-for-2024/"><u>Updated Unlock the Power of DVD Creation A Beginners Guide to Movie Making Software for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-comprehensive-guide-to-watching-movies-with-fandango-on-a-fire-stick/"><u>Your Comprehensive Guide to Watching Movies with Fandango on a Fire Stick</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

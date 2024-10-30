@@ -1,7 +1,7 @@
 ---
 title: Updated Easy Peasy Video Editing 15 Free Tools for Beginners for 2024
-date: 2024-10-20T04:04:47.614Z
-updated: 2024-10-24T07:13:44.508Z
+date: 2024-10-24T18:23:11.980Z
+updated: 2024-10-29T19:45:37.729Z
 tags: 
   - video editing software
   - video editing
@@ -168,10 +168,6 @@ It’s a perfect web-based video editing tool, best for Social Media promotion C
 
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
-## A cross-platform for making videos anywhere for all creators
-
-![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
-
 <!-- affiliate ads begin -->
 <span id="1982508">
 					<video width="576" height="240" style="cursor:pointer"
@@ -184,6 +180,10 @@ It’s a perfect web-based video editing tool, best for Social Media promotion C
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## A cross-platform for making videos anywhere for all creators
+
+![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
 
  Why your video editing isn't good enough? How about some creative inspo?
 
@@ -219,13 +219,6 @@ VideoPad is a simple video editing software for beginners, maybe not suitable fo
 **Compatibility:** Windows
 
 Freemake is a free video converter that is used to convert and alter videos that can modify and convert videos, embed videos to websites, and extract audio from video clips simply and fast. It supports above 500 video file formats and is compatible with multiple audio and image file formats for slideshows and video clip creation.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Basic Features You Need in an Easy Video Editing Software
 
@@ -272,6 +265,13 @@ Filmora Free video editor offers a ChatGPT plug-in and AI tools to enhance your 
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Basic Video Editing Terms You Should Know
 
 Below are some of the important yet basic terms that you should know related to videography in general and video editing in specific as well, whether you are a beginner or professional.
@@ -283,6 +283,13 @@ The aspect ratio is the ratio of width and height of a video. Examples of the mo
 Refer to the image given below for a better understanding.
 
 ![aspec ratio](https://images.wondershare.com/filmora/aspec-ratio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **B-roll:**
 
@@ -340,13 +347,6 @@ Resolution refers to the horizontal and vertical pixels of your video. For insta
 
 ![resolution](https://images.wondershare.com/filmora/resolution.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **J-Cut:**
 
 J-cut refers to the editing technique in which the audio from a next scene is overlapped with the image from the previous scene, such that the audio segment of the next scene begins playing prior to its picture.
@@ -391,31 +391,24 @@ The rule of third is a grid that helps you to compose interesting and balanced s
 
 ![rule of thirds](https://images.wondershare.com/filmora/rule-of-thirds.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Three-point lighting:**
 
 This helps one to diminish the shadows for image balancing and provides an appealing contrast. These three lights are commonly known as fill, key, and backlight.
 
 ![three point lighting](https://images.wondershare.com/filmora/three-point-lighting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Tilts:**
 
 Tilts refer to the vertical transitions that your camera. This is the opposite of pans.
 
 ![tilts](https://images.wondershare.com/filmora/tilts.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Pans:**
 
@@ -434,10 +427,10 @@ A wide-angel lens refers to a short focal length of a lens. This brings more of 
 ![wide angle](https://images.wondershare.com/filmora/wide-angle.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Non-linear editing:**
@@ -449,10 +442,10 @@ NLEs is a non-destructive editing technique that allows one to access any frame 
 Pixels are several tiny squares that build up an image in a video. Whereas, aspect ratio refers to the ratio of width to height of a video. Hence, the pixel aspect ratio (PAR) is the ratio of width to height of the pixels.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -468,6 +461,13 @@ Lights, camera, action!
 For Win 7 or later (64-bit)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -497,22 +497,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-enhance-your-channels-voice-dive-into-the-world-of-banner-makers-apps/"><u>[New] 2024 Approved Enhance Your Channel's Voice Dive Into the World of Banner Makers (Apps)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-engineering-engaging-podcast-sneak-peeks/"><u>[Updated] In 2024, Engineering Engaging Podcast Sneak Peeks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lively-film-reader-assessment/"><u>[Updated] Lively Film Reader Assessment</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-meme-madness-the-iphone-edition/"><u>[Updated] Meme Madness The iPhone Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-personal-vlogs-that-resonate-deeply-with-viewers/"><u>[Updated] Personal Vlogs That Resonate Deeply With Viewers</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-beyerdynamic-mmx-200-soundscape/"><u>Delving Into Beyerdynamic MMX 200 Soundscape</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcp-transition-hacks-3-pro-tips-for-seamless-video-editing-for-2024/"><u>FCP Transition Hacks 3 Pro Tips for Seamless Video Editing for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-2d-to-3d-a-tutorial-for-social-media-success/"><u>From 2D to 3D: A Tutorial for Social Media Success</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/from-blurry-to-brilliant-top-video-enhancement-tools-for-2024/"><u>From Blurry to Brilliant Top Video Enhancement Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/from-novice-to-expert-a-complete-guide-to-editing-mp4-videos-on-mac-and-windows-for-2024/"><u>From Novice to Expert A Complete Guide to Editing MP4 Videos on Mac and Windows for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-cut-mov-videos-for-free-top-6-software-options/"><u>In 2024, Cut MOV Videos for Free Top 6 Software Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-glitch-reboot-repeat-the-best-mobile-video-editing-apps/"><u>In 2024, Glitch, Reboot, Repeat The Best Mobile Video Editing Apps</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-6s-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 6s?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/mastering-gopro-video-editing-on-mac-a-step-by-step-guide/"><u>Mastering GoPro Video Editing on Mac A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-how-to-anonymize-faces-in-media-a-beginners-guide-to-free-apps/"><u>New 2024 Approved How to Anonymize Faces in Media A Beginners Guide to Free Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-guide-to-blurring-videos-on-iphone-and-android/"><u>New 2024 Approved The Ultimate Guide to Blurring Videos on iPhone and Android</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/skys-boundaries-broken-by-endurance-drones-top-10-for-2024/"><u>Sky's Boundaries Broken by Endurance Drones (Top 10) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-hassle-free-techniques-record-your-dell-screen-easily/"><u>[New] 2024 Approved Hassle-Free Techniques Record Your Dell Screen Easily</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-apex-design-suite-assessment-for-2024/"><u>[New] Apex Design Suite Assessment for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-valorant-image-magic-quick-professionally-crafted-portraits/"><u>[New] Valorant Image Magic Quick, Professionally Crafted Portraits</u></a></li>
+<li><a href="https://common-error.techidaily.com/fortnite-optimized-on-unsupported-gpus-winning-fixes-and-tweaks/"><u>Fortnite Optimized on Unsupported GPUs: Winning Fixes and Tweaks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-galaxy-m34-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Galaxy M34 5G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-hot-40-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Hot 40</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-video-posting-between-twitter-and-tumblr/"><u>In 2024, Mastering Video Posting Between Twitter and Tumblr</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-effortless-mkv-trimming-on-mac-the-best-tools/"><u>New In 2024, Effortless MKV Trimming on Mac The Best Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-cream-of-the-crop-top-android-apps/"><u>The Cream of the Crop Top Android Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitch-and-prime-whos-watching-the-show-2023-edition-for-2024/"><u>Twitch and Prime Who’s Watching the Show? 2023 Edition for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-animate-like-a-pro-top-8-software-options-for-mac-and-windows/"><u>Updated Animate Like a Pro Top 8 Software Options for Mac and Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-audio-fade-infade-out-secrets-unleash-the-power-of-final-cut-pro/"><u>Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-stunning-4k-videos-you-need-to-see/"><u>Updated In 2024, Stunning 4K Videos You Need to See</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-mac-video-editing-software-create-stunning-videos-in-minutes/"><u>Updated In 2024, Top Mac Video Editing Software Create Stunning Videos in Minutes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-transform-videos-into-stunning-live-photos-with-these-top-apps/"><u>Updated In 2024, Transform Videos Into Stunning Live Photos with These Top Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-windows-live-movie-maker-tutorial-adding-a-slow-motion-effect-to-your-videos-for-2024/"><u>Updated Windows Live Movie Maker Tutorial Adding a Slow Motion Effect to Your Videos for 2024</u></a></li>
 </ul></div>
 

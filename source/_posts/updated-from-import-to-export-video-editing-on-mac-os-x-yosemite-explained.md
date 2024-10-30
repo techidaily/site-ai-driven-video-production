@@ -1,7 +1,7 @@
 ---
 title: Updated From Import to Export Video Editing on Mac OS X Yosemite Explained
-date: 2024-10-18T22:48:54.741Z
-updated: 2024-10-23T17:56:11.928Z
+date: 2024-10-23T16:05:04.590Z
+updated: 2024-10-30T02:54:11.362Z
 tags: 
   - video editing software
   - video editing
@@ -37,10 +37,10 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
@@ -53,18 +53,18 @@ You have two different ways to edit the video. One is to double click the video 
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Edit and enhance audio**
 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Add transition and other effects**
 
@@ -72,27 +72,33 @@ This app also allows you to add cool transitions and other effects to your video
 
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -111,21 +117,15 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-the-underestimated-aspects-of-instagram/"><u>[New] In 2024, Mastering the Underestimated Aspects of Instagram</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-unraveling-the-mysteries-of-digital-content-optimization-on-youtube/"><u>[New] In 2024, Unraveling the Mysteries of Digital Content Optimization on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-illustrator-way-how-to-create-stunning-motion-effects/"><u>[New] The Illustrator Way How to Create Stunning Motion Effects</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-convert-instagram-videos-into-audio-clips-mp3/"><u>[Updated] In 2024, Convert Instagram Videos Into Audio Clips (MP3)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-content-the-key-to-engaging-yt-shorts/"><u>[Updated] Mastering Content The Key to Engaging YT Shorts</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1-easy-ways-to-distribute-your-iphone-memory-video-collection/"><u>1. Easy Ways to Distribute Your iPhone Memory Video Collection</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/gopro-quik-for-macbook-how-to-edit-your-gopro-videos-easily-for-2024/"><u>GoPro Quik for MacBook How to Edit Your GoPro Videos Easily for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-dotx-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .dotx file free</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-webm-to-mp3-converters-for-fast-and-easy-file-conversion/"><u>In 2024, Best WebM to MP3 Converters for Fast and Easy File Conversion</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 14 Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-crop-resize-and-refine-mastering-video-editing-with-avidemux/"><u>New 2024 Approved Crop, Resize, and Refine Mastering Video Editing with Avidemux</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-fcpx-tutorial-elevate-your-edits-with-l-cuts-and-j-cuts/"><u>New 2024 Approved FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-video-cutting-and-joining-apps-for-android-and-ios-2023-review/"><u>New 2024 Approved Free Video Cutting and Joining Apps for Android and iOS (2023 Review)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-how-to-easily-make-professional-looking-movies/"><u>New 2024 Approved How to Easily Make Professional-Looking Movies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-s-best-free-video-rotators-for-3gp-files-expert-recommendations/"><u>New 2024 Approved S Best Free Video Rotators for 3GP Files Expert Recommendations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-video-perfection-in-minutes/"><u>[New] In 2024, Capture Video Perfection in Minutes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-stardew-on-ginger-islet-for-2024/"><u>[New] Mastering Stardew on Ginger Islet for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-level-iphone-photo-techniques-identifying-ideal-perspectives/"><u>[Updated] Pro-Level iPhone Photo Techniques Identifying Ideal Perspectives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-compression-crash-course-from-basics-to-advanced/"><u>FCPX Compression Crash Course From Basics to Advanced</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/free-mp4-editing-tutorial-a-step-by-step-guide-on-windows/"><u>Free MP4 Editing Tutorial: A Step by Step Guide on Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/free-webm-video-editing-software-top-picks/"><u>Free WebM Video Editing Software Top Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-we-have-listed-the-top-10-free-final-cut-pro-x-plugins-with-their-respective-uses-also-you-can-check-a-quick-step-by-step-guide-to-install-such-plug/"><u>In 2024, We Have Listed the Top 10 Free Final Cut Pro X Plugins with Their Respective Uses. Also, You Can Check a Quick Step-by-Step Guide to Install Such Plugins</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-cropping-images-in-final-cut-pro-x-a-comprehensive-guide/"><u>New 2024 Approved Cropping Images in Final Cut Pro X A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-best-buy-bargains-in-june-2024-exclusive-offers-and-discounts/"><u>Top Best Buy Bargains in June 2024: Exclusive Offers & Discounts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-editing-on-the-go-top-powerdirector-alternatives-for-android-and-ios/"><u>Updated In 2024, Video Editing on the Go Top PowerDirector Alternatives for Android and iOS</u></a></li>
 </ul></div>
 
