@@ -1,7 +1,7 @@
 ---
 title: Updated From Import to Export Video Editing on Mac OS X Yosemite Explained
-date: 2024-10-23T16:05:04.590Z
-updated: 2024-10-30T02:54:11.362Z
+date: 2024-10-31T19:27:28.890Z
+updated: 2024-11-04T18:18:40.998Z
 tags: 
   - video editing software
   - video editing
@@ -36,13 +36,6 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -53,6 +46,13 @@ You have two different ways to edit the video. One is to double click the video 
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Edit and enhance audio**
 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
@@ -60,10 +60,10 @@ If you want to add an additional audio file as the background music to the video
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Add transition and other effects**
@@ -72,6 +72,13 @@ This app also allows you to add cool transitions and other effects to your video
 
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
@@ -79,26 +86,13 @@ After you preview the effect, just click the “Export” button to export the v
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -117,15 +111,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-video-perfection-in-minutes/"><u>[New] In 2024, Capture Video Perfection in Minutes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-stardew-on-ginger-islet-for-2024/"><u>[New] Mastering Stardew on Ginger Islet for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pro-level-iphone-photo-techniques-identifying-ideal-perspectives/"><u>[Updated] Pro-Level iPhone Photo Techniques Identifying Ideal Perspectives</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-compression-crash-course-from-basics-to-advanced/"><u>FCPX Compression Crash Course From Basics to Advanced</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/free-mp4-editing-tutorial-a-step-by-step-guide-on-windows/"><u>Free MP4 Editing Tutorial: A Step by Step Guide on Windows</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/free-webm-video-editing-software-top-picks/"><u>Free WebM Video Editing Software Top Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-we-have-listed-the-top-10-free-final-cut-pro-x-plugins-with-their-respective-uses-also-you-can-check-a-quick-step-by-step-guide-to-install-such-plug/"><u>In 2024, We Have Listed the Top 10 Free Final Cut Pro X Plugins with Their Respective Uses. Also, You Can Check a Quick Step-by-Step Guide to Install Such Plugins</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-cropping-images-in-final-cut-pro-x-a-comprehensive-guide/"><u>New 2024 Approved Cropping Images in Final Cut Pro X A Comprehensive Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-best-buy-bargains-in-june-2024-exclusive-offers-and-discounts/"><u>Top Best Buy Bargains in June 2024: Exclusive Offers & Discounts</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-editing-on-the-go-top-powerdirector-alternatives-for-android-and-ios/"><u>Updated In 2024, Video Editing on the Go Top PowerDirector Alternatives for Android and iOS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ideal-choices-our-exclusive-top-10-gopro-case-picks/"><u>[New] 2024 Approved Ideal Choices Our Exclusive Top 10 GoPro Case Picks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-discover-sj7s-breakthrough-in-high-definition-4k-action-cameras-for-2024/"><u>[New] Discover SJ7’s Breakthrough in High-Definition 4K Action Cameras for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-audio-excellence-with-windows-11-a-beginner-written-by-your-name/"><u>[Updated] In 2024, Audio Excellence with Windows 11 A Beginner' Written by [Your Name]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-delicious-ideas-top-30-creative-recipe-show-titles/"><u>[Updated] In 2024, Delicious Ideas Top 30 Creative Recipe Show Titles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-gaming-through-time-with-top-5-pc-based-ps1-game-emulators/"><u>2024 Approved Gaming Through Time with Top 5 PC-Based PS1 Game Emulators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/a-comprehensive-guide-installing-the-cinematech-hd-movie-player-on-pcmac-for-enhanced-viewing-experience/"><u>A Comprehensive Guide: Installing the Cinematech HD Movie Player on PC/Mac for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-back-aturfy-bloods-unreal-engine-4-gobi-error-issue-successfully/"><u>How to Resolve Back Aturfy Blood's Unreal Engine 4 Gobi Error Issue Successfully</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-12-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 12 Pro Max Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-subtitle-edit-mac-alternative-find-your-new-go-to-subtitle-editor/"><u>New 2024 Approved Subtitle Edit Mac Alternative Find Your New Go-To Subtitle Editor</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-add-motion-to-your-messages-top-text-animation-apps-for-phones/"><u>New Add Motion to Your Messages Top Text Animation Apps for Phones</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-beyond-virtualdub-exploring-the-best-video-editing-software-alternatives-for-2024/"><u>New Beyond Virtualdub Exploring the Best Video Editing Software Alternatives for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-bringing-videos-to-life-in-vr-the-ultimate-conversion-guide-for-2024/"><u>New Bringing Videos to Life in VR The Ultimate Conversion Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-discover-the-best-public-domain-video-resources-for-free/"><u>New Discover the Best Public Domain Video Resources for Free</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-effortless-mp4-editing-on-windows-8-expert-video-editor/"><u>New Effortless MP4 Editing on Windows 8 Expert Video Editor</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-fcpx-audio-techniques-mastering-l-cuts-j-cuts-and-beyond-for-2024/"><u>New FCPX Audio Techniques Mastering L-Cuts, J-Cuts, and Beyond for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-x-captioning-a-step-by-step-guide/"><u>New Final Cut Pro X Captioning A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-mute-to-magic-editing-audio-in-final-cut-pro-for-2024/"><u>New From Mute to Magic Editing Audio in Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New FCPX Video Accessibility Adding Subtitles and Captions
-date: 2024-08-02T04:10:59.564Z
-updated: 2024-08-03T04:10:59.564Z
+date: 2024-10-31T17:55:28.923Z
+updated: 2024-11-04T16:13:04.806Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
 # How to Add Subtitles/Captions in Final Cut Pro X?
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -37,9 +34,6 @@ On the other hand, the captions display every kind of audio information, includi
 
 You may also want to see this: [What Makes the Best Lower Thirds in Final Cut Pro X?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Add Subtitles/Captions in Final Cut Pro X?
 
 Before you study the steps required to add subtitles to Final Cut Pro, here are some quick facts about the format of captions supported by FCPX.
@@ -57,9 +51,12 @@ It is a standard caption format for web videos and broadcasts.
 It is a simple and popular format used in online videos.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Steps to Add Subtitles or Captions in FCPX
 
 **Step 1: Create Caption Roles**
@@ -86,10 +83,14 @@ Thus, similar steps are required even if you want to add subtitles.
 
 Too many steps? Then try a **beginner-friendly editing tool**, Filmora!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Free Subtitles Plugins for Final Cut Pro X
 
@@ -108,8 +109,12 @@ The Quick Caption is another free tool available in Mac App Store to automatical
 It is the go-to free plugin by Stupid Raisins to display the text in animated templates. It generally depicts different kinds of paragraph titles, which you can edit as per the subtitles. It is one of the ideal plugins to impart professionalism into your videos with catchy descriptions. There are lots of templates available to select among them. Also, the simple drag and drop feature won't let you down in any scenario of adding subtitles or captions effectively.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: Tips for adding Subtitles/Captions in Final Cut Pro X
 
 Given below are some quick tips to add Final Cut Pro captions or subtitles.
@@ -124,6 +129,13 @@ Every Caption set must export individually in Final Cut Pro X. However; there is
 
 ![send-to-compressor](https://images.wondershare.com/filmora/images/final-cut-pro/send-to-compressor.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Some may wonder, what is Compressor exactly？ [Click here to learn how to use the Compressor in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 * **Use the keyboard shortcut keys**
@@ -136,9 +148,6 @@ You can use various keyboard shortcut keys to add the subtitles and captions int
 
 So, this is all about adding Final Cut Pro subtitles and captions via the step-by-step guide. Captions and Subtitles are an excellent way to expand your audience base across all regions globally since it removes the limitations or boundaries set by one language.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -147,11 +156,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-macs-premier-selection-of-mp4-cutter-software/"><u>[New] 2024 Approved Mac's Premier Selection of MP4 Cutter Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-wave-goodbye-to-breakups-keep-your-streak-going/"><u>[New] 2024 Approved Wave Goodbye to Breakups Keep Your Streak Going</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-gear-for-aspiring-youtube-stars-for-2024/"><u>[New] Cutting-Edge Gear for Aspiring YouTube Stars for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/estoring-your-online-presence-post-strike-for-2024/"><u>[New] Restoring Your Online Presence Post-Strike for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/become-a-communication-connoisseur-with-these-hidden-whatsapp-techniques/"><u>Become a Communication Connoisseur with These Hidden WhatsApp Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-your-gopro-videos-to-a-professional-standard/"><u>Elevating Your GoPro Videos to a Professional Standard</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-not-your-cup-of-tea-discover-these-10-alternative-video-editing-tools-for-2024/"><u>FCPX Not Your Cup of Tea? Discover These 10 Alternative Video Editing Tools for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pros-greatest-hits-10-memorable-movies-for-2024/"><u>Final Cut Pros Greatest Hits 10 Memorable Movies for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-family-fun-top-six-online-platforms-for-kids-movies/"><u>Free Family Fun: Top Six Online Platforms for Kids' Movies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-sites-to-discover-3d-golden-tinted-typography-for-2024/"><u>Ideal Sites to Discover 3D Golden Tinted Typography for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ifying-your-ideal-video-sharing-app-tiktok-or-youtubes-shorts-in-2024/"><u>Identifying Your Ideal Video Sharing App TikTok or YouTubes' Shorts, In 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-fcpx-power-tools-top-10-plugins-to-boost-your-video-editing-productivity/"><u>In 2024, FCPX Power Tools Top 10 Plugins to Boost Your Video Editing Productivity</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-final-cut-pro-time-lapse-tutorial-from-start-to-finish/"><u>In 2024, Final Cut Pro Time Lapse Tutorial From Start to Finish</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-and-fantastic-10-whiteboard-animation-tools-for-pc-and-mac-users/"><u>In 2024, Free and Fantastic 10 Whiteboard Animation Tools for PC and Mac Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-merge-multiple-mov-files-for-free-top-tools/"><u>In 2024, Merge Multiple MOV Files for Free Top Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/make-every-frame-count-best-1080p-video-editing-software-for-film-quality-results-for-2024/"><u>Make Every Frame Count Best 1080P Video Editing Software for Film-Quality Results for 2024</u></a></li>
+</ul></div>
+

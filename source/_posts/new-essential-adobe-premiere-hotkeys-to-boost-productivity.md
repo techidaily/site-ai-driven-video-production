@@ -1,7 +1,7 @@
 ---
 title: New Essential Adobe Premiere Hotkeys to Boost Productivity
-date: 2024-08-02T04:12:59.330Z
-updated: 2024-08-03T04:12:59.330Z
+date: 2024-10-30T19:29:59.165Z
+updated: 2024-11-04T18:12:02.088Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,19 +30,12 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -68,9 +58,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -140,9 +127,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -183,9 +167,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -226,11 +207,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-proper-placement-of-external-webpages-in-insta-content/"><u>[New] 2024 Approved Proper Placement of External Webpages in Insta Content</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-in-class-music-video-platforms/"><u>[Updated] Best-in-Class Music Video Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ustream-review-and-alternatives/"><u>[Updated] Ustream Review and Alternatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-symphony-of-shades-applying-complementary-colors-for-2024/"><u>A Symphony of Shades Applying Complementary Colors for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-fixes-for-lenovos-usb-connection-challenges/"><u>Effortless Fixes for Lenovo's USB Connection Challenges</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-vlc-trimmer-effortlessly-cut-videos-without-compromising-quality-for-2024/"><u>New Mac VLC Trimmer Effortlessly Cut Videos Without Compromising Quality for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-ranking-the-best-avchd-video-editing-software/"><u>New Ranking the Best AVCHD Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/pro-vs-express-which-video-editing-software-reigns-supreme-in-2024/"><u>Pro Vs. Express Which Video Editing Software Reigns Supreme, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-transforming-various-audio-and-video-files-into-different-formats/"><u>Step-by-Step Guide: Transforming Various Audio and Video Files Into Different Formats</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-verdict-on-blade-e-flite-mcx2-ready-to-fly-rc-helicopter-why-its-a-cut-above-the-rest/"><u>The Definitive Verdict on Blade E-Flite mCX2 Ready-To-Fly RC Helicopter - Why It's a Cut Above the Rest</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-frugal-footballers-guide-to-live-footage-filming/"><u>The Frugal Footballer's Guide to Live Footage Filming</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-alternatives-to-gopro-quik-for-pc-video-editing-made-easy/"><u>Updated Alternatives to GoPro Quik for PC Video Editing Made Easy</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-video-resumes-best-makers-and-templates/"><u>Updated The Ultimate Guide to Video Resumes Best Makers and Templates</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

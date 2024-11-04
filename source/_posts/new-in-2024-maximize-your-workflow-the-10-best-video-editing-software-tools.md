@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Maximize Your Workflow The 10 Best Video Editing Software Tools
-date: 2024-08-09T05:15:59.468Z
-updated: 2024-08-10T05:15:59.468Z
+date: 2024-11-03T16:29:07.843Z
+updated: 2024-11-04T19:28:47.488Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ We’ve done some extensive research on what some consider to be the 10 best pro
 * [**Part 2: Tips for Choosing Professional Video Editing Software**](#part2)
 * [**Part 3: FAQ about Professional Video Editing Software**](#faq)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Top 10 Professional Video Editing Software Free Download
 
 Here is the 10 best professional video editing software for you to free download.
@@ -78,9 +75,6 @@ More than a handful of broadcasters worldwide use EDIUS as their program of choi
 
 Why do so many people swear by EDIUS? Well, according to its fanbase, EDIUS tends to be quite fast when processing, importing, editing, and exporting videos - couple that with the fact that EDIUS doesn’t require a subscription, and you’ve got yourself a thoroughly solid video editing software that can go toe to toe with its rivals.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### 3. Autodesk Smoke
 
 **Price:** $190, **Monthly Subscription**, 1505$, **Yearly Subscription**
@@ -89,10 +83,14 @@ Why do so many people swear by EDIUS? Well, according to its fanbase, EDIUS tend
 
 **Cons:** Can only be used on a single monitor. Furthermore, Autodesk Smoke is exclusively for Mac users.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![video editor for professional autodesk smoke](https://images.wondershare.com/filmora/article-images/Autodesk-Smoke.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Autodesk](https://www.autodesk.com/products/smoke/overview) is a video editing software that is favored by many people to due to its node-based compositing.
 
@@ -120,9 +118,6 @@ While some complain that it’s hard to use and the interface looks very outdate
 
 As a matter of fact, its popularity only serves to show that people prefer it for a reason: and that’s because Avid Media Composer is stunningly robust.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 Wondershare Filmora Video Editor
@@ -138,8 +133,12 @@ Wondershare Filmora Video Editor
 [Try Pro Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) [Try Pro Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) [Try Pro Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 5. [Adobe Premiere Pro CC](https://www.adobe.com/products/premiere.html)
 
 **Price:** $31.49 **Monthly Subscription**, $239.88 **Yearly Subscription**
@@ -148,9 +147,6 @@ Wondershare Filmora Video Editor
 
 **Cons:** New updates might have a couple of bugs, so you should be a bit patient before you update if you want to keep it on the safe side. Mac users also report that it runs a bit slow on their systems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![premiere pro cc video editor](https://images.wondershare.com/filmora/filmorapro/adobe-premiere-pro.jpg)
 
 You may also like: [Best Transition Plugins for Adobe Premiere Pro](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -169,9 +165,6 @@ If you’re looking to achieve a professional level of video editing with little
 
 **Cons:** Only for Mac users. Large project files can also be slow.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![final cut pro video editor](https://images.wondershare.com/filmora/filmorapro/final-cut-pro-price.jpg)
 
 You may also like: [How to Edit YouTube Videos in FCP](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -181,8 +174,12 @@ Final Cut Pro is Apple’s response to video editing software. The UI design is 
 For many Mac users, Final Cut Pro is the definitive answer to their search for a strong video editing software that has been created with macOS in mind (free download).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 7. [HitFilm Pro](https://fxhome.com/)
 
 **Price:** $341.01, **One-Time Purchase**, $0 for Hitfilm Express **(Free)**
@@ -199,6 +196,13 @@ The program features several video tutorials that are targeted towards amateur v
 
 ![filmora box](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Filmora Video Editor
 
 #### Create [AI-Generated Video](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora
@@ -207,9 +211,6 @@ Filmora video editor offers a ChatGPT plug-in and AI tools to enhance your creat
 
 [Edit Video with AI](https://tools.techidaily.com/wondershare/filmora/download/) [Edit Video with AI](https://tools.techidaily.com/wondershare/filmora/download/) [Edit Video with AI](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### 8. [Lightworks](https://www.lwks.com/)
 
 **Price:**  **$24.99** monthly for **Lightworks Pro**, $0 **(Free)**
@@ -218,9 +219,6 @@ Filmora video editor offers a ChatGPT plug-in and AI tools to enhance your creat
 
 **Cons:** Outdated UI, learning curve.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![lightworks](https://images.wondershare.com/filmora/filmorapro/lightworks-editor.jpg)
 
 You may also like: [Best Plugins for Lightworks](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -231,9 +229,6 @@ The workspace is customizable, and while the UI can feel outdated at first, thos
 
 Lightworks is the type of software that is robust all-around - and there’s also a free version out there, so amateurs can get to know what they’re getting into.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 9. [Blender](https://www.blender.org/)
 
 **Price:** $0 **(Free)**
@@ -247,8 +242,12 @@ Lightworks is the type of software that is robust all-around - and there’s als
 While Blender is mostly known for being a software whose main focus is animation, it also features a built-in video editor that is by no means lackluster. Blender has the bonus of being able to work on 3D animations and take care of the video editing process at the same time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 10. [Magix Video Pro X](http://www.jdoqocy.com/click-9197885-12507089)
 
 **Price:** $399, **One-Time Purchase**
@@ -272,8 +271,12 @@ Try Filmora to Make Professional Videos!
 [Start Video Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Video Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Start Video Recording](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Tips for Choosing Professional Video Editing Software
 
 ### 1\. Check your computer specification and performance before purchasing
@@ -282,10 +285,6 @@ Professional video editing software may use lots of resources. It is recommended
 
 To get the full experience of professional video editing, your computer would be better to equipped higher than meeting the mini requirements.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 2\. How to master the professional video editing software
 
 If you have limited video editing experience and want to become a professional video editor, it is recommended to spend time in editing and take some training or course to master it.
@@ -294,9 +293,6 @@ You can find many tutorials about Adobe Premiere Pro, Adobe After Effects, and F
 
 As you may know that Adobe and Apple both provide official certification exams. A certification will be more convincing when people doubt your editing skills.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### 3\. What should I consider before going for a Pro video editor
 
 If you are reading this line, you can ask yourself a question '**what intrigues me to choose a pro video editor? It is because you see other professional YouTuber using them? Do I have the time to learn these professional video editors?**;' If it is the case, you should consider the price you're paying and whether those high-end features and functions are the things you'll need.
@@ -308,6 +304,13 @@ With its **extremely low-learning-curve and user-friendly interface**, Filmora c
 ## A cross-platform for making videos anywhere for all creators
 
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Why your video editing isn't good enough? How about some creative inspo?
 
@@ -324,9 +327,6 @@ With its **extremely low-learning-curve and user-friendly interface**, Filmora c
 
  \* Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
 ## Part 3: FAQ about Professional Video Editing Software
@@ -340,8 +340,12 @@ Many people ask what software professional video editors use. The truth is for p
 Most YouTubers, they like easy to use a video editor to make YouTube videos. They choose Filmora to add more than 300 built-in effects, intros, text, and transitions. A group of YouTubers with advanced video editing skills, tend to use **Premiere Pro**.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What is the best video editing software for beginners?
 
 For beginners, the most important criteria you need to consider are simplicity and price. They like to use Filmora, Movavi, Powerdirector, and iMovie on their PC. For mobile video editing, they like to use LumaFusion, KineMaster, and Apple Clips.
@@ -354,9 +358,6 @@ No, it is not free. Adobe Premiere Pro includes 3 different price plans. Annual 
 
 We hope this list will have guided you toward making the right choice when it comes to investing in professional video editing software. While this was by no means an extensive list, we aimed to summarize professional video editing software information to help you make an informed decision when purchasing your tool of the trade.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -365,11 +366,31 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-cut-the-clutter-structuring-videos-with-chapter-tags/"><u>[New] 2024 Approved Cut the Clutter Structuring Videos with Chapter Tags</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-transformative-guide-avian-video-avi-to-graphic-image-gif-in-filmora-for-2024/"><u>[New] Transformative Guide Avian Video (AVI) to Graphic Image (GIF) in Filmora for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exclusive-access-prime-video-downloader-picks/"><u>[Updated] 2024 Approved Exclusive Access Prime Video Downloader Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-a-complete-breakdown-of-freelens-cam-software-for-2024/"><u>[Updated] A Complete Breakdown of Freelens Cam Software for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-enhance-clips-best-winter-bgs-for-video-warmth/"><u>[Updated] Enhance Clips Best Winter Bg's for Video Warmth</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-find-x6-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Find X6</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expediting-video-render-time/"><u>Expediting Video Render Time</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-choices-the-best-8-tripods-for-4k-cinematography/"><u>In 2024, Premium Choices The Best 8 Tripods for 4K Cinematography</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-an-ai-artist/"><u>New In 2024, What Is an AI Artist?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mastering-video-editing-in-os-x-mavericks-a-comprehensive-guide/"><u>New Mastering Video Editing in OS X Mavericks A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-powerdirector-competitors-best-mobile-video-editors-for-android-and-ios/"><u>New PowerDirector Competitors Best Mobile Video Editors for Android & iOS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unlock-creative-possibilities-top-text-animation-apps-for-mobile-devices-for-2024/"><u>New Unlock Creative Possibilities Top Text Animation Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-cheap-video-editing-software/"><u>Updated 2024 Approved Best Cheap Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-fake-face-makers-the-ultimate-online-collection/"><u>Updated Free Fake Face Makers The Ultimate Online Collection</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-editstudio-for-macos/"><u>Updated In 2024, EditStudio for macOS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-make-me-laugh-top-10-meme-generation-apps-for-mobile-devices/"><u>Updated Make Me Laugh Top 10 Meme Generation Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-10-online-video-rotators-for-perfect-orientation-for-2024/"><u>Updated The Ultimate List 10 Online Video Rotators for Perfect Orientation for 2024</u></a></li>
+</ul></div>
+

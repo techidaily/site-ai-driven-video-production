@@ -1,7 +1,7 @@
 ---
 title: Updated FCP 2023 Color Correction Essentials From Basics to Advanced for 2024
-date: 2024-08-09T05:16:32.321Z
-updated: 2024-08-10T05:16:32.321Z
+date: 2024-10-30T18:54:57.698Z
+updated: 2024-11-04T19:21:49.253Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
 # Color Correction in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -66,16 +63,10 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
@@ -86,9 +77,6 @@ As soon as you start working on **Color Board**, it is good to open Video Scopes
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
@@ -97,9 +85,6 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
@@ -114,16 +99,10 @@ Now it is time to work on color correction directly. There are three types of co
 
 It is possible to preview all the corrections on the original image before making them final. Simple hit the arrow with left-facing formation in the top left corner of the Color Board and then return to the video inspector. Hit on the Blue box to switch between correction On and Off options.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -132,11 +111,35 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-from-bright-to-deep-premiere-pro-magic/"><u>[Updated] 2024 Approved From Bright to Deep Premiere Pro Magic</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/31248124-updated-2024-approved-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[Updated] 2024 Approved How to Block Youtube Channels on Computer and Mobile Phones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-video-voyage-to-victory-secrets-from-youtube-stars/"><u>[Updated] In 2024, Video Voyage to Victory Secrets From YouTube Stars</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-speedy-steps-screenshot-simplification-on-dell/"><u>[Updated] Speedy Steps Screenshot Simplification on Dell</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/are-macintosh-machines-poised-to-emerge-as-trusted-gaming-devices-for-the-hardcore-community/"><u>Are Macintosh Machines Poised to Emerge as Trusted Gaming Devices for the Hardcore Community?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210812952-9798822912441-everything-i-learned-about-mental-health-began-at-twenty-two/"><u>Everything I Learned about Mental Health Began at Twenty-Two | Free Book</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-easiest-video-making-apps-for-mac-unleash-your-creativity/"><u>New In 2024, Easiest Video Making Apps for Mac Unleash Your Creativity</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-vllo-experience-on-mac-download-and-alternatives/"><u>New In 2024, The Ultimate VLLO Experience on Mac Download and Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-lego-stop-motion-artists-to-watch-for-2024/"><u>New Lego Stop Motion Artists to Watch for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photo-cinematic-conversions-sonic-enhancements-for-2024/"><u>Photo Cinematic Conversions Sonic Enhancements for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-mp4-metadata-editors-for-pc-and-mac-for-2024/"><u>Top MP4 Metadata Editors for PC and Mac for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-screen-guard-the-ultimate-selection-reviews-by-zdnet/"><u>Top-Rated Apple Watch Screen Guard: The Ultimate Selection – Reviews by ZDNet</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-jaycut-for-beginners-learn-how-to-edit-videos-online-for-free/"><u>Updated In 2024, Jaycut for Beginners Learn How to Edit Videos Online for Free</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-quik-on-windowsmac-best-options-for-editing-gopro-footage/"><u>Updated In 2024, Quik on Windows/Mac Best Options for Editing GoPro Footage</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

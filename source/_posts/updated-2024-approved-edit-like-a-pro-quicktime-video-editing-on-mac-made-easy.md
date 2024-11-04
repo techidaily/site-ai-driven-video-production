@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Edit Like a Pro QuickTime Video Editing on Mac Made Easy
-date: 2024-10-22T23:47:12.695Z
-updated: 2024-10-29T22:36:25.354Z
+date: 2024-11-02T20:01:47.252Z
+updated: 2024-11-04T17:28:16.330Z
 tags: 
   - video editing software
   - video editing
@@ -41,13 +41,6 @@ The QuickTime player was originally designed to play almost all types of multime
 * Control subtitles, languages and more options.
 * Includes picture viewers for JPEG, BMP and PNG.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Trim Video With QuickTime Player on Mac
 
 Trimming Videos in QuickTime video player is another simple feature. You can delete the beginning or end, or simply shorten the movie or clip.
@@ -57,28 +50,15 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
@@ -87,6 +67,32 @@ Step3: Use a handle on both sides to resist the part of the film that you want t
 Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Split Video With QuickTime Player on Mac
 
@@ -112,13 +118,6 @@ Step3: Choose to rotate the clip left or right, or flip it horizontally or verti
 
 Step4: When you're done, click Done.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
 [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is an easy-to-use video editor. Wondershare Filmora Mac version has powerful functions and rich functions. Using Wondershare Filmora Mac software, you can make high-quality videos. By using Filmora you will easily Create professional-like movies from video files, audio files, and photo files with transitions, effects and titles.
@@ -143,6 +142,19 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -158,22 +170,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-embrace-your-inner-cartoon-how-to-apply-snapchats-anime-effect/"><u>[Updated] Embrace Your Inner Cartoon How To Apply Snapchat's Anime Effect</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-listeners-lexicon-selecting-solid-offline-recording-tools/"><u>[Updated] In 2024, Listeners' Lexicon Selecting Solid Offline Recording Tools</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1726226511073-pgm-jpg-movavi/"><u>移動 PGM 畫面到 JPG 以上，無成本解決方案 - 利用 Movavi 的功能</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcp-is-capable-enough-to-merge-the-reverse-option-with-retiming-effects-so-that-something-innovative-can-be-developed-even-with-simple-editing-efforts-for-2/"><u>FCP Is Capable Enough to Merge the Reverse Option with Retiming Effects so that Something Innovative Can Be Developed Even with Simple Editing Efforts for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-visual-effects-freeze-frames-slow-motion-and-advanced-editing/"><u>FCPX Visual Effects Freeze Frames, Slow Motion, and Advanced Editing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-x-troubleshooting-a-step-by-step-reset-guide-for-2024/"><u>Final Cut Pro X Troubleshooting A Step-by-Step Reset Guide for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-sync-ps4-controller-easy-guide/"><u>How to Sync PS4 Controller - Easy Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/improving-your-homes-hdtv-signal-a-guide-to-enhancing-indoor-digital-television-reception/"><u>Improving Your Home's HDTV Signal: A Guide to Enhancing Indoor Digital Television Reception</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-streamline-your-video-editing-fast-and-easy-video-trimming-on-mac/"><u>In 2024, Streamline Your Video Editing Fast & Easy Video Trimming on Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-complete-guide-to-installing-linux-on-a-chromebook/"><u>In 2024, The Complete Guide to Installing Linux on a Chromebook</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/insights-into-the-pny-rp60-1tb-ssd-review-acceptably-efficient-but-not-particularly-memorable/"><u>Insights Into the PNY RP60 1TB SSD Review - Acceptably Efficient, But Not Particularly Memorable</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-create-movies-online-for-free-top-9-tools/"><u>New 2024 Approved Create Movies Online for Free Top 9 Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-mov-video-rotation-software-top-picks/"><u>New 2024 Approved Free MOV Video Rotation Software Top Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-voice-over-checklist-best-practices-for-final-cut-pro/"><u>New 2024 Approved The Ultimate Voice Over Checklist Best Practices for Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-best-public-domain-images-online-for-2024/"><u>New The Ultimate List Best Public Domain Images Online for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/x-factors-in-crypto-queries-with-chatgpt/"><u>X-Factors in Crypto Queries with ChatGPT</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-simplified-methods-for-google-meet-recordings/"><u>[New] Simplified Methods for Google Meet Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-fbx-techniques-for-capturing-games-for-2024/"><u>[Updated] Essential FBX Techniques for Capturing Games for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-80-pro-straight-screen-edition-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor 80 Pro Straight Screen Edition Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cost-effective-sky-gadgets-frugal-flight-devices-ranking-for-2024/"><u>Cost-Effective Sky Gadgets Frugal Flight Devices Ranking for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-list-10-animated-text-generators-for-stunning-visuals/"><u>New In 2024, The Ultimate List 10 Animated Text Generators for Stunning Visuals</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-of-free-mov-video-splitters-for-2024/"><u>New The Ultimate List of Free MOV Video Splitters for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/schritt-fur-schritt-guide-zum-backup-und-wiederherstellen-von-windows-11/"><u>Schritt-Für-Schritt-Guide Zum Backup Und Wiederherstellen Von Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screen-snatching-solution/"><u>Screen Snatching Solution</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-art-of-cinematic-color-grading-in-final-cut-pro-x-for-2024/"><u>The Art of Cinematic Color Grading in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-affordable-3d-printing-solutions-exceptional-quality-low-cost/"><u>Top Affordable 3D Printing Solutions - Exceptional Quality, Low Cost</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-make-a-movie-on-your-mac-a-comprehensive-guide/"><u>Updated 2024 Approved Make a Movie on Your Mac A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-avidemux-for-beginners-cropping-cutting-and-polishing-your-video-footage/"><u>Updated In 2024, Avidemux for Beginners Cropping, Cutting, and Polishing Your Video Footage</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-take-your-videos-to-the-next-level-12-best-online-animation-platforms/"><u>Updated Take Your Videos to the Next Level 12 Best Online Animation Platforms</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-funniest-in-the-business-5-reaction-video-makers-youll-love/"><u>Updated The Funniest in the Business 5 Reaction Video Makers Youll Love</u></a></li>
 </ul></div>
 

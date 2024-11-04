@@ -1,7 +1,7 @@
 ---
 title: New Retrograde Your Footage Easy VHS Effects in Final Cut Pro
-date: 2024-10-26T16:19:45.503Z
-updated: 2024-10-29T21:21:37.451Z
+date: 2024-11-03T17:28:28.576Z
+updated: 2024-11-04T16:15:54.906Z
 tags: 
   - video editing software
   - video editing
@@ -94,13 +94,6 @@ First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
@@ -115,12 +108,26 @@ To do VHS effects quickly, follow these steps:
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go to Effect, and in the search bar, type **VHS**.
 
 * Drag and drop the VHS Distortion Bad effect on the timeline above the text layer.
 * Double click on it and change the Alpha value to 25 and click Ok.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
@@ -133,10 +140,10 @@ Go to Effect, and in the search bar, type **VHS**.
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
@@ -195,19 +202,6 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -223,10 +217,10 @@ The appearance and feel of your production may be significantly enhanced by usin
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -244,24 +238,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonizing-hues-in-online-beauty-videos/"><u>[New] In 2024, Harmonizing Hues in Online Beauty Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-identifying-exclusion-from-chatsphere-for-2024/"><u>[Updated] Identifying Exclusion From Chatsphere for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2024-world-server-destruction-showdown-search-for-rough-and-tumble-gamers-who-brazenly-challenge-computing-power/"><u>2024 World Server Destruction Showdown: Search for Rough-and-Tumble Gamers Who Brazenly Challenge Computing Power</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-itel-p55-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Itel P55 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-ultimate-durability-with-zendure-superbase-pro-2000-review-on-zdnet/"><u>Experience Ultimate Durability with Zendure SuperBase Pro 2000 Review on ZDNet</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-vlcs-screen-recording-capabilities/"><u>In 2024, VLC's Screen Recording Capabilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mirthful-mobile-memories-iphone/"><u>Mirthful Mobile Memories (iPhone)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-seamless-storytelling-3-ways-to-use-transitions-in-final-cut-pro/"><u>New Seamless Storytelling 3 Ways to Use Transitions in Final Cut Pro</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-pros-guide-to-iphone-voice-memos-and-more/"><u>The Pro's Guide to iPhone Voice Memos and More</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-picks-youtube-to-hd-mastering-quality-conversions/"><u>Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-enigma-of-chatbots-debunking-9-popular-beliefs/"><u>Unraveling the Enigma of Chatbots: Debunking 9 Popular Beliefs</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-send-unforgettable-invites-with-these-best-video-apps-for-ios-and-android/"><u>Updated 2024 Approved Send Unforgettable Invites with These Best Video Apps for iOS & Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-discover-the-best-free-dvd-player-for-windows-10-top-10-list/"><u>Updated Discover the Best Free DVD Player for Windows 10 Top 10 List</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-elevate-your-video-experience-best-resolution-enhancement-tools-for-2024/"><u>Updated Elevate Your Video Experience Best Resolution Enhancement Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-best-motion-tracking-apps-for-ios-and-android/"><u>Updated In 2024, Best Motion Tracking Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-digitalize-your-dvds-a-beginners-guide-to-video-conversion/"><u>Updated In 2024, Digitalize Your DVDs A Beginners Guide to Video Conversion</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-level-up-your-videos-20-best-free-adobe-premiere-title-templates-for-2024/"><u>Updated Level Up Your Videos 20 Best Free Adobe Premiere Title Templates for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-lumafusion-or-final-cut-pro-the-battle-for-video-editing-supremacy-for-2024/"><u>Updated LumaFusion or Final Cut Pro The Battle for Video Editing Supremacy for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-creme-de-la-creme-of-4k-unforgettable-video-clips/"><u>Updated The Crème De La Crème of 4K Unforgettable Video Clips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-aspect-ratios-for-effective-youtube-videos/"><u>[New] 2024 Approved Decoding Aspect Ratios for Effective YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-comprehensive-blueprint-for-vimeo-video-logging/"><u>2024 Approved The Comprehensive Blueprint for Vimeo Video Logging</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-se-2020-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-spotifys-advertising-landscape/"><u>Navigating Spotify's Advertising Landscape</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/troubleshooting-ntdlldll-system-failures-on-windows-1110-solutions-included/"><u>Troubleshooting ntdll.dll System Failures on Windows 11/10 - Solutions Included</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unleashing-your-viewing-experience-screen-recording-solutions-for-2024/"><u>Unleashing Your Viewing Experience Screen Recording Solutions for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-10plus-best-free-online-video-trimmers-to-edit-videos-quickly-for-2024/"><u>Updated 10+ Best Free Online Video Trimmers to Edit Videos Quickly for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-chromebook-video-editing-mastery-how-to-use-any-app-regardless-of-os/"><u>Updated Chromebook Video Editing Mastery How to Use Any App, Regardless of OS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-shrink-your-videos-top-rated-free-compression-software-for-windows-10/"><u>Updated In 2024, Shrink Your Videos Top-Rated Free Compression Software for Windows 10</u></a></li>
 </ul></div>
 

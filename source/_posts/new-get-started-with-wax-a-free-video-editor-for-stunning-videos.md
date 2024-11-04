@@ -1,7 +1,7 @@
 ---
 title: New Get Started with Wax A Free Video Editor for Stunning Videos
-date: 2024-08-02T04:11:59.718Z
-updated: 2024-08-03T04:11:59.718Z
+date: 2024-10-30T19:19:19.295Z
+updated: 2024-11-04T19:32:42.773Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
 # Wax - How to Use Free Video Editor Wax to Edit Videos
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
  Note: If you think Wax is something complicated, you can turn to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to edit videos with separate tracks and add transitions to your videos, finally, convert your video to any video format you like.Download the free trial version of Wondershare Filmora (originally Wondershare Video Editor) (Windows/Mac) below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -46,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
  Download Wax and install it first. Run the software and Load Media Files by right-clicking on MediaPool panel. But this doesn't finish. To edit video, you need to drag-n-drop desired media files to the timeline. Then switch to Video Plugins to drag-n-drop Quick 3d plugin to the just added track.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax free video editor](https://images.wondershare.com/topic/video-editing/wax.jpg)
 
  As shown above, click the triangle next to Quick 3d, you would see many options such as Posx, Posz, Cropleft, Cropbottom, etc. Please see detailed instructions to make editing in Wax:
@@ -65,35 +56,16 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
  Press F3 or click the Project Settings button in the tool bar to bring up the dialog. There, specify the file name, save path and video options, including video dimensions, frame rate, and click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![how to use wax](https://images.wondershare.com/topic/video-editing/wax-settings.jpg)
 
 #### 3. Render AVI video
 
  Click the green arrow button on the tool bar to start saving video to specified path in the project settings. A few minutes later, you will get the edited video.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax video editing](https://images.wondershare.com/topic/video-editing/wax-render.jpg)
 
  To be concluded, this is just the beginning Wax tutorial. You will find more features while using it. Just download Wax and have a try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -102,11 +74,40 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-troubleshooting-common-issues-in-skype-and-obs-collaboration/"><u>[New] In 2024, Troubleshooting Common Issues in Skype & OBS Collaboration</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-enhance-video-purity-optimal-watermark-eliminators/"><u>[Updated] Enhance Video Purity Optimal Watermark Eliminators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-8-tactics-for-striking-youtube-thumbnails-that-perform-well/"><u>[Updated] Top 8 Tactics for Striking YouTube Thumbnails That Perform Well</u></a></li>
+<li><a href="https://win11.techidaily.com/avoidance-of-protected-windowsapps-folder-boundary/"><u>Avoidance of Protected WindowsApps Folder Boundary</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-14-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 14 to Roku? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-potential-essential-windows-10-skills-review/"><u>In 2024, Unleash Potential Essential Windows 10 Skills Review</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-hd-video-editors-for-creators-and-professionals/"><u>New In 2024, Top HD Video Editors for Creators and Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/non-state-actors-pose-a-unique-challenge-to-global-nuclear-security-governance-due-to-their-potential-to-acquire-illicit-nuclear-materials/"><u>Non-State Actors Pose a Unique Challenge to Global Nuclear Security Governance Due to Their Potential to Acquire Illicit Nuclear Materials</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/shrink-your-timeline-a-simple-guide-to-creating-time-lapse-videos-for-2024/"><u>Shrink Your Timeline A Simple Guide to Creating Time Lapse Videos for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-installation-of-windows-1011s-new-bluetooth-driver/"><u>Stepwise Installation of Windows 10/11'S New Bluetooth Driver</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/streamline-your-video-collection-8-best-mac-metadata-editors-for-2024/"><u>Streamline Your Video Collection 8 Best Mac Metadata Editors for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-realme-12-pro-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Realme 12 Pro 5G without backup.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/top-facebook-video-mp4-downloaders/"><u>Top Facebook Video MP4 Downloaders</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unleash-your-creativity-top-free-video-editing-software-for-32-bit-windows-for-2024/"><u>Unleash Your Creativity Top Free Video Editing Software for 32-Bit Windows for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-web-based-video-editing-platforms-for-vertical-content-creators/"><u>Updated 2024 Approved Web-Based Video Editing Platforms for Vertical Content Creators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-yosemite-video-editing-101-a-beginners-tutorial-for-mac-os-x/"><u>Updated 2024 Approved Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-here-are-some-of-the-best-face-swap-apps-for-your-iphone-or-android-device-that-allows-you-to-swap-face-easily/"><u>Updated In 2024, Here Are some of the Best Face Swap Apps for Your iPhone or Android Device that Allows You to Swap Face Easily</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-of-both-worlds-android-video-editors-on-chromebook/"><u>Updated In 2024, The Best of Both Worlds Android Video Editors on Chromebook</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-of-free-video-editors-for-starters/"><u>Updated The Ultimate List of Free Video Editors for Starters</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

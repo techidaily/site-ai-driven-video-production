@@ -1,7 +1,7 @@
 ---
 title: New Edit MP4 Videos on Your PC A Comprehensive Guide for Windows 8
-date: 2024-08-02T04:11:47.312Z
-updated: 2024-08-03T04:11:47.312Z
+date: 2024-11-03T17:30:19.855Z
+updated: 2024-11-04T16:47:29.694Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
 # MP4 Editor for Windows 8: Easily Edit MP4 Files on PC
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -31,9 +28,6 @@ MP4 format is quite popular among computer users, therefore there are numerous v
 
 In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) (Windows 10/8/7/XP/Vista supported) is shared with you. This program enables you to create Hollywood-like home movies with titles, effects, and transitions from all regular videos, audio, and photos. Plus, it offers a free trial for you to evaluate. Just download the free trial of MP4 editor Windows 8 and follow below step by step guide.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Easily Edit MP4 Files on PC
@@ -44,10 +38,6 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
 
 #### 2\.  Easy MP4 editing in Windows 8
@@ -64,9 +54,6 @@ If you want to edit and personalize your MP4 videos, the timeline panel will off
 
 Select a clip in the Timeline, drag the Indicator to where you want to split and click the "Split" button. Then the clip will be [split into two](https://tools.techidaily.com/wondershare/filmora/download/). Right click the video clip, you can also choose "Delete", "Copy", "Paste" option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
@@ -79,9 +66,6 @@ To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wonders
 
 Click "Transition" tab on the main interface and drag one scene transition you like to your video, or you can right click on a favorite transition and choose the option "Apply to All", which can apply the certain transition effect to all your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -94,9 +78,6 @@ MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) f
 
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -107,11 +88,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-video-making-apps-iphone-android-edition/"><u>[New] Top 10 Video-Making Apps IPhone, Android Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-prime-selector-20-twitters-animated-treasure-chest/"><u>[Updated] 2024 Approved Prime Selector 2.0 Twitter's Animated Treasure Chest</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-be-unique-in-conversation-customized-whatsapp-tones-for-ios-android-users/"><u>[Updated] Be Unique in Conversation Customized WhatsApp Tones for iOS, Android Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-easy-steps-to-archive-vimeo-video-recordings/"><u>[Updated] In 2024, Easy Steps to Archive Vimeo Video Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-picart-skills-erasing-unwanted-image-backdrops/"><u>[Updated] PicArt Skills Erasing Unwanted Image Backdrops</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>2024 Approved The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/transform-your-photos-best-vignette-editing-apps-for-mobile/"><u>Transform Your Photos Best Vignette Editing Apps for Mobile</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unlock-smooth-editing-premiere-pro-system-requirements-explained/"><u>Unlock Smooth Editing Premiere Pro System Requirements Explained</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-and-cut-divx-videos-without-spending-a-dime-2023-guide-for-2024/"><u>Updated Edit and Cut Divx Videos Without Spending a Dime (2023 Guide) for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-like-a-pro-top-vertical-video-editing-apps-for-mobile-for-2024/"><u>Updated Edit Like a Pro Top Vertical Video Editing Apps for Mobile for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-lego-animators-to-watch/"><u>Updated In 2024, Top Lego Animators to Watch</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

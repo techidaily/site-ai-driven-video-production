@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro X Image Editing Cropping Made Easy
-date: 2024-08-02T04:10:42.992Z
-updated: 2024-08-03T04:10:42.992Z
+date: 2024-10-29T17:15:16.814Z
+updated: 2024-11-04T16:27:17.402Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 ---
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## How to Crop an Image in Final Cut Pro X
 
 However, before I show how this is done, I need to explain one really important fact about video: all video uses what's called "fixed resolution." Fixed resolution means that high-definition video is always displayed at one of two sizes:
@@ -70,9 +67,6 @@ This displays the cropping tools in the Viewer.
 
 Click the Trim button to turn on Trim mode. (This article discusses Trim and Crop. I'll cover the Ken Burns effect in a future article.)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop005.jpg)
 
 Grab one of the blue dots and drag to hide portions of the frame. I generally grab a corner, but any blue dot will do.
@@ -91,9 +85,6 @@ When you have trimmed the image the way you want, click the "Done" button in the
 
 If no other clip is below the trimmed clip, the background will be black.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop009.jpg)
 
 But, it actually isn't black, it's transparent. If you put another clip below it, you'll see the lower clip underneath the trimmed image.
@@ -106,9 +97,6 @@ Cropping allows us to select just a portion of a video clip, without creating an
 
 There are several ways we can choose to crop an image:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop010.jpg)
 
 * Click the Crop icon, as we illustrated above
@@ -122,10 +110,6 @@ There are several ways we can choose to crop an image:
 
 \* In the Inspector > Video tab > Crop (this option provides the most precision, but is the least intuitive to use)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop013.jpg)
 
 If you selected any option except the Inspector, click the Crop button in the Viewer.
@@ -136,23 +120,14 @@ Now, drag a blue button in one of the corners. Because cropping, unlike trimming
 
 Final Cut displays numbers at the top of the Viewer indicating how much the image has been cropped.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop015.jpg)
 
 Reposition the frame by grabbing inside the rectangle and dragging.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop016.jpg)
 
 When you are happy with the results, click the Done button in the top right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop017.jpg)
 
 Notice that the selected portion of the image now fills the frame. Even though there is a clip below our cropped clip, we don't see it.
@@ -161,9 +136,6 @@ And, if you look closely, you'll see that the cropped image is softer (blurrier)
 
 #### RESET
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop018.jpg)
 
 To reset a cropped image back to its default settings, open the Inspector and click the small curved arrow to the right of the word "Crop."
@@ -176,9 +148,6 @@ Cropping is used to reframe an image, say from a medium shot to a close-up, but 
 
 I use both these techniques frequently in my own editing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -187,11 +156,40 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-chatcam-video-saver-app/"><u>[New] In 2024, ChatCam Video Saver App</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-the-archive-of-yesteryear-how-to-view-facebook-past-content-for-2024/"><u>[Updated] Unlocking the Archive of Yesteryear How To View Facebook Past Content for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-leading-mobile-gaming-slates-unveiled-the-prime-choices-for-gamers-on-the-go-digital-trends/"><u>2022'S Leading Mobile Gaming Slates Unveiled: The Prime Choices for Gamers on the Go | Digital Trends</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/enriched-browsing-experience-with-these-top-5-chrome-tools/"><u>Enriched Browsing Experience with These Top 5 Chrome Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/exclusive-tips-to-elevate-your-canva-projects-by-10x/"><u>Exclusive Tips to Elevate Your Canva Projects by 10X</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/from-smartphone-to-stardom-best-vertical-video-editing-apps-for-2024/"><u>From Smartphone to Stardom Best Vertical Video Editing Apps for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-compression-mastery-how-to-get-the-most-out-of-compressor-in-fcpx/"><u>In 2024, Compression Mastery How to Get the Most Out of Compressor in FCPX</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-14-plus-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an iPhone 14 Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-slow-motion-mastery-the-top-10-video-players-you-need/"><u>In 2024, Slow Motion Mastery The Top 10 Video Players You Need</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-free-online-video-production-tools/"><u>In 2024, Top-Rated Free Online Video Production Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insiders-picks-which-smartphones-do-our-editors-really-rely-on-zdnet-analysis/"><u>Insider's Picks: Which Smartphones Do Our Editors Really Rely On? - ZDNet Analysis</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/maximize-your-online-presence-10-best-free-video-hosting-sites/"><u>Maximize Your Online Presence 10 Best Free Video Hosting Sites</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-convert-webm-to-mp3-best-tools-for-the-job/"><u>New 2024 Approved Convert WebM to MP3 Best Tools for the Job</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-the-heart-tips-and-tricks-for-making-a-meaningful-valentines-day-video/"><u>New 2024 Approved From the Heart Tips and Tricks for Making a Meaningful Valentines Day Video</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-revamp-your-footage-top-rated-free-online-video-enhancers/"><u>New 2024 Approved Revamp Your Footage Top-Rated Free Online Video Enhancers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-list-best-movie-trailer-apps-for-ios/"><u>New 2024 Approved The Ultimate List Best Movie Trailer Apps for iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-apples-payment-blockade-6-handy-fixes-for-you/"><u>Solve Apple's Payment Blockade: 6 Handy Fixes for You</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/the-definitive-guide-to-using-freestyle2-software-on-a-mac-a-perfect-fit-for-idevice-lovers/"><u>The Definitive Guide to Using Freestyle2 Software on a Mac - A Perfect Fit for iDevice Lovers</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-rated-surface-laptops-comprehensive-comparisons-by-tech-experts-zdnet/"><u>Top-Rated Surface Laptops : Comprehensive Comparisons by Tech Experts | ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

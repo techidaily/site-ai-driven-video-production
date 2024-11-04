@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-10-23T22:41:03.253Z
-updated: 2024-10-30T00:23:41.955Z
+date: 2024-10-28T16:15:50.262Z
+updated: 2024-11-04T16:19:45.507Z
 tags: 
   - video editing software
   - video editing
@@ -65,10 +65,10 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -88,17 +88,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -106,6 +99,13 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -121,10 +121,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,24 +142,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-the-landscape-of-facebook-ad-effectiveness/"><u>[New] 2024 Approved Navigating the Landscape of Facebook Ad Effectiveness</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-apple-m1-explained-the-future-in-your-hands/"><u>[New] In 2024, Apple M1 Explained The Future in Your Hands</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-enhance-video-rankings-on-youtube-through-seo/"><u>[New] In 2024, How to Enhance Video Rankings on YouTube Through SEO</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-macbook-air-and-pro-on-m1-which-scales-higher/"><u>[New] MacBook Air & Pro on M1 Which Scales Higher?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-navigating-zoom-rooms-with-ease-newcomers/"><u>[Updated] Navigating Zoom Rooms with Ease, Newcomers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-refining-audio-in-obs-high-quality-mode-for-2024/"><u>[Updated] Refining Audio in OBS High-Quality Mode for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-viewer-interest-6-essential-video-formats/"><u>2024 Approved Mastering Viewer Interest 6 Essential Video Formats</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/destiny-2-broccoli-impact-patch-overcome-the-bug/"><u>Destiny 2: Broccoli Impact Patch - Overcome the Bug</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/embarking-on-a-shared-tiktok-experience-your-instructional-path/"><u>Embarking on a Shared TikTok Experience Your Instructional Path</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-fcpx-xml-mastery-taking-your-editing-skills-to-the-next-level/"><u>New In 2024, FCPX XML Mastery Taking Your Editing Skills to the Next Level</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-level-up-your-video-editing-with-20-free-adobe-premiere-intro-templates/"><u>New In 2024, Level Up Your Video Editing with 20 Free Adobe Premiere Intro Templates</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-pro-grade-video-editor-unleash-the-potential-of-your-everyday-videos/"><u>New Pro-Grade Video Editor Unleash the Potential of Your Everyday Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/snap-share-repeat-the-ultimate-ps4-screenshot-sharing-guide-for-2024/"><u>Snap, Share, Repeat The Ultimate PS4 Screenshot Sharing Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-fix-the-devices-not-recognized-issue-on-windows-7/"><u>Troubleshooting: How to Fix the 'Devices Not Recognized' Issue on Windows 7</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-free-video-rotation-apps-top-10-list-for-flipping-videos/"><u>Updated 2024 Approved Best Free Video Rotation Apps Top 10 List for Flipping Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-edit-videos-for-free-top-software-for-32-bit-windows-systems/"><u>Updated 2024 Approved Edit Videos for Free Top Software for 32-Bit Windows Systems</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-fast-forward-to-fun-10-best-free-video-speed-changing-apps-for-ios-and-android/"><u>Updated 2024 Approved Fast Forward to Fun 10 Best Free Video Speed Changing Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-free-wmv-video-combining-software-for-this-year-for-2024/"><u>Updated Best Free WMV Video Combining Software for This Year for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-crop-resize-and-refine-mastering-video-editing-with-avidemux-for-2024/"><u>Updated Crop, Resize, and Refine Mastering Video Editing with Avidemux for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-path-to-effective-marketing-best-practices-for-health-promos/"><u>[New] 2024 Approved The Path to Effective Marketing Best Practices for Health Promos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-essential-tools-for-youtube-live-broadcasting-reveal-the-7-key-apps/"><u>[New] Essential Tools for YouTube LIVE Broadcasting Reveal the 7 Key Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-optimize-rl-recording-hardware-and-software/"><u>[New] How to Optimize RL Recording Hardware & Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/how-to-crop-a-video-with-avidemux-for-2024/"><u>How to Crop a Video with Avidemux for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-from-avi-to-mkv-streaming-any-video-format-to-google-chromecast/"><u>In 2024, From AVI to MKV Streaming Any Video Format to Google Chromecast</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23plus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23+ Phone without Google Account?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-loop-your-videos-with-ease-10-free-online-video-looping-tools/"><u>In 2024, Loop Your Videos with Ease 10 Free Online Video Looping Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/lumafusion-for-macbook-how-to-install-and-best-alternatives/"><u>Lumafusion for MacBook How to Install and Best Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-fcpx-not-your-cup-of-tea-discover-these-10-alternative-video-editing-tools/"><u>New 2024 Approved FCPX Not Your Cup of Tea? Discover These 10 Alternative Video Editing Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-and-easy-avi-video-editing-software-options/"><u>New 2024 Approved Free and Easy AVI Video Editing Software Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-split-and-trim-mkv-files-best-free-tools/"><u>New 2024 Approved Split and Trim MKV Files Best Free Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-tips-for-correcting-communication-errors-in-i2c-hid-device-driver-setups/"><u>Quick Tips for Correcting Communication Errors in I2C HID Device Driver Setups</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/restoring-macos-sierra-to-os-x-10101-environment/"><u>Restoring MacOS Sierra to OS X 10.10.1 Environment</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tips-for-uninterrupted-obs-video-playback-for-2024/"><u>Tips for Uninterrupted OBS Video Playback for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-y200-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y200 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

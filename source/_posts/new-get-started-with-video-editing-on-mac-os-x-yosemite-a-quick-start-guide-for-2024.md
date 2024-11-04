@@ -1,7 +1,7 @@
 ---
 title: New Get Started with Video Editing on Mac OS X Yosemite A Quick Start Guide for 2024
-date: 2024-08-02T04:12:24.750Z
-updated: 2024-08-03T04:12:24.750Z
+date: 2024-10-28T17:29:46.544Z
+updated: 2024-11-04T20:02:16.237Z
 tags: 
   - video editing software
   - video editing
@@ -30,14 +30,18 @@ Although Apple’s new operating system - Mac OS X 10.10 Yosemite will bring new
 
 Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite – Wondershare [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is recommended. It supports almost all the popular video formats including AVI, WMV, MP4, FLV, MKV, MOV, 3GP, etc. With it, you can put together your video clips or split to segments to get creative and customized brand new videos. Here is a detailed guide on how to create videos on Yosemite with this smart video editor.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1. Import media files to edit
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
 
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
 
@@ -47,10 +51,14 @@ When all the media files have been imported to the software, drag and drop them 
 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Edit and enhance audio**
 
@@ -58,34 +66,35 @@ If you want to add an additional audio file as the background music to the video
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Add transition and other effects**
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -93,11 +102,25 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-bridging-platforms-posting-twitter-content-on-facebook/"><u>[New] In 2024, Bridging Platforms Posting Twitter Content on Facebook</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-polar-pinnacles-beijing-2022-olympic-spotlight/"><u>[Updated] 2024 Approved Polar Pinnacles Beijing 2022 Olympic Spotlight</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-procuring-legal-melodies-a-youtube-creators-guide/"><u>[Updated] In 2024, Procuring Legal Melodies A YouTube Creator's Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-for-reducing-vr-induced-symptoms/"><u>2024 Approved Tips for Reducing VR-Induced Symptoms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/from-novice-to-expert-film-cameras-you-can-trust/"><u>From Novice to Expert Film Cameras You Can Trust</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-avi-video-rotation-software-the-ultimate-cross-platform-guide/"><u>New In 2024, Free AVI Video Rotation Software The Ultimate Cross-Platform Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/egies-for-personalizing-your-youtube-shorts-templates-for-2024/"><u>Strategies for Personalizing Your YouTube Shorts Templates for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-get-started-with-vn-video-editor-on-mac-or-find-suitable-replacements/"><u>Updated 2024 Approved Get Started with VN Video Editor on Mac or Find Suitable Replacements</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-flv-editor-for-windows-8-easily-edit-flv-videos-on-pc/"><u>Updated FLV Editor for Windows 8 Easily Edit FLV Videos on PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-become-a-cartoon-star-best-apps-for-transforming-your-photos-on-iphone-and-android/"><u>Updated In 2024, Become a Cartoon Star Best Apps for Transforming Your Photos on iPhone and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-still-to-stunning-how-to-use-ken-burns-effect-in-final-cut-pro-for-maximum-impact/"><u>Updated In 2024, From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact</u></a></li>
+</ul></div>
+

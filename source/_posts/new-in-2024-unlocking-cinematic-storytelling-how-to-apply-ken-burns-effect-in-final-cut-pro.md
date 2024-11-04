@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Unlocking Cinematic Storytelling How to Apply Ken Burns Effect in Final Cut Pro
-date: 2024-10-23T21:37:11.422Z
-updated: 2024-10-29T17:31:17.180Z
+date: 2024-10-28T19:37:28.915Z
+updated: 2024-11-04T17:30:32.042Z
 tags: 
   - video editing software
   - video editing
@@ -36,10 +36,10 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
@@ -51,10 +51,10 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
@@ -64,13 +64,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 **Step 1** – Import your video. From your timeline workspace, select the clip, or highlight the section of the clip, that you want to apply the Ken Burns Effect to.
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
@@ -107,10 +100,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
@@ -127,6 +120,13 @@ The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -142,20 +142,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-narrative-techniques-for-impactful-documentaries/"><u>[New] In 2024, Narrative Techniques for Impactful Documentaries</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-fix-fifa-22-game-crashes-on-your-windows-computer/"><u>How to Fix FIFA 22 Game Crashes on Your Windows Computer</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/moving-your-book-collection-a-step-by-step-guide-to-adding-ebooks-to-the-ipad-kindle-app/"><u>Moving Your Book Collection: A Step-by-Step Guide to Adding Ebooks to the iPad Kindle App</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mkvtoolnix-for-mac-the-easiest-way-to-edit-videos-for-2024/"><u>New MKVtoolnix for Mac The Easiest Way to Edit Videos for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-rotate-videos-online-best-web-based-solutions/"><u>New Rotate Videos Online Best Web-Based Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/post-turing-ponderings-new-lenses-for-intelligence-judgement/"><u>Post-Turing Ponderings: New Lenses for Intelligence Judgement</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-scanning-technology-with-new-abbyy-pdf-and-ocr-tools-spotlighted-at-the-american-bar-associations-annual-techshow-2019/"><u>Revolutionizing Scanning Technology with New ABBYY PDF and OCR Tools, Spotlighted at the American Bar Association's Annual Techshow 2019</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/step-by-step-tutorial-on-revealing-hidden-recovery-partitions-in-windows-systems/"><u>Step-by-Step Tutorial on Revealing Hidden Recovery Partitions in Windows Systems</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-guide-to-efficiently-producing-high-quality-small-images-for-2024/"><u>The Ultimate Guide to Efficiently Producing High-Quality Small Images for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-vos-fichiers-vob-en-mp4-ou-mkv-facilement-grace-a-movavi/"><u>Transformez Vos Fichiers VOB en MP4 Ou MKV Facilement Grâce À Movavi</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unlimited-access-90-day-free-trial-of-final-cut-pro-inside/"><u>Updated In 2024, Unlimited Access 90-Day Free Trial of Final Cut Pro Inside</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-say-goodbye-to-watermarks-7-top-video-merger-apps-for-2024/"><u>Updated Say Goodbye to Watermarks 7 Top Video Merger Apps for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-chromebook-video-editing-setup-windows-mac-and-more/"><u>Updated The Ultimate Chromebook Video Editing Setup Windows, Mac, and More</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-xml-file-bible-for-fcpx-creators/"><u>Updated The XML File Bible for FCPX Creators</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-vertical-video-editing-in-the-cloud-best-web-based-options-for-2024/"><u>Updated Vertical Video Editing in the Cloud Best Web-Based Options for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-filmmakers-dilemma-picking-between-filmora-and-democracy-creator/"><u>[New] In 2024, Filmmaker's Dilemma Picking Between Filmora & Democracy Creator</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nikons-1j5-videographer-a-spectacle-in-4k/"><u>[New] Nikon's 1J5 Videographer A Spectacle in 4K</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-regular-payouts-for-youtube-content-makers/"><u>[Updated] In 2024, Regular Payouts for YouTube Content Makers?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rhythmic-reworks-for-enhanced-imovie-experience/"><u>[Updated] Rhythmic Reworks for Enhanced iMovie Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-the-hottest-meme-accounts-for-emotional-rollerscoasters/"><u>[Updated] The Ultimate Guide The Hottest Meme Accounts for Emotional Rollerscoasters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-quickest-quads-2022-olympics-skate/"><u>2024 Approved The Quickest Quads 2022 Olympics Skate</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-the-installer-for-3dconnexion-products/"><u>Mastering the Installer for 3Dconnexion Products</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-extract-audio-from-mp4-top-rated-mp4-to-mp3-converters/"><u>New In 2024, Extract Audio From MP4 Top-Rated MP4 to MP3 Converters</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-title-design-made-easy-a-final-cut-pro-x-tutorial/"><u>New Title Design Made Easy A Final Cut Pro X Tutorial</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-10-best-free-game-download-sites-pc-and-android/"><u>New Top 10 Best Free Game Download Sites PC & Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-mp4-to-mp3-conversion-apps-for-mobile-for-2024/"><u>The Ultimate Guide to MP4 to MP3 Conversion Apps for Mobile for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-100-unbeatable-walmart-holiday-bargains-your-guide-to-savings-zdnet/"><u>Top 100 Unbeatable Walmart Holiday Bargains: Your Guide to Savings - ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-3-free-video-players-face-off-vlc-vs-mpc-showdown/"><u>Top 3 FREE Video Players Face Off VLC Vs. MPC Showdown</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-avs-video-editor-is-only-available-on-windows-you-need-to-get-avs-video-editor-alternative-for-mac/"><u>Updated AVS Video Editor Is only Available on Windows, You Need to Get AVS Video Editor Alternative for Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-split-and-cut-3gp-files-with-ease-a-comprehensive-guide/"><u>Updated In 2024, Split and Cut 3GP Files with Ease A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-text-animation-made-easy-top-mobile-video-editing-apps/"><u>Updated In 2024, Text Animation Made Easy Top Mobile Video Editing Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unleash-your-brands-potential-best-free-animated-logo-creators/"><u>Updated In 2024, Unleash Your Brands Potential Best Free Animated Logo Creators</u></a></li>
 </ul></div>
 

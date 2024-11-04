@@ -1,7 +1,7 @@
 ---
 title: New Effortless MP4 Editing on Windows 8 Expert Video Editor
-date: 2024-08-02T04:10:32.885Z
-updated: 2024-08-03T04:10:32.885Z
+date: 2024-11-03T18:04:59.376Z
+updated: 2024-11-04T19:14:30.435Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Easily Edit MP4 Files on PC
 
 #### 1\.  Import your MP4 videos
@@ -57,18 +54,12 @@ If you want to edit and personalize your MP4 videos, the timeline panel will off
 
 Select a clip in the Timeline, drag the Indicator to where you want to split and click the "Split" button. Then the clip will be [split into two](https://tools.techidaily.com/wondershare/filmora/download/). Right click the video clip, you can also choose "Delete", "Copy", "Paste" option.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
 
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
 
 ##### Add Scene Transition
@@ -83,21 +74,12 @@ In all, with this MP4 editor for Windows 8, everything is at your fingertips. If
 
 MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) for Windows 8 makes all things easier to export your created MP4 videos. If you want to watch your MP4 video on iPhone, iPad, or other portable device, you can click "Device" and choose the option. You can also save videos to your computer in various video format like WMV, AVI, MPEG, etc. In addition, you can upload your video to YouTube, or burn them to DVD for convenient watching your MP4 files on TV.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit mp4 in windows 8](https://images.wondershare.com/filmora/article-images/filmora9-export-panel.jpg)
 
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -106,11 +88,39 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-online-companion-fb-stories-saver/"><u>[Updated] In 2024, Online Companion Fb Stories Saver</u></a></li>
+<li><a href="https://games-able.techidaily.com/co-op-play-connecting-ps5-systems/"><u>Co-Op Play: Connecting PS5 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-tunes-with-these-8-free-iphone-soundboard-solutions/"><u>Elevate Your Tunes with These 8 Free iPhone Soundboard Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/extract-audio-from-mp4-the-best-mp4-to-mp3-converters/"><u>Extract Audio From MP4 The Best MP4 to MP3 Converters</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-here-is-my-choice-of-top-10-adobe-premiere-plugins-tools-that-i-find-the-most-useful-premiere-pro-plugins-fit-quite-well-with-your-video-check-this-/"><u>In 2024, Here Is My Choice of Top 10 Adobe Premiere Plugins Tools that I Find the Most Useful. Premiere Pro Plugins Fit Quite Well with Your Video. Check This Article to Know More</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-scrutinizing-free2x-tech-for-optimal-webcam-use/"><u>In 2024, Scrutinizing Free2X Tech for Optimal Webcam Use</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-video-trailer-creators-for-mac-and-pc/"><u>In 2024, Top Video Trailer Creators for Mac and PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unbiased-virtualdub-review-and-top-picks-for-alternative-video-editors/"><u>In 2024, Unbiased Virtualdub Review and Top Picks for Alternative Video Editors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/moviemeld-editor-review-in-depth-analysis/"><u>MovieMeld Editor Review – In-Depth Analysis</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-recording-made-easy-3-top-options-for-video-game-enthusiasts/"><u>New 2024 Approved Recording Made Easy 3 Top Options for Video Game Enthusiasts</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/passaggio-senza-problemi-clonazione-della-tua-installazione-di-windows-11-su-una-chiave-usb-bootable/"><u>Passaggio Senza Problemi: Clonazione Della Tua Installazione Di Windows 11 Su Una Chiave USB Bootable</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
