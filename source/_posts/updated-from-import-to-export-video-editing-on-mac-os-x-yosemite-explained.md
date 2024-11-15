@@ -1,7 +1,7 @@
 ---
 title: Updated From Import to Export Video Editing on Mac OS X Yosemite Explained
-date: 2024-11-07T20:49:55.234Z
-updated: 2024-11-13T20:26:37.955Z
+date: 2024-11-12T22:49:28.816Z
+updated: 2024-11-14T17:39:32.267Z
 tags: 
   - video editing software
   - video editing
@@ -47,10 +47,10 @@ You have two different ways to edit the video. One is to double click the video 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Edit and enhance audio**
@@ -59,13 +59,6 @@ If you want to add an additional audio file as the background music to the video
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Add transition and other effects**
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
@@ -73,16 +66,16 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
@@ -91,13 +84,26 @@ After you preview the effect, just click the “Export” button to export the v
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -117,18 +123,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-reviews.techidaily.com/affordable-microsoft-office-2019-bundle-deal-windows-and-mac-installation-at-only-25-how-to-by-gadgetgenius/"><u>Affordable Microsoft Office 2019 Bundle Deal - Windows & Mac Installation at Only $25 | How-To by GadgetGenius</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/can-you-substitute-your-android-tablet-with-a-foldable-smartphone-an-in-depth-comparison/"><u>Can You Substitute Your Android Tablet with a Foldable Smartphone: An In-Depth Comparison</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-fix-for-frequent-pc-freezes-during-final-fantasy-xv-expert-advice-and-tips/"><u>Complete Fix for Frequent Pc Freezes During Final Fantasy XV - Expert Advice and Tips</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y36i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y36i Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g24-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G24 Phone without Any Data Loss</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-openais-innovation-the-evolution-and-distinctions-of-generative-pre-trained-transformer-versions-gpt-1-to-gpt-4-decoded/"><u>Inside OpenAI's Innovation: The Evolution and Distinctions of Generative Pre-Trained Transformer Versions - GPT-1 to GPT-4 Decoded</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-5-free-online-tone-generator-tools-for-easy-use-for-2024/"><u>New Top 5 Free Online Tone Generator Tools for Easy Use for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-green-screen-software-for-mobile-devices-free-download-for-2024/"><u>Top-Rated Green Screen Software for Mobile Devices Free Download for 2024</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/tres-metodos-faciles-para-solucionar-acceso-negado-en-directorio-destinatario-de-windows-11/"><u>Tres Metodos Fáciles Para Solucionar Acceso Negado en Directorio Destinatario De Windows 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-chromebook-video-editing-made-easy-top-picks/"><u>Updated 2024 Approved Chromebook Video Editing Made Easy Top Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-3gp-file-trimmer-edit-and-split-your-videos-easily/"><u>Updated In 2024, 3GP File Trimmer Edit and Split Your Videos Easily</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-device-to-tv-how-to-cast-local-videos-to-chromecast-on-any-platform/"><u>Updated In 2024, From Device to TV How to Cast Local Videos to Chromecast on Any Platform</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-10-best-free-dvd-players-compatible-with-windows-10/"><u>Updated The 10 Best Free DVD Players Compatible with Windows 10</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-building-an-audience-with-exceptional-fb-reel-content-for-2024/"><u>[New] Building an Audience with Exceptional FB Reel Content for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-techniques-to-overcome-blackout-during-obs-fullscreen/"><u>[Updated] 2024 Approved Techniques to Overcome Blackout During OBS Fullscreen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unboxing-excellence-a-compreayers-guide-to-sj-cam-s6/"><u>[Updated] 2024 Approved Unboxing Excellence A Compreayer's Guide to SJ-CAM S6</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-behind-the-scenes-how-much-creators-earn-from-youtube-shorts-for-2024/"><u>[Updated] Behind the Scenes How Much Creators Earn From YouTube Shorts for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-polaroid-revelation-elevating-live-action-video-recording/"><u>A Polaroid Revelation Elevating Live-Action Video Recording</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-walkthrough-for-enabling-auto-gpt-on-ubuntu-systems/"><u>Comprehensive Walkthrough for Enabling Auto-GPT on Ubuntu Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-high-cpu-demand-from-tiworkerexe-tasks/"><u>Decreasing High CPU Demand From TiWorker.exe Tasks</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-periscope-detailed-instruction-manual-for-2024/"><u>Navigating Periscope Detailed Instruction Manual for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-xfinity-vs-tivo-a-comprehensive-comparison-of-dvr-options/"><u>New 2024 Approved Xfinity vs TiVo A Comprehensive Comparison of DVR Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-video-editing-software-like-sony-vegas-for-pc/"><u>New Best Video Editing Software Like Sony Vegas for PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-convert-webm-to-mp3-the-best-tools-for-the-job-for-2024/"><u>New Convert WebM to MP3 The Best Tools for the Job for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-cut-edit-share-the-10-best-free-and-paid-android-video-editors/"><u>New Cut, Edit, Share The 10 Best Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-edit-your-way-to-success-top-vlog-video-editing-software-free-and-paid/"><u>New Edit Your Way to Success Top Vlog Video Editing Software Free & Paid</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-storytelling-how-to-edit-canon-videos-with-professional-results/"><u>New Elevate Your Storytelling How to Edit Canon Videos with Professional Results</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-online-video-cutter-10-best-options-reviewed/"><u>New Free Online Video Cutter 10 Best Options Reviewed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-fast-to-slow-mastering-the-art-of-slow-motion-in-windows-live-movie-maker-for-2024/"><u>New From Fast to Slow Mastering the Art of Slow Motion in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-idea-to-screen-easy-film-production-for-beginners-for-2024/"><u>New From Idea to Screen Easy Film Production for Beginners for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/no-more-waiting-for-chatgpt-unleash-the-power-of-this-amazing-free-open-source-alternative/"><u>No More Waiting for ChatGPT: Unleash the Power of This Amazing Free Open Source Alternative</u></a></li>
 </ul></div>
 
