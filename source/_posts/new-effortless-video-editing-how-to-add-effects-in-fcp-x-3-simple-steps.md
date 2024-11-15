@@ -1,7 +1,7 @@
 ---
 title: New Effortless Video Editing How to Add Effects in FCP X (3 Simple Steps)
-date: 2024-08-02T04:09:39.322Z
-updated: 2024-08-03T04:09:39.322Z
+date: 2024-11-11T22:29:56.179Z
+updated: 2024-11-13T17:41:51.540Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 # Simple Guide to FCP X: How To Add Effects in 3 Steps
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -35,16 +32,10 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## How to Apply Effects to Video in Final Cut Pro X
 
 * [Find and apply an effect](#part1)
@@ -89,18 +80,12 @@ Click the Video tab in the Inspector. Effects from the Effects Browser are alway
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
 #### Disable and delete an effect
 
 To temporarily disable an effect, without deleting it, click the blue box so that it turns gray.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx008.jpg "add effects in fcp")
 
 To enable an effect, click the gray box so it turns blue again.
@@ -119,9 +104,6 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -130,11 +112,41 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-directsnap-recorder-for-modern-oses/"><u>[New] 2024 Approved DirectSnap Recorder for Modern OSes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-diverse-vlogging-content-suggestions/"><u>[Updated] 2024 Approved Diverse Vlogging Content Suggestions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-get-the-most-out-of-instagram-photos-with-these-apps-for-2024/"><u>[Updated] Get the Most Out of Instagram Photos with These Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cultivating-the-culture-of-creativity-within-youtube-shorts/"><u>[Updated] In 2024, Cultivating the Culture of Creativity Within YouTube Shorts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-digital-to-physical-crafting-flawless-dvds-on-a-mac/"><u>From Digital to Physical Crafting Flawless DVDs on a Mac</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>New 2024 Approved Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/ps4-screenshot-sharing-for-beginners-a-simple-and-easy-guide/"><u>PS4 Screenshot Sharing for Beginners A Simple and Easy Guide</u></a></li>
+<li><a href="https://win-tips.techidaily.com/seamless-page-replacement-tips-using-flipbuilder-avoid-full-project-reworks/"><u>Seamless Page Replacement Tips Using FlipBuilder: Avoid Full Project Reworks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snapshots-of-progress-windows-10s-new-features/"><u>Snapshots of Progress Windows 10'S New Features</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-endless-fun-top-10-free-online-video-loop-generators/"><u>Updated 2024 Approved Endless Fun Top 10 Free Online Video Loop Generators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-best-online-video-spinners-rotate-your-clips-with-ease/"><u>Updated In 2024, Best Online Video Spinners Rotate Your Clips with Ease</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-sony-vegas-not-your-cup-of-tea-discover-top-alternatives-for-windows/"><u>Updated In 2024, Sony Vegas Not Your Cup of Tea? Discover Top Alternatives for Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-take-your-video-creations-to-the-next-level-with-64-bit-editing/"><u>Updated In 2024, Take Your Video Creations to the Next Level with 64-Bit Editing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-the-best-10-animated-text-software-for-pro-results/"><u>Updated The Best of the Best 10 Animated Text Software for Pro Results</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

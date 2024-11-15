@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2024-11-01T16:39:47.214Z
-updated: 2024-11-04T16:36:23.587Z
+date: 2024-11-09T22:56:44.478Z
+updated: 2024-11-13T22:03:11.607Z
 tags: 
   - video editing software
   - video editing
@@ -64,13 +64,6 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -88,23 +81,23 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -114,10 +107,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -132,6 +125,13 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -148,19 +148,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-efficiently-access-your-facebook-lite-videos-with-these-top-apps-of-2023/"><u>[Updated] 2024 Approved Efficiently Access Your Facebook Lite Videos with These Top Apps of 2023</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-construct-your-dreams-with-dynamic-time-lapses-on-a-hero5/"><u>[Updated] Construct Your Dreams with Dynamic Time-Lapses on a Hero5</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-eagle-eye-expedition-the-ultimate-guide-to-fps-game-selection-for-2024/"><u>[Updated] Eagle-Eye Expedition - The Ultimate Guide to FPS Game Selection for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-visualize-better-with-these-leading-sticker-addon-apps-for-phones/"><u>[Updated] Visualize Better with These Leading Sticker Addon Apps for Phones</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-universal-strategy-to-preserve-your-favorite-youtube-broadcasts-on-all-devices/"><u>2024 Approved Universal Strategy to Preserve Your Favorite YouTube Broadcasts on All Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-m14-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy M14 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-calculate-with-ease-9-top-rated-timecode-converters-online-and-app/"><u>New Calculate with Ease 9 Top-Rated Timecode Converters (Online and App)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-cheap-but-powerful-video-editing-software-options-for-2024/"><u>New Cheap but Powerful Video Editing Software Options for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-cut-to-the-chase-filmora-coupon-codes-without-the-fuss-for-2024/"><u>New Cut to the Chase Filmora Coupon Codes Without the Fuss for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-edit-m4a-files-for-free-top-software-picks/"><u>New Edit M4A Files for Free Top Software Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-explore-your-options-top-premiere-rush-alternatives-for-video-creators-for-2024/"><u>New Explore Your Options Top Premiere Rush Alternatives for Video Creators for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-get-noticed-with-animated-logos-best-free-tools-and-design-tips-for-2024/"><u>New Get Noticed with Animated Logos Best Free Tools and Design Tips for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-problem-of-non-launchable-star-wars-jedi-fallen-order/"><u>Solving the Problem of Non-Launchable Star Wars Jedi: Fallen Order</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-expert-tips-for-adding-audio-to-your-tiktok-creations/"><u>[New] 2024 Approved Expert Tips for Adding Audio to Your TikTok Creations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-securing-spotlight-uploading-imovie-to-vimeo-successfully/"><u>[New] Securing Spotlight Uploading iMovie to Vimeo Successfully</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlock-the-potential-of-your-tiktok-videos-with-new-backgrounds/"><u>[New] Unlock the Potential of Your TikTok Videos with New Backgrounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos-for-2024/"><u>[Updated] Craft the Perfect Stream A Comprehensive Guide to YouTube’s Full-Rotation Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-non-indexable-content-decoding-the-unlisted-phenomenon/"><u>[Updated] YouTube's Non-Indexable Content Decoding the Unlisted Phenomenon</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-warno-from-continuously-crashing-on-windows-systems/"><u>How to Stop WARNO From Continuously Crashing on Windows Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/traveling-tips-top-100plus-basic-russian-verbs-and-nouns/"><u>Traveling Tips: Top 100+ Basic Russian Verbs & Nouns</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-oneplus-model-10-forecasting-price-points-release-window-feature-set-and-rumored-details/"><u>Upcoming OnePlus Model 10 - Forecasting Price Points, Release Window, Feature Set & Rumored Details</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-capture-your-screen-a-beginners-guide-to-filmora-scrn-desktop-recording/"><u>Updated 2024 Approved Capture Your Screen A Beginners Guide to Filmora Scrn Desktop Recording</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-avs-video-editor-software-review-pros-cons-and-verdict-for-2024/"><u>Updated AVS Video Editor Software Review Pros, Cons, and Verdict for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-how-do-you-get-the-bokeh-effect-app-here-are-some-of-the-best-bokeh-apps-for-the-iphone-and-android/"><u>Updated In 2024, How Do You Get the Bokeh Effect App? Here Are some of the Best Bokeh Apps for the iPhone and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-pc-intro-maker-showdown-top-online-and-offline-tools/"><u>Updated PC Intro Maker Showdown Top Online and Offline Tools</u></a></li>
 </ul></div>
 

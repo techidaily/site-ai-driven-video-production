@@ -1,7 +1,7 @@
 ---
 title: Mastering Image Cropping in FCPX Advanced Techniques for 2024
-date: 2024-08-09T05:10:56.017Z
-updated: 2024-08-10T05:10:56.017Z
+date: 2024-11-08T22:55:18.013Z
+updated: 2024-11-13T21:04:59.058Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ Cropping an image means to remove a portion of the image, either to hide somethi
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -80,9 +77,6 @@ NOTE: Press and hold the Option key while dragging to drag opposite edges or cor
 
 Drag other corners or edges to further trim the image.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop007.jpg)
 
 When you have trimmed the image the way you want, click the "Done" button in the top right corner to exit trimming mode.
@@ -107,24 +101,15 @@ There are several ways we can choose to crop an image:
 
 * Click the Crop icon, as we illustrated above
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop011.jpg)
 
 * Right-mouse click (or Control-click) inside the Viewer and choose
 * Type Shift+C
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop012.jpg)
 
 \* In the Inspector > Video tab > Crop (this option provides the most precision, but is the least intuitive to use)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop013.jpg)
 
 If you selected any option except the Inspector, click the Crop button in the Viewer.
@@ -135,16 +120,10 @@ Now, drag a blue button in one of the corners. Because cropping, unlike trimming
 
 Final Cut displays numbers at the top of the Viewer indicating how much the image has been cropped.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop015.jpg)
 
 Reposition the frame by grabbing inside the rectangle and dragging.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop016.jpg)
 
 When you are happy with the results, click the Done button in the top right corner.
@@ -157,9 +136,6 @@ And, if you look closely, you'll see that the cropped image is softer (blurrier)
 
 #### RESET
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop018.jpg)
 
 To reset a cropped image back to its default settings, open the Inspector and click the small curved arrow to the right of the word "Crop."
@@ -180,12 +156,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-ultimate-collection-top-6-fb-lite-vids/"><u>[New] 2024 Approved Ultimate Collection #Top 6 FB Lite Vids</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-advanced-hue-adjustment-strategies-for-professionals/"><u>[New] Advanced Hue Adjustment Strategies for Professionals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-immediate-video-capture-and-audio-guide-app/"><u>[Updated] 2024 Approved Immediate Video Capture & Audio Guide App</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-comprehensive-checklist-for-perfecting-your-reddit-posts/"><u>[Updated] 2024 Approved The Comprehensive Checklist for Perfecting Your Reddit Posts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audio-alchemy-transforming-your-windows-11-projects-with-sound-for-2024/"><u>Audio Alchemy Transforming Your Windows 11 Projects with Sound for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/commencing-a-community-benefit-contest-online-for-2024/"><u>Commencing a Community Benefit Contest Online for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/critical-errors-using-ai-for-secure-money-market-analysis/"><u>Critical Errors: Using AI for Secure Money Market Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-gt-10-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix GT 10 Pro.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-of-the-best-top-10-pro-audio-editing-software/"><u>New The Best of the Best Top 10 Pro Audio Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/pro-movie-magic-simplified-techniques-for-aspiring-filmmakers/"><u>Pro Movie Magic Simplified Techniques for Aspiring Filmmakers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-avi-video-rotation-made-easy-16-free-solutions-for-windows-mac-android-iphone-and-online-users/"><u>Updated 2024 Approved AVI Video Rotation Made Easy 16 Free Solutions for Windows, MAC, Android, iPhone, and Online Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-combine-multiple-avi-files-into-one-10-best-free-freeware/"><u>Updated 2024 Approved Combine Multiple AVI Files Into One 10 Best Free Freeware</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-editors-choice-the-top-10-video-editing-software-applications/"><u>Updated Editors Choice The Top 10 Video Editing Software Applications</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mastering-face-blurring-essential-apps-tips-and-tricks-for-beginners/"><u>Updated In 2024, Mastering Face Blurring Essential Apps, Tips, and Tricks for Beginners</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-great-debate-premiere-pro-vs-after-effects-choosing-the-right-tool-for-your-project/"><u>Updated The Great Debate Premiere Pro vs After Effects - Choosing the Right Tool for Your Project</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X
-date: 2024-10-06T02:29:01.698Z
-updated: 2024-10-12T14:01:52.671Z
+date: 2024-11-09T18:09:52.294Z
+updated: 2024-11-13T22:57:22.776Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,13 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2. Edit videos, audio and photos
 
 When all the media files have been imported to the software, drag and drop them to the respective timeline. Then you can do various video editing tasks as you like.
@@ -52,32 +59,11 @@ If you want to add an additional audio file as the background music to the video
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Add transition and other effects**
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
 
@@ -85,16 +71,30 @@ After you preview the effect, just click the “Export” button to export the v
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -111,16 +111,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-screenmasters-battleground/"><u>[New] ScreenMasters Battleground</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-learn-to-bring-text-alive-free-animation-for-vids/"><u>2024 Approved Learn to Bring Text Alive Free Animation for Vids</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-itel-a60s-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Itel A60s Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/get-creative-with-instagram-stop-motion-a-comprehensive-tutorial-for-2024/"><u>Get Creative with Instagram Stop Motion A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/gif-animation-made-easy-top-free-makers-for-2024/"><u>GIF Animation Made Easy Top Free Makers for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-7-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 7 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-ditch-gopro-studio-top-video-editing-software-for-action-cameras/"><u>In 2024, Ditch GoPro Studio Top Video Editing Software for Action Cameras</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/macvideoeditor-for-2024/"><u>MacVideoEditor for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-users-fixed-issue-with-new-world-continuously-freezing-and-crashing/"><u>PC Users: Fixed Issue with 'New World' Continuously Freezing and Crashing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-performant-mp4-video-encoders-of-202n-a-comprehensive-guide/"><u>Top Performant MP4 Video Encoders of 202N: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-file-path-for-stored-screenshots/"><u>Windows File Path for Stored Screenshots</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-high-fidelity-transformation-choosing-the-best-video-converters/"><u>[Updated] In 2024, High Fidelity Transformation Choosing the Best Video Converters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-set-custom-save-path-for-screen-captures-mac/"><u>2024 Approved Set Custom Save Path for Screen Captures (Mac)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/from-basics-to-advanced-the-hand-trackers-playbook/"><u>From Basics to Advanced The Hand Tracker's Playbook</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-note-12-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi Note 12 Pro 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-of-the-best-top-10-pro-audio-editing-software/"><u>New The Best of the Best Top 10 Pro Audio Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/pro-movie-magic-simplified-techniques-for-aspiring-filmmakers/"><u>Pro Movie Magic Simplified Techniques for Aspiring Filmmakers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-combine-multiple-avi-files-into-one-10-best-free-freeware/"><u>Updated 2024 Approved Combine Multiple AVI Files Into One 10 Best Free Freeware</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-transform-your-videos-the-best-iphone-editing-apps/"><u>Updated In 2024, Transform Your Videos The Best iPhone Editing Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-free-video-editing-programs-for-old-windows-pcs-for-2024/"><u>Updated The Best Free Video Editing Programs for Old Windows PCs for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-the-best-top-avchd-video-editors-for-2024/"><u>Updated The Best of the Best Top AVCHD Video Editors for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/wmvdvd/"><u>WMV形式へのDVDコンバート手順：デジタルビデオ保存</u></a></li>
 </ul></div>
 

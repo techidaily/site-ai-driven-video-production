@@ -1,7 +1,7 @@
 ---
 title: New Get Started with Wax A Free Video Editing Software Tutorial
-date: 2024-08-02T04:09:18.449Z
-updated: 2024-08-03T04:09:18.449Z
+date: 2024-11-10T21:03:28.423Z
+updated: 2024-11-13T19:55:54.285Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 
 # Wax - How to Use Free Video Editor Wax to Edit Videos
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 
  Note: If you think Wax is something complicated, you can turn to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which enables you to edit videos with separate tracks and add transitions to your videos, finally, convert your video to any video format you like.Download the free trial version of Wondershare Filmora (originally Wondershare Video Editor) (Windows/Mac) below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -46,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 
  Download Wax and install it first. Run the software and Load Media Files by right-clicking on MediaPool panel. But this doesn't finish. To edit video, you need to drag-n-drop desired media files to the timeline. Then switch to Video Plugins to drag-n-drop Quick 3d plugin to the just added track.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax free video editor](https://images.wondershare.com/topic/video-editing/wax.jpg)
 
  As shown above, click the triangle next to Quick 3d, you would see many options such as Posx, Posz, Cropleft, Cropbottom, etc. Please see detailed instructions to make editing in Wax:
@@ -65,26 +56,16 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 
  Press F3 or click the Project Settings button in the tool bar to bring up the dialog. There, specify the file name, save path and video options, including video dimensions, frame rate, and click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to use wax](https://images.wondershare.com/topic/video-editing/wax-settings.jpg)
 
 #### 3. Render AVI video
 
  Click the green arrow button on the tool bar to start saving video to specified path in the project settings. A few minutes later, you will get the edited video.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wax video editing](https://images.wondershare.com/topic/video-editing/wax-render.jpg)
 
  To be concluded, this is just the beginning Wax tutorial. You will find more features while using it. Just download Wax and have a try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -93,11 +74,36 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-viral-videos-1mplus-audience-journey/"><u>[New] Mastering the Art of Viral Videos 1M+ Audience Journey</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-guide-to-streamline-yt-playlist-integration-in-htmlcss/"><u>[Updated] 2024 Approved Guide to Streamline YT Playlist Integration in HTML/CSS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-your-ideal-broadcast-channel-top-10-guidelines/"><u>[Updated] Finding Your Ideal Broadcast Channel Top 10 Guidelines</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-words-in-motion-a-guide-to-lively-animation-methods/"><u>[Updated] Words in Motion A Guide to Lively Animation Methods</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-architects-crafting-fantasy-realms-for-marvel/"><u>2024 Approved Architects Crafting Fantasy Realms for Marvel</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/best-spotify-ripper-how-to-rip-music-from-spotify-in-2024/"><u>Best Spotify Ripper How to Rip Music From Spotify, In 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-resolving-active-directory-printer-failures/"><u>Navigating and Resolving Active Directory Printer Failures</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-of-the-best-top-5-video-editing-apps-for-iphone-this-year/"><u>New In 2024, Best of the Best Top 5 Video Editing Apps for iPhone This Year</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-rotate-your-avi-videos-with-ease-top-5-free-tools/"><u>New Rotate Your AVI Videos with Ease Top 5 Free Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-take-your-audio-to-the-next-level-top-10-editing-software/"><u>New Take Your Audio to the Next Level Top 10 Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-16-avi-video-cutters-trimcut-avi-videos-windows-mac-android-iphone-and-online-for-2024/"><u>Top 16 AVI Video Cutters Trim/Cut AVI Videos Windows, MAC, Android, iPhone, and Online for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-and-paid-android-video-editors-compared-top-10-picks/"><u>Updated 2024 Approved Free and Paid Android Video Editors Compared Top 10 Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-show-your-love-how-to-create-a-beautiful-valentines-day-video-montage/"><u>Updated 2024 Approved Show Your Love How to Create a Beautiful Valentines Day Video Montage</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-difference-is-in-the-details-final-cut-pro-vs-final-cut-express/"><u>Updated In 2024, The Difference Is in the Details Final Cut Pro Vs. Final Cut Express</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

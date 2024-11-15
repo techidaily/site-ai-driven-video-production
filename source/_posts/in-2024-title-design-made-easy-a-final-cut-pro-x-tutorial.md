@@ -1,7 +1,7 @@
 ---
 title: In 2024, Title Design Made Easy A Final Cut Pro X Tutorial
-date: 2024-08-09T05:06:33.112Z
-updated: 2024-08-10T05:06:33.112Z
+date: 2024-11-10T16:31:45.893Z
+updated: 2024-11-13T22:51:30.653Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -51,18 +48,12 @@ Just to keep us all on the same page, here are my definitions of key terms relat
 
 #### JUST THE BASICS
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles001.jpg)
 
 I'd like to introduce "Yertle," he's a sea turtle and the star of this article. (Footage courtesy of Jim Walker and Lobsters Gone Wild Productions.)
 
 At its simplest, we use titles to display his (its?) name.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
@@ -81,9 +72,6 @@ Select that title and delete it by pressing the Delete key.
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles005.jpg)
 
 If you look right in the center of the screen, you'll see the word "Title." Yes, its darn near invisible. And, yes, it looks, um, ugly. However, we have a TON of formatting control to make this look however we want.
@@ -116,9 +104,6 @@ So, we:
 
 #### CHANGING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles009.jpg)
 
 Add a new full-screen title (type Control+T) to the Timeline. To change the text in a title, double-click it in the Viewer. Here, I've changed my title to "An Undersea Adventure."
@@ -137,18 +122,12 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
 
 NOTE: You can create your own text styles. Refer to the Help for information on how.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles012.jpg)
 
 The Basic section of the Inspector allows you to change fonts, size, alignment... all the standard font settings we see in other programs. Here, I've changed the font to Hobo Std, at 167 points.
@@ -195,9 +174,6 @@ Here, for example, notice that my title is fully contained within Action Safe.
 
 Titles give our programs character and personality, plus they explain what's going on to the audience. Final Cut Pro X provides a wealth of formatting options to make our text look great.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -206,12 +182,35 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-reimagining-blockbuster-favorites-7-swap/"><u>[New] In 2024, Reimagining Blockbuster Favorites - #7 Swap</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-masterclass-elevate-obs-broadcasts-on-the-facebook-stage-for-2024/"><u>[New] Masterclass Elevate OBS Broadcasts on the Facebook Stage for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-streamline-your-writing-process-transcribing-with-microsoft-word-for-2024/"><u>[Updated] Streamline Your Writing Process Transcribing with Microsoft Word for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-causes-of-pc-disk-issues/"><u>Addressing Causes of PC Disk Issues</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-photo-and-video-display-apps-from-xi-to-x-for-2024/"><u>Best Photo & Video Display Apps From XI to X for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/expert-recommended-free-video-splitters-for-2024/"><u>Expert-Recommended Free Video Splitters for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-3gp-file-cutter-extract-specific-parts-of-your-video/"><u>In 2024, 3GP File Cutter Extract Specific Parts of Your Video</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-from-novice-to-star-the-5-best-lip-sync-apps-for-creating-engaging-videos/"><u>In 2024, From Novice to Star The 5 Best Lip Sync Apps for Creating Engaging Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-gopro-video-editing-simplified-a-beginners-guide-to-amazing-results/"><u>In 2024, GoPro Video Editing Simplified A Beginners Guide to Amazing Results</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010/"><u>In 2024, Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209876236-9781643675510-love-so-pure/"><u>Love So Pure | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-conflict-zone-survival-correcting-error-code-103003-in-tarkov/"><u>Mastering Conflict Zone Survival: Correcting Error Code 103003 in Tarkov</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-iphone-video-editing-essentials-top-picks/"><u>New 2024 Approved IPhone Video Editing Essentials Top Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-screen-capture-tool-flawless-lag-free-performance/"><u>Top-Rated Screen Capture Tool - Flawless Lag-Free Performance</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

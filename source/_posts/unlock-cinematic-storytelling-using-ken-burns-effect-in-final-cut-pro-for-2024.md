@@ -1,7 +1,7 @@
 ---
 title: Unlock Cinematic Storytelling Using Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-10-29T18:42:38.883Z
-updated: 2024-11-04T18:25:02.966Z
+date: 2024-11-12T20:38:40.856Z
+updated: 2024-11-13T18:30:59.995Z
 tags: 
   - video editing software
   - video editing
@@ -35,13 +35,6 @@ To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut,
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What is the Ken Burns Effect
 
 [Ken Burns](https://en.wikipedia.org/wiki/Ken%5FBurns%5Feffect) is a world-famous American documentary filmmaker. He is well known for producing documentaries that take a candid if somewhat old-world-feeling look into different worlds. He has covered Baseball, the Civil War, and other fascinating times and places. Arguably, he is best known for using archival footage as film footage. How does he do this? By using the Ken Burns Effect, of course.
@@ -51,16 +44,16 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
@@ -77,19 +70,6 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Ken Burns Customization
 
 You can also customize the ken burns effects in Final Cut.
@@ -99,6 +79,13 @@ You can also customize the ken burns effects in Final Cut.
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
@@ -118,6 +105,13 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -125,10 +119,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -154,20 +148,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-essential-360-degree-videography-tools-for-2024/"><u>[New] Essential 360-Degree Videography Tools for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-boost-your-tiktok-visibility-a-list-of-popular-username-choices-for-2024/"><u>[Updated] Boost Your TikTok Visibility A List of Popular Username Choices for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-newbies-guide-to-vlogging-gear-and-software-insights/"><u>In 2024, Newbie's Guide to Vlogging Gear and Software Insights</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-get-filmora-for-free-with-the-proceeding-guide-you-can-now-get-the-full-version-of-filmora-for-free-on-your-device-without-crack-also-learn-about/"><u>New How to Get Filmora for Free? With the Proceeding Guide, You Can Now Get the Full Version of Filmora for Free on Your Device without Crack. Also, Learn About some Wonderful Features of Filmora that Are a Must-Have</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-bring-your-ideas-to-life-top-cartoon-video-makers-for-mobile/"><u>New In 2024, Bring Your Ideas to Life Top Cartoon Video Makers for Mobile</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premium-cryptographic-inquiry-strategies-with-ai/"><u>Premium Cryptographic Inquiry Strategies with AI</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-poco-x5-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Poco X5 Device</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-converting-videos-to-live-photos-on-mobile/"><u>The Ultimate Guide to Converting Videos to Live Photos on Mobile</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-tier-emulators-for-gba-games-on-android/"><u>Top-Tier Emulators for GBA Games on Android</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-program-install-pathways-in-windows/"><u>Unveiling Program Install Pathways in Windows</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unwatermark-your-tiktok-videos-with-these-proven-tools/"><u>Updated 2024 Approved Unwatermark Your TikTok Videos with These Proven Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-video-editing-on-a-shoestring-best-software-for-2024/"><u>Updated Video Editing on a Shoestring Best Software for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-videopad-video-editor-review-does-it-live-up-to-the-hype-for-2024/"><u>Updated Videopad Video Editor Review Does It Live Up to the Hype for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-wax-video-editing-software-tips-tricks-and-tutorials-for-2024/"><u>Updated Wax Video Editing Software Tips, Tricks, and Tutorials for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-captivating-igtv-cover-images-thumbnails/"><u>[New] In 2024, Crafting Captivating IGTV Cover Images (Thumbnails)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagram-concealing-tags-efficiently/"><u>[Updated] 2024 Approved Mastering Instagram Concealing Tags Efficiently</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-essential-guide-instagram-optimization-through-final-cut-pro-x-for-2024/"><u>[Updated] The Essential Guide Instagram Optimization Through Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-social-media-best-practices-uploading-and-displaying-subtitles/"><u>2024 Approved Social Media Best Practices Uploading and Displaying Subtitles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-selection-of-6-pioneering-instagram-reel-apps/"><u>2024 Approved The Ultimate Selection of 6 Pioneering Instagram Reel Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-motorola-g24-power-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Motorola G24 Power</u></a></li>
+<li><a href="https://extra-support.techidaily.com/layer-audio-onto-video-clips-in-premiere-pro-for-2024/"><u>Layer Audio Onto Video Clips in Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-anonymize-your-media-top-10-free-face-blurring-apps-for-pc-and-mobile/"><u>New Anonymize Your Media Top 10 Free Face Blurring Apps for PC and Mobile</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-color-harmony-in-powerdirector-a-beginners-guide-to-clip-color-matching-for-2024/"><u>New Color Harmony in PowerDirector A Beginners Guide to Clip Color Matching for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-cut-edit-share-the-10-best-free-and-paid-android-video-editors/"><u>New Cut, Edit, Share The 10 Best Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-storytelling-how-to-edit-canon-videos-with-professional-results/"><u>New Elevate Your Storytelling How to Edit Canon Videos with Professional Results</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-online-video-cutter-10-best-options-reviewed/"><u>New Free Online Video Cutter 10 Best Options Reviewed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-fast-to-slow-mastering-the-art-of-slow-motion-in-windows-live-movie-maker-for-2024/"><u>New From Fast to Slow Mastering the Art of Slow Motion in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-idea-to-screen-easy-film-production-for-beginners-for-2024/"><u>New From Idea to Screen Easy Film Production for Beginners for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95643705-9781785354540-pagan-portals-merlin/"><u>Pagan Portals - Merlin | Free Book</u></a></li>
 </ul></div>
 

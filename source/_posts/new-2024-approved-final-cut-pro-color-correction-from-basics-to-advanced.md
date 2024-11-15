@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Final Cut Pro Color Correction From Basics to Advanced
-date: 2024-08-09T05:12:36.912Z
-updated: 2024-08-10T05:12:36.912Z
+date: 2024-11-11T17:48:24.083Z
+updated: 2024-11-13T21:17:26.193Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 # Color Correction in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -48,9 +45,6 @@ The steps below can help all beginners to develop easy video edited projects usi
 * [How to Correct Color in iMovie >>](https://tools.techidaily.com/wondershare/filmora/download/)
 * [Color Correction and Color Grading >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Methods to Correct Color in Final Cut Pro
 
 Those who wish to use FCP for color signal editing need to follow these steps:
@@ -61,16 +55,10 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
@@ -85,9 +73,6 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
@@ -104,9 +89,6 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
@@ -129,12 +111,35 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-through-the-viewfinder-top-10-must-have-lenses/"><u>[New] Through The Viewfinder Top 10 Must-Have Lenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-cloud-picks-price-and-performance-comparison/"><u>[New] Top Cloud Picks Price & Performance Comparison</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-adaptive-igtv-video-dimensions/"><u>[Updated] 2024 Approved The Ultimate Guide to Adaptive IGTV Video Dimensions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-eyeview-assessment-surpassing-manycams-standards-for-2024/"><u>[Updated] EyeView Assessment Surpassing ManyCam's Standards for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-se-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone SE Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/balancing-pros-and-cons-insights-into-pidgin-as-an-im-platform/"><u>Balancing Pros and Cons: Insights Into Pidgin as an IM Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-video-quality-no-jitter/"><u>Enhance Video Quality: No Jitter</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-moto-g-stylus-2023-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Moto G Stylus (2023) Face Lock?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-vlc-trimmer-effortlessly-cut-videos-without-compromising-quality-for-2024/"><u>New Mac VLC Trimmer Effortlessly Cut Videos Without Compromising Quality for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-ranking-the-best-avchd-video-editing-software/"><u>New Ranking the Best AVCHD Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/pro-vs-express-which-video-editing-software-reigns-supreme-in-2024/"><u>Pro Vs. Express Which Video Editing Software Reigns Supreme, In 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-alternatives-to-gopro-quik-for-pc-video-editing-made-easy/"><u>Updated Alternatives to GoPro Quik for PC Video Editing Made Easy</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-tiktok-watermark-erasers-remove-logos-in-seconds-for-2024/"><u>Updated Top TikTok Watermark Erasers Remove Logos in Seconds for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-pc-stability-guide-overcoming-frequent-game-shutdowns-and-crashes/"><u>Valheim PC Stability Guide: Overcoming Frequent Game Shutdowns and Crashes</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

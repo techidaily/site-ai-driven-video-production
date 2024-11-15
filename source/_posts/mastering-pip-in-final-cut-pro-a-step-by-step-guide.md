@@ -1,7 +1,7 @@
 ---
 title: Mastering PiP in Final Cut Pro A Step-by-Step Guide
-date: 2024-08-09T05:10:14.842Z
-updated: 2024-08-10T05:10:14.842Z
+date: 2024-11-11T17:52:26.448Z
+updated: 2024-11-13T21:19:44.556Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 # How to Create a Picture-in-Picture Effect Using Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,9 +30,6 @@ This tool can help you to use the picture-in-picture effect with ease. However, 
 
 The article below contains complete details about how to add PIP effects using Final Cut Pro. You will be glad to know that FCP also works with few integrated plugins that assist in the free picture in picture effect generation.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to Create PIP Effect with FCP
 
 If you are ready with two videos and now want to bring them to the same screen then prefer to follow these simple steps:
@@ -44,9 +38,6 @@ If you are ready with two videos and now want to bring them to the same screen t
 
 The very first step that you need to follow for PIP effect generation using FCP is to bring your main or background video to the timeline as a primary storyline. Once you have created the primary storyline then all videos for the PIP effect will be added to it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add pip video](https://images.wondershare.com/filmora/article-images/add-pip-videos-in-fcp.jpg)
 
 #### Step 2: Add PIP videos
@@ -61,9 +52,6 @@ Note that lower clips use to stay in the background in final results whereas upp
 
 As now you have added both videos on-screen now you have to select the higher video and then click over the rectangular transform button that is available on the lower-left corner of viewer screen. As soon as you make this selection, the icon will turn into blue color, and naturally 8 dots will appear around the selected image or video. Use any one of these dots for scaling your selection in asymmetrical order.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![adjust pip effect](https://images.wondershare.com/filmora/article-images/adjust-pip-effect-in-fcp.jpg)
 
 #### Step 4: Adjust PIP Effect
@@ -84,12 +72,22 @@ Simply select the top clip and then hit Command + 4 to open the inspector. Now c
 * Now choose the leading edge of effect and use Command + T. It will immediately apply the default cross-dissolve option for starting clip.
 * You will be glad to know that the PIP effect does not restrict users to work just upon a single image rather it can be used to process as many pictures as your project needs and that can fit inside the frame.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dissolve effect](https://images.wondershare.com/filmora/article-images/dissolve-effect-in-fcp.jpg)
 
 Check this video tutorial to know more details:
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Picture in Picture Plug-ins for Final Cut Pro
 
@@ -105,10 +103,14 @@ Those who need to enjoy a higher level of customizations are advised to work ove
 
 ProPIP is the best choice for newscasting, commentaries, and many other applications. It helps in generating fine controls for initial as well as end position, rotation, and scaling effects along with easy-to-use media controls over the screen. ProPIP also provides personalized borders with endless opportunities to develop impressive projects on Final Cut Pro platform.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -116,12 +118,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-finding-the-key-personalized-tag-for-your-tiktok-stream/"><u>[New] Finding the Key Personalized Tag for Your TikTok Stream</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-investigating-instagrams-videography-cap/"><u>[New] In 2024, Investigating Instagram's Videography Cap</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-htc-vive-headset-review/"><u>[Updated] 2024 Approved HTC Vive Headset Review</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-6-youtuber-quizzes-to-know-which-youtuber-you-are/"><u>[Updated] In 2024, 6 YouTuber Quizzes to Know Which YouTuber You Are</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-youtube-content-with-7-premium-free-audio-sounds/"><u>[Updated] In 2024, Elevate Your YouTube Content With 7 Premium, Free Audio Sounds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-zoom-in-to-speed-boosting-video-playback-mobileonline/"><u>2024 Approved Zoom in to Speed Boosting Video Playback (Mobile/Online)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/iphoneandroid-autoplay-continuous-youtube-access-for-2024/"><u>IPhone/Android AutoPlay Continuous YouTube Access for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-change-the-look-how-to-modify-video-dimensions-easily/"><u>New In 2024, Change the Look How to Modify Video Dimensions Easily</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-stay-up-to-date-with-the-latest-movie-trailers-top-ios-apps/"><u>New In 2024, Stay Up-to-Date with the Latest Movie Trailers Top iOS Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-reduce-webm-file-size-top-online-compressors/"><u>New Reduce WebM File Size Top Online Compressors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-stop-motion-mastery-on-instagram-from-basics-to-pro-for-2024/"><u>New Stop Motion Mastery on Instagram From Basics to Pro for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/swift-visual-storytelling-in-keynote/"><u>Swift Visual Storytelling in Keynote</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/transform-your-invitations-best-video-creation-apps-for-mobile-for-2024/"><u>Transform Your Invitations Best Video Creation Apps for Mobile for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unhappy-with-fcpx-find-your-new-favorite-video-editor-among-these-10-options/"><u>Updated 2024 Approved Unhappy with FCPX? Find Your New Favorite Video Editor Among These 10 Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-glitch-reboot-repeat-the-best-mobile-video-editing-apps/"><u>Updated In 2024, Glitch, Reboot, Repeat The Best Mobile Video Editing Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-free-quicktime-video-editing-tools-for-2024/"><u>Updated The Best Free QuickTime Video Editing Tools for 2024</u></a></li>
+</ul></div>
 

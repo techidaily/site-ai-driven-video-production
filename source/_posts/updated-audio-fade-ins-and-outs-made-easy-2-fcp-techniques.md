@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-10-28T16:15:50.262Z
-updated: 2024-11-04T16:19:45.507Z
+date: 2024-11-06T17:53:22.793Z
+updated: 2024-11-13T20:33:55.521Z
 tags: 
   - video editing software
   - video editing
@@ -64,13 +64,6 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -88,10 +81,17 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,10 +101,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -121,10 +121,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,21 +142,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-path-to-effective-marketing-best-practices-for-health-promos/"><u>[New] 2024 Approved The Path to Effective Marketing Best Practices for Health Promos</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-essential-tools-for-youtube-live-broadcasting-reveal-the-7-key-apps/"><u>[New] Essential Tools for YouTube LIVE Broadcasting Reveal the 7 Key Apps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-optimize-rl-recording-hardware-and-software/"><u>[New] How to Optimize RL Recording Hardware & Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-crop-a-video-with-avidemux-for-2024/"><u>How to Crop a Video with Avidemux for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-from-avi-to-mkv-streaming-any-video-format-to-google-chromecast/"><u>In 2024, From AVI to MKV Streaming Any Video Format to Google Chromecast</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23plus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23+ Phone without Google Account?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-loop-your-videos-with-ease-10-free-online-video-looping-tools/"><u>In 2024, Loop Your Videos with Ease 10 Free Online Video Looping Tools</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/lumafusion-for-macbook-how-to-install-and-best-alternatives/"><u>Lumafusion for MacBook How to Install and Best Alternatives</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-fcpx-not-your-cup-of-tea-discover-these-10-alternative-video-editing-tools/"><u>New 2024 Approved FCPX Not Your Cup of Tea? Discover These 10 Alternative Video Editing Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-and-easy-avi-video-editing-software-options/"><u>New 2024 Approved Free and Easy AVI Video Editing Software Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-split-and-trim-mkv-files-best-free-tools/"><u>New 2024 Approved Split and Trim MKV Files Best Free Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-tips-for-correcting-communication-errors-in-i2c-hid-device-driver-setups/"><u>Quick Tips for Correcting Communication Errors in I2C HID Device Driver Setups</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/restoring-macos-sierra-to-os-x-10101-environment/"><u>Restoring MacOS Sierra to OS X 10.10.1 Environment</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/tips-for-uninterrupted-obs-video-playback-for-2024/"><u>Tips for Uninterrupted OBS Video Playback for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-vivo-y200-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y200 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-reel-in-riches-a-guide-to-earning-on-youtube-shorts/"><u>[New] 2024 Approved Reel In Riches A Guide to Earning on YouTube Shorts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-speak-with-style-mastering-the-art-of-altering-vocal-effects-on-snapchat-for-2024/"><u>[New] Speak with Style Mastering the Art of Altering Vocal Effects on Snapchat for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-3d-experience-guide-to-top-blu-ray-players/"><u>[Updated] Ultimate 3D Experience Guide to Top Blu-Ray Players</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-revitalizes-artificial-intelligence-promising-developments-and-areas-needing-improvement-insights/"><u>Apple Revitalizes Artificial Intelligence: Promising Developments and Areas Needing Improvement – Insights</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/immediate-solutions-resolving-blank-folder-issues-in-windows-11/"><u>Immediate Solutions: Resolving Blank Folder Issues in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-2-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 2 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-choosing-the-perfect-green-screen-tool-for-mac-users/"><u>New In 2024, Choosing the Perfect Green Screen Tool for Mac Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-guide-to-fast-video-trimming-on-mac-tips-and-tricks/"><u>New In 2024, The Ultimate Guide to Fast Video Trimming on Mac Tips and Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-tasks-like-pro-mastering-windows-11s-capabilities/"><u>Streamline Tasks Like Pro: Mastering Windows 11'S Capabilities</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-most-downloaded-and-loved-iphone-apps-a-comprehensive-review-for-2024/"><u>The Most Downloaded and Loved iPhone Apps A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-honor-magic-5-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Honor Magic 5 Location | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unmarked-and-unbeatable-top-free-video-editing-software-2024/"><u>Unmarked and Unbeatable Top Free Video Editing Software 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-say-goodbye-to-windows-10-photos-top-8-alternative-image-viewers/"><u>Updated In 2024, Say Goodbye to Windows 10 Photos Top 8 Alternative Image Viewers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-transform-memories-into-movies-best-dvd-creation-software/"><u>Updated In 2024, Transform Memories Into Movies Best DVD Creation Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-of-online-video-rotators/"><u>Updated The Ultimate List of Online Video Rotators</u></a></li>
 </ul></div>
 

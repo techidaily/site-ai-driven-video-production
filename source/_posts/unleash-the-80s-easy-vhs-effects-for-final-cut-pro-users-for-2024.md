@@ -1,7 +1,7 @@
 ---
 title: Unleash the 80S Easy VHS Effects for Final Cut Pro Users for 2024
-date: 2024-10-06T04:48:32.820Z
-updated: 2024-10-11T22:27:25.129Z
+date: 2024-11-08T22:55:26.694Z
+updated: 2024-11-13T16:36:01.020Z
 tags: 
   - video editing software
   - video editing
@@ -94,19 +94,6 @@ First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
@@ -121,13 +108,6 @@ To do VHS effects quickly, follow these steps:
 
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Go to Effect, and in the search bar, type **VHS**.
 
 * Drag and drop the VHS Distortion Bad effect on the timeline above the text layer.
@@ -135,23 +115,23 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
@@ -165,6 +145,13 @@ Go to Effect, and in the search bar, type **VHS**.
 * Change its Alpha value to 25 and click Ok.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
 
@@ -215,16 +202,10 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
@@ -241,6 +222,13 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -256,20 +244,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-premium-memory-compatible-with-sony-a7-cams/"><u>[New] 2024 Approved Premium Memory Compatible with Sony A7 Cams</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-conquer-youtube-vimeo-editing-5-advanced-trimming-strategies/"><u>[Updated] Conquer YouTube-Vimeo Editing 5 Advanced Trimming Strategies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-fb-lives-dual-screen-dynamics-essential-insights/"><u>2024 Approved Navigating FB Live's Dual-Screen Dynamics Essential Insights</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers/"><u>2024 Approved Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fast-windows-content-survey-blueprint/"><u>Fast Windows Content Survey Blueprint</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-error-free-workflow-tips-tricks-and-techniques-for-2024/"><u>FCPX Error-Free Workflow Tips, Tricks, and Techniques for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/free-video-upgrades-the-8-best-online-quality-enhancers-this-year/"><u>Free Video Upgrades The 8 Best Online Quality Enhancers This Year</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-create-engaging-videos-with-these-10-free-whiteboard-animation-tools/"><u>In 2024, Create Engaging Videos with These 10 Free Whiteboard Animation Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-disappointed-that-cant-use-pinnacle-studio-on-mac-weve-got-you-covered-check-out-our-list-below-for-some-great-alternatives-to-pinnacle-studio-for-m/"><u>In 2024, Disappointed that Cant Use Pinnacle Studio on Mac? Weve Got You Covered! Check Out Our List Below for some Great Alternatives to Pinnacle Studio for Mac Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-from-ordinary-to-outstanding-unveiling-the-secrets-of-engaging-biographies/"><u>In 2024, From Ordinary to Outstanding Unveiling the Secrets of Engaging Biographies</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c12-plus-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia C12 Plus to New Android? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-snapchats-language-decoding-emoji-significances-inside-out/"><u>Mastering Snapchat's Language: Decoding Emoji Significances Inside Out</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-no-cost-video-trimming-10-best-online-solutions/"><u>New 2024 Approved No-Cost Video Trimming 10 Best Online Solutions</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-article-below-will-show-you-some-of-the-best-apps-to-convert-a-video-to-a-live-photo-and-how-to-set-up-live-photos-as-wallpaper-on-iph/"><u>New 2024 Approved The Article Below Will Show You some of the Best Apps to Convert a Video to a Live Photo, and How to Set up Live Photos as Wallpaper on iPhone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-windows-10-video-editing-software-best-imovie-alternatives/"><u>New 2024 Approved Windows 10 Video Editing Software Best iMovie Alternatives</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-affordable-panoramic-cameras-revolutionizing-media-production/"><u>[New] 2024 Approved Affordable Panoramic Cameras Revolutionizing Media Production</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-uniting-friends-across-operating-systems-with-skype-groups/"><u>[New] Uniting Friends Across Operating Systems with Skype Groups</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-boost-your-instagram-vids-visibility/"><u>[Updated] 2024 Approved How to Boost Your Instagram Vids' Visibility</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-social-media-sensations-tiktoks-top-10-tweets/"><u>[Updated] In 2024, Social Media Sensations TikTok's Top 10 Tweets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-insiders-handbook-to-whatsapp-hidden-features/"><u>[Updated] In 2024, The Insider's Handbook to WhatsApp Hidden Features</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-entry-level-exploration-into-visual-frameworks/"><u>2024 Approved Entry-Level Exploration Into Visual Frameworks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-and-powerful-discover-how-copilot-harnesses-gpt-4-turbo-like-never-before/"><u>Free and Powerful: Discover How Copilot Harnesses GPT-4 Turbo Like Never Before!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-reno-9a-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Reno 9A in Minutes | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-discover-how-these-15-advanced-facebook-gadgets-boost-e-commerce-sale-traffic/"><u>In 2024, Discover How These 15 Advanced Facebook Gadgets Boost E-Commerce Sale Traffic</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ating-lawful-practices-for-screenshotting-youtube-videos-for-2024/"><u>Navigating Lawful Practices for Screenshotting YouTube Videos for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-movie-magic-for-all-a-comprehensive-guide-to-producing-high-quality-videos/"><u>New In 2024, Movie Magic for All A Comprehensive Guide to Producing High-Quality Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-s-top-picks-android-video-editor-apps-compatible-with-chromebook/"><u>New S Top Picks Android Video Editor Apps Compatible with Chromebook</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/reviewing-vn-video-editor-the-ultimate-video-editing-app-for-2024/"><u>Reviewing VN Video Editor The Ultimate Video Editing App for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/sony-vegas-vs-adobe-premiere-which-one-is-better/"><u>Sony Vegas VS Adobe Premiere, Which One Is Better?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-pinnacle-studio-alternatives-on-mac/"><u>The Ultimate Guide to Pinnacle Studio Alternatives on Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-create-a-stunning-animated-logo-for-free-11-top-tools-and-tricks/"><u>Updated 2024 Approved Create a Stunning Animated Logo for Free 11 Top Tools and Tricks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-easily-blur-video-backgrounds-or-faces-with-these-top-apps/"><u>Updated In 2024, Easily Blur Video Backgrounds or Faces with These Top Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-windows-8-avi-editor-a-simple-way-to-edit-and-enhance-videos/"><u>Updated In 2024, Windows 8 AVI Editor A Simple Way to Edit and Enhance Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-quality-movie-maker-turn-everyday-video-clips-into-a-high-quality-movie-for-2024/"><u>Updated Quality Movie Maker Turn Everyday Video Clips Into a High Quality Movie for 2024</u></a></li>
 </ul></div>
 

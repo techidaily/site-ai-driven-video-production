@@ -1,7 +1,7 @@
 ---
 title: Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro
-date: 2024-11-03T20:01:04.105Z
-updated: 2024-11-04T20:09:25.578Z
+date: 2024-11-10T20:07:46.584Z
+updated: 2024-11-13T19:25:52.656Z
 tags: 
   - video editing software
   - video editing
@@ -65,10 +65,10 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -88,17 +88,16 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -108,16 +107,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -132,6 +125,13 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -148,20 +148,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-unraveling-vloggers-terrors-and-techniques-to-triumph/"><u>[New] 2024 Approved Unraveling Vloggers' Terrors and Techniques to Triumph</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-essential-8-in-virtual-reality-gaming-for-2024/"><u>[New] The Essential 8 in Virtual Reality Gaming for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/boosting-visuals-high-definition-on-twitter-vids/"><u>Boosting Visuals High-Definition on Twitter Vids</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratuite-absolue-convertissez-vos-fichiers-wmv-en-mp3-sur-le-web-avec-lediteur-de-video-movavi/"><u>Gratuité Absolue : Convertissez Vos Fichiers WMV en MP3 Sur Le Web Avec L'éditeur De Vidéo Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-redmi-note-12-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Redmi Note 12 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-lego-stop-motion-maker/"><u>In 2024, Best Lego Stop Motion Maker</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715860268175-in-2024-efficient-chrome-os-snaps-4-techniques-to-try/"><u>In 2024, Efficient Chrome OS Snaps - 4 Techniques to Try!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-effortless-mp4-video-tagging-top-editor-recommendations/"><u>In 2024, Effortless MP4 Video Tagging Top Editor Recommendations</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unlock-adobe-premieres-full-potential-6-expert-level-editing-hacks/"><u>In 2024, Unlock Adobe Premieres Full Potential 6 Expert-Level Editing Hacks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/is-avs-video-editor-the-best-choice-for-you/"><u>Is AVS Video Editor the Best Choice for You ?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/logo-animation-made-easy-top-free-tools-and-creative-insights-for-2024/"><u>Logo Animation Made Easy Top Free Tools and Creative Insights for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/make-a-statement-10-best-animated-text-generators-for-eye-catching-content-for-2024/"><u>Make a Statement 10 Best Animated Text Generators for Eye-Catching Content for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-10-online-rotators-for-rotating-videos-for-2024/"><u>New 10 Online Rotators for Rotating Videos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-for-mastering-video-editing-skills-and-tools/"><u>Ultimate Tutorial for Mastering Video Editing Skills and Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-accelerate-your-youtube-journey-achieve-the-essential-10k-vistas/"><u>[New] 2024 Approved Accelerate Your YouTube Journey - Achieve the Essential 10K Vistas</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-sunshine-strategies-to-lighten-up-android-videos/"><u>[New] 2024 Approved Sunshine Strategies to Lighten up Android Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-art-of-captivation-rally-more-likes-for-your-tiktok-unpacks/"><u>[New] 2024 Approved The Art of Captivation Rally More Likes for Your TikTok Unpacks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-make-my-video-perfectly-fit-instagram/"><u>[New] Make My Video Perfectly Fit Instagram?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhance-visibility-on-instagram-the-art-of-animated-texts-in-stories/"><u>[Updated] In 2024, Enhance Visibility on Instagram The Art of Animated Texts in Stories</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-recording-your-mac-experience-for-free/"><u>[Updated] Recording Your Mac Experience for FREE</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-virtual-broadcast-battle-pitting-obs-against-twitchs-channel-space/"><u>In 2024, Virtual Broadcast Battle Pitting OBS Against Twitch's Channel Space</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722876272793-lost-your-ipad-code-restore-it-with-these-simple-tricks/"><u>Lost Your iPad Code? Restore It with These Simple Tricks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-edit-like-a-pro-video-editing-on-mac-os-x-mavericks/"><u>New In 2024, Edit Like a Pro Video Editing on Mac OS X Mavericks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-video-creator-the-ultimate-guide-to-making-professional-looking-videos/"><u>New Mac Video Creator The Ultimate Guide to Making Professional-Looking Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-say-goodbye-to-upside-down-videos-easy-flipping-hacks-for-2024/"><u>New Say Goodbye to Upside-Down Videos Easy Flipping Hacks for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/turn-off-everyone-in-messenger-chats/"><u>Turn Off @Everyone in Messenger Chats</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-art-of-cartoonization-converting-digital-videos-into-animated-masterpieces/"><u>Updated 2024 Approved The Art of Cartoonization Converting Digital Videos Into Animated Masterpieces</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-edit-like-a-pro-canon-camcorder-video-editing-software-tutorials/"><u>Updated In 2024, Edit Like a Pro Canon Camcorder Video Editing Software Tutorials</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-play-for-free-top-10-bes/"><u>Updated In 2024, Play for Free Top 10 Bes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-minitool-movie-maker-is-it-the-best-choice-plus-top-alternatives/"><u>Updated Minitool Movie Maker Is It the Best Choice? + Top Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-mp4-to-mp3-conversion-on-mobile-the-best-apps-and-tools-for-2024/"><u>Updated MP4 to MP3 Conversion on Mobile The Best Apps and Tools for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Audio Transitions 2 Methods in Final Cut Pro for 2024
-date: 2024-08-09T05:11:29.889Z
-updated: 2024-08-10T05:11:29.889Z
+date: 2024-11-06T19:44:06.810Z
+updated: 2024-11-13T16:17:57.934Z
 tags: 
   - video editing software
   - video editing
@@ -44,18 +44,6 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -66,16 +54,10 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
@@ -83,8 +65,12 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -101,13 +87,30 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![Using the fade handles to create crossfades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fade preferences](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -121,10 +124,14 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -132,12 +139,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-advanced-tricks-for-quick-webp-to-jpg-conversion-for-2024/"><u>[New] Advanced Tricks for Quick WebP to JPG Conversion for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-access-high-quality-youtube-images-without-paying-a-dime/"><u>[Updated] Access High-Quality YouTube Images Without Paying a Dime</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-tips-for-ppt-screen-capture/"><u>[Updated] In 2024, Essential Tips for PPT Screen Capture</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728496423979-windows-11usb/"><u>从Windows 11系统将照片传输至USB设备上：多样化的转移技巧分享</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-hp-laserjet-p1606dn-printer-drivers-on-windows/"><u>Download & Install HP LaserJet P1606dn Printer Drivers on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-11x-5g-by-drfone-android/"><u>Full Guide to Unlock Your Realme 11X 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-htc-u23-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On HTC U23 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-streamline-video-editing-fast-and-easy-ways-to-trim-large-files-on-mac/"><u>New In 2024, Streamline Video Editing Fast and Easy Ways to Trim Large Files on Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-ultimate-guide-to-text-tracking-software-2023-edition/"><u>New Ultimate Guide to Text Tracking Software 2023 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/samsung-gear-360-alternatives-updated-list-2023/"><u>Samsung Gear 360 Alternatives Updated List 2023</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-biggest-blunders-of-the-tech-world-this-year/"><u>The Biggest Blunders of the Tech World This Year</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-mac-mkv-cutters-top-picks/"><u>Updated 2024 Approved Best Mac MKV Cutters Top Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-create-unforgettable-moments-best-online-collage-makers/"><u>Updated 2024 Approved Create Unforgettable Moments Best Online Collage Makers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-this-article-shows-top-ten-alternatives-to-adobe-premiere-elements-with-main-functions/"><u>Updated 2024 Approved This Article Shows Top Ten Alternatives to Adobe Premiere Elements with Main Functions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-combine-videos-without-branding-7-essential-tools-for-2024/"><u>Updated Combine Videos Without Branding 7 Essential Tools for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-pc-video-editing-made-easy-gopro-quik-and-its-alternatives/"><u>Updated PC Video Editing Made Easy GoPro Quik and Its Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-mobile-video-editors-for-portrait-mode-videos-for-2024/"><u>Updated Top Mobile Video Editors for Portrait Mode Videos for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-track-your-moves-best-apps-for-android-and-iphone/"><u>Updated Track Your Moves Best Apps for Android and iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vintage-voices-top-websites-for-classical-ringtone-acquisition/"><u>Vintage Voices Top Websites for Classical Ringtone Acquisition</u></a></li>
+</ul></div>
 

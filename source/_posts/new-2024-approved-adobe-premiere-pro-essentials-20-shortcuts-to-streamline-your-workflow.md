@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Adobe Premiere Pro Essentials 20 Shortcuts to Streamline Your Workflow
-date: 2024-08-09T05:12:17.281Z
-updated: 2024-08-10T05:12:17.281Z
+date: 2024-11-06T19:45:05.262Z
+updated: 2024-11-13T16:09:42.453Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -67,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -87,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -182,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -225,12 +207,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fix-facebook-snap-glitches-stories-upload-woes/"><u>[New] Fix Facebook Snap Glitches Stories Upload Woes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-gameplay-reel-how-to-reviewed/"><u>[Updated] 2024 Approved Gameplay Reel How-To Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-brightening-up-your-videography-gopro-fog-free-techniques/"><u>[Updated] Brightening Up Your Videography GoPro Fog-Free Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-laughlounge-beginner-friendly-content-creation/"><u>2024 Approved LaughLounge Beginner-Friendly Content Creation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/a-beginners-guide-to-adding-depth-with-text-in-photoshop/"><u>A Beginner's Guide to Adding Depth with Text in Photoshop</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/comparing-av1-and-hevc-which-is-superior-for-next-gen-streaming/"><u>Comparing AV1 and HEVC - Which Is Superior for Next-Gen Streaming?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-meizu-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Meizu FRP Locks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-get-filmora-for-free-with-the-proceeding-guide-you-can-now-get-the-full-version-of-filmora-for-free-on-your-device-without-crack-also-learn-about/"><u>New How to Get Filmora for Free? With the Proceeding Guide, You Can Now Get the Full Version of Filmora for Free on Your Device without Crack. Also, Learn About some Wonderful Features of Filmora that Are a Must-Have</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-bring-your-ideas-to-life-top-cartoon-video-makers-for-mobile/"><u>New In 2024, Bring Your Ideas to Life Top Cartoon Video Makers for Mobile</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209853454-9781999738754-the-path-to-happy/"><u>The path to HAPPY | Free Book</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-converting-videos-to-live-photos-on-mobile/"><u>The Ultimate Guide to Converting Videos to Live Photos on Mobile</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unwatermark-your-tiktok-videos-with-these-proven-tools/"><u>Updated 2024 Approved Unwatermark Your TikTok Videos with These Proven Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-wax-video-editing-software-tips-tricks-and-tutorials-for-2024/"><u>Updated Wax Video Editing Software Tips, Tricks, and Tutorials for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

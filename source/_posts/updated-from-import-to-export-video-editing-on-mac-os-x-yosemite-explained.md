@@ -1,7 +1,7 @@
 ---
 title: Updated From Import to Export Video Editing on Mac OS X Yosemite Explained
-date: 2024-10-31T19:27:28.890Z
-updated: 2024-11-04T18:18:40.998Z
+date: 2024-11-07T20:49:55.234Z
+updated: 2024-11-13T20:26:37.955Z
 tags: 
   - video editing software
   - video editing
@@ -47,10 +47,10 @@ You have two different ways to edit the video. One is to double click the video 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Edit and enhance audio**
@@ -60,10 +60,10 @@ If you want to add an additional audio file as the background music to the video
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Add transition and other effects**
@@ -73,10 +73,16 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
@@ -85,14 +91,14 @@ After you preview the effect, just click the “Export” button to export the v
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -111,22 +117,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ideal-choices-our-exclusive-top-10-gopro-case-picks/"><u>[New] 2024 Approved Ideal Choices Our Exclusive Top 10 GoPro Case Picks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-discover-sj7s-breakthrough-in-high-definition-4k-action-cameras-for-2024/"><u>[New] Discover SJ7’s Breakthrough in High-Definition 4K Action Cameras for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-audio-excellence-with-windows-11-a-beginner-written-by-your-name/"><u>[Updated] In 2024, Audio Excellence with Windows 11 A Beginner' Written by [Your Name]</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-delicious-ideas-top-30-creative-recipe-show-titles/"><u>[Updated] In 2024, Delicious Ideas Top 30 Creative Recipe Show Titles</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-gaming-through-time-with-top-5-pc-based-ps1-game-emulators/"><u>2024 Approved Gaming Through Time with Top 5 PC-Based PS1 Game Emulators</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/a-comprehensive-guide-installing-the-cinematech-hd-movie-player-on-pcmac-for-enhanced-viewing-experience/"><u>A Comprehensive Guide: Installing the Cinematech HD Movie Player on PC/Mac for Enhanced Viewing Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-back-aturfy-bloods-unreal-engine-4-gobi-error-issue-successfully/"><u>How to Resolve Back Aturfy Blood's Unreal Engine 4 Gobi Error Issue Successfully</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-12-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 12 Pro Max Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-subtitle-edit-mac-alternative-find-your-new-go-to-subtitle-editor/"><u>New 2024 Approved Subtitle Edit Mac Alternative Find Your New Go-To Subtitle Editor</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-add-motion-to-your-messages-top-text-animation-apps-for-phones/"><u>New Add Motion to Your Messages Top Text Animation Apps for Phones</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-beyond-virtualdub-exploring-the-best-video-editing-software-alternatives-for-2024/"><u>New Beyond Virtualdub Exploring the Best Video Editing Software Alternatives for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-bringing-videos-to-life-in-vr-the-ultimate-conversion-guide-for-2024/"><u>New Bringing Videos to Life in VR The Ultimate Conversion Guide for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-discover-the-best-public-domain-video-resources-for-free/"><u>New Discover the Best Public Domain Video Resources for Free</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-effortless-mp4-editing-on-windows-8-expert-video-editor/"><u>New Effortless MP4 Editing on Windows 8 Expert Video Editor</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-fcpx-audio-techniques-mastering-l-cuts-j-cuts-and-beyond-for-2024/"><u>New FCPX Audio Techniques Mastering L-Cuts, J-Cuts, and Beyond for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-x-captioning-a-step-by-step-guide/"><u>New Final Cut Pro X Captioning A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-from-mute-to-magic-editing-audio-in-final-cut-pro-for-2024/"><u>New From Mute to Magic Editing Audio in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/affordable-microsoft-office-2019-bundle-deal-windows-and-mac-installation-at-only-25-how-to-by-gadgetgenius/"><u>Affordable Microsoft Office 2019 Bundle Deal - Windows & Mac Installation at Only $25 | How-To by GadgetGenius</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-you-substitute-your-android-tablet-with-a-foldable-smartphone-an-in-depth-comparison/"><u>Can You Substitute Your Android Tablet with a Foldable Smartphone: An In-Depth Comparison</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-fix-for-frequent-pc-freezes-during-final-fantasy-xv-expert-advice-and-tips/"><u>Complete Fix for Frequent Pc Freezes During Final Fantasy XV - Expert Advice and Tips</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y36i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y36i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g24-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G24 Phone without Any Data Loss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-openais-innovation-the-evolution-and-distinctions-of-generative-pre-trained-transformer-versions-gpt-1-to-gpt-4-decoded/"><u>Inside OpenAI's Innovation: The Evolution and Distinctions of Generative Pre-Trained Transformer Versions - GPT-1 to GPT-4 Decoded</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-5-free-online-tone-generator-tools-for-easy-use-for-2024/"><u>New Top 5 Free Online Tone Generator Tools for Easy Use for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-green-screen-software-for-mobile-devices-free-download-for-2024/"><u>Top-Rated Green Screen Software for Mobile Devices Free Download for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/tres-metodos-faciles-para-solucionar-acceso-negado-en-directorio-destinatario-de-windows-11/"><u>Tres Metodos Fáciles Para Solucionar Acceso Negado en Directorio Destinatario De Windows 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-chromebook-video-editing-made-easy-top-picks/"><u>Updated 2024 Approved Chromebook Video Editing Made Easy Top Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-3gp-file-trimmer-edit-and-split-your-videos-easily/"><u>Updated In 2024, 3GP File Trimmer Edit and Split Your Videos Easily</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-device-to-tv-how-to-cast-local-videos-to-chromecast-on-any-platform/"><u>Updated In 2024, From Device to TV How to Cast Local Videos to Chromecast on Any Platform</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-10-best-free-dvd-players-compatible-with-windows-10/"><u>Updated The 10 Best Free DVD Players Compatible with Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Mac Video Editing 101 Using QuickTime for Stunning Results
-date: 2024-08-09T05:09:29.096Z
-updated: 2024-08-10T05:09:29.096Z
+date: 2024-11-06T22:43:52.995Z
+updated: 2024-11-13T19:41:58.074Z
 tags: 
   - video editing software
   - video editing
@@ -41,19 +41,20 @@ The QuickTime player was originally designed to play almost all types of multime
 * Control subtitles, languages and more options.
 * Includes picture viewers for JPEG, BMP and PNG.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Trim Video With QuickTime Player on Mac
 
 Trimming Videos in QuickTime video player is another simple feature. You can delete the beginning or end, or simply shorten the movie or clip.
 
 Step1: Click on “Open File” and select the video or movie to be edited.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2: Click here to edit > trim from the menu bar.
 
@@ -61,21 +62,19 @@ Step2: Click here to edit > trim from the menu bar.
 
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
 Step4: When you have done, click on “Trim”.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Split Video With QuickTime Player on Mac
 
 You can easily split your movie into separate clips if you want to. Then, if desired, you can modify these clips.
@@ -87,6 +86,13 @@ Step1: Click the Play button to jump to the part of the clip where you want to s
 Step2: Move the playhead where you want to split the position, then select Edit > Split Clip.
 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Rotate Video with QuickTime Player on Mac
 
@@ -100,9 +106,6 @@ Step3: Choose to rotate the clip left or right, or flip it horizontally or verti
 
 Step4: When you're done, click Done.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
 [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is an easy-to-use video editor. Wondershare Filmora Mac version has powerful functions and rich functions. Using Wondershare Filmora Mac software, you can make high-quality videos. By using Filmora you will easily Create professional-like movies from video files, audio files, and photo files with transitions, effects and titles.
@@ -127,13 +130,18 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -141,4 +149,24 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-underground-sources-for-smart-fb-memes/"><u>[New] Top Underground Sources for Smart FB Memes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-cultivate-inner-peace-and-physical-strength-with-these-channels/"><u>[Updated] 2024 Approved Cultivate Inner Peace & Physical Strength with These Channels</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972158317-get-your-amd-gpu-interface-driver-here/"><u>Get Your AMD GPU Interface Driver Here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/merging-melodies-the-art-of-crossfading-for-2024/"><u>Merging Melodies The Art of Crossfading for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-chromebook-video-editing-made-easy-top-android-apps/"><u>New In 2024, Chromebook Video Editing Made Easy Top Android Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-do-you-recently-update-to-mac-os-x-yosemite-do-you-need-to-edit-video-files-on-this-new-system-this-article-tells-you-how/"><u>New In 2024, Do You Recently Update to Mac OS X Yosemite? Do You Need to Edit Video Files on This New System. This Article Tells You How</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-video-editing-on-a-mac-the-top-picks-for/"><u>New In 2024, Video Editing on a Mac The Top Picks For</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unveiling-the-distinct-features-of-dvd-r-dl-vs-single-layer-dvds/"><u>Unveiling the Distinct Features of DVD-R DL Vs. Single Layer DVDs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-download-filmora-free-safe-and-virus-free-torrent-guide/"><u>Updated 2024 Approved Download Filmora Free Safe and Virus-Free Torrent Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-free-video-blur-hack-online-solution/"><u>Updated 2024 Approved The Ultimate Free Video Blur Hack Online Solution</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-mpeg-video-assembly-top-rated-programs/"><u>Updated In 2024, Free MPEG Video Assembly Top Rated Programs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unleash-your-creativity-top-5-reaction-video-makers/"><u>Updated In 2024, Unleash Your Creativity Top 5 Reaction Video Makers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/vollumfanglicher-gratiskompatibler-medienwiedergabe-player-fur-die-meisten-videodateien/"><u>Vollumfänglicher Gratiskompatibler Medienwiedergabe Player Für Die Meisten Videodateien</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-shortcuts-you-should-know/"><u>YouTube Shortcuts You Should Know</u></a></li>
+</ul></div>
 

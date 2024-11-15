@@ -1,7 +1,7 @@
 ---
 title: No Luck with WhatsApp Backups on iCloud? Here's What You Need to Know
-date: 2024-10-30T19:35:47.579Z
-updated: 2024-11-04T17:54:25.602Z
+date: 2024-11-10T22:49:38.777Z
+updated: 2024-11-13T17:03:53.988Z
 tags:
   - iphone
   - apple
@@ -61,20 +61,13 @@ To check your available iCloud storage space:
 ![icloud settings in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![manage account storage option in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-account-storage-option-in-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -82,7 +75,21 @@ Close
 
 ![chat backup option in whatsapp-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Backing up now in Whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/backing-up-now-in-whatsapp.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -95,22 +102,22 @@ Here's how you can do that:
 
  While not necessary, consider keeping WhatsApp open during this manual backup. This means not swiping the WhatsApp page up in the app switcher. You may use other apps or put your iPhone to sleep during this time though.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check the iCloud Server Status
 
 ![Apple server status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-server-status.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Sometimes, the issue may not be with your device or with WhatsApp, but rather with iCloud services. Visit the [Apple System Status](https://www.apple.com/support/systemstatus/) page to see whether iCloud servers are down or having server issues.
 
@@ -128,22 +135,15 @@ To restart your device:
 4. Check to see if the WhatsApp backup succeeds now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Update Your iPhone and WhatsApp
 
 ![General Section in iPhone Setttings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-section-in-iphone-setttings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Software Update in iPhone General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-iphone-general-settings.jpg)
 
@@ -171,24 +171,24 @@ To do this, follow these steps:
  You can always turn this switch back on to re-include WhatsApp videos in your iCloud backup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Delete the Existing iCloud Backup
 
 ![whatsapp messenger section in icloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-messenger-section-in-icloud-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![whatsapp data in icloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-data-in-icloud.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -220,18 +220,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-comprehensively-understanding-ios-visual-record-function-for-2024/"><u>[New] Comprehensively Understanding IO’s Visual Record Function for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-selecting-the-perfect-fps-a-deep-dive-into-30fps-vs-60fps/"><u>[New] Selecting the Perfect FPS A Deep Dive Into 30Fps Vs. 60Fps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-total-gb-for-24-hour-movie-size/"><u>2024 Approved Total GB for 24-Hour Movie Size</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flash-through-files-on-your-windows-pc-for-2024/"><u>Flash Through Files on Your Windows PC for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a38-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo A38 Phone with Broken Screen</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-laserjet-pro-p1606dn-printer-drivers-free-downloads-and-latest-updates-for-windows-users/"><u>HP LaserJet Pro P1606dn Printer Drivers: Free Downloads and Latest Updates for Windows Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-reach-broader-audiences-link-your-twitch-live-streams-to-facebook/"><u>In 2024, Reach Broader Audiences Link Your Twitch Live Streams to Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>In 2024, The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-avi-file-editing-software-for-windows-8-fast-and-reliable-for-2024/"><u>New AVI File Editing Software for Windows 8 Fast and Reliable for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-fcpx-error-fixing-mastery-top-tips-and-tricks-for-smooth-editing/"><u>New FCPX Error-Fixing Mastery Top Tips and Tricks for Smooth Editing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-online-glitch-effect-software-the-best-options-for-designers-for-2024/"><u>New Free Online Glitch Effect Software The Best Options for Designers for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-online-glitch-effects-the-top-picks/"><u>New Free Online Glitch Effects The Top Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-get-rid-of-tiktok-logos-best-online-watermark-removers-for-2024/"><u>New Get Rid of TikTok Logos Best Online Watermark Removers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-enhance-audibility-with-adjusted-obs-settings/"><u>[New] 2024 Approved How to Enhance Audibility with Adjusted OBS Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-essential-guide-to-win10s-video-grabbing-software/"><u>[Updated] In 2024, The Essential Guide to Win10's Video Grabbing Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-dailymovements-and-youtubes-income-models/"><u>Comparing DailyMovement's and Youtube's Income Models</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enjoy-vr-on-planes-meta-quest-devices-now-function-above-ground/"><u>Enjoy VR on Planes: Meta Quest Devices Now Function Above Ground!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-how-to-edit-webm-video-files-here-are-10-of-the-best-free-webm-video-editors-that-you-can-have-a-free-trial-online-or-on-desktop-computers/"><u>New In 2024, How to Edit WebM Video Files? Here Are 10 of the Best Free WebM Video Editors that You Can Have a Free Trial Online or on Desktop Computers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/solve-your-windows-device-and-mobile-hotspot-connection-issues-with-these-expert-troubleshooting-steps/"><u>Solve Your Windows Device and Mobile Hotspot Connection Issues with These Expert Troubleshooting Steps!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-video-editing-solutions-for-creators/"><u>Top-Rated Video Editing Solutions for Creators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-join-avi-files-for-free-top-10-reliable-avi-joiner-software/"><u>Updated 2024 Approved Join AVI Files for Free Top 10 Reliable AVI Joiner Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-cartoonify-your-life-best-mobile-apps-for-fun-photo-editing-for-2024/"><u>Updated Cartoonify Your Life Best Mobile Apps for Fun Photo Editing for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-tiktok-video-reversal-made-easy-a-beginners-guide-updated-for-2024/"><u>Updated TikTok Video Reversal Made Easy A Beginners Guide Updated for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/youtube-and-brand-partnership-ventures/"><u>YouTube & Brand Partnership Ventures</u></a></li>
 </ul></div>
 
