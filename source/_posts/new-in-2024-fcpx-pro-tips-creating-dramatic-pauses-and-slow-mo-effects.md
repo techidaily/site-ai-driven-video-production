@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects
-date: 2024-11-09T00:28:06.840Z
-updated: 2024-11-14T16:25:52.584Z
+date: 2024-11-19T23:49:10.801Z
+updated: 2024-11-23T23:48:36.825Z
 tags: 
   - video editing software
   - video editing
@@ -36,11 +36,19 @@ For more tutorials on slow-motion please refer to this article: [Top 10 Slow Mot
 
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
 
 ![freeze frames](https://images.wondershare.com/multimedia/speed002.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This creates a two-second freeze-frame at the position of the playhead.
 
@@ -78,6 +86,10 @@ A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
 ![hold frame](https://images.wondershare.com/multimedia/speed013.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
 
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
@@ -85,6 +97,10 @@ Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using e
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
@@ -107,6 +123,10 @@ We use slow-motion to show events that are too fast for the unaided eye to see. 
 WE create either effect using the same tools, just different values. Here's how.
 
 ![slow motion](https://images.wondershare.com/multimedia/speed008.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Select the clip who's speed you want to change. Then, using either Modify > Retime or the "Smurf" Toolbar icon, select Slow (or Fast).
 
@@ -133,6 +153,10 @@ The easy way is to grab the small handle at the end of the clip and drag left or
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This opens a new dialog allowing a number of changes:
 
@@ -165,6 +189,10 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 #### SUMMARY
@@ -188,31 +216,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-real-time-streaming-excellence-instagram-and-obs-unite/"><u>[Updated] 2024 Approved Real-Time Streaming Excellence Instagram and OBS Unite</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-10-premier-off-line-ipad-apps-for-pure-gaming-bliss/"><u>[Updated] Top 10 Premier Off-Line iPad Apps for Pure Gaming Bliss</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-capture-the-catch-5-pro-fish-cameras-unveiled/"><u>2024 Approved Capture the Catch 5 Pro-Fish Cameras Unveiled</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/diving-into-zoom-breakout-room-setups/"><u>Diving Into Zoom Breakout Room Setups</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hook-creating-headline-helper/"><u>Hook-Creating Headline Helper</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-nokia-g22-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Nokia G22</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-navigating-the-world-of-zoom-audio-to-text-tools/"><u>In 2024, Navigating the World of Zoom Audio to Text Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-produce-professional-looking-videos-with-fcpx-stabilization-tools/"><u>New Produce Professional-Looking Videos with FCPX Stabilization Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-running-a-32-bit-windows-computer-and-looking-for-best-free-video-editing-software-for-32-bit-windows-here-are-top-3-free-video-editing-software-for-a-u/"><u>New Running a 32-Bit Windows Computer and Looking for Best Free Video Editing Software for 32-Bit Windows? Here Are Top 3 Free Video Editing Software for a User Running 32-Bit Windows</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-video-editing-made-easy-splitting-videos-in-windows-live-movie-maker-for-pc-users-for-2024/"><u>New Video Editing Made Easy Splitting Videos in Windows Live Movie Maker for PC Users for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/simplify-your-experience-with-emeditors-easy-auto-update-and-uninstall-function-join-our-beta/"><u>Simplify Your Experience with EmEditor's Easy Auto-Update and Uninstall Function - Join Our Beta!</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-another-users-ms-error-on-pc/"><u>Troubleshooting: Another User's MS Error on PC</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-fcp-2023-the-ultimate-guide-to-reversing-video-footage/"><u>Updated 2024 Approved FCP 2023 The Ultimate Guide to Reversing Video Footage</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-get-moving-10-best-free-video-speed-changer-apps-for-iphone-and-android/"><u>Updated 2024 Approved Get Moving 10 Best Free Video Speed Changer Apps for iPhone and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-avs-video-editor-review-update-whats-new-for-2024/"><u>Updated AVS Video Editor Review Update Whats New for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-from-clips-to-masterpieces-the-ultimate-video-editor/"><u>Updated From Clips to Masterpieces The Ultimate Video Editor</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-lossless-vlc-trimming-on-mac-the-ultimate-guide/"><u>Updated In 2024, Lossless VLC Trimming on Mac The Ultimate Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-free-mpeg-video-splitters-for-windows-mac-and-linux/"><u>Updated In 2024, The Best Free MPEG Video Splitters for Windows, Mac, and Linux</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-10plus-top-videos-and-tutorials-on-best-iphoneipad-editing-tools/"><u>2024 Approved 10+ Top Videos & Tutorials on Best iPhone/iPad Editing Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/boost-your-posture-and-comfort-levels-with-the-tochoe-topo-review-an-innovative-standing-desk-pad-against-fatigue/"><u>Boost Your Posture and Comfort Levels with the Tochoe Topo Review: An Innovative Standing Desk Pad Against Fatigue</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-topping-tunes-compiling-an-impressive-youtube-playlist/"><u>Chart-Topping Tunes Compiling an Impressive YouTube Playlist</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-get-free-picture-frame-videos/"><u>How to Get Free Picture Frame Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-avi-video-rotation-made-easy-16-free-solutions-for-windows-mac-android-iphone-and-online-users/"><u>In 2024, AVI Video Rotation Made Easy 16 Free Solutions for Windows, MAC, Android, iPhone, and Online Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-looking-for-a-pinnacle-studio-alternative-on-mac-try-these-top-picks/"><u>In 2024, Looking for a Pinnacle Studio Alternative on Mac? Try These Top Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-make-your-videos-pop-the-secret-to-adding-jaw-dropping-effects/"><u>In 2024, Make Your Videos Pop The Secret to Adding Jaw-Dropping Effects</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-art-of-cinematic-editing-a-final-cut-pro-x-tutorial/"><u>In 2024, The Art of Cinematic Editing A Final Cut Pro X Tutorial</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-streamline-your-videos-10-top-rated-free-online-video-trimmers/"><u>New 2024 Approved Streamline Your Videos 10 Top-Rated Free Online Video Trimmers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unlock-fcp-xs-power-adding-effects-in-just-3-steps/"><u>New 2024 Approved Unlock FCP Xs Power Adding Effects in Just 3 Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-navigating-nyt-alliances/"><u>The Art of Navigating NYT Alliances</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-streamlining-the-process-of-vob-to-mov-file-transformation/"><u>The Ultimate Guide: Streamlining the Process of VOB to MOV File Transformation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On OnePlus 12R? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

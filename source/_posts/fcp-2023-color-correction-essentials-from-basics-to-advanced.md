@@ -1,7 +1,7 @@
 ---
 title: FCP 2023 Color Correction Essentials From Basics to Advanced
-date: 2024-08-02T04:03:52.128Z
-updated: 2024-08-03T04:03:52.128Z
+date: 2024-11-17T17:19:32.033Z
+updated: 2024-11-23T23:51:28.286Z
 tags: 
   - video editing software
   - video editing
@@ -18,14 +18,6 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
 # Color Correction in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -63,25 +55,27 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
 ![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 2
 
@@ -91,9 +85,6 @@ As soon as you start working on **Color Board**, it is good to open Video Scopes
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
@@ -102,14 +93,19 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
 ![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
@@ -123,18 +119,17 @@ It is possible to preview all the corrections on the original image before makin
 
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -143,5 +138,22 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-highest-rated-video-call-software-not-zoom-for-pcs-and-phones/"><u>[New] In 2024, Highest-Rated Video Call Software (Not Zoom) for PCs & Phones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-editmasters-selecting-the-best-4k-screens-for-creatives/"><u>[Updated] 2024 Approved EditMasters Selecting the Best 4K Screens for Creatives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-spring-screens-reimagined-a-review-of-modern-tech/"><u>[Updated] 2024 Approved Spring Screens Reimagined A Review of Modern Tech</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-social-media-sovereigns-ranked-by-youtube-subscribers/"><u>[Updated] In 2024, Social Media Sovereigns Ranked by YouTube Subscribers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fallout-4-stability-achieved-no-more-computer-issues/"><u>Fallout 4 Stability Achieved: No More Computer Issues</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-singers-guide-to-cinematic-vocal-projection-using-filmora/"><u>New 2024 Approved The Singers Guide to Cinematic Vocal Projection Using Filmora</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-remove-filmora-watermark-withwithout-paying-in-2024/"><u>New How to Remove Filmora Watermark With/Without Paying, In 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-no-more-jitters-the-top-free-online-video-stabilizers-for-smoother-videos/"><u>New In 2024, No More Jitters The Top Free Online Video Stabilizers for Smoother Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-workspace-individual-monitors-in-windows-11/"><u>Tailoring Your Workspace: Individual Monitors in Windows 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-best-of-the-web-vertical-video-editors-for-2024/"><u>The Best of the Web Vertical Video Editors for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-os-x-mavericks-video-editors-handbook/"><u>The Ultimate OS X Mavericks Video Editors Handbook</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-superiority-of-the-nintendo-switch-in-portable-play/"><u>Unveiling the Superiority of the Nintendo Switch in Portable Play</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-top-free-video-editors-for-avi-file-conversion/"><u>Updated 2024 Approved The Top Free Video Editors for AVI File Conversion</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-expert-recommended-video-animation-apps-for-mobile/"><u>Updated In 2024, Expert-Recommended Video Animation Apps for Mobile</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-10-animation-software-for-creating-stunning-animated-videos/"><u>Updated In 2024, Top 10 Animation Software for Creating Stunning Animated Videos</u></a></li>
+</ul></div>
 

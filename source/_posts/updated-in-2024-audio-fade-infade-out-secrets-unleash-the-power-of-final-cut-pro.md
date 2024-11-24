@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2024-11-08T17:18:51.769Z
-updated: 2024-11-15T01:38:08.550Z
+date: 2024-11-19T07:40:47.380Z
+updated: 2024-11-24T10:37:49.654Z
 tags: 
   - video editing software
   - video editing
@@ -52,6 +52,10 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
@@ -63,13 +67,6 @@ You should remember that the fades appear at the beginning and the end of each c
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -88,17 +85,11 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -106,6 +97,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -121,10 +116,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,17 +134,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-top-20-racing-games-for-bicyclists/"><u>[New] Top 20 Racing Games for Bicyclists</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-oppo-a58-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Oppo A58 4G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-zero-to-hero-a-comprehensive-guide-to-diy-projector-screen-setup/"><u>From Zero to Hero: A Comprehensive Guide to DIY Projector Screen Setup</u></a></li>
-<li><a href="https://fox-info.techidaily.com/golivebeam-simplified-method-to-broadcast-a-podcast-live/"><u>GoLiveBeam Simplified Method to Broadcast a Podcast Live</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-best-cartoon-video-maker-software-for-newbies/"><u>New The Ultimate List Best Cartoon Video Maker Software for Newbies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unveiling-the-lenovo-legion-pro-7i-a-comprehensive-unboxing-and-initial-review/"><u>Unveiling the Lenovo Legion Pro 7I: A Comprehensive Unboxing and Initial Review</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-best-motion-tracking-apps-for-ios-and-android/"><u>Updated In 2024, Best Motion Tracking Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-5-best-free-divx-video-cutters-for-2024/"><u>Updated Top 5 Best Free Divx Video Cutters for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ocial-blade-for-youtube-analytics-stats-and-how-to-use-them-for-2024/"><u>Use Social Blade for YouTube Analytics - Stats & How to Use Them for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/want-to-find-a-high-quality-video-editing-tool-for-your-64-bit-operating-system-youve-come-to-the-right-place-for-2024/"><u>Want to Find a High-Quality Video Editing Tool for Your 64 Bit Operating System? Youve Come to the Right Place for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-innovation-and-performance-metrics-for-top-screen-recorders-featuring-apeaksoft/"><u>[Updated] 2024 Approved Innovation and Performance Metrics for Top Screen Recorders, Featuring Apeaksoft</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-fine-tune-your-cinematography-mastering-kinemaster-zoom-features/"><u>[Updated] Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/breaking-news-will-you-have-to-pay-for-windows-10-updates-find-out-what-microsoft-plans-and-pricing-details/"><u>Breaking News: Will You Have to Pay for Windows 10 Updates? Find Out What Microsoft Plans and Pricing Details!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-13-ultimate-free-dvd-players-supporting-windows-11-systems/"><u>Discover the 13 Ultimate Free DVD Players Supporting Windows 11 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-smart-7-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Smart 7 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-accelerate-your-videos-10-free-speed-changer-apps-for-ios-and-android/"><u>In 2024, Accelerate Your Videos 10 Free Speed Changer Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-bring-your-videos-to-life-the-magic-of-cartoon-conversion-explained/"><u>In 2024, Bring Your Videos to Life The Magic of Cartoon Conversion Explained</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-estimating-24-hour-films-data-footprint/"><u>In 2024, Estimating 24-Hour Film's Data Footprint</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-itel-a60s-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Itel A60s To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mobile-reaction-video-creation-top-tools-and-apps/"><u>In 2024, Mobile Reaction Video Creation Top Tools and Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-art-of-video-resizing-tips-for-perfect-proportions/"><u>In 2024, The Art of Video Resizing Tips for Perfect Proportions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-stop-motion-software-for-windows-and-macos/"><u>In 2024, Top-Rated Stop Motion Software for Windows and macOS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-adobe-premiere-rush-not-for-you-try-these-top-4-alternatives-instead/"><u>New 2024 Approved Adobe Premiere Rush Not for You? Try These Top 4 Alternatives Instead</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/loop-triumph-repeat-your-favorite-video-anytime-on-tv/"><u>Tele-Loop Triumph Repeat Your Favorite Video Anytime on TV</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-czech-ease-through-effective-online-learning/"><u>Unlock Czech Ease Through Effective Online Learning</u></a></li>
 </ul></div>
 

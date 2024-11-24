@@ -1,7 +1,7 @@
 ---
 title: Updated From Camera to Computer A Beginners Guide to Editing Nikon Videos for 2024
-date: 2024-11-10T19:01:34.731Z
-updated: 2024-11-14T17:48:02.340Z
+date: 2024-11-17T19:05:42.328Z
+updated: 2024-11-23T17:10:09.568Z
 tags: 
   - video editing software
   - video editing
@@ -28,6 +28,10 @@ You probably have a lot of cherished video clips about family events, social gat
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Edit Nikon Video Files
 
 #### 1\.  Import your Nikon Video Files
@@ -36,15 +40,27 @@ First, transfer the Nikon video files to your computer. Then drag and drop them 
 
 ![nikon video editor](https://images.wondershare.com/filmora/guide/full-feature-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The latest version 9 of Filmora Video Editor also allows you to import video footage from your Nikon camera directly. You can click the **Import** menu first and then select **Import from a Camera or Phone** option which will enter the **Import from Device** window. You can import only videos or only images or all media files to Filmora. All the imported media will be saved under C:\\Users\\admin\\Documents\\Wondershare Filmora\\User Media\\Device Import by default. But you can always change the default path.
 
 ![ Filmora 9 Import for Device ](https://images.wondershare.com/filmora/article-images/filmora9-import-from-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\.  Edit and personalize your Nikon video files instantly
 
 This Nikon video editing software turns rather complicated video editing into a pretty easy and efficient job. Since it features Timeline based editing, you can just move the slide bar or the duration adjustment bar to the right location you want, and then do video trimming, cutting, splitting with ease. To edit video/audio, just double click the target file and adjust the playing speed, brightness, contrast, pitch, voice, etc. according to your needs.
 
 ![ Filmora 9 Remove from Background Noise ](https://images.wondershare.com/filmora/article-images/filmora9-remove-audio-from-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the video shot by the Nikon camera has some noisy background wind sound, you can remove the noise with Filmora with ease. You can even separate audio from the video for more creative use by right clicking the video and choose "Audio Detach".
 
@@ -72,6 +88,10 @@ Editing videos shot with Nikon camera in Filmora is easy since it supports a lar
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -87,35 +107,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unlock-potential-androidandioss-top-free-overlay-tools-guide/"><u>[New] In 2024, Unlock Potential Android&iOS's Top Free Overlay Tools Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-tips-to-prevent-frame-loss-during-real-time-broadcasts-with-obs-for-2024/"><u>[New] Tips to Prevent Frame Loss During Real-Time Broadcasts with OBS for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-gamers-guide-to-exceptional-video-sessions-for-2024/"><u>[Updated] The Gamers' Guide to Exceptional Video Sessions for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-social-media-strategies-for-showcasing-your-video-content/"><u>2024 Approved Social Media Strategies for Showcasing Your Video Content</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-x-jump-cuts-take-your-editing-to-the-next-level-for-2024/"><u>Final Cut Pro X Jump Cuts Take Your Editing to the Next Level for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/free-video-enhancement-software-top-9-picks/"><u>Free Video Enhancement Software Top 9 Picks</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-error-to-ease-the-nvidia-install-journey/"><u>From Error to Ease: The NVIDIA Install Journey</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-animated-video-makers-for-teachers-and-students/"><u>In 2024, Best Animated Video Makers for Teachers and Students</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-adobe-premiere-pro-cs6-free-download-for-mac-os-x/"><u>New 2024 Approved Adobe Premiere Pro CS6 Free Download for Mac OS X</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-adobe-premiere-pro-essentials-20-shortcuts-to-streamline-your-workflow/"><u>New 2024 Approved Adobe Premiere Pro Essentials 20 Shortcuts to Streamline Your Workflow</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-color-matching-made-easy-tips-and-tricks-for-final-cut-pro-users/"><u>New 2024 Approved Color Matching Made Easy Tips and Tricks for Final Cut Pro Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-video-conversion-for-vr-enthusiasts-top-picks-and-tips/"><u>New 2024 Approved Video Conversion for VR Enthusiasts Top Picks and Tips</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-vn-video-editor-pc-edition-a-brief-inspection/"><u>New 2024 Approved VN Video Editor PC Edition A Brief Inspection</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rust-visual-bugs-solved-enhancing-your-gaming-experience/"><u>Rust Visual Bugs Solved: Enhancing Your Gaming Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-m34-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy M34 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-broadcasting-the-2024-olympic-games-in-real-time/"><u>Ultimate Guide: Broadcasting the 2024 Olympic Games in Real-Time</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-third-generation-apple-tv-4k-streamer/"><u>Unboxing and Testing the Third Generation Apple TV 4K Streamer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-are-video-reviews-of-goods-paid-for-by-creators/"><u>[New] Are Video Reviews of Goods Paid For by Creators?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-streamline-your-video-workflow-youtube-to-mpeg-essentials/"><u>[New] Streamline Your Video Workflow YouTube-to-MPEG Essentials</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-laptop-perfection-10-coolest-downloadable-desktop-photos/"><u>2024 Approved Laptop Perfection 10 Coolest Downloadable Desktop Photos</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-analytics-made-easy-with-cookiebot-power-solutions/"><u>Expert Analytics Made Easy with Cookiebot Power Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-top-10-free-mkv-cutter-tools-you-should-try/"><u>New The Top 10 Free MKV Cutter Tools You Should Try</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimizing-your-macos-sierra-easy-instructions/"><u>Optimizing Your macOS Sierra Easy Instructions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-quicktime-video-editing-on-mac/"><u>The Ultimate Guide to QuickTime Video Editing on Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-of-10-free-avi-joiner-software-for-windows-and-mac/"><u>The Ultimate List of 10 Free AVI Joiner Software for Windows and Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unbiased-review-how-to-obtain-filmora-without-resorting-to-piracy/"><u>Unbiased Review How to Obtain Filmora Without Resorting to Piracy</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

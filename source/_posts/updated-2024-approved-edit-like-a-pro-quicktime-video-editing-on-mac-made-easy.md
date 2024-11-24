@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Edit Like a Pro QuickTime Video Editing on Mac Made Easy
-date: 2024-11-08T22:26:44.437Z
-updated: 2024-11-14T18:40:23.362Z
+date: 2024-11-20T23:28:23.041Z
+updated: 2024-11-24T05:28:27.141Z
 tags: 
   - video editing software
   - video editing
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
 There is no doubt that one of the most underrated components of the consumer Mac software that comes built into every Mac is Apple's QuickTime Player. The reason for this, of course, is that QuickTime, in addition to being a simple video player that edits mp4 Mac, also allows users to do some basic video trimming. This can come in handy for average users, especially when you consider how expensive, bloated, and complex video editing software can be. In this article, we will show you that how QuickTime edit videos on Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part1: Quicktime is More Than a Player
 
 QuickTime Player is a simple yet powerful video editing program available for Mac. It includes features for casual video editors and professionals alike, so whatever your reason for looking for good edit mp4 Mac software, QuickTime Player has to cover you.
@@ -41,13 +45,6 @@ The QuickTime player was originally designed to play almost all types of multime
 * Control subtitles, languages and more options.
 * Includes picture viewers for JPEG, BMP and PNG.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Trim Video With QuickTime Player on Mac
 
 Trimming Videos in QuickTime video player is another simple feature. You can delete the beginning or end, or simply shorten the movie or clip.
@@ -56,16 +53,13 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
@@ -76,10 +70,7 @@ Step4: When you have done, click on “Trim”.
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Split Video With QuickTime Player on Mac
@@ -106,6 +97,10 @@ Step3: Choose to rotate the clip left or right, or flip it horizontally or verti
 
 Step4: When you're done, click Done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part2: Edit Video with Wondershare Filmora for Mac
 
 [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is an easy-to-use video editor. Wondershare Filmora Mac version has powerful functions and rich functions. Using Wondershare Filmora Mac software, you can make high-quality videos. By using Filmora you will easily Create professional-like movies from video files, audio files, and photo files with transitions, effects and titles.
@@ -129,10 +124,7 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -152,22 +144,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-drone-lineages-and-lines/"><u>[New] 2024 Approved Drone Lineages and Lines</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[Updated] From Virality to Value Ajay’s Playbook for Profitable Content Creation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-new-frontier-of-jaunt-vr-experiences/"><u>[Updated] The New Frontier of Jaunt VR Experiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-filmmaking-revolution-15-essential-gopro-luts-revealed/"><u>2024 Approved Filmmaking Revolution 15 Essential GoPro LUTs Revealed</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/can-you-trust-the-fitbit-charge-3-for-your-fitness-needs-expert-reviews-and-comparisons/"><u>Can You Trust the Fitbit Charge 3 for Your Fitness Needs? Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-update-standard-sata-achi-chipset-drivers/"><u>How to Seamlessly Update Standard SATA ACHI Chipset Drivers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-make-a-video-with-photos-and-music/"><u>New How to Make a Video with Photos and Music</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-ranking-the-best-video-editing-apps-with-music-for-android-and-ios-devices-for-2024/"><u>New Ranking the Best Video Editing Apps with Music for Android and iOS Devices for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-reduce-video-size-for-free-10-top-online-compression-tools/"><u>New Reduce Video Size for Free 10 Top Online Compression Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-your-brands-potential-best-free-animated-logo-creators/"><u>New Unleash Your Brands Potential Best Free Animated Logo Creators</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-zero-cost-wonders-the-best-free-vob-video-editing-software/"><u>New Zero-Cost Wonders The Best Free VOB Video Editing Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/no-watermark-no-cost-top-10-online-video-editing-tools-for-2024/"><u>No Watermark, No Cost Top 10 Online Video Editing Tools for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-chrome-setup-in-windows-11-systems/"><u>Seamless Chrome Setup in Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-hosting-of-linux-vms-via-hyper-v-windows-platform/"><u>Seamless Hosting of Linux VMs via Hyper-V Windows Platform</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-nokia-72-unveiled-why-this-phone-outshines-its-peers-in-the-mid-range-segment/"><u>The Nokia 7.2 Unveiled: Why This Phone Outshines Its Peers in the Mid-Range Segment</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-final-cut-pro-x-power-user-master-40-time-saving-shortcuts/"><u>Updated 2024 Approved Final Cut Pro X Power User Master 40 Time-Saving Shortcuts</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-imovie-free-alternatives-the-best-online-video-editing-tools/"><u>Updated IMovie Free Alternatives The Best Online Video Editing Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-precision-photography-and-videography-prime-lens-excellence-in-4k/"><u>[New] 2024 Approved Precision Photography & Videography Prime Lens Excellence in 4K</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-the-full-potential-of-fast-fb-videos-with-tools-for-2024/"><u>[Updated] Unlocking the Full Potential of Fast FB Videos with Tools for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-a-guide-to-coloring-composition-with-confidence/"><u>2024 Approved A Guide to Coloring Composition with Confidence</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/backupbuddy-reviewers-thoughts/"><u>BackupBuddy Reviewers Thoughts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-brand-with-these-11-free-animated-logo-generators-for-2024/"><u>Elevate Your Brand with These 11 Free Animated Logo Generators for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/fcp-is-capable-enough-to-merge-the-reverse-option-with-retiming-effects-so-that-something-innovative-can-be-developed-even-with-simple-editing-efforts-for-2/"><u>FCP Is Capable Enough to Merge the Reverse Option with Retiming Effects so that Something Innovative Can Be Developed Even with Simple Editing Efforts for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-x-troubleshooting-a-step-by-step-reset-guide-for-2024/"><u>Final Cut Pro X Troubleshooting A Step-by-Step Reset Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-streamline-your-video-editing-fast-and-easy-video-trimming-on-mac/"><u>In 2024, Streamline Your Video Editing Fast & Easy Video Trimming on Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-complete-guide-to-installing-linux-on-a-chromebook/"><u>In 2024, The Complete Guide to Installing Linux on a Chromebook</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-the-apple-watch-series-6-a-notable-advancement/"><u>Is the Apple Watch Series 6 a Notable Advancement?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-elevate-your-visuals-advanced-slideshow-techniques-in-final-cut-pro/"><u>New 2024 Approved Elevate Your Visuals Advanced Slideshow Techniques in Final Cut Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-mov-video-rotation-software-top-picks/"><u>New 2024 Approved Free MOV Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-voice-over-checklist-best-practices-for-final-cut-pro/"><u>New 2024 Approved The Ultimate Voice Over Checklist Best Practices for Final Cut Pro</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-the-class-not-registered-issue-in-your-windows-environment/"><u>Resolving the 'Class Not Registered' Issue in Your Windows Environment</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-blaze-2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Blaze 2 Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
 

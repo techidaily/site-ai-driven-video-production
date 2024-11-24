@@ -1,7 +1,7 @@
 ---
 title: Effortless Video Editing How to Add Effects in FCP X (3 Simple Steps)
-date: 2024-08-02T04:03:25.771Z
-updated: 2024-08-03T04:03:25.771Z
+date: 2024-11-16T22:40:52.725Z
+updated: 2024-11-24T05:16:51.695Z
 tags: 
   - video editing software
   - video editing
@@ -32,9 +32,6 @@ I've written previously about how to use Inspector effects to create a [picture-
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -52,20 +49,33 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -82,16 +92,10 @@ To modify an effect, click this icon in the Toolbar to open the Inspector (or ty
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx006.jpg "add effects in fcp")
 
 Grab a slider and drag it to see what happens. For example, to make an image blurrier, drag the Amount slider to the right. To lessen the effect, drag it to the left.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx007.jpg "add effects in fcp")
 
 #### Disable and delete an effect
@@ -104,10 +108,11 @@ To enable an effect, click the gray box so it turns blue again.
 
 To delete an effect, click the name of the effect - in this example: Gaussian - and press the big Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx009.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The effect will be deleted from the selected clip.
 
@@ -119,9 +124,6 @@ You can apply, modify, even delete the same effect to multiple clips by first se
 
 The process of applying effects is the same for all effects you apply from the Effects Browser. In future articles I'll show you how to use this technique to create a wide variety of different effects in Final Cut Pro X.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -130,8 +132,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -139,5 +139,22 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-engaging-youtube-openings-and-closers-for-free/"><u>[New] 2024 Approved Creating Engaging YouTube Openings & Closers for Free</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-best-investments-elite-4k-dslr-mounting-solutions-for-2024/"><u>[New] Best Investments Elite 4K DSLR Mounting Solutions for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-netflix-archive-the-complete-guide-to-screencapturing-your-views/"><u>[Updated] Netflix Archive The Complete Guide to ScreenCapturing Your Views</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-the-power-of-social-proof-tips-to-amplify-brand-visibility/"><u>2024 Approved Unleashing the Power of Social Proof Tips to Amplify Brand Visibility</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209913712-9781982150433-a-kitchen-witchs-guide-to-recipes-for-love-romance/"><u>A Kitchen Witch's Guide to Recipes for Love & Romance | Free Book</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/banishing-black-edges-on-your-youtube-video-for-2024/"><u>Banishing Black Edges on Your YouTube Video for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-e13-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto E13 Fingerprint Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-song-rights-on-social-media-for-2024/"><u>Navigating Song Rights on Social Media for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-crack-open-the-savings-wondershare-filmora-easter-coupon-code-dont-miss-out/"><u>New In 2024, Crack Open the Savings Wondershare Filmora Easter Coupon Code - Dont Miss Out</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-sony-camcorder-video-editing-essentials-a-beginners-guide-to-pro-results/"><u>New In 2024, Sony Camcorder Video Editing Essentials A Beginners Guide to Pro Results</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-expert-approved-audio-editing-tools-top-10-list/"><u>Updated In 2024, Expert-Approved Audio Editing Tools Top 10 List</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-list-of-online-collage-makers-for-photos-and-videos/"><u>Updated In 2024, The Ultimate List of Online Collage Makers for Photos and Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-watch-share-repeat-the-best-movie-trailer-apps-for-iphone-and-ipad/"><u>Updated In 2024, Watch, Share, Repeat The Best Movie Trailer Apps for iPhone and iPad</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-simplify-avi-video-editing-16-top-avi-cutters-for-trimming-and-cutting-cross-platform-compatibility-for-2024/"><u>Updated Simplify AVI Video Editing 16 Top AVI Cutters for Trimming and Cutting Cross-Platform Compatibility for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-avi-video-editing-software-trim-cut-and-convert-on-any-platform-for-2024/"><u>Updated Top AVI Video Editing Software Trim, Cut, and Convert on Any Platform for 2024</u></a></li>
+</ul></div>
 

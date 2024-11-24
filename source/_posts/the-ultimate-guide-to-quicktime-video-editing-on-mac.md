@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to QuickTime Video Editing on Mac
-date: 2024-11-08T16:50:31.458Z
-updated: 2024-11-13T16:59:07.516Z
+date: 2024-11-22T19:13:21.155Z
+updated: 2024-11-24T02:52:12.681Z
 tags: 
   - video editing software
   - video editing
@@ -41,6 +41,10 @@ The QuickTime player was originally designed to play almost all types of multime
 * Control subtitles, languages and more options.
 * Includes picture viewers for JPEG, BMP and PNG.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Trim Video With QuickTime Player on Mac
 
 Trimming Videos in QuickTime video player is another simple feature. You can delete the beginning or end, or simply shorten the movie or clip.
@@ -50,10 +54,7 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2: Click here to edit > trim from the menu bar.
@@ -68,13 +69,6 @@ Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Split Video With QuickTime Player on Mac
 
 You can easily split your movie into separate clips if you want to. Then, if desired, you can modify these clips.
@@ -88,10 +82,7 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Rotate Video with QuickTime Player on Mac
@@ -128,13 +119,14 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -152,22 +144,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-direct-engagement-sharing-your-twitch-content-on-facebook/"><u>[Updated] 2024 Approved Direct Engagement Sharing Your Twitch Content on Facebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-freeze-the-frame-choose-the-best-9-gif-recipes-on-windows-systems/"><u>[Updated] 2024 Approved Freeze the Frame! Choose the Best 9 GIF Recipes on Windows Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-how-to-effortlessly-record-your-iphone-screen/"><u>[Updated] How to Effortlessly Record Your iPhone Screen</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-storytelling-on-snapchat-with-top-tips/"><u>2024 Approved Elevate Your Storytelling on Snapchat with Top Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/circumventing-error-0x80242016-for-updates/"><u>Circumventing Error 0X80242016 for Updates</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-edits-3-simple-transition-techniques-in-final-cut-pro/"><u>Elevate Your Edits 3 Simple Transition Techniques in Final Cut Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/high-definition-video-editing-made-easy-top-5-software/"><u>High-Definition Video Editing Made Easy Top 5 Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-3d-video-makers-free-and-paid/"><u>In 2024, Best 3D Video Makers Free and Paid</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-moto-g23-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Moto G23 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/is-avs-video-editor-the-best-choice-for-you/"><u>Is AVS Video Editor the Best Choice for You ?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/logo-animation-made-easy-top-free-tools-and-creative-insights-for-2024/"><u>Logo Animation Made Easy Top Free Tools and Creative Insights for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-rated-free-video-watermarking-programs-for-beginners/"><u>New 2024 Approved Top-Rated Free Video Watermarking Programs for Beginners</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unleash-your-creativity-top-video-collage-apps-for-iphone-and-ipad/"><u>New 2024 Approved Unleash Your Creativity Top Video Collage Apps for iPhone and iPad</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-vn-video-editor-pc-edition-a-brief-inspection/"><u>New 2024 Approved VN Video Editor PC Edition A Brief Inspection</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/roblox-loading-screen-loop-breakdown-a-comprehensive-guide-to-fixation-strategies/"><u>Roblox Loading Screen Loop Breakdown - A Comprehensive Guide to Fixation Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-setting-up-unknown-speakers-on-your-windows-11-pc/"><u>Step-by-Step Guide: Setting Up Unknown Speakers on Your Windows 11 PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-brother-scanner-software-a-guide-for-windows-users/"><u>Updating Your Brother Scanner Software: A Guide for Windows Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-pick-and-personalize-gospel-ringtones-effectively/"><u>[New] How to Pick and Personalize Gospel Ringtones Effectively</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-airpods-isolated-cure-strategies/"><u>[Updated] Airpods Isolated? Cure Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-5-excellent-gaming-keyboards-within-a-100-budget/"><u>[Updated] In 2024, 5 Excellent Gaming Keyboards Within a $100 Budget</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/best-free-design-resources-in-after-effects-land/"><u>Best Free Design Resources in After Effects Land</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-iphone-16-worth-it-expert-analysis-by-zdnet-editorial-team/"><u>Is the iPhone 16 Worth It? Expert Analysis by ZDNet Editorial Team</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-of-vignette-apps-for-mobile-free-paid-and-everything-in-between/"><u>New The Ultimate List of Vignette Apps for Mobile Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/online-foto-restauration-de-tweeenveertig-vragenstelsels-voor-herstellen-van-nieuwe-vooruitstreven/"><u>Online Foto-Restauration: De Tweeënveertig Vragenstelsels Voor Herstellen Van Nieuwe Vooruitstreven</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/things-that-make-fcp-one-of-the-best-tools-for-video-editing-needs-are-discussed-as-below/"><u>Things that Make FCP One of the Best Tools for Video Editing Needs Are Discussed as Below</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-fcp-voice-over-essentials-a-beginners-guide-to-success/"><u>Updated 2024 Approved FCP Voice Over Essentials A Beginners Guide to Success</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-5-best-free-3gp-video-rotators/"><u>Updated 2024 Approved Top 5 Best Free 3GP Video Rotators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-animated-logo-makers-top-picks-and-expert-design-tips/"><u>Updated In 2024, Free Animated Logo Makers Top Picks and Expert Design Tips</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-still-to-motion-10-top-image-to-video-maker-tools/"><u>Updated In 2024, From Still to Motion 10 Top Image to Video Maker Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nsvpdf-movavi/"><u>オンデマンドでフリーNSVファイルをPDFへ簡単変換 – Movaviのユニバーサルソリューション</u></a></li>
 </ul></div>
 

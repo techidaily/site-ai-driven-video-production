@@ -1,7 +1,7 @@
 ---
 title: New PC MP4 Editor for Windows 8 Simplify Your Video Editing Process for 2024
-date: 2024-11-08T16:37:16.154Z
-updated: 2024-11-13T17:33:49.784Z
+date: 2024-11-18T23:42:08.761Z
+updated: 2024-11-24T05:33:42.199Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,10 @@ In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Easily Edit MP4 Files on PC
 
 #### 1\.  Import your MP4 videos
@@ -56,6 +60,10 @@ Select a clip in the Timeline, drag the Indicator to where you want to split and
 
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
 
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
@@ -68,6 +76,10 @@ Click "Transition" tab on the main interface and drag one scene transition you l
 
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
 
 #### 3\.  Save edited MP4 video or share with the worldwide
@@ -76,11 +88,19 @@ MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) f
 
 ![edit mp4 in windows 8](https://images.wondershare.com/filmora/article-images/filmora9-export-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -97,26 +117,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-professional-techniques-for-streaming-and-recording-league-of-legends/"><u>[New] 2024 Approved Professional Techniques for Streaming and Recording League of Legends</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-the-ultimate-hits-for-tiktok-stardom-for-2024/"><u>[Updated] The Ultimate Hits for TikTok Stardom for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2023s-most-outstanding-smartphones-a-closer-look-at-leading-iphones/"><u>2023'S Most Outstanding Smartphones: A Closer Look at Leading iPhones</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-your-dell-latitude-e6420-driver-software-in-a-flash/"><u>Download & Update Your Dell Latitude E6420 Driver Software in a Flash</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhancing-engagement-with-dynamic-text-on-instagram-for-2024/"><u>Enhancing Engagement with Dynamic Text on Instagram for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experts-selection-17-programs-for-flawless-picture-editing-for-2024/"><u>Expert's Selection 17 Programs for Flawless Picture Editing for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-f34-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy F34 5G Face Lock?</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-best-5-tiktok-voice-generators-you-should-try/"><u>New 2024 Approved Best 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-maximize-your-workflow-the-10-best-video-editing-software-tools/"><u>New In 2024, Maximize Your Workflow The 10 Best Video Editing Software Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-top-webm-to-mp3-converters-you-need-to-know/"><u>New In 2024, The Top WebM to MP3 Converters You Need to Know</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-final-cut-pro-voice-over-secrets-boost-your-audio-game/"><u>Updated Final Cut Pro Voice Over Secrets Boost Your Audio Game</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-edit-like-a-pro-a-free-online-video-editing-course-using-jaycut/"><u>Updated In 2024, Edit Like a Pro A Free Online Video Editing Course Using Jaycut</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlocking-advanced-video-editing-picture-in-picture-in-final-cut-pro-for-2024/"><u>Updated Unlocking Advanced Video Editing Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-ultimate-checklist-what-makes-dji-phantom-4-special/"><u>[New] In 2024, The Ultimate Checklist What Makes DJI Phantom 4 Special?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-discord-profile-video-info-dimensions-codec-time-span/"><u>[Updated] In 2024, Discord Profile Video Info Dimensions, Codec, Time Span</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unveiling-the-startling-agility-of-boston-dynamics-newest-atlas-a-leap-in-robotic-innovation-techdigest/"><u>1. Unveiling the Startling Agility of Boston Dynamics' Newest Atlas: A Leap in Robotic Innovation | TechDigest</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-lenovo-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Lenovo</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-from-zero-to-hero-establishing-a-new-social-media-presence-facebook/"><u>In 2024, From Zero to Hero Establishing a New Social Media Presence (Facebook)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-adventure-the-best-6-gopro-mounts-revealed/"><u>In 2024, Mastering Adventure The Best 6 GoPro Mounts Revealed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-strategy-for-professional-srt-production/"><u>In 2024, Ultimate Strategy for Professional SRT Production</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-stay-up-to-date-with-the-latest-movie-trailers-top-ios-apps/"><u>New In 2024, Stay Up-to-Date with the Latest Movie Trailers Top iOS Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-stop-motion-mastery-on-instagram-from-basics-to-pro-for-2024/"><u>New Stop Motion Mastery on Instagram From Basics to Pro for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-free-audio-recording-software-in-depth-reviews/"><u>New The Best Free Audio Recording Software In-Depth Reviews</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/transform-your-invitations-best-video-creation-apps-for-mobile-for-2024/"><u>Transform Your Invitations Best Video Creation Apps for Mobile for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-printer-software-for-windows-11-easy-guide-and-links-to-download/"><u>Update Your HP Printer Software for Windows 11: Easy Guide and Links to Download</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unhappy-with-fcpx-find-your-new-favorite-video-editor-among-these-10-options/"><u>Updated 2024 Approved Unhappy with FCPX? Find Your New Favorite Video Editor Among These 10 Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-from-long-to-short-a-simple-guide-to-splitting-videos-in-windows-live-movie-maker/"><u>Updated From Long to Short A Simple Guide to Splitting Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-glitch-reboot-repeat-the-best-mobile-video-editing-apps/"><u>Updated In 2024, Glitch, Reboot, Repeat The Best Mobile Video Editing Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-adobe-premiere-guide-6-tips-for-smoother-faster-edits-for-2024/"><u>Updated The Ultimate Adobe Premiere Guide 6 Tips for Smoother, Faster Edits for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

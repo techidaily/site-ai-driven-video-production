@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro Color Correction Tips, Tricks, and Techniques
-date: 2024-08-02T04:04:16.448Z
-updated: 2024-08-03T04:04:16.448Z
+date: 2024-11-20T08:37:50.886Z
+updated: 2024-11-24T09:37:55.094Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 
 # Color Correction in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -48,9 +45,6 @@ The steps below can help all beginners to develop easy video edited projects usi
 * [How to Correct Color in iMovie >>](https://tools.techidaily.com/wondershare/filmora/download/)
 * [Color Correction and Color Grading >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Methods to Correct Color in Final Cut Pro
 
 Those who wish to use FCP for color signal editing need to follow these steps:
@@ -69,30 +63,33 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
 ![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3
 
@@ -110,26 +107,29 @@ Now it is time to work on color correction directly. There are three types of co
 
 ![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 4
 
 It is possible to preview all the corrections on the original image before making them final. Simple hit the arrow with left-facing formation in the top left corner of the Color Board and then return to the video inspector. Hit on the Blue box to switch between correction On and Off options.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -138,5 +138,21 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-exclusive-win-audio-experience/"><u>[New] In 2024, Exclusive Win Audio Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-master-your-mobile-communications-skype-and-zoom-on-android/"><u>[New] Master Your Mobile Communications Skype & Zoom on Android</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-face-fluidity-techniques-implementing-motion-blur-effects/"><u>[Updated] Face Fluidity Techniques Implementing Motion Blur Effects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-practical-steps-in-mastering-telegram-web-services-for-2024/"><u>[Updated] Practical Steps in Mastering Telegram Web Services for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-screen-clarity-advanced-zoom-techniques/"><u>[Updated] Unlocking Screen Clarity Advanced Zoom Techniques</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-13-pro-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 13 Pro?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-instant-blackout-elegance/"><u>In 2024, Instant Blackout Elegance</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-animated-top-7-drawing-software-for-bringing-your-ideas-to-life/"><u>New In 2024, Get Animated! Top 7 Drawing Software for Bringing Your Ideas to Life</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-the-most-out-of-your-gopro-mac-video-editing-essentials/"><u>New In 2024, Get the Most Out of Your GoPro Mac Video Editing Essentials</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-reaction-video-mastery-the-top-tools-and-software-for-2024/"><u>New Reaction Video Mastery The Top Tools and Software for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-web-based-video-editing-platforms-for-vertical-content-creators/"><u>New Web-Based Video Editing Platforms for Vertical Content Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-0x80070643-update-installation-hurdles-effective-strategies/"><u>Overcoming Windows 0X80070643 Update Installation Hurdles: Effective Strategies</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-art-of-professional-video-production-a-beginners-guide-to-success-for-2024/"><u>The Art of Professional Video Production A Beginners Guide to Success for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-how-to-remove-filmora-watermark-after-exporting-read-this-article-to-find-out-the-details-of-removing-the-filmora-watermark-even-without-pay/"><u>Updated In 2024, How to Remove Filmora Watermark After Exporting? Read This Article to Find Out the Details of Removing the Filmora Watermark Even without Paying</u></a></li>
+</ul></div>
 

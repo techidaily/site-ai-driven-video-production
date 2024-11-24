@@ -1,7 +1,7 @@
 ---
 title: FCPX Title Tutorial From Basics to Advanced Techniques for 2024
-date: 2024-08-02T04:03:29.657Z
-updated: 2024-08-03T04:03:29.657Z
+date: 2024-11-18T04:40:33.316Z
+updated: 2024-11-23T18:17:48.161Z
 tags: 
   - video editing software
   - video editing
@@ -68,9 +68,6 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
@@ -83,9 +80,6 @@ Select and delete that full-screen title.
 
 There's one more way to apply a title: dragging from the Titles Browser.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles006.jpg)
 
 Click the Title icon in the Toolbar. This displays the contents of the Title Browser. The column on the left displays title categories, the icons on the right indicate individual titles, the search box at the bottom allows you to search for specific titles by name, while the number in the lower right indicates the number of titles currently displayed. (Your number may not match mine because I've added a few custom titles to my system.)
@@ -96,9 +90,6 @@ Let's add a totally ridiculous title to our turtle - drag Clouds from the Title 
 
 NOTE: I'm using a marker in the Timeline to help me find the same place in a clip so my screen shots are consistent. Markers are not needed in any way for titles.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles008.jpg)
 
 Um, yeah. So, some titles look more professional than others... You can delete this title now.
@@ -123,9 +114,6 @@ All text, in any title, can be changed by double-clicking it in the Viewer to se
 
 #### FORMATTING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 You can format any text that you can select. This means that you can format entire phrases, words, or individual letters differently. For this article, I will format everything the same, because once you know how this works, you can experiment on your own.
@@ -134,9 +122,6 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
@@ -153,9 +138,6 @@ While many of these settings you already know there are a few you may not:
 * Tracking. Adjusts the horizontal spacing between letters.
 * Baseline. Adjusts the vertical spacing of text compared to the horizontal line running thru the center of the white circle in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles013.jpg)
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
@@ -176,16 +158,10 @@ While much of today's video is designed for the web, your titles will look the b
 
 Titles015
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles015.jpg)
 
 Go to the Switch in the Viewer and select "Show Action Safe/Title Safe Zones."
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles016.jpg)
 
 This displays two pale rectangles in the frame. The outer rectangle is called "Action Safe," the inner one is called "Title Safe." Action Safe is 5% in from all edges; Title Safe is 10% in from all edges.
@@ -206,8 +182,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -215,5 +189,26 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-free-youtube-outro-kings-6-top-suggestions/"><u>[New] In 2024, Free YouTube Outro Kings 6 TOP Suggestions!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking/"><u>[New] In 2024, The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-zoom-mastery-maximizing-your-podcast-recording-quality/"><u>[New] In 2024, Zoom Mastery Maximizing Your Podcast Recording Quality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-90-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor 90 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-avatar-architecture-your-uncomplicated-guide-to-virtual-existence/"><u>2024 Approved Avatar Architecture Your Uncomplicated Guide to Virtual Existence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-expert-reviews-top-5-high-performance-video-devices/"><u>2024 Approved Expert Reviews Top 5 High-Performance Video Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-dilemma-of-directing-advanced-ai-systems-effectively/"><u>The Dilemma of Directing Advanced AI Systems Effectively</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-redmi-note-13-proplus-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi Redmi Note 13 Pro+ 5G Phones</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-free-vob-video-editors-for-pc-and-mac/"><u>Top-Rated Free VOB Video Editors for PC and Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-from-footage-to-film-the-best-software-for-burning-home-dvds/"><u>Updated 2024 Approved From Footage to Film The Best Software for Burning Home DVDs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-a-comprehensive-compilation-of-top-10-affordable-browser-based-daws/"><u>Updated A Comprehensive Compilation of Top 10 Affordable Browser-Based DAWs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-adobe-premiere-pro-vs-after-effects-a-side-by-side-comparison-for-2024/"><u>Updated Adobe Premiere Pro vs After Effects A Side-by-Side Comparison for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-looking-beyond-fcpx-top-10-video-editing-software-options/"><u>Updated In 2024, Looking Beyond FCPX Top 10 Video Editing Software Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-zero-cost-video-editors-for-cutting-and-merging-videos/"><u>Updated In 2024, The Best Zero-Cost Video Editors for Cutting and Merging Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-transform-your-videos-top-free-and-paid-android-video-editing-apps/"><u>Updated Transform Your Videos Top Free and Paid Android Video Editing Apps</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

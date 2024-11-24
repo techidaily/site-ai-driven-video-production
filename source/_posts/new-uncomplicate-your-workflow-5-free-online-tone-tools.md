@@ -1,7 +1,7 @@
 ---
 title: New Uncomplicate Your Workflow 5 Free Online Tone Tools
-date: 2024-11-08T20:51:16.034Z
-updated: 2024-11-13T21:24:36.189Z
+date: 2024-11-21T16:37:27.166Z
+updated: 2024-11-23T19:09:50.290Z
 tags: 
   - video editing software
   - video editing
@@ -44,11 +44,19 @@ You can find a number of different options on this website that range from the P
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/onlinetonegenerator-online-tone-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can insert any frequency value you want or choose between **Sine, Square, Sawtooth and Triangle wave type options**. The volume bar lets you control how loud the tone you’re generating is. The **Play and Stop** buttons enable you to start or pause the playback whenever you want, while the **Save** button lets you **download** the tone you created.
 
 #### 2. [Audio Test File Generators](https://www.audiocheck.net/audiofrequencysignalgenerator%5Findex.php)
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Generating Sweep, Dual or Sine tones** with this online tool is easy, as you simply have to select the type of tone you want to generate. All sound files you can find on this platform are accurately calibrated, and you can adjust their frequency and amplitude. Clicking on any of the links available in the Tone Gen section of this website will take you to another page where you can adjust the properties of a tone before downloading it.
 
@@ -82,13 +90,14 @@ There are **four wave types** you can choose from that generate different types 
 
 ![ Online Tone Generator ](https://images.wondershare.com/filmora/article-images/gieson-tone-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -100,10 +109,7 @@ What is your favorite method of generating tones? Leave a comment below and let 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -121,21 +127,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-conquer-iphone-podcast-downloads-a-step-by-step-guidebook/"><u>[New] 2024 Approved Conquer iPhone Podcast Downloads – A Step-by-Step Guidebook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-speed-with-premium-controller-add-ons/"><u>[Updated] 2024 Approved Mastering Speed with Premium Controller Add-Ons</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/creating-urban-marvels-on-mars-an-entertaining-adventure-of-whirlwinds-and-fun/"><u>Creating Urban Marvels on Mars: An Entertaining Adventure of Whirlwinds & Fun</u></a></li>
-<li><a href="https://article-posts.techidaily.com/filmmaking-with-ease-decoding-common-video-editing-hurdles-in-filmora-for-2024/"><u>Filmmaking with Ease Decoding Common Video Editing Hurdles in Filmora for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-use-and-access-video-clips-with-moveavi-a-comprehensive-guide/"><u>How to Use and Access Video Clips with MoveAVI - A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/mac-and-pc-the-ultimate-youtube-audio-extractor-with-video-downloading-capabilities/"><u>Mac & PC: The Ultimate YouTube Audio Extractor with Video Downloading Capabilities</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-create-stunning-intros-on-your-pc-top-10-maker-tools-for-2024/"><u>New Create Stunning Intros on Your PC Top 10 Maker Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-easy-video-flipping-tips-and-tricks-for-a-pro-look/"><u>New Easy Video Flipping Tips and Tricks for a Pro-Look</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-from-digital-to-physical-burning-videos-to-dvds-on-windows-and-mac/"><u>New From Digital to Physical Burning Videos to DVDs on Windows and Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-from-slow-to-go-speeding-up-videos-in-quicktime-player-for-2024/"><u>New From Slow to Go Speeding Up Videos in QuickTime Player for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-game-on-top-10plus-websites-for-free-game-downloads/"><u>New Game On! Top 10+ Websites for Free Game Downloads</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-get-ready-to-rewind-top-slow-motion-video-players/"><u>New Get Ready to Rewind Top Slow Motion Video Players</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-get-the-best-view-16-free-avi-video-rotators-for-perfect-orientation-on-any-device/"><u>New Get the Best View 16 Free AVI Video Rotators for Perfect Orientation on Any Device</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-share-smiles-and-photos-iphones/"><u>[New] In 2024, Share Smiles & Photos (iPhones)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-step-by-step-guide-enhancing-youtube-content-with-ios-recording/"><u>2024 Approved Step-by-Step Guide Enhancing YouTube Content with iOS Recording</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-580-graphics-card-update-made-easy-secure-and-upgrade-your-drivers-today/"><u>AMD RX 580 Graphics Card Update Made Easy: Secure and Upgrade Your Drivers Today</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-bargains-comparing-cloud-storage-prices-for-2024/"><u>Best Bargains Comparing Cloud Storage Prices for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/677627-9780857010179-chinese-medical-qigong/"><u>Chinese Medical Qigong | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratis-en-gemakkelijk-wav-naar-m4a-konverteren-online-service-by-movavi/"><u>Gratis en Gemakkelijk Wav Naar M4a Konverteren - Online Service by Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y17s-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-install-splice-video-editor-on-your-mac/"><u>New In 2024, Install Splice Video Editor on Your Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-ultimate-guide-to-choosing-the-best-highlight-reel-software/"><u>New In 2024, Ultimate Guide to Choosing the Best Highlight Reel Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-green-screen-editing-a-review-of-the-top-software-choices/"><u>New Mac Green Screen Editing A Review of the Top Software Choices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-music-infused-video-editors-for-android-and-ios-best-picks/"><u>New Music-Infused Video Editors for Android and iOS Best Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-of-3d-video-makers-free-paid-and-in-between/"><u>New The Ultimate List of 3D Video Makers Free, Paid, and In-Between</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unlocking-adobe-premiere-a-step-by-step-guide-to-video-import-and-export-for-2024/"><u>New Unlocking Adobe Premiere A Step-by-Step Guide to Video Import and Export for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/prime-windows-11-photo-inspector-for-2024/"><u>Prime Windows 11 Photo Inspector for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/techniques-pour-assurer-la-synchroneutration-de-fichiers-sur-un-reseau-local-entre-pcs/"><u>Techniques Pour Assurer La Synchroneutration De Fichiers Sur Un Reseau Local Entre PCs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-video-editing-tools-for-kids-free-and-paid-options/"><u>Updated 2024 Approved Top Video Editing Tools for Kids Free and Paid Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-art-of-discretion-blurring-faces-in-video-editing/"><u>Updated In 2024, The Art of Discretion Blurring Faces in Video Editing</u></a></li>
 </ul></div>
 

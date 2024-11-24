@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-11-14T01:58:11.563Z
-updated: 2024-11-14T22:34:48.577Z
+date: 2024-11-19T06:00:19.067Z
+updated: 2024-11-24T06:00:43.037Z
 tags: 
   - video editing software
   - video editing
@@ -52,6 +52,10 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
@@ -63,13 +67,6 @@ You should remember that the fades appear at the beginning and the end of each c
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -88,10 +85,11 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,10 +99,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -121,10 +116,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -142,22 +134,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-influencer-innovation-the-top-5-instagram-tactics-for-maximum-impact/"><u>[New] 2024 Approved Influencer Innovation The Top 5 Instagram Tactics for Maximum Impact</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-ultimate-snapchat-plus-twitter-duo-video-posting-guide-for-2024/"><u>[New] The Ultimate Snapchat + Twitter Duo (Video Posting Guide) for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-jotting-down-just-a-minute-movie/"><u>[Updated] Jotting Down Just a Minute Movie</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-through-facebook-gif-downloads-across-platforms/"><u>2024 Approved Navigating Through Facebook GIF Downloads Across Platforms</u></a></li>
-<li><a href="https://fox-access.techidaily.com/essential-low-light-techniques-for-iphone/"><u>Essential Low-Light Techniques for iPhone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-6s-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 6s From Your Apple ID</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-discover-the-best-12-cameras-to-elevate-your-vlogs/"><u>In 2024, Discover the Best 12 Cameras to Elevate Your Vlogs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-all-new-galaxy-z-flip-n-samsungs-revolutionary-addition-to-the-flip-phone-lineup/"><u>Introducing the All-New Galaxy Z Flip N: Samsung's Revolutionary Addition to the Flip Phone Lineup</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-windows-video-editing-software-that-rivals-sony-vegas/"><u>New 2024 Approved Windows Video Editing Software That Rivals Sony Vegas</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-avi-video-editing-on-a-budget-top-5-free-options-for-2024/"><u>New AVI Video Editing on a Budget Top 5 Free Options for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-best-adobe-premiere-pro-extensions-for-video-editing-free-and-paid-for-2024/"><u>New Best Adobe Premiere Pro Extensions for Video Editing - Free & Paid for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-compressor-in-fcpx-expert-techniques-for-professional-results-for-2024/"><u>New Compressor in FCPX Expert Techniques for Professional Results for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-cut-trim-and-shine-top-free-online-video-editors-revealed-for-2024/"><u>New Cut, Trim, and Shine Top Free Online Video Editors Revealed for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-video-editing-game-top-5-final-cut-pro-tips-and-tricks-for-2024/"><u>New Elevate Your Video Editing Game Top 5 Final Cut Pro Tips and Tricks for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-from-avi-to-mp4-how-to-cast-any-video-file-to-chromecast-for-2024/"><u>New From AVI to MP4 How to Cast Any Video File to Chromecast for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-from-basic-to-brilliant-top-premiere-pro-transition-plugins/"><u>New From Basic to Brilliant Top Premiere Pro Transition Plugins</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-showdown-of-corporate-and-casual-online-communities/"><u>The Ultimate Showdown of Corporate and Casual Online Communities</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamline-your-skype-experience-with-obs-recordings/"><u>[New] In 2024, Streamline Your Skype Experience with OBS Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-start-to-recording-iphone-memos-for-2024/"><u>[Updated] Quick Start to Recording iPhone Memos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-initiating-instagram-live-shows/"><u>2024 Approved Step-by-Step Initiating Instagram Live Shows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/eliminate-blur-in-zoom-calls-actionable-strategies-for-2024/"><u>Eliminate Blur in Zoom Calls – Actionable Strategies for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-on-amds-hd-6950-drivers-now-available-for-w11/"><u>Game On! AMD's HD 6950 Drivers Now Available for W11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/handpicked-handsets-exclusive-look-at-the-smartphones-beloved-editors/"><u>Handpicked Handsets: Exclusive Look at the Smartphones Beloved Editors</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ios-and-android-youtube-autoplay-tricks/"><u>IOS & Android YouTube AutoPlay Tricks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-video-editing-tools-for-young-creators-free-and-paid-options/"><u>New In 2024, Top Video Editing Tools for Young Creators Free and Paid Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-slideshow-mastery-a-step-by-step-guide-to-final-cut-pro/"><u>New Slideshow Mastery A Step-by-Step Guide to Final Cut Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-of-the-best-top-ipad-video-editing-software/"><u>New The Best of the Best Top iPad Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-windows-10-video-editing-made-easy-top-imovie-alternatives-for-2024/"><u>New Windows 10 Video Editing Made Easy Top iMovie Alternatives for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-solitary-producers-guide-to-viral-audio-success/"><u>The Solitary Producer's Guide to Viral Audio Success</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-your-creativity-the-best-time-lapse-video-editing-software/"><u>Updated 2024 Approved Unleash Your Creativity The Best Time-Lapse Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-flv-files-with-ease-top-windows-8-video-editing-software/"><u>Updated Edit FLV Files with Ease Top Windows 8 Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-elevate-your-animation-game-top-software-for-beginners-intermediates-and-experts/"><u>Updated Elevate Your Animation Game Top Software for Beginners, Intermediates, and Experts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-rising-stars-of-lego-animation-top-makers-for-2024/"><u>Updated Rising Stars of Lego Animation Top Makers for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-10-free-online-video-loopers/"><u>Updated Top 10 Free Online Video Loopers</u></a></li>
 </ul></div>
 
