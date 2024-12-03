@@ -1,7 +1,7 @@
 ---
 title: Updated Smoother Skin in Minutes A Plugin-Free FCPX Editing Technique for 2024
-date: 2024-11-09T22:20:00.071Z
-updated: 2024-11-13T19:28:18.003Z
+date: 2024-12-01T04:52:26.916Z
+updated: 2024-12-02T03:55:38.115Z
 tags: 
   - video editing software
   - video editing
@@ -55,6 +55,10 @@ step3Now, go to the top of the Inspector and turn on the blue checkbox next to G
 ![Skin_Smoother_Effect_3](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_3.jpg)
 
 For better results, add a Vignette by selecting and combining the two clips into a Compound Clip. From the Effects Browser, select Stylize > Vignette and adjust drag the vignette. Now, customize the compound clip settings in the Inspector pane until you achieve your desired look. Compare the results between two images before and after editing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Where to Find Good Skin Smoother Plugins?
 
@@ -114,26 +118,13 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
@@ -142,11 +133,19 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
 3. Open the toolbar, click the Advanced Color Tuning icon, go to the advanced color tuning window, and adjust the white balance, color tint and temperature, HSL, 3D LUT, Vignette, and Light. If you are a beginner, try applying the present templates.
 4. To set a specific tone or beautify your video, open the Tools tab and click the Color Correction option to change the color tones.
 5. Open Effects and Transitions and select the skin smooth filter. Hover the cursor over the filter and click the plus icon in the middle to add that effect. You can also apply the effect to the whole clip by dragging and dropping it directly onto the video clip.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to smooth skin in Adobe Pro?
 
@@ -168,13 +167,6 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -190,24 +182,15 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-ios-pro-and-plus-free-film-apps-unveiled/"><u>[New] 2024 Approved Top iOS Pro & Plus-Free Film Apps - Unveiled</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-maximizing-aerial-excellence-with-optimal-motor-selections/"><u>[New] Maximizing Aerial Excellence with Optimal Motor Selections</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-precision-in-converting-videos-sdr-to-hdr-video-enhancement-techniques/"><u>[New] Precision in Converting Videos SDR to HDR Video Enhancement Techniques</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x-flip-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X Flip to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-backdrop-change-kit-pixelpioneers-reveal/"><u>In 2024, Ultimate Backdrop Change Kit PixelPioneer's Reveal</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 15 Plus</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-play-video-in-reverse-using-final-cut-pro-2023-update-for-2024/"><u>New How to Play Video in Reverse Using Final Cut Pro 2023 Update for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-tiktok-watermark-removal-online/"><u>New The Ultimate Guide to TikTok Watermark Removal Online</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/nikon-video-workflow-efficient-editing-for-stunning-results/"><u>Nikon Video Workflow Efficient Editing for Stunning Results</u></a></li>
-<li><a href="https://fox-links.techidaily.com/pathways-of-file-formats-navigating-from-srt-to-others-for-2024/"><u>Pathways of File Formats Navigating From SRT to Others for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/forming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing/"><u>Transforming YouTube Content Advanced Strategies to Perfect Videos After Publishing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-linux-on-chrome-os-a-step-by-step-installation-guide-updated-2023/"><u>Updated 2024 Approved Linux on Chrome OS A Step-by-Step Installation Guide (Updated 2023)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-new-year-new-animations-the-10-best-2d-animation-software/"><u>Updated 2024 Approved New Year, New Animations The 10 Best 2D Animation Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-guide-to-running-windows-and-mac-os-video-editing-apps-on-chrome-os/"><u>Updated In 2024, The Ultimate Guide to Running Windows and Mac OS Video Editing Apps on Chrome OS</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-mp4-video-information-editors-best-choices/"><u>Updated MP4 Video Information Editors Best Choices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/videoleap-for-macbook-download-install-and-edit-like-a-pro/"><u>Videoleap for MacBook Download, Install, and Edit Like a Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/windows-10-webcam-recording-essentials-top-10-software-picks/"><u>Windows 10 Webcam Recording Essentials Top 10 Software Picks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-gopros-latest-camera-face-off/"><u>[New] 2024 Approved GoPro's Latest Camera Face-Off</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-15-funny-jokes-on-tiktok-for-giggles/"><u>[Updated] 15 Funny Jokes on TikTok for Giggles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfecting-the-bokeh-aesthetic-for-social-media-posts-for-2024/"><u>[Updated] Perfecting the Bokeh Aesthetic for Social Media Posts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-privacy-first-sending-your-personal-youtube-link-via-google-for-2024/"><u>[Updated] Privacy First Sending Your Personal YouTube Link via Google for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/get-creative-with-instagram-stop-motion-a-comprehensive-tutorial-for-2024/"><u>Get Creative with Instagram Stop Motion A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-ditch-gopro-studio-top-video-editing-software-for-action-cameras/"><u>In 2024, Ditch GoPro Studio Top Video Editing Software for Action Cameras</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-avi-video-rotation-tools-compare-the-best-options-for-windows-mac-mobile-and-online/"><u>In 2024, Free AVI Video Rotation Tools Compare the Best Options for Windows, MAC, Mobile & Online</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/macvideoeditor-for-2024/"><u>MacVideoEditor for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-social-media-whizs-playbook-analyzing-user-behavior-with-insta-insights-for-2024/"><u>The Social Media Whiz's Playbook Analyzing User Behavior with Insta Insights for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-15-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 15 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
 

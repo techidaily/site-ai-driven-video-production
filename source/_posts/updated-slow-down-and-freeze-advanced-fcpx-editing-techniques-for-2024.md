@@ -1,7 +1,7 @@
 ---
 title: Updated Slow Down and Freeze Advanced FCPX Editing Techniques for 2024
-date: 2024-11-12T19:11:41.066Z
-updated: 2024-11-13T19:45:14.878Z
+date: 2024-11-29T08:59:03.672Z
+updated: 2024-12-01T18:06:21.305Z
 tags: 
   - video editing software
   - video editing
@@ -50,6 +50,10 @@ Adjust the duration of the frame by trimming the edge; just like any other clip.
 
 ![freeze frames in FCP X](https://images.wondershare.com/multimedia/speed004.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In case you were wondering, this is what the freeze looks like. It freezes the flight of the hummingbird in the middle of playback, allowing us to add graphics or other text then resume the action as though nothing had happened.
 
 Very cool, except....
@@ -65,6 +69,10 @@ Put the playhead (or skimmer, but I prefer the playhead) on the frame you want t
 This locates the source clip in the Browser, selects both the Browser and the clip, and matches the position of the In, Out, and playhead.
 
 ![match clips](https://images.wondershare.com/multimedia/speed006.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, with the Browser selected, type Option+F. This creates a freeze-frame of the Browser clip and places it at the location of the playhead as a connected clip in the Timeline.
 
@@ -94,6 +102,10 @@ Add a speed ramp transition at the end of the Hold frame by clicking the downwar
 
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
 
 NOTE: Changing the source frame is a feature that I like a LOT!
@@ -122,17 +134,29 @@ Three things happen at once:
 
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
 There are two ways to change the speed of a clip.
 
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
 
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This opens a new dialog allowing a number of changes:
 
@@ -165,6 +189,10 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 #### SUMMARY
@@ -188,24 +216,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-gaining-ground-on-the-groundswell-of-online-viewers/"><u>[New] In 2024, Gaining Ground on the Groundswell of Online Viewers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pcs-best-vr-top-10-immersive-360-video-players/"><u>[New] PC's Best VR Top 10 Immersive 360 Video Players</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-youtube-exposure-with-ongoing-creative-commons-compliance/"><u>[Updated] Maximizing YouTube Exposure with Ongoing Creative Commons Compliance</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-maximizing-viewership-igtv-video-scaling-hacks/"><u>2024 Approved Maximizing Viewership IGTV Video Scaling Hacks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-xsplit-index-download-and-evaluation-guide/"><u>In 2024, XSplit Index Download & Evaluation Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-nord-n30-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your OnePlus Nord N30 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-watermark-free-videos-how-to-remove-filmora-branding-with-or-without-paying/"><u>New In 2024, Watermark-Free Videos How to Remove Filmora Branding with or without Paying</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-transform-your-videos-a-comprehensive-guide-to-time-lapses-in-final-cut-pro-for-2024/"><u>New Transform Your Videos A Comprehensive Guide to Time Lapses in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/swift-techniques-for-shifting-iphone-media-to-pc/"><u>Swift Techniques for Shifting iPhone Media to PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-apples-latest-security-bulletin-are-iphone-users-vulnerable-to-mercenary-hacking-tactics/"><u>Understanding Apple's Latest Security Bulletin: Are iPhone Users Vulnerable to Mercenary Hacking Tactics?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-a-standout-video-resume-4-best-tools-with-free-templates/"><u>Updated Create a Standout Video Resume 4 Best Tools with Free Templates</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-no-watermark-video-combining-tools-top-7-picks/"><u>Updated In 2024, No-Watermark Video Combining Tools Top 7 Picks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-seamlessly-convert-and-download-pinterest-videos-as-mp3/"><u>[New] How to Seamlessly Convert and Download Pinterest Videos as MP3</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-win10-touchscreen-driver-fixes/"><u>Effortless Win10 TouchScreen Driver Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-independent-professionals-mastering-chatgpt-for-work-efficiency/"><u>Empowering Independent Professionals: Mastering ChatGPT for Work Efficiency</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-xiaomi-redmi-note-12-4g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Xiaomi Redmi Note 12 4G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>In 2024, Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-bring-your-videos-to-life-a-step-by-step-guide-to-the-ken-burns-effect-in-final-cut-pro/"><u>New 2024 Approved Bring Your Videos to Life A Step-by-Step Guide to the Ken Burns Effect in Final Cut Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-crop-resize-and-refine-mastering-video-editing-with-avidemux/"><u>New 2024 Approved Crop, Resize, and Refine Mastering Video Editing with Avidemux</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-download-the-best-video-editor-for-mac-splice-video-editor/"><u>New 2024 Approved Download the Best Video Editor for Mac Splice Video Editor</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-fcpx-tutorial-elevate-your-edits-with-l-cuts-and-j-cuts/"><u>New 2024 Approved FCPX Tutorial Elevate Your Edits with L-Cuts and J-Cuts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-mastering-video-import-and-export-in-adobe-premiere-pro/"><u>New 2024 Approved Mastering Video Import and Export in Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unleash-your-creativity-how-to-make-a-professional-looking-video-from-photos/"><u>New 2024 Approved Unleash Your Creativity How to Make a Professional-Looking Video From Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-popular-meme-ideas-for-every-occasion/"><u>Top Popular Meme Ideas for Every Occasion</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/yl-software-expertise-ensuring-hardware-compatibility-step-by-step/"><u>YL Software Expertise: Ensuring Hardware Compatibility Step-by-Step</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

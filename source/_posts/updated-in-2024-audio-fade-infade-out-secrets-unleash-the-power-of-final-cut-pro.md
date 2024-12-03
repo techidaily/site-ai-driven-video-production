@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2024-11-19T07:40:47.380Z
-updated: 2024-11-24T10:37:49.654Z
+date: 2024-11-26T23:19:27.082Z
+updated: 2024-12-01T20:51:38.721Z
 tags: 
   - video editing software
   - video editing
@@ -52,17 +52,21 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
@@ -85,11 +89,11 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -99,7 +103,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -114,10 +118,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,20 +134,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-innovation-and-performance-metrics-for-top-screen-recorders-featuring-apeaksoft/"><u>[Updated] 2024 Approved Innovation and Performance Metrics for Top Screen Recorders, Featuring Apeaksoft</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-fine-tune-your-cinematography-mastering-kinemaster-zoom-features/"><u>[Updated] Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/breaking-news-will-you-have-to-pay-for-windows-10-updates-find-out-what-microsoft-plans-and-pricing-details/"><u>Breaking News: Will You Have to Pay for Windows 10 Updates? Find Out What Microsoft Plans and Pricing Details!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/discover-the-13-ultimate-free-dvd-players-supporting-windows-11-systems/"><u>Discover the 13 Ultimate Free DVD Players Supporting Windows 11 Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-smart-7-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Smart 7 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-accelerate-your-videos-10-free-speed-changer-apps-for-ios-and-android/"><u>In 2024, Accelerate Your Videos 10 Free Speed Changer Apps for iOS and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-bring-your-videos-to-life-the-magic-of-cartoon-conversion-explained/"><u>In 2024, Bring Your Videos to Life The Magic of Cartoon Conversion Explained</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-estimating-24-hour-films-data-footprint/"><u>In 2024, Estimating 24-Hour Film's Data Footprint</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-itel-a60s-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Itel A60s To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mobile-reaction-video-creation-top-tools-and-apps/"><u>In 2024, Mobile Reaction Video Creation Top Tools and Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-art-of-video-resizing-tips-for-perfect-proportions/"><u>In 2024, The Art of Video Resizing Tips for Perfect Proportions</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-stop-motion-software-for-windows-and-macos/"><u>In 2024, Top-Rated Stop Motion Software for Windows and macOS</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-adobe-premiere-rush-not-for-you-try-these-top-4-alternatives-instead/"><u>New 2024 Approved Adobe Premiere Rush Not for You? Try These Top 4 Alternatives Instead</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/loop-triumph-repeat-your-favorite-video-anytime-on-tv/"><u>Tele-Loop Triumph Repeat Your Favorite Video Anytime on TV</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlock-czech-ease-through-effective-online-learning/"><u>Unlock Czech Ease Through Effective Online Learning</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-quick-tips-extracting-and-keeping-gif-tweets/"><u>[New] In 2024, Quick Tips Extracting and Keeping GIF Tweets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-10-excellent-cost-free-video-meeting-solutions/"><u>[Updated] 10 Excellent, Cost-Free Video Meeting Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-exploring-free-video-options-vlc-meets-mpc/"><u>[Updated] 2024 Approved Exploring Free Video Options VLC Meets MPC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-fb-advertising-with-a-focus-on-video-content/"><u>[Updated] 2024 Approved Mastering FB Advertising with a Focus on Video Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-auditory-nexus-studio-mac-essentials/"><u>[Updated] In 2024, The Auditory Nexus Studio Mac Essentials</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/comparing-echo-dot-and-homepod-mini-key-features-and-differences/"><u>Comparing Echo Dot and HomePod Mini - Key Features & Differences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-correcting-the-oversized-pagefilesys-problem-in-your-system/"><u>Guide to Correcting the Oversized Pagefile.sys Problem in Your System</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-27-authentic-french-phrases-for-fluency/"><u>Unveiling 27 Authentic French Phrases for Fluency</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-get-steady-the-best-free-video-stabilization-websites/"><u>Updated 2024 Approved Get Steady The Best Free Video Stabilization Websites</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-mp4-videos-on-your-windows-8-pc-a-beginners-guide-for-2024/"><u>Updated Edit MP4 Videos on Your Windows 8 PC A Beginners Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-7-essential-software-for-creating-stunning-animation-drawings/"><u>Updated In 2024, 7 Essential Software for Creating Stunning Animation Drawings</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-get-started-with-video-editing-a-microsoft-tutorial-for-windows-10-8-and-7/"><u>Updated In 2024, Get Started with Video Editing A Microsoft Tutorial for Windows 10, 8, and 7</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-10-best-cartoon-video-editing-apps-for-2024/"><u>Updated The Ultimate List 10 Best Cartoon Video Editing Apps for 2024</u></a></li>
 </ul></div>
 

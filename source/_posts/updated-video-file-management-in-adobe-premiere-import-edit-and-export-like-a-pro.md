@@ -1,7 +1,7 @@
 ---
 title: Updated Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro
-date: 2024-09-29T23:22:43.166Z
-updated: 2024-09-30T16:53:19.521Z
+date: 2024-11-26T04:25:38.416Z
+updated: 2024-12-01T19:06:10.489Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ This is a basic tutorial about Adobe Premiere, professional video editing softwa
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Importing
 
 There are two main ways to import media into Premiere, the import command and the media browser. They do things slightly differently and have uses they are both best suited to, here we will look at the process itself and which method to use in a given situation.
@@ -54,6 +58,10 @@ Whilst on the surface media browser appears to do the same job as the import com
 
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The media browser panel is found in the project panel, which on the standard layout is the bottom left corner, and can also be accessed by the Shift+8 shortcut. As you can see from the screenshot it works like an operating system file browser and allows you to navigate through the file directories of hard drives and removable media connected to the system.
 
 One of the benefits of media browser is to narrow down the type of media being shown, so you can set to avchd for instance and it will display just that type of file in a given location. Because many projects use media from different sources this can be a real boon to finding the right file within a list.
@@ -67,16 +75,7 @@ There are some exceptions to this, however, despite having a huge number of file
 [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) offers an easy way to convert any file you may have into media that Premiere can use quickly and efficiently, and is a great tool to have alongside premiere if you commonly work with multiple file types.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Exporting
@@ -87,23 +86,9 @@ To export a project that closely matches the original media in quality and frame
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Which opens the media export dialogue.
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Selecting 'Match Sequence Settings' here creates a finished file that matches the quality of the original source media. Then you simply choose a suitable name for the file in the Output Name field, and click export. This creates in essence a digital clone of the sequence, and best practice is to always do this for any project, however, for many projects, this is not necessarily the format you would want the final product to be in, those concentrating on YouTube output, or someone wanting to author a DVD for instance will need other options.
 
@@ -112,10 +97,7 @@ Thankfully Premiere caters here as well. Instead of selecting the 'Match Sequenc
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Depending on which format you choose. The preset below will allow you to choose a wide range of output settings to suit the intended platform. For instance, selecting  format brings up a huge number of presets for various Tablets and Phones, but also for Vimeo and YouTube, which is why it is one of the most common output formats. Here's a look at some of the presets available from the menu.
@@ -129,6 +111,10 @@ The other common requirement is for DVD or Blu-Ray files. Whilst you need access
 With the addition of [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) you have a workflow that can ingest and export any type of media file you will ever come across with the minimum of fuss.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -145,19 +131,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-conquerors-of-the-past-the-prime-7-battle-simulations/"><u>[New] In 2024, Conquerors of the Past The Prime 7 Battle Simulations</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-innovative-strategies-for-vimeo-video-recording/"><u>[Updated] 2024 Approved Innovative Strategies for Vimeo Video Recording</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-fun-filled-photography-how-to-use-lens-on-snapchat-for-playfulness/"><u>[Updated] Fun-Filled Photography How To Use Lens on Snapchat for Playfulness</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fascinating-topic-titling-system/"><u>2024 Approved Fascinating Topic Titling System</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-the-significance-of-leaked-social-media-data/"><u>Deciphering the Significance of Leaked Social Media Data</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-missing-vcruntime140dll-file-issue-a-comprehensive-guide/"><u>Fixing the 'Missing VCRUNTIME140.dll File' Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/how-to-optimize-your-media-with-simple-video-spin-techniques-in-vlc/"><u>How to Optimize Your Media with Simple Video Spin Techniques in VLC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-ongoing-problem-of-watch-dogs-legion-not-running-smoothly-on-your-computer/"><u>How to Resolve the Ongoing Problem of Watch Dogs: Legion Not Running Smoothly on Your Computer</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-10-free-online-glitch-art-makers-for-2024/"><u>New Top 10 Free Online Glitch Art Makers for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-s-top-rated-cartoon-video-editors-for-newbies/"><u>Updated 2024 Approved S Top Rated Cartoon Video Editors for Newbies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-the-best-top-gaming-websites-for-pc-game-downloads-for-2024/"><u>Updated The Best of the Best Top Gaming Websites for PC Game Downloads for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-10-windows-10-photos-replacements-you-need-to-try/"><u>Updated Top 10 Windows 10 Photos Replacements You Need to Try</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/video-editing-mastery-top-3-4k8k-software-solutions-for-2024/"><u>Video Editing Mastery Top 3 4K/8K Software Solutions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-rethinking-color-dynamics-in-videography-with-hdrs-introduction/"><u>[New] 2024 Approved Rethinking Color Dynamics in Videography with HDR's Introduction</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-broadcast-your-games-with-professional-skill/"><u>[New] Broadcast Your Games with Professional Skill</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-conquer-the-digital-landscape-10-steps-towards-dominating-smm/"><u>[Updated] In 2024, Conquer the Digital Landscape 10 Steps Towards Dominating SMM</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-step-by-step-journey-to-fcp-mastery/"><u>[Updated] Step-By-Step Journey to FCP Mastery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-stream-like-a-pro-on-youtube-best-webcams-reviewed-for-2024/"><u>[Updated] Stream Like a Pro on YouTube Best Webcams Reviewed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-user-interface-and-functionality-app-checkup/"><u>[Updated] User Interface & Functionality App Checkup</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-meme-crafters-guide-to-kinemaster/"><u>2024 Approved Meme Crafters' Guide to KineMaster</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tricks-to-optimize-live-streaming-of-your-snapchat-content/"><u>2024 Approved Tricks to Optimize Live Streaming of Your Snapchat Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-repairing-user-profile-and-authentication-problems-in-windows-11/"><u>Guide to Repairing User Profile and Authentication Problems in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-honor-v-purse-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Honor V Purse</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-watermark-free-videos-how-to-remove-filmora-branding-with-or-without-paying/"><u>New In 2024, Watermark-Free Videos How to Remove Filmora Branding with or without Paying</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-10-animated-text-tools-you-need-to-try-this-year/"><u>New Top 10 Animated Text Tools You Need to Try This Year</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-transform-your-videos-a-comprehensive-guide-to-time-lapses-in-final-cut-pro-for-2024/"><u>New Transform Your Videos A Comprehensive Guide to Time Lapses in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-a-swift-review-of-vn-video-editors-pc-version/"><u>Updated 2024 Approved A Swift Review of VN Video Editors PC Version</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-a-standout-video-resume-4-best-tools-with-free-templates/"><u>Updated Create a Standout Video Resume 4 Best Tools with Free Templates</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-final-cut-pro-color-grading-essentials/"><u>Updated Final Cut Pro Color Grading Essentials</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-elevate-your-video-game-top-4k8k-video-editing-solutions/"><u>Updated In 2024, Elevate Your Video Game Top 4K/8K Video Editing Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-no-watermark-video-combining-tools-top-7-picks/"><u>Updated In 2024, No-Watermark Video Combining Tools Top 7 Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-your-chromebooks-potential-how-to-install-linux/"><u>Updated Unlock Your Chromebooks Potential How to Install Linux</u></a></li>
 </ul></div>
 

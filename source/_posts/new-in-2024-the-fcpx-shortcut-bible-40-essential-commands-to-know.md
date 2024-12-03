@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The FCPX Shortcut Bible 40 Essential Commands to Know
-date: 2024-11-10T16:02:56.435Z
-updated: 2024-11-13T18:48:12.295Z
+date: 2024-11-28T21:45:03.852Z
+updated: 2024-12-02T00:20:20.619Z
 tags: 
   - video editing software
   - video editing
@@ -101,6 +101,10 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 * **What to do when the shortcuts in FCPX not working?**
@@ -117,6 +121,10 @@ Above are the top useful shortcuts that I used most when editing videos in Final
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -132,31 +140,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/esigning-youtube-ads-that-grab-attention-a-compreeher-guide/"><u>[New] Designing Youtube Ads That Grab Attention A Compreeher Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-masterful-use-of-digital-boards-in-web-meetings-across-appleandroid-and-laptops-for-2024/"><u>[New] Masterful Use of Digital Boards in Web Meetings Across Apple/Android & Laptops for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-to-earn-facebooks-trusted-prestigious-symbol-for-2024/"><u>How to Earn Facebook's Trusted, Prestigious Symbol for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-extended-scrutiny-gopro-slr4-black-edition-model/"><u>In 2024, Extended Scrutiny GoPro SLR4 Black Edition Model</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-breaking-free-from-g/"><u>New In 2024, Breaking Free From G</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-pro-grade-video-editor-unleash-the-potential-of-your-everyday-videos/"><u>New In 2024, Pro-Grade Video Editor Unleash the Potential of Your Everyday Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-vllo-mac-download-plus-top-alternative-choices/"><u>New VLLO Mac Download Plus, Top Alternative Choices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/outriders-visuals-refined-the-blurry-effect-corrected/"><u>Outriders' Visuals Refined: The Blurry Effect Corrected</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-cut-and-split-wmv-videos-for-free-top-software-picks/"><u>Updated 2024 Approved Cut and Split WMV Videos for Free Top Software Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-replace-sony-vegas-discover-the-best-video-editing-software-for-windows/"><u>Updated 2024 Approved Replace Sony Vegas Discover the Best Video Editing Software for Windows</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-video-to-live-photo-best-apps-and-step-by-step-guides-for-2024/"><u>Updated Video to Live Photo Best Apps and Step-by-Step Guides for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/verifying-true-dolby-atmos-effects-are-they-living-up-to-the-hype/"><u>Verifying True Dolby Atmos Effects: Are They Living Up to the Hype?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-client-speeches-transforming-marketing-narratives/"><u>[Updated] Client Speeches Transforming Marketing Narratives</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-high-speed-windows-photo-explorer-tool-for-2024/"><u>[Updated] High-Speed Window's Photo Explorer Tool for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-echoes-of-connection-amplifying-discussions-on-youtube/"><u>2024 Approved Echoes of Connection Amplifying Discussions on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/captureeverything-a-deep-dive-into-laptop-recording-for-2024/"><u>CaptureEverything A Deep Dive Into Laptop Recording for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-expert-techniques-for-manipulating-iphone-photos/"><u>In 2024, Expert Techniques for Manipulating iPhone Photos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-lava-yuva-3-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Lava Yuva 3 Pro online without jailbreak</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-itel-a60s-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Itel A60s Phone? Unlock It Now</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-ipad-video-editing-apps-expert-recommendations/"><u>New Best iPad Video Editing Apps Expert Recommendations</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-content-5-top-notch-reaction-video-makers/"><u>New Elevate Your Content 5 Top-Notch Reaction Video Makers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-fcp-in-the-spotlight-10-renowned-movies-made-with-final-cut-pro/"><u>New FCP in the Spotlight 10 Renowned Movies Made with Final Cut Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-fcp-x-post-production-expert-chroma-keying-and-color-grading/"><u>New FCP X Post-Production Expert Chroma Keying and Color Grading</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-color-workflow-efficient-and-effective-for-2024/"><u>New Final Cut Pro Color Workflow Efficient and Effective for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-essentials-working-with-ken-burns-effect-for-engaging-videos/"><u>New Final Cut Pro Essentials Working with Ken Burns Effect for Engaging Videos</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

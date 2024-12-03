@@ -1,7 +1,7 @@
 ---
 title: Unleash the 80S Easy VHS Effects for Final Cut Pro Users for 2024
-date: 2024-11-08T22:55:26.694Z
-updated: 2024-11-13T16:36:01.020Z
+date: 2024-11-27T14:43:13.424Z
+updated: 2024-12-01T18:11:14.328Z
 tags: 
   - video editing software
   - video editing
@@ -29,6 +29,10 @@ These days, nostalgia for the 1990s appears to be in fashion. VHS effects are am
 Fortunately, you don't have to reshoot your video using an analog camera and transfer the movie to a VCR video format to achieve the effect of an old recording (with the date on the screen, tracking lines, and other telltale indications). It's made up of a few similar layers with slightly different Effects and a fun overlay layer to give it that tubular, radical '90s vibe.
 
 In this article, you will learn how to add VHS effects to a video in Final Cut Pro X, how to use VHS video effects, and some common VHS filter choices to use in your next project, so keep reading:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part1: How to do VHS effect in FCPX?
 
@@ -80,6 +84,10 @@ Go back to the search bar and type Color Correction. Drag and drop this effect t
 
 ![color_correction_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/color_correction_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on Exposure and adjust the Highlights, Midtones, and Shadow. Go to the Saturation option and lower it. Now go to the Color and adjust the tint of your video by changing the Global option. Also, adjust the Highlights, Midtones, and Shadows. Wait for a few minutes for it to render.
 
 After your video is rendered, you will get the final results using the VHS filter in Final Cut Pro. Your video will look like it was made in a VCR Video format.
@@ -98,6 +106,10 @@ To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
 * Select the Black Color.
@@ -115,28 +127,27 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now search for the **Strong Glitch effect**.
 
@@ -147,10 +158,7 @@ Go to Effect, and in the search bar, type **VHS**.
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
@@ -202,10 +210,7 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
@@ -222,13 +227,6 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -244,24 +242,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-affordable-panoramic-cameras-revolutionizing-media-production/"><u>[New] 2024 Approved Affordable Panoramic Cameras Revolutionizing Media Production</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-uniting-friends-across-operating-systems-with-skype-groups/"><u>[New] Uniting Friends Across Operating Systems with Skype Groups</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-boost-your-instagram-vids-visibility/"><u>[Updated] 2024 Approved How to Boost Your Instagram Vids' Visibility</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-social-media-sensations-tiktoks-top-10-tweets/"><u>[Updated] In 2024, Social Media Sensations TikTok's Top 10 Tweets</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-insiders-handbook-to-whatsapp-hidden-features/"><u>[Updated] In 2024, The Insider's Handbook to WhatsApp Hidden Features</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-entry-level-exploration-into-visual-frameworks/"><u>2024 Approved Entry-Level Exploration Into Visual Frameworks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-and-powerful-discover-how-copilot-harnesses-gpt-4-turbo-like-never-before/"><u>Free and Powerful: Discover How Copilot Harnesses GPT-4 Turbo Like Never Before!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-reno-9a-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Reno 9A in Minutes | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-discover-how-these-15-advanced-facebook-gadgets-boost-e-commerce-sale-traffic/"><u>In 2024, Discover How These 15 Advanced Facebook Gadgets Boost E-Commerce Sale Traffic</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ating-lawful-practices-for-screenshotting-youtube-videos-for-2024/"><u>Navigating Lawful Practices for Screenshotting YouTube Videos for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-movie-magic-for-all-a-comprehensive-guide-to-producing-high-quality-videos/"><u>New In 2024, Movie Magic for All A Comprehensive Guide to Producing High-Quality Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-s-top-picks-android-video-editor-apps-compatible-with-chromebook/"><u>New S Top Picks Android Video Editor Apps Compatible with Chromebook</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/reviewing-vn-video-editor-the-ultimate-video-editing-app-for-2024/"><u>Reviewing VN Video Editor The Ultimate Video Editing App for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/sony-vegas-vs-adobe-premiere-which-one-is-better/"><u>Sony Vegas VS Adobe Premiere, Which One Is Better?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-pinnacle-studio-alternatives-on-mac/"><u>The Ultimate Guide to Pinnacle Studio Alternatives on Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-create-a-stunning-animated-logo-for-free-11-top-tools-and-tricks/"><u>Updated 2024 Approved Create a Stunning Animated Logo for Free 11 Top Tools and Tricks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-easily-blur-video-backgrounds-or-faces-with-these-top-apps/"><u>Updated In 2024, Easily Blur Video Backgrounds or Faces with These Top Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-windows-8-avi-editor-a-simple-way-to-edit-and-enhance-videos/"><u>Updated In 2024, Windows 8 AVI Editor A Simple Way to Edit and Enhance Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-quality-movie-maker-turn-everyday-video-clips-into-a-high-quality-movie-for-2024/"><u>Updated Quality Movie Maker Turn Everyday Video Clips Into a High Quality Movie for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cultivating-connection-not-compulsion-in-subscriptions-for-2024/"><u>[New] Cultivating Connection, Not Compulsion in Subscriptions for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-the-secrets-to-youtube-shorts-template-creation/"><u>[Updated] 2024 Approved Unveiling the Secrets to YouTube Shorts Template Creation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-wwdc-unpacked-diving-deeper-into-visionos-2-updates-and-what-they-mean-for-tech-enthusiasts-zdnet-insights/"><u>Apple WWDC Unpacked: Diving Deeper Into VisionOS 2 Updates & What They Mean for Tech Enthusiasts | ZDNET Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-through-concealed-numbers-a-comprehensive-guide/"><u>Connecting Through Concealed Numbers – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/convertir-videos-mpeg-gratuitamente-en-linea-usando-el-servicio-innovador-de-convertidor-movavi-guia-paso-a-paso-e-impecable-calidad/"><u>Convertir Videos MPEG Gratuitamente en Línea Usando El Servicio Innovador De Convertidor Movavi: Guía Paso a Paso E Impecable Calidad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-achieve-higher-scores-in-subway-surfers-using-these-10-pro-tips-and-hacks/"><u>Expert Advice: Achieve Higher Scores in Subway Surfers Using These 10 Pro Tips and Hacks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/free-and-fabulous-best-video-special-effects-apps-for-iphone-and-android-for-2024/"><u>Free and Fabulous Best Video Special Effects Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-y27-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo Y27 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unleashing-the-power-of-xml-in-final-cut-pro-x/"><u>In 2024, Unleashing the Power of XML in Final Cut Pro X</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/microsoft-unveils-windows-11-latest-feature-pack-exclusive-ai-enhancements-and-rollout-details-on-zdnet/"><u>Microsoft Unveils Windows 11 Latest Feature Pack: Exclusive AI Enhancements & Rollout Details on ZDNet</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-boost-your-workflow-10-free-fcpx-plugin-favorites/"><u>New 2024 Approved Boost Your Workflow 10 Free FCPX Plugin Favorites</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-video-editors-for-4k-proxy-workflow-2023-edition/"><u>New 2024 Approved Top Video Editors for 4K Proxy Workflow 2023 Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/sweet-surveillance-guide-to-recording-summer-treats-for-2024/"><u>Sweet Surveillance Guide to Recording Summer Treats for 2024</u></a></li>
 </ul></div>
 

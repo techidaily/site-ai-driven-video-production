@@ -1,7 +1,7 @@
 ---
 title: Turn Your Videos Into Treasures A Guide to Creating Home DVDs
-date: 2024-09-24T21:09:51.357Z
-updated: 2024-09-30T22:40:37.410Z
+date: 2024-11-24T17:25:33.640Z
+updated: 2024-12-02T01:06:26.748Z
 tags: 
   - video editing software
   - video editing
@@ -28,17 +28,29 @@ Life is beautiful but time flies. To memorize those moments you don't want to fo
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Make a Home Movie with Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a easy-to-use home video editing software with special editing features. With it, you can seamlessly stitch together video clips, music & text, apply effects to get a professional-looking home movie in minutes. Here is how:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 1\. Import and add media files
 
 To make a home movie using Wondershare Filmora (originally Wondershare Video Editor), first you need to import videos, photos and audio to the album for later use. After running the software, choose 16:9 or 4:3 ratio, and a window like below will pop up. Click Import to select videos, audio and photos from your computer.
 
 ![import media](https://images.wondershare.com/filmora/article-images/video-editor-main-interface-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Edit and personalize your home movie
 
@@ -51,11 +63,19 @@ Video Editor enables you to easily personalize the movie.
 * To add intro/credit, pick up your desired template, drag it between every two clips.  
 ![add transitions](https://images.wondershare.com/filmora/article-images/transitions-filmora9-mac.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. Save and share the movie
 
 ![Filmora Export Output](https://images.wondershare.com/filmora/article-images/export-output.jpg)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After making the home movie, click the "Export" button on the middle right of the program window, you'll have plenty of options to export the movie. For example, you can save it on your computer or upload to YouTube, as well as burn it to DVD.
 
@@ -80,27 +100,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-nextgen-video-havens-step-away-from-youtube/"><u>[Updated] In 2024, NextGen Video Havens - Step Away From YouTube</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-transforming-vision-into-visual-impact-on-tiktok-via-templates/"><u>[Updated] In 2024, Transforming Vision Into Visual Impact on TikTok via Templates</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-potential-career-exploration-in-design/"><u>[Updated] Unleashing Potential Career Exploration in Design</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-iphone-productivity-how-to-connect-chatgpt-to-siri/"><u>Enhancing iPhone Productivity: How to Connect ChatGPT to Siri</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y78-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y78 5G?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-magic-5-lite-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor Magic 5 Lite Phones</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-mov-video-clipper-top-6-software-for-you/"><u>New In 2024, Free MOV Video Clipper Top 6 Software for You</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/reduce-video-size-online-10-best-free-compression-tools-for-2024/"><u>Reduce Video Size Online 10 Best Free Compression Tools for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-hitch-successful-activation-of-vanguard-skin-in-valorant-gameplay/"><u>Resolving the Hitch: Successful Activation of Vanguard Skin in Valorant Gameplay</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-stop-wasting-time-exclusive-filmora-discounts-inside/"><u>Updated 2024 Approved Stop Wasting Time Exclusive Filmora Discounts Inside</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-videos-for-free-top-14-watermark-free-software/"><u>Updated Edit Videos for Free Top 14 Watermark-Free Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-10-best-free-chroma-key-apps-for-mobile-devices-updated-2023/"><u>Updated In 2024, 10 Best Free Chroma Key Apps for Mobile Devices (Updated 2023)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-watermark-your-videos-for-free-best-software-options/"><u>Updated In 2024, Watermark Your Videos for Free Best Software Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-chromecast-how-to-play-any-video-file-format-for-2024/"><u>Updated Unlock Chromecast How to Play Any Video File Format for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-vegas-or-premiere-choosing-the-best-video-editing-software-for-you-for-2024/"><u>Updated Vegas or Premiere? Choosing the Best Video Editing Software for You for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-evaluating-fraps-as-a-screen-grab-pro/"><u>[Updated] 2024 Approved Evaluating Fraps as a Screen Grab Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ace-tiktok-live-leveraging-zoom-capabilities/"><u>Ace TikTok Live Leveraging Zoom Capabilities</u></a></li>
+<li><a href="https://win-trending.techidaily.com/continue-receiving-free-windows-10-updates-no-extra-charge/"><u>Continue Receiving Free Windows 10 Updates – No Extra Charge</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-embarking-on-a-shared-tiktok-experience-your-instructional-path/"><u>In 2024, Embarking on a Shared TikTok Experience Your Instructional Path</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/in-depth-solutions-for-non-functional-speakers-in-windows-10-environments/"><u>In-Depth Solutions for Non-Functional Speakers in Windows 10 Environments</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mkvtoolnix-for-mac-the-easiest-way-to-edit-videos-for-2024/"><u>New MKVtoolnix for Mac The Easiest Way to Edit Videos for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-stream-movie-trailers-anywhere-best-ios-apps/"><u>New Stream Movie Trailers Anywhere Best iOS Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/painting-with-light-the-art-of-selective-hue-enhancement/"><u>Painting with Light The Art of Selective Hue Enhancement</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-expert-approved-4k-video-editing-software-the-top-choices/"><u>Updated Expert-Approved 4K Video Editing Software The Top Choices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-10plus-best-video-editing-apps-for-kids/"><u>Updated In 2024, 10+ Best Video Editing Apps for Kids</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-fake-face-creators-top-picks-for-online-identity-design/"><u>Updated In 2024, Fake Face Creators Top Picks for Online Identity Design</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-color-grading-tutorial-final-cut-pro-edition/"><u>Updated In 2024, The Ultimate Color Grading Tutorial Final Cut Pro Edition</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-say-goodbye-to-watermarks-7-top-video-merger-apps-for-2024/"><u>Updated Say Goodbye to Watermarks 7 Top Video Merger Apps for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-easiest-way-to-convert-4k-video-to-mp4-for-offline-viewing/"><u>Updated The Easiest Way to Convert 4K Video to MP4 for Offline Viewing</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Shrink Your Timeline A Simple Guide to Creating Time Lapse Videos for 2024
-date: 2024-11-09T17:35:47.702Z
-updated: 2024-11-13T18:14:57.462Z
+date: 2024-11-28T02:20:30.750Z
+updated: 2024-12-02T09:58:14.690Z
 tags: 
   - video editing software
   - video editing
@@ -61,6 +61,10 @@ After installing and launch Filmora video editor, import the shot time lapse pho
 
 ![text overlay](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can also import the photos from the video shooting device. Just plug in the video camera, click **Import from Phone or Camera** option in Import menu, and then transfer the target media files to Filmora.
 
 After that, you need to select and drag and drop all the photos to the first video track.
@@ -75,6 +79,10 @@ Select one of the photos in the timeline and right click on it to select **Speed
 
 ![ Photo Timelapse video ](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
 
 #### 4 Export your new video
@@ -86,10 +94,7 @@ If you want to save and play your video on iPhone, iPod, iPad and other devices,
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Speed Up to Make a Time lapse Video
@@ -107,10 +112,7 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3 Speed up to create time lapse video
@@ -118,13 +120,6 @@ Next, drag your video onto the video column in the timeline. Select the loaded v
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 4 Export your new time lapse video
 
@@ -139,10 +134,7 @@ That’s how to make a cool time lapse video with the time lapse video software 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -160,20 +152,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-100-safe-sources-for-legitimate-tiktok-growth/"><u>[New] 2024 Approved 100% Safe Sources for Legitimate TikTok Growth</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-amazons-social-stardom-liking-and-viewing-leaderships/"><u>[New] In 2024, Amazon's Social Stardom Liking and Viewing Leaderships</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-navigating-the-pathway-to-royalty-free-images/"><u>[Updated] 2024 Approved Navigating the Pathway to Royalty-Free Images</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-ultimate-windows-art-apps-review-dollar-free-to-charged/"><u>[Updated] In 2024, Ultimate Windows Art Apps Review Dollar-Free to Charged</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-sony-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Sony Phone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-add-subtitlescaptions-in-final-cut-pro-x/"><u>New How to Add Subtitles/Captions in Final Cut Pro X?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-video-editing-freedom-how-to-use-any-app-on-your-chromebook-updated-2023-for-2024/"><u>New Video Editing Freedom How to Use Any App on Your Chromebook (Updated 2023) for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-what-to-use-instead-of-virtualdub-best-video-editing-tools/"><u>New What to Use Instead of VirtualDub Best Video Editing Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Tecno Camon 20 Premier 5G.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-fix-winerror-code-0x80780119/"><u>Step-By Step to Fix WinError Code: 0X80780119</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-core-dll-files-on-your-pc/"><u>Troubleshooting Missing Core DLL Files on Your PC</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-advanced-fcpx-editing-l-cuts-j-cuts-and-expert-audio-tips/"><u>Updated 2024 Approved Advanced FCPX Editing L-Cuts, J-Cuts, and Expert Audio Tips</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-breaking-free-from-g/"><u>Updated 2024 Approved Breaking Free From G</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-eliminate-unwanted-sound-a-step-by-step-guide-to-noise-reduction-in-fcpx-for-2024/"><u>Updated Eliminate Unwanted Sound A Step-by-Step Guide to Noise Reduction in FCPX for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-list-best-animation-software-for-android-and-ios/"><u>Updated In 2024, The Ultimate List Best Animation Software for Android and iOS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-essential-asmr-mics-for-optimal-audio-experience/"><u>[New] 2024 Approved Essential ASMR Mics for Optimal Audio Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-podcasting-tech-updates-unveiled/"><u>[New] 2024 Approved Podcasting Tech Updates Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-first-flight-fun-best-easy-to-use-drones-for-2024/"><u>[Updated] First Flight Fun Best Easy-to-Use Drones for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-monetary-system-monthly-or-quarterly/"><u>2024 Approved YouTube's Monetary System Monthly or Quarterly?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-windows-10s-photos-app-a-guide-to-adding-text-to-visual-content/"><u>In 2024, Leveraging Windows 10'S Photos App A Guide to Adding Text to Visual Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/introducing-apples-enhanced-logic-pro-artificial-intelligence-bandmates-for-ipad-and-mac-the-latest-update-explained/"><u>Introducing Apple's Enhanced Logic Pro: Artificial Intelligence Bandmates for iPad & Mac - The Latest Update Explained</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-multimedia-a-detailed-review-of-video-editors-for-2024/"><u>Mastering Multimedia A Detailed Review of Video Editors for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-ipad-video-editing-apps-top-picks-for-for-2024/"><u>New Best iPad Video Editing Apps Top Picks For for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-compress-mpeg2-videos-like-a-pro-a-virtualdub-tutorial-for-2024/"><u>New Compress MPEG2 Videos Like a Pro A VirtualDub Tutorial for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-create-engaging-videos-online-with-wevideo/"><u>New Create Engaging Videos Online with WeVideo</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-mp4-video-editing-software-with-cutting-capabilities-for-2024/"><u>New Free MP4 Video Editing Software with Cutting Capabilities for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-up-space-how-to-convert-your-dvds-to-digital-video-files/"><u>New Free Up Space How to Convert Your DVDs to Digital Video Files</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-sketch-to-screen-the-top-7-animation-software/"><u>New From Sketch to Screen The Top 7 Animation Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-get-started-with-final-cut-pro-flipping-videos-made-easy/"><u>New Get Started with Final Cut Pro Flipping Videos Made Easy</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-get-started-with-wax-a-free-video-editor-for-stunning-videos/"><u>New Get Started with Wax A Free Video Editor for Stunning Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209971577-9781989840061-the-lily-nurse/"><u>The Lily Nurse | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
 </ul></div>
 

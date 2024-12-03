@@ -1,7 +1,7 @@
 ---
 title: New The Great DVR Debate TiVo vs Comcasts Features and Pricing
-date: 2024-11-19T17:24:36.957Z
-updated: 2024-11-24T07:52:39.825Z
+date: 2024-11-30T17:50:41.996Z
+updated: 2024-12-01T18:08:41.297Z
 tags: 
   - video editing software
   - video editing
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  Let’s look at a few of the main features of both so you can do a comparison. We’ll look at five factors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. TiVo vs Comcast: Cost and rent versus own
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
@@ -61,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  TiVos also recognize SD and HD as just different versions of the same show, instead of different channels like Comcast does, so you can set your DVR to just record HD. This makes it somewhat harder to just record HD on a TiVo.
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. TiVo vs Comcast: Connection to a network
 
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. TiVo vs Comcast: Recording capacity
 
  The new TiVo, the Roamio, has as many as six tuners that can record at the same time with up to 150 hours of high definition programming. You’ll never have another scheduling conflict again!
@@ -98,12 +94,16 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
@@ -118,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Summary**
 
  What it all comes down to is looking at how you use your TV, where you get your sources from, and what your budget is. Each device has its own set of things that are appealing, and its own drawbacks. For flexibility of being able to use multiple sources and devices, the TiVo is the clear winner. For cost in the long run, it’s almost a draw. For ease of connection to a TV, the Comcast box comes out on top. No matter which one you pick, you’ll never run out of great programs to watch.
@@ -129,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -145,17 +145,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-9-prime-live-streaming-venues-for-gamers/"><u>[New] 9 Prime Live Streaming Venues for Gamers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-a-complete-guide-to-crafting-best-in-class-yt-thumbnails/"><u>[New] In 2024, A Complete Guide to Crafting Best-in-Class YT Thumbnails</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-make-a-cool-youtube-video-intro-in-imovie/"><u>[New] In 2024, How to Make a Cool YouTube Video Intro in iMovie?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-pro-3-the-new-standard-for-action-video-recording-by-ion/"><u>[New] Pro 3 - The New Standard for Action Video Recording by ION</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-perfect-playtime-how-to-take-great-xbox-one-shots/"><u>2024 Approved A Perfect Playtime How to Take Great Xbox One Shots</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-m4a-editing-solutions-top-5-software/"><u>In 2024, Free M4A Editing Solutions Top 5 Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-vn-video-editor-pro-apk-a-professional-level-video-editing-experience/"><u>In 2024, VN Video Editor Pro Apk A Professional-Level Video Editing Experience?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/merge-mpeg-videos-for-free-top-5-programs/"><u>Merge MPEG Videos for Free Top 5 Programs</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-cool-video-editor-how-to-add-cool-effects-to-video/"><u>New 2024 Approved Cool Video Editor How to Add Cool Effects to Video</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723001188252-troubleshooting-continuous-freezing-in-sony-vegas-pro-solutions-inside/"><u>Troubleshooting Continuous Freezing in Sony Vegas Pro - Solutions Inside</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-converting-movies-into-dvds-using-nero-burning-rom/"><u>Ultimate Guide: Converting Movies Into DVDs Using Nero Burning ROM</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-12plus-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 12+ 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-ultimate-video-creation-top-8-linux-apps/"><u>[New] 2024 Approved Ultimate Video Creation Top 8 Linux Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-best-translation-devices-to-subtitle-videos/"><u>[New] In 2024, Best Translation Devices to Subtitle Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-structuring-engaging-online-vignettes/"><u>[Updated] Structuring Engaging Online Vignettes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-lost-your-tiktok-progress-refresh-reversed/"><u>2024 Approved Lost Your TikTok Progress? Refresh Reversed</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-5-best-realistic-text-to-speech-ai-voice-generators-you-may-like-for-2024/"><u>New 5 Best Realistic Text to Speech AI Voice Generators You May Like for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-compressor-settings-in-fcpx-for-2024/"><u>New The Ultimate Guide to Compressor Settings in FCPX for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-president-has-the-power-to-veto-legislation-which-can-be-overridden-only-by-a-two-thirds-majority-in-both-houses/"><u>The President Has the Power to Veto Legislation, Which Can Be Overridden only by a Two-Thirds Majority in Both Houses.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-converting-videos-to-live-photos-on-mobile/"><u>The Ultimate Guide to Converting Videos to Live Photos on Mobile</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-amazon-prime-day-offers-in-october-2024-top-picks-and-savings/"><u>Unbeatable Amazon Prime Day Offers in October 2024: Top Picks & Savings</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unwatermark-your-tiktok-videos-with-these-proven-tools/"><u>Updated 2024 Approved Unwatermark Your TikTok Videos with These Proven Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-video-editing-on-a-shoestring-best-software-for-2024/"><u>Updated Video Editing on a Shoestring Best Software for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/wrc-10-fixes-how-to-play-the-fifa-2018-world-rally-game-without-issues-on-your-computer/"><u>WRC 10 Fixes: How to Play the FIFA 2018 World Rally Game Without Issues on Your Computer</u></a></li>
 </ul></div>
 

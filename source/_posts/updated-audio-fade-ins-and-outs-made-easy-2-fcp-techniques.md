@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-11-19T06:00:19.067Z
-updated: 2024-11-24T06:00:43.037Z
+date: 2024-11-25T08:52:49.445Z
+updated: 2024-12-02T04:56:36.447Z
 tags: 
   - video editing software
   - video editing
@@ -44,6 +44,10 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -53,7 +57,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
@@ -63,6 +67,10 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
@@ -84,14 +92,6 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -99,7 +99,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -116,7 +116,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,24 +134,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamline-your-skype-experience-with-obs-recordings/"><u>[New] In 2024, Streamline Your Skype Experience with OBS Recordings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-start-to-recording-iphone-memos-for-2024/"><u>[Updated] Quick Start to Recording iPhone Memos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-initiating-instagram-live-shows/"><u>2024 Approved Step-by-Step Initiating Instagram Live Shows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/eliminate-blur-in-zoom-calls-actionable-strategies-for-2024/"><u>Eliminate Blur in Zoom Calls – Actionable Strategies for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/game-on-amds-hd-6950-drivers-now-available-for-w11/"><u>Game On! AMD's HD 6950 Drivers Now Available for W11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/handpicked-handsets-exclusive-look-at-the-smartphones-beloved-editors/"><u>Handpicked Handsets: Exclusive Look at the Smartphones Beloved Editors</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/ios-and-android-youtube-autoplay-tricks/"><u>IOS & Android YouTube AutoPlay Tricks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-video-editing-tools-for-young-creators-free-and-paid-options/"><u>New In 2024, Top Video Editing Tools for Young Creators Free and Paid Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-slideshow-mastery-a-step-by-step-guide-to-final-cut-pro/"><u>New Slideshow Mastery A Step-by-Step Guide to Final Cut Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-of-the-best-top-ipad-video-editing-software/"><u>New The Best of the Best Top iPad Video Editing Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-windows-10-video-editing-made-easy-top-imovie-alternatives-for-2024/"><u>New Windows 10 Video Editing Made Easy Top iMovie Alternatives for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-solitary-producers-guide-to-viral-audio-success/"><u>The Solitary Producer's Guide to Viral Audio Success</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-your-creativity-the-best-time-lapse-video-editing-software/"><u>Updated 2024 Approved Unleash Your Creativity The Best Time-Lapse Video Editing Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-flv-files-with-ease-top-windows-8-video-editing-software/"><u>Updated Edit FLV Files with Ease Top Windows 8 Video Editing Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-elevate-your-animation-game-top-software-for-beginners-intermediates-and-experts/"><u>Updated Elevate Your Animation Game Top Software for Beginners, Intermediates, and Experts</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-rising-stars-of-lego-animation-top-makers-for-2024/"><u>Updated Rising Stars of Lego Animation Top Makers for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-10-free-online-video-loopers/"><u>Updated Top 10 Free Online Video Loopers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-10-strategies-for-accessing-nfl-games-online/"><u>[Updated] 2024 Approved Top 10 Strategies for Accessing NFL Games Online</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-make-a-gif-from-vimeo-video/"><u>2024 Approved How to Make a GIF From Vimeo Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-windows-10-to-adjust-display-luminance-after-a-glitch-expert-tips/"><u>Getting Windows 10 to Adjust Display Luminance After a Glitch - Expert Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-k70-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi K70 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-5-best-hd-hunting-cameras-reviewed/"><u>In 2024, 5 Best HD Hunting Cameras Reviewed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-asus-rog-phone-8-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Asus ROG Phone 8 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-iphone-xeasy-simple-guide-to-screen-capture/"><u>In 2024, IPhone Xeasy Simple Guide to Screen Capture</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-video-blur-apps-on-iphone-and-android-facebackground/"><u>New In 2024, Best Video Blur Apps on iPhone and Android Face/Background</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-yosemite-video-editing-101-a-beginners-tutorial-for-mac-os-x-for-2024/"><u>New Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-the-latest-apple-watch-series-10-at-only-99-by-pre-ordering-from-best-buy-a-step-by-step-guide-zdnet/"><u>Secure the Latest Apple Watch Series 10 at Only $99 by Pre-Ordering From Best Buy – A Step-by-Step Guide | ZDNet</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-15-free-video-editing-tools-for-starters-simplified-and-user-friendly/"><u>Updated 2024 Approved 15 Free Video Editing Tools for Starters Simplified and User-Friendly</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-color-unify-a-step-by-step-guide-to-matching-video-clips-in-powerdirector-for-2024/"><u>Updated Color Unify A Step-by-Step Guide to Matching Video Clips in PowerDirector for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-maximize-your-videos-the-top-10-free-4k-video-converter-software/"><u>Updated In 2024, Maximize Your Videos The Top 10 Free 4K Video Converter Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-trimming-3gp-videos-tips-tricks-and-best-practices/"><u>Updated Trimming 3GP Videos Tips, Tricks, and Best Practices</u></a></li>
 </ul></div>
 

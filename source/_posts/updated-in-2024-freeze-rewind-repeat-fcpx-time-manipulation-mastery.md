@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Freeze, Rewind, Repeat FCPX Time Manipulation Mastery
-date: 2024-11-20T11:35:42.714Z
-updated: 2024-11-23T18:53:57.679Z
+date: 2024-11-26T19:18:57.006Z
+updated: 2024-12-01T21:21:25.258Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ For more tutorials on slow-motion please refer to this article: [Top 10 Slow Mot
 
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
@@ -49,10 +53,6 @@ This creates a two-second freeze-frame at the position of the playhead.
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
 
 ![freeze frames in FCP X](https://images.wondershare.com/multimedia/speed004.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In case you were wondering, this is what the freeze looks like. It freezes the flight of the hummingbird in the middle of playback, allowing us to add graphics or other text then resume the action as though nothing had happened.
 
@@ -86,13 +86,13 @@ Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using e
 
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
@@ -102,10 +102,6 @@ Add a speed ramp transition at the end of the Hold frame by clicking the downwar
 
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
 
 NOTE: Changing the source frame is a feature that I like a LOT!
@@ -113,6 +109,10 @@ NOTE: Changing the source frame is a feature that I like a LOT!
 #### 3\.  SLOW (or FAST) MOTION
 
 ![fast/slow motion](https://images.wondershare.com/multimedia/speed007.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We use slow-motion to show events that are too fast for the unaided eye to see. And fast motion to speed up very slow events. Both of these effects use what's called a "constant speed change," where the entire clip changes by the same amount - either faster or slower.
 
@@ -127,7 +127,7 @@ Choose one of the available speeds; in this case, 50%. (Yes, you can change this
 ![create slow/fast motion](https://images.wondershare.com/multimedia/speed009.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Three things happen at once:
@@ -144,15 +144,15 @@ There are two ways to change the speed of a clip.
 
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
 
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This opens a new dialog allowing a number of changes:
 
@@ -168,6 +168,10 @@ You will get the smoothest speed changes when the percentage you choose divides 
 There is one more setting to consider when slowing a clip. (This does not apply when creating fast motion.)
 
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
 
@@ -186,7 +190,7 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -196,10 +200,6 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -216,16 +216,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-screen-recording-essentials-and-competitive-analyses/"><u>[New] Screen Recording Essentials and Competitive Analyses</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-a-step-by-step-plan-efficient-vimeo-video-logging-for-2024/"><u>[Updated] A Step-by-Step Plan Efficient Vimeo Video Logging for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-discover-intruder-in-your-online-space/"><u>How to Discover Intruder in Your Online Space</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-advanced-strategies-for-recording-and-saving-gameplay-on-ps4/"><u>In 2024, Advanced Strategies for Recording and Saving Gameplay on PS4</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10cwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10Cwith/without a PC</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-accelerate-your-footage-time-lapse-video-editing-in-final-cut-pro-for-2024/"><u>New Accelerate Your Footage Time Lapse Video Editing in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-beginners-guide-best-free-video-cutting-and-joining-software/"><u>New Beginners Guide Best Free Video Cutting and Joining Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-camtasia-essentials-how-to-adjust-video-playback-speed-for-2024/"><u>New Camtasia Essentials How to Adjust Video Playback Speed for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-discover-the-best-video-dubbing-software-for-pc-free-trials-for-2024/"><u>New Discover the Best Video Dubbing Software for PC - Free Trials for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-fake-face-generators-top-free-online-tools-for-creative-projects-for-2024/"><u>New Fake Face Generators Top Free Online Tools for Creative Projects for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-interpreting-the-significance-of-blue-emojis-on-messenger/"><u>[New] 2024 Approved Interpreting the Significance of Blue Emojis on Messenger</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-free-software-strategies-for-efficient-educational-streaming/"><u>[New] Free Software Strategies for Efficient Educational Streaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-video-editors-to-make-your-snapchats-pop-on-phones/"><u>2024 Approved Essential Video Editors to Make Your Snapchats Pop on Phones</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/elevate-your-lounge-with-pro-karaoke-mastery-essential-advice-from-top-pcdj-mixers/"><u>Elevate Your Lounge with Pro Karaoke Mastery: Essential Advice From Top PCDJ Mixers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-outdated-minecraft-driver-issue-steps-for-a-smooth-gaming-experience/"><u>Fixing the 'Outdated Minecraft Driver' Issue: Steps for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oneplus-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your OnePlus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-s-top-rated-free-flv-video-editing-tools/"><u>New S Top-Rated Free FLV Video Editing Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-use-auto-sync-of-final-cut-pro-to-deal-with-out-of-sync-problem-in-you-video-this-article-shows-you-how-and-more-for-2024/"><u>New Use Auto-Sync of Final Cut Pro to Deal with Out of Sync Problem in You Video. This Article Shows You How and More for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-realtek-pcie-gbe-family-controller-drivers-on-windows-10/"><u>Update Realtek PCIe GBE Family Controller Drivers on Windows 10</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-avidemux-no-sound-error-causes-and-fixes/"><u>Updated 2024 Approved Avidemux No Sound Error Causes and Fixes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-and-fantastic-the-best-flv-video-editors/"><u>Updated 2024 Approved Free and Fantastic The Best FLV Video Editors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-video-making-on-mac-top-tools-and-tips/"><u>Updated The Ultimate Guide to Video Making on Mac Top Tools and Tips</u></a></li>
 </ul></div>
 

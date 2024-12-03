@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved PiP Like a Pro Advanced Techniques in Final Cut Pro
-date: 2024-11-10T22:44:45.722Z
-updated: 2024-11-13T22:01:45.198Z
+date: 2024-11-28T09:31:10.258Z
+updated: 2024-12-02T00:50:07.509Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,10 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make a Time-Lapse Video in Final Cut Pro
 
 #### Step 1 Import Clips
@@ -50,9 +54,17 @@ Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you ca
 
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
 
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
 
@@ -60,11 +72,19 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you have any questions about making time-lapse videos, feel free to drop a line below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -81,21 +101,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-instant-image-clarity-picart-background-cleansing-hacks/"><u>[New] Instant Image Clarity PicArt Background Cleansing Hacks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-step-by-step-record-and-save-facebook-chats-effectively/"><u>[Updated] In 2024, Step-By-Step Record and Save Facebook Chats Effectively</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/meilleure-solution-de-decryptage-pour-vos-dvd-telechargement-gratuit-et-facile-a-utiliser/"><u>Meilleure Solution De Décryptage Pour Vos DVD : Téléchargement Gratuit Et Facile À Utiliser !</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-make-a-video-with-photos-and-music/"><u>New How to Make a Video with Photos and Music</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-ranking-the-best-video-editing-apps-with-music-for-android-and-ios-devices-for-2024/"><u>New Ranking the Best Video Editing Apps with Music for Android and iOS Devices for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-reduce-video-size-for-free-10-top-online-compression-tools/"><u>New Reduce Video Size for Free 10 Top Online Compression Tools</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solution-guide-restoring-lost-documents-post-system-restart/"><u>Solution Guide: Restoring Lost Documents Post-System Restart</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/techniques-pour-copier-a-la-perfection-des-films-vedes-et-pas-proteges-sur-un-mac/"><u>Techniques Pour Copier À La Perfection Des Films Vedés Et Pas Protegés Sur Un Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-imovie-free-alternatives-the-best-online-video-editing-tools/"><u>Updated IMovie Free Alternatives The Best Online Video Editing Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-social-media-elite-writes-back-six-essential-tips-to-elevate-your-instagram-presence/"><u>[New] 2024 Approved The Social Media Elite' Writes Back Six Essential Tips to Elevate Your Instagram Presence</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-your-instagram-shots-with-strategic-borders/"><u>[New] In 2024, Elevate Your Instagram Shots With Strategic Borders</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-create-logos-via-free-logo-template-customize-and-download-for-free/"><u>[Updated] 2024 Approved Create Logos via Free Logo Template Customize and Download for Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bridging-the-gap-understanding-and-using-slug-lines/"><u>[Updated] Bridging the Gap Understanding & Using Slug Lines</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unveiling-asmr-its-positive-impacts-explained/"><u>[Updated] Unveiling ASMR Its Positive Impacts Explained</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/edit-videos-for-free-top-14-watermark-free-software/"><u>Edit Videos for Free Top 14 Watermark-Free Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/edit-videos-online-for-free-the-best-tools-and-services-for-2024/"><u>Edit Videos Online for Free The Best Tools and Services for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/from-flat-to-fabulous-converting-videos-for-vr-with-ease-for-2024/"><u>From Flat to Fabulous Converting Videos for VR with Ease for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/hd-video-editing-made-easy-top-5-software-options-for-2024/"><u>HD Video Editing Made Easy Top 5 Software Options for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-secure-is-your-information-with-chatgpt-assessing-the-privacy-risks/"><u>How Secure Is Your Information with ChatGPT: Assessing the Privacy Risks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-post-360-photos-on-iosandroid-to-facebook-for-2024/"><u>How to Post 360 Photos on iOS/Android to Facebook for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-color-code-cracked-how-to-match-video-clips-in-powerdirector-like-a-pro/"><u>In 2024, Color Code Cracked How to Match Video Clips in PowerDirector Like a Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-split-screen-video-creators-for-mobile-phones/"><u>In 2024, Top-Rated Split Screen Video Creators for Mobile Phones</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unlock-the-power-of-the-ken-burns-effect-a-comprehensive-guide/"><u>In 2024, Unlock the Power of the Ken Burns Effect A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-avi-to-mkv-streaming-any-video-format-to-google-chromecast/"><u>New 2024 Approved From AVI to MKV Streaming Any Video Format to Google Chromecast</u></a></li>
+<li><a href="https://games-able.techidaily.com/rolling-back-wireless-controller-firmware-series-xs/"><u>Rolling Back Wireless Controller Firmware Series X/S</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silent-earbuds-not-for-long-discover-10-fixes-for-airpods-with-no-sound-or-erratic-audio-quality/"><u>Silent Earbuds? Not for Long! Discover 10 Fixes for AirPods with No Sound or Erratic Audio Quality</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
