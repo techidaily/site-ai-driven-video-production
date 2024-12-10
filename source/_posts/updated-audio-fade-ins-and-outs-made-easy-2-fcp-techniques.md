@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2024-11-25T08:52:49.445Z
-updated: 2024-12-02T04:56:36.447Z
+date: 2024-12-05T18:01:05.443Z
+updated: 2024-12-10T00:13:48.200Z
 tags: 
   - video editing software
   - video editing
@@ -44,10 +44,6 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -56,25 +52,29 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -92,15 +92,19 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -114,10 +118,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,19 +134,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-10-strategies-for-accessing-nfl-games-online/"><u>[Updated] 2024 Approved Top 10 Strategies for Accessing NFL Games Online</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-make-a-gif-from-vimeo-video/"><u>2024 Approved How to Make a GIF From Vimeo Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-windows-10-to-adjust-display-luminance-after-a-glitch-expert-tips/"><u>Getting Windows 10 to Adjust Display Luminance After a Glitch - Expert Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-k70-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi K70 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-5-best-hd-hunting-cameras-reviewed/"><u>In 2024, 5 Best HD Hunting Cameras Reviewed</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-asus-rog-phone-8-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Asus ROG Phone 8 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-iphone-xeasy-simple-guide-to-screen-capture/"><u>In 2024, IPhone Xeasy Simple Guide to Screen Capture</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-video-blur-apps-on-iphone-and-android-facebackground/"><u>New In 2024, Best Video Blur Apps on iPhone and Android Face/Background</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-yosemite-video-editing-101-a-beginners-tutorial-for-mac-os-x-for-2024/"><u>New Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-the-latest-apple-watch-series-10-at-only-99-by-pre-ordering-from-best-buy-a-step-by-step-guide-zdnet/"><u>Secure the Latest Apple Watch Series 10 at Only $99 by Pre-Ordering From Best Buy – A Step-by-Step Guide | ZDNet</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-15-free-video-editing-tools-for-starters-simplified-and-user-friendly/"><u>Updated 2024 Approved 15 Free Video Editing Tools for Starters Simplified and User-Friendly</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-color-unify-a-step-by-step-guide-to-matching-video-clips-in-powerdirector-for-2024/"><u>Updated Color Unify A Step-by-Step Guide to Matching Video Clips in PowerDirector for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-maximize-your-videos-the-top-10-free-4k-video-converter-software/"><u>Updated In 2024, Maximize Your Videos The Top 10 Free 4K Video Converter Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-trimming-3gp-videos-tips-tricks-and-best-practices/"><u>Updated Trimming 3GP Videos Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-ios-apps-to-play-your-favorite-psp-games/"><u>Best iOS Apps to Play Your Favorite PSP Games</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-performing-17-inch-laptops-of-2024-reviewed/"><u>Best Performing 17-Inch Laptops of 2024 Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-toms-hardware-your-ultimate-guide-to-tech-reviews-and-news/"><u>Discover Tom's Hardware: Your Ultimate Guide to Tech Reviews & News</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-sas-software-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Download & Update SAS Software on Windows 10, 8, and 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-video-editing-made-easy-splitting-videos-in-windows-live-movie-maker-for-pc-users-for-2024/"><u>New Video Editing Made Easy Splitting Videos in Windows Live Movie Maker for PC Users for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfecting-obs-broadcasts-for-facebook-audience/"><u>Perfecting OBS Broadcasts for Facebook Audience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-stop-fallout-t-3-from-crashing-on-win10-systems/"><u>Troubleshooting Guide: How to Stop Fallout T 3 From Crashing on Win10 Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-get-moving-10-best-free-video-speed-changer-apps-for-iphone-and-android/"><u>Updated 2024 Approved Get Moving 10 Best Free Video Speed Changer Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-avs-video-editor-review-update-whats-new-for-2024/"><u>Updated AVS Video Editor Review Update Whats New for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-from-clips-to-masterpieces-the-ultimate-video-editor/"><u>Updated From Clips to Masterpieces The Ultimate Video Editor</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-lossless-vlc-trimming-on-mac-the-ultimate-guide/"><u>Updated In 2024, Lossless VLC Trimming on Mac The Ultimate Guide</u></a></li>
 </ul></div>
 

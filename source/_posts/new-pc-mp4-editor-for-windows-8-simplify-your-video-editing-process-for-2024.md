@@ -1,7 +1,7 @@
 ---
 title: New PC MP4 Editor for Windows 8 Simplify Your Video Editing Process for 2024
-date: 2024-11-30T03:29:55.335Z
-updated: 2024-12-02T12:22:57.011Z
+date: 2024-12-05T04:02:16.696Z
+updated: 2024-12-09T19:26:09.096Z
 tags: 
   - video editing software
   - video editing
@@ -40,6 +40,10 @@ The imported MP4 videos will show as thumbnails in the user's album's item tray.
 
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\.  Easy MP4 editing in Windows 8
 
 This MP4 editor for Windows 8 provides professional yet straightforward editing panels to fully meet your different editing requirements.
@@ -50,10 +54,6 @@ If you want to edit and personalize your MP4 videos, the timeline panel will off
 
 ![edit mp4 window 8](https://images.wondershare.com/filmora/article-images/change-video-speed-with-toolbar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Split, Trim MP4 Videos
 
 Select a clip in the Timeline, drag the Indicator to where you want to split and click the "Split" button. Then the clip will be [split into two](https://tools.techidaily.com/wondershare/filmora/download/). Right click the video clip, you can also choose "Delete", "Copy", "Paste" option.
@@ -61,7 +61,7 @@ Select a clip in the Timeline, drag the Indicator to where you want to split and
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
@@ -69,6 +69,10 @@ Select a clip in the Timeline, drag the Indicator to where you want to split and
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
 
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Add Scene Transition
 
@@ -85,21 +89,17 @@ MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) f
 ![edit mp4 in windows 8](https://images.wondershare.com/filmora/article-images/filmora9-export-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -117,17 +117,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-fixed-youtubes-missing-minute-media/"><u>[New] 2024 Approved Fixed YouTube's Missing Minute Media</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-5-strategies-for-copying-files-to-your-system/"><u>[Updated] Master 5 Strategies for Copying Files to Your System</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-obs-essentials-optimizing-your-skype-call-recording-quality-for-2024/"><u>[Updated] OBS Essentials Optimizing Your Skype Call Recording Quality for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/effiziente-bildteilung-fur-verschiedene-speichertypen-ein-leitfaden-zur-optimierung-der-datenspeicherung/"><u>Effiziente Bildteilung Für Verschiedene Speichertypen: Ein Leitfaden Zur Optimierung Der Datenspeicherung</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exclusive-amazon-prime-day-discounts-top-technology-offers/"><u>Exclusive Amazon Prime Day Discounts: Top Technology Offers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/free-mov-video-joiner-top-5-picks-for-2024/"><u>Free MOV Video Joiner Top 5 Picks for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/free-video-editing-made-easy-top-online-choices/"><u>Free Video Editing Made Easy Top Online Choices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-expert-review-avs-video-editor-2023-the-good-the-bad-and-the-ugly/"><u>In 2024, Expert Review AVS Video Editor 2023 - The Good, the Bad, and the Ugly</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-maximize-your-content-creation-top-rated-mac-mp4-slicers/"><u>In 2024, Maximize Your Content Creation Top-Rated Mac MP4 Slicers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-list-10-best-cartoon-video-makers-for-pc-and-web/"><u>In 2024, The Ultimate List 10 Best Cartoon Video Makers for PC and Web</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-effortless-video-organization-on-mac-top-8-metadata-editors/"><u>New 2024 Approved Effortless Video Organization on Mac Top 8 Metadata Editors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-tackling-text-transformations-converting-xmlttml-for-voice-outputs/"><u>[New] 2024 Approved Tackling Text Transformations Converting XML/TTML for Voice Outputs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streaming-virtual-classrooms/"><u>[New] In 2024, Streaming Virtual Classrooms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-ultimate-freefire-tag-collection-enhance-your-youtube-channels/"><u>[Updated] In 2024, Ultimate FreeFire Tag Collection Enhance Your YouTube Channels</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-started-streaming-learn-obs-for-youtube-now-in-2024/"><u>[Updated] Started Streaming? Learn OBS for Youtube Now, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/basic-vs-enhanced-chatgpt-for-your-online-discussions/"><u>Basic Vs. Enhanced ChatGPT for Your Online Discussions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-videos-from-ordinary-to-extraordinary/"><u>Elevate Your Videos From Ordinary to Extraordinary</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-videos-top-rated-ipad-video-editors-for-2024/"><u>Elevate Your Videos Top-Rated iPad Video Editors for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-of-chargetechs-27000mah-portable-power-bank/"><u>Expert Review of ChargeTech's 27000mAh Portable Power Bank</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/express-yourself-but-better-the-advantages-of-final-cut-pro-for-2024/"><u>Express Yourself, But Better The Advantages of Final Cut Pro for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-guide-to-public-domain-video-downloads/"><u>In 2024, The Ultimate Guide to Public Domain Video Downloads</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-itel-p40-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Itel P40 for Parents | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-best-music-video-production-software-for-professional-results/"><u>New 2024 Approved Best Music Video Production Software for Professional Results</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-editing-like-a-pro-tips-and-tricks-for-sony-camcorder-video-editors/"><u>New 2024 Approved Editing Like a Pro Tips and Tricks for Sony Camcorder Video Editors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-effortless-video-transfer-how-to-import-and-export-in-adobe-premiere-2023/"><u>New 2024 Approved Effortless Video Transfer How to Import and Export in Adobe Premiere 2023</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-essential-3d-video-editing-tools-every-creator-should-use/"><u>New 2024 Approved Essential 3D Video Editing Tools Every Creator Should Use</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-filmora-watermark-removal-free-trials-hacks-and-official-methods/"><u>New 2024 Approved Filmora Watermark Removal Free Trials, Hacks, and Official Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-nokia-g310-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Nokia G310</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-motorola-razr-40-ultra-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Motorola Razr 40 Ultra? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
 

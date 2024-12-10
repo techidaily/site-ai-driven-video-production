@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2024-11-26T23:19:27.082Z
-updated: 2024-12-01T20:51:38.721Z
+date: 2024-12-04T05:34:50.080Z
+updated: 2024-12-09T17:43:01.284Z
 tags: 
   - video editing software
   - video editing
@@ -52,12 +52,16 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
@@ -65,7 +69,7 @@ You should remember that the fades appear at the beginning and the end of each c
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
@@ -89,11 +93,11 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,10 +105,6 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -134,18 +134,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-quick-tips-extracting-and-keeping-gif-tweets/"><u>[New] In 2024, Quick Tips Extracting and Keeping GIF Tweets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-10-excellent-cost-free-video-meeting-solutions/"><u>[Updated] 10 Excellent, Cost-Free Video Meeting Solutions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-exploring-free-video-options-vlc-meets-mpc/"><u>[Updated] 2024 Approved Exploring Free Video Options VLC Meets MPC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-fb-advertising-with-a-focus-on-video-content/"><u>[Updated] 2024 Approved Mastering FB Advertising with a Focus on Video Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-auditory-nexus-studio-mac-essentials/"><u>[Updated] In 2024, The Auditory Nexus Studio Mac Essentials</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/comparing-echo-dot-and-homepod-mini-key-features-and-differences/"><u>Comparing Echo Dot and HomePod Mini - Key Features & Differences</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-to-correcting-the-oversized-pagefilesys-problem-in-your-system/"><u>Guide to Correcting the Oversized Pagefile.sys Problem in Your System</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unveiling-27-authentic-french-phrases-for-fluency/"><u>Unveiling 27 Authentic French Phrases for Fluency</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-get-steady-the-best-free-video-stabilization-websites/"><u>Updated 2024 Approved Get Steady The Best Free Video Stabilization Websites</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-mp4-videos-on-your-windows-8-pc-a-beginners-guide-for-2024/"><u>Updated Edit MP4 Videos on Your Windows 8 PC A Beginners Guide for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-7-essential-software-for-creating-stunning-animation-drawings/"><u>Updated In 2024, 7 Essential Software for Creating Stunning Animation Drawings</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-get-started-with-video-editing-a-microsoft-tutorial-for-windows-10-8-and-7/"><u>Updated In 2024, Get Started with Video Editing A Microsoft Tutorial for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-10-best-cartoon-video-editing-apps-for-2024/"><u>Updated The Ultimate List 10 Best Cartoon Video Editing Apps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/coustic-mastery-secrets-for-exceptional-audio-capture/"><u>[New] Acoustic Mastery Secrets for Exceptional Audio Capture</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/inecraft-branding-resources-for-youtubers-for-2024/"><u>[New] Minecraft Branding Resources for YouTubers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-quick-pexels-tips-for-visual-explorers/"><u>[New] Quick Pexels Tips for Visual Explorers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-filmmaking-the-essential-cinematic-tips-of-24/"><u>Cutting Edge Filmmaking The Essential Cinematic Tips of '24</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-leading-titles-for-3d-visuals-and-lustrous-text-online/"><u>In 2024, Leading Titles for 3D Visuals & Lustrous Text Online</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-filmora-savings-hacks-4-expert-approved-methods-to-get-discounts/"><u>New In 2024, Filmora Savings Hacks 4 Expert-Approved Methods to Get Discounts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-how-to-rotate-iphone-videos-for-free-top-app-choices/"><u>New In 2024, How to Rotate iPhone Videos for Free Top App Choices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/revolutionize-your-reaction-videos-expert-tips-for-using-filmora/"><u>Revolutionize Your Reaction Videos Expert Tips for Using Filmora</u></a></li>
+<li><a href="https://win-answers.techidaily.com/spotting-redundancies-with-ease-effective-strategies-for-conditional-formatting-in-excel/"><u>Spotting Redundancies with Ease: Effective Strategies for Conditional Formatting in Excel</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unveiling-the-secrets-to-viral-tiktok-with-these-best-captions-for-2024/"><u>Unveiling the Secrets to Viral TikTok with These Best Captions for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-capture-perfection-top-rated-webcam-recording-software-for-windows-10/"><u>Updated In 2024, Capture Perfection Top-Rated Webcam Recording Software for Windows 10</u></a></li>
 </ul></div>
 

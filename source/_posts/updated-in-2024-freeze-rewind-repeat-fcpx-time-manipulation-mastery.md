@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Freeze, Rewind, Repeat FCPX Time Manipulation Mastery
-date: 2024-11-26T19:18:57.006Z
-updated: 2024-12-01T21:21:25.258Z
+date: 2024-12-03T21:23:59.680Z
+updated: 2024-12-09T21:11:04.263Z
 tags: 
   - video editing software
   - video editing
@@ -35,10 +35,6 @@ For more tutorials on slow-motion please refer to this article: [Top 10 Slow Mot
 #### 1\.  STILL FRAMES
 
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
 
@@ -91,12 +87,16 @@ This displays the orange Retime editor bar above the clip, with a small red port
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
@@ -110,15 +110,15 @@ NOTE: Changing the source frame is a feature that I like a LOT!
 
 ![fast/slow motion](https://images.wondershare.com/multimedia/speed007.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We use slow-motion to show events that are too fast for the unaided eye to see. And fast motion to speed up very slow events. Both of these effects use what's called a "constant speed change," where the entire clip changes by the same amount - either faster or slower.
 
 WE create either effect using the same tools, just different values. Here's how.
 
 ![slow motion](https://images.wondershare.com/multimedia/speed008.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Select the clip who's speed you want to change. Then, using either Modify > Retime or the "Smurf" Toolbar icon, select Slow (or Fast).
 
@@ -127,7 +127,7 @@ Choose one of the available speeds; in this case, 50%. (Yes, you can change this
 ![create slow/fast motion](https://images.wondershare.com/multimedia/speed009.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Three things happen at once:
@@ -144,6 +144,10 @@ There are two ways to change the speed of a clip.
 
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
 
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
@@ -151,7 +155,7 @@ Or, for more precision, click the downward-pointing arrow in the Retiming bar an
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This opens a new dialog allowing a number of changes:
@@ -170,7 +174,7 @@ There is one more setting to consider when slowing a clip. (This does not apply 
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
@@ -188,10 +192,6 @@ Frame blending is relatively fast and easy. Optical Flow will look better in mos
 This is a basic tutorial about Apple Final Cut Pro X, a professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -216,19 +216,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-interpreting-the-significance-of-blue-emojis-on-messenger/"><u>[New] 2024 Approved Interpreting the Significance of Blue Emojis on Messenger</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-free-software-strategies-for-efficient-educational-streaming/"><u>[New] Free Software Strategies for Efficient Educational Streaming</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-video-editors-to-make-your-snapchats-pop-on-phones/"><u>2024 Approved Essential Video Editors to Make Your Snapchats Pop on Phones</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/elevate-your-lounge-with-pro-karaoke-mastery-essential-advice-from-top-pcdj-mixers/"><u>Elevate Your Lounge with Pro Karaoke Mastery: Essential Advice From Top PCDJ Mixers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-outdated-minecraft-driver-issue-steps-for-a-smooth-gaming-experience/"><u>Fixing the 'Outdated Minecraft Driver' Issue: Steps for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oneplus-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your OnePlus</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-s-top-rated-free-flv-video-editing-tools/"><u>New S Top-Rated Free FLV Video Editing Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-use-auto-sync-of-final-cut-pro-to-deal-with-out-of-sync-problem-in-you-video-this-article-shows-you-how-and-more-for-2024/"><u>New Use Auto-Sync of Final Cut Pro to Deal with Out of Sync Problem in You Video. This Article Shows You How and More for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-realtek-pcie-gbe-family-controller-drivers-on-windows-10/"><u>Update Realtek PCIe GBE Family Controller Drivers on Windows 10</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-avidemux-no-sound-error-causes-and-fixes/"><u>Updated 2024 Approved Avidemux No Sound Error Causes and Fixes</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-and-fantastic-the-best-flv-video-editors/"><u>Updated 2024 Approved Free and Fantastic The Best FLV Video Editors</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-video-making-on-mac-top-tools-and-tips/"><u>Updated The Ultimate Guide to Video Making on Mac Top Tools and Tips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-how-to-change-tiktok-video-background/"><u>[New] How to Change TikTok Video Background?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-pixelhalve-critique-for-2024/"><u>[Updated] PixelHalve Critique for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/decoding-tech-troubles-the-puzzle-of-an-undroppable-exterior-hard-disk/"><u>Decoding Tech Troubles: The Puzzle of an Undroppable Exterior Hard Disk</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-gionee-f3-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Gionee F3 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-make-your-photos-pop-top-animated-photo-creators-for-2024/"><u>New Make Your Photos Pop Top Animated Photo Creators for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-supercharge-your-fcpx-experience-10-free-plugins-you-wont-want-to-miss-for-2024/"><u>New Supercharge Your FCPX Experience 10 Free Plugins You Wont Want to Miss for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sennheiser-presence-uc-a-step-up-in-sound/"><u>Sennheiser Presence-UC - A Step Up in Sound</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-7-video-mergers-without-watermark/"><u>Updated 2024 Approved 7 Video Mergers Without Watermark</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-your-creativity-the-best-free-music-recording-software/"><u>Updated 2024 Approved Unleash Your Creativity The Best Free Music Recording Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-fcpx-essentials-how-to-add-a-countdown-timer-in-3-easy-steps/"><u>Updated In 2024, FCPX Essentials How to Add a Countdown Timer in 3 Easy Steps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-your-creativity-top-animation-makers-for-all-experience-levels-for-2024/"><u>Updated Unleash Your Creativity Top Animation Makers for All Experience Levels for 2024</u></a></li>
 </ul></div>
 

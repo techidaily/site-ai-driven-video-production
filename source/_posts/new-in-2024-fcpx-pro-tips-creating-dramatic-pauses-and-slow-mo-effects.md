@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects
-date: 2024-11-26T01:37:06.309Z
-updated: 2024-12-01T20:01:19.281Z
+date: 2024-12-06T18:24:33.372Z
+updated: 2024-12-10T04:42:35.887Z
 tags: 
   - video editing software
   - video editing
@@ -29,6 +29,10 @@ A very simple, yet very effective effect is changing the speed of a video clip. 
 This article shows you how to do this using Final Cut Pro X.
 
 For more tutorials on slow-motion please refer to this article: [Top 10 Slow Motion Video Editing Software.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Freeze-Frames and Slow Motion in Final Cut Pro X
 
@@ -78,32 +82,32 @@ A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
 ![hold frame](https://images.wondershare.com/multimedia/speed013.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
 
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
@@ -126,6 +130,10 @@ Choose one of the available speeds; in this case, 50%. (Yes, you can change this
 
 ![create slow/fast motion](https://images.wondershare.com/multimedia/speed009.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Three things happen at once:
 
 * The duration of the clip changes
@@ -135,7 +143,7 @@ Three things happen at once:
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
@@ -151,7 +159,7 @@ Or, for more precision, click the downward-pointing arrow in the Retiming bar an
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This opens a new dialog allowing a number of changes:
@@ -169,10 +177,6 @@ There is one more setting to consider when slowing a clip. (This does not apply 
 
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
 
 * Normal. This is the best choice for speeds of 50% or faster.
@@ -188,10 +192,6 @@ Frame blending is relatively fast and easy. Optical Flow will look better in mos
 This is a basic tutorial about Apple Final Cut Pro X, a professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -216,19 +216,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/erfecting-yt-aesthetics-in-depth-guide-to-banner-and-art-sizing-for-2024/"><u>[New] Perfecting YT Aesthetics In-Depth Guide to Banner & Art Sizing for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-step-by-step-enablingdisabling-picture-in-picture/"><u>[New] Step by Step Enabling/Disabling Picture-in-Picture</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-navigating-youtubes-algorithm-as-a-game-streamer/"><u>[Updated] 2024 Approved Navigating YouTube's Algorithm as a Game Streamer</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-eras-endwatchers-top-youtube-viewership/"><u>[Updated] Era's Endwatchers Top YouTube Viewership</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/boosting-your-holiday-promotions-11-essential-strategies-with-massmail/"><u>Boosting Your Holiday Promotions: 11 Essential Strategies with MassMail</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-factors-to-consider-before-purchasing-your-next-projector/"><u>Essential Factors to Consider Before Purchasing Your Next Projector</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-giggle-genie-selecting-the-finest-jokes-makers/"><u>In 2024, Giggle Genie Selecting the Finest Jokes Makers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-f15-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy F15 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-vlog-editing-made-easy-top-14-software-for-creating-engaging-content/"><u>New In 2024, Vlog Editing Made Easy Top 14 Software for Creating Engaging Content</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-list-of-video-editing-software-for-beginners/"><u>Updated 2024 Approved The Ultimate List of Video Editing Software for Beginners</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-best-top-11-animated-logo-makers-creative-logo-tips-for-2024/"><u>Updated FREE Best Top 11 Animated Logo Makers Creative Logo Tips for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-mov-video-stitching-5-best-software-for-windows-mac-and-online-for-2024/"><u>Updated Free MOV Video Stitching 5 Best Software for Windows, Mac, and Online for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-mac-users-rejoice-top-alternatives-to-pinnacle-studio-for-2024/"><u>Updated Mac Users, Rejoice! Top Alternatives to Pinnacle Studio for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/with-the-trending-of-videos-more-and-more-people-are-likely-to-create-videos-to-help-people-figure-out-the-best-free-online-video-editing-tools-ive-tested-s/"><u>With the Trending of Videos, More and More People Are Likely to Create Videos. To Help People Figure Out the Best Free Online Video Editing Tools, Ive Tested some Online Video Editors on the Market A</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-social-screen-grabber-kit/"><u>[Updated] 2024 Approved Social Screen Grabber Kit</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-giggle-factor-comparing-humor-in-tiktok-and-snapchat-videos/"><u>[Updated] 2024 Approved The Giggle Factor Comparing Humor in TikTok and Snapchat Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/prehensive-guide-to-earnings-from-youtube-short-videos-for-2024/"><u>A Comprehensive Guide to Earnings From YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/cross-platform-device-drivers-for-pci-devices/"><u>Cross-Platform Device Drivers for PCI Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-corsair-k70-mouse-drivers-and-software-latest-version-available/"><u>Download Corsair K70 Mouse Drivers & Software - Latest Version Available</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-steps-to-download-and-update-the-right-drivers-for-your-hp-envy-20-laptopdesktop/"><u>Easy Steps to Download & Update the Right Drivers for Your HP ENVY 20 Laptop/Desktop</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-windows-rapid-photo-displayer/"><u>In 2024, Prime Window's Rapid Photo Displayer</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-mp4-to-mp3-apps-for-ios-and-android-devices/"><u>New In 2024, Best MP4 to MP3 Apps for iOS and Android Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-from-glitch-to-glory-how-to-reset-final-cut-pro-x-for-error-free-video-editing/"><u>New In 2024, From Glitch to Glory How to Reset Final Cut Pro X for Error-Free Video Editing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-major-mileston/"><u>New In 2024, Major Mileston</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-lip-sync-mastery-explore-the-top-5-apps-for-creating-engaging-content-for-2024/"><u>New Lip Sync Mastery Explore the Top 5 Apps for Creating Engaging Content for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unleashing-creativity-the-top-10-final-cut-pro-movies/"><u>New Unleashing Creativity The Top 10 Final Cut Pro Movies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-poco-c51-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Poco C51</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-store-error-0x800704cf-in-win11/"><u>Troubleshooting Store Error 0X800704CF in Win11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unlock-chromecast-streaming-any-video-format-made-easy-updated-2023/"><u>Unlock Chromecast Streaming Any Video Format Made Easy (Updated 2023)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-final-cut-pro-essentials-designing-and-editing-a-professional-slideshow/"><u>Updated In 2024, Final Cut Pro Essentials Designing and Editing a Professional Slideshow</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-animated-text-in-video-best-mobile-apps/"><u>Updated The Ultimate Guide to Animated Text in Video Best Mobile Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-slow-motion-video-editing-solutions/"><u>Updated The Ultimate List Slow Motion Video Editing Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/virtuary-a-beginners-vocabulary-primer-for-2024/"><u>Virtuary A Beginner’s Vocabulary Primer for 2024</u></a></li>
 </ul></div>
 

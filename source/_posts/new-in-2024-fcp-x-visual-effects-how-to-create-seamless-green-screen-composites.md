@@ -1,7 +1,7 @@
 ---
 title: New In 2024, FCP X Visual Effects How to Create Seamless Green Screen Composites
-date: 2024-11-27T13:50:36.877Z
-updated: 2024-12-02T02:03:00.313Z
+date: 2024-12-04T02:47:16.062Z
+updated: 2024-12-10T03:18:55.188Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getting Started
@@ -55,7 +55,7 @@ First, the best thing you can do to improve the quality of your keys is to impro
 ![fx chroma 01](https://images.wondershare.com/multimedia/fx-chroma-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The green screen image is always placed above the background. You can place either the green screen or background image into the Primary Storyline. I find it easier to put the background in the Primary Storyline, because it makes editing the green screen image easier. But this is purely personal choice.
@@ -66,16 +66,24 @@ From the **Effects Browser > Keying** category, double-click the **Keyer** effec
 
 ![fx chroma 02](https://images.wondershare.com/multimedia/fx-chroma-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Don't panic if your image looks weird – we will fix it.
 
 ![fx chroma 03](https://images.wondershare.com/multimedia/fx-chroma-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click the **Sample Color** icon. This allows fine-tuning the selection of the background color.
 
 ![fx chroma 04](https://images.wondershare.com/multimedia/fx-chroma-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the green-screen image, drag to select a representative section of the background. I try to get close to the face, but not so close that I accidentally select loose hair or skin.
@@ -100,19 +108,11 @@ If an edge is too pronounced, or needs help, click the **Edges** icon.
 
 ![fx chroma 09](https://images.wondershare.com/multimedia/fx-chroma-09.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Tweaks Video**
 
 Then, click and drag a line from the foreground to the background in the Canvas. Drag the midpoint slider (where my cursor is) until the edge looks the best it can. Different video formats make this easy (ProRes), while others (HDV, avchd) make this much harder. Perfection is impossible – do the best you can.
 
 ![fx chroma 09a](https://images.wondershare.com/multimedia/fx-chroma-09a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Final Cut provides four additional tweaks at the bottom of the keyer filter:
 
@@ -135,13 +135,13 @@ Twirl down Light Wrap and adjust the Amount slider and watch what happens. Drag 
 
 When you are done, you have a great looking key!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Clean up the Image with a Garbage Mask
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
 
@@ -154,6 +154,10 @@ Once you get your key looking as good as you can – which in this case isn't al
 **NOTE**: The Mask effect should always be added after the Keying effect, so that the Mask is below the Keyer in the Inspector.
 
 ![fx chroma 14](https://images.wondershare.com/multimedia/fx-chroma-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, drag each of the four circles to create a shape such that your foreground image is contained inside it, and everything you want to exclude is outside. Here, for instance, we removed the light stand, the edge of the green background and the tearing at the top of the image. I've found this Mask effect works best when applied to a connected clip.
 
@@ -168,10 +172,6 @@ In version 10.5 for Mac, Filmora added a new feature: AI portrait. It allows you
 By adopting AI portrait, you can add those stunning effects in simple steps: How to Remove or Change Video Background in One Step?
 
 Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -196,24 +196,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-insiders-guide-to-facebook-live-with-360-degrees/"><u>[New] In 2024, The Insider's Guide to Facebook Live with 360 Degrees</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-integrating-obs-for-youtube-and-twitch-streaming/"><u>[Updated] 2024 Approved Integrating OBS for YouTube & Twitch Streaming</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-top-8-easy-to-use-subtitle-converters-from-sub-to-compliant-srt-format-in-seconds/"><u>[Updated] 2024 Approved Top 8 Easy-to-Use Subtitle Converters From SUB to Compliant SRT Format in Seconds</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-what-is-filmora-certified-creative-program-and-how-to-become-an-fcc/"><u>[Updated] 2024 Approved What Is Filmora Certified Creative Program and How to Become an FCC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-step-by-step-lenovo-laptop-screen-recording/"><u>[Updated] In 2024, Step-by-Step Lenovo Laptop Screen Recording</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/5yq5546h44ki44gp5asa5qey44gq44op44o844oj44oh44kj44k544kv44g444gu6ieq5yuv44oq44od44kv44ki44od44ox5oml6acg44ks5asw5luy44gr44oj44op44kk44ow44gn5a6f54plusplus44156/"><u>効率よく多様なハードディスクへの自動バックアップ手順を外付けドライブで実現する - 詳細ガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-accurate-are-chatgpts-responses-regarding-health-questions/"><u>How Accurate Are ChatGPT's Responses Regarding Health Questions?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Identify malfunctioning drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-extract-audio-from-mp4-top-rated-mp4-to-mp3-converters/"><u>New In 2024, Extract Audio From MP4 Top-Rated MP4 to MP3 Converters</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-of-both-worlds-free-and-paid-3d-animation-software-options-for-2024/"><u>New The Best of Both Worlds Free and Paid 3D Animation Software Options for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-title-design-made-easy-a-final-cut-pro-x-tutorial/"><u>New Title Design Made Easy A Final Cut Pro X Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-customer-service-enhancement-merging-chatgpt-with-whatsapp/"><u>Seamless Customer Service Enhancement: Merging ChatGPT with WhatsApp</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-free-avi-video-rotators-top-5/"><u>The Ultimate Guide to Free AVI Video Rotators Top 5</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-mp4-to-mp3-conversion-apps-for-mobile-for-2024/"><u>The Ultimate Guide to MP4 to MP3 Conversion Apps for Mobile for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-extract-audio-from-webm-files-top-10-converter-tools/"><u>Updated 2024 Approved Extract Audio From WebM Files Top 10 Converter Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-split-and-cut-3gp-files-with-ease-a-comprehensive-guide/"><u>Updated In 2024, Split and Cut 3GP Files with Ease A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-text-animation-made-easy-top-mobile-video-editing-apps/"><u>Updated In 2024, Text Animation Made Easy Top Mobile Video Editing Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-protect-your-videos-with-these-free-watermarking-tools/"><u>Updated Protect Your Videos with These Free Watermarking Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-dynamics-behind-t-series-profit-on-youtube/"><u>[New] 2024 Approved The Dynamics Behind T-Series' Profit on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-honor-play-7t-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Honor Play 7T FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finding-the-right-balance-essential-points-for-lens-shopping-for-2024/"><u>Finding the Right Balance Essential Points for Lens Shopping for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization/"><u>In 2024, The Ultimate Guide to Stellar TikTok Content Through Template Utilization</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-the-art-of-youtube-intros-tips-and-tricks/"><u>Mastering the Art of YouTube Intros (Tips & Tricks)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/pioneering-the-future-of-aerial-film-craftsmanship-for-2024/"><u>Pioneering the Future of Aerial Film Craftsmanship for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-addressing-and-repairing-the-power-state-driver-error/"><u>Step-by-Step Solution: Addressing and Repairing the Power State Driver Error</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-picks-video-editing-software-for-professionals-for-2024/"><u>Top Picks Video Editing Software for Professionals for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-avs-video-editor-a-comprehensive-review-for-2024/"><u>Updated AVS Video Editor A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-13-editor-download-free-no-subscription-needed/"><u>Updated Filmora 13 Editor Download Free No Subscription Needed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-promo-codes-2024-the-complete-list-of-deals-and-discounts/"><u>Updated Filmora Promo Codes 2024 The Complete List of Deals and Discounts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-bokeh-magic-top-rated-apps-for-ios-and-android-phones/"><u>Updated In 2024, Bokeh Magic Top-Rated Apps for iOS and Android Phones</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-video-metadata-editing-on-mac-made-simple-8-top-rated-options/"><u>Updated In 2024, Video Metadata Editing on Mac Made Simple 8 Top-Rated Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-vignette-perfection-discover-the-best-apps-for-ios-and-android-for-2024/"><u>Updated Vignette Perfection Discover the Best Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/vlog-like-a-pro-10-essential-editing-apps-for-mobile-creators/"><u>Vlog Like a Pro 10 Essential Editing Apps for Mobile Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windowsgifjpeg/"><u>Windows上でのGIFからJPEGへの効果的なファイル変換テクニック</u></a></li>
 </ul></div>
 

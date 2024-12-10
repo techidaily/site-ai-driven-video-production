@@ -1,7 +1,7 @@
 ---
 title: PC MP4 Editor for Windows 8 Simplify Your Video Editing Process
-date: 2024-11-26T00:02:55.312Z
-updated: 2024-12-01T21:59:57.637Z
+date: 2024-12-08T03:14:47.820Z
+updated: 2024-12-09T21:11:34.902Z
 tags: 
   - video editing software
   - video editing
@@ -30,10 +30,6 @@ In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Easily Edit MP4 Files on PC
 
 #### 1\.  Import your MP4 videos
@@ -43,10 +39,6 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2\.  Easy MP4 editing in Windows 8
 
@@ -58,21 +50,25 @@ If you want to edit and personalize your MP4 videos, the timeline panel will off
 
 ![edit mp4 window 8](https://images.wondershare.com/filmora/article-images/change-video-speed-with-toolbar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Split, Trim MP4 Videos
 
 Select a clip in the Timeline, drag the Indicator to where you want to split and click the "Split" button. Then the clip will be [split into two](https://tools.techidaily.com/wondershare/filmora/download/). Right click the video clip, you can also choose "Delete", "Copy", "Paste" option.
 
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
 
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
 
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Add Scene Transition
 
@@ -81,7 +77,7 @@ Click "Transition" tab on the main interface and drag one scene transition you l
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -96,10 +92,14 @@ Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -117,20 +117,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-affordable-pc-screen-grabber-selection-list/"><u>[New] Affordable PC Screen Grabber Selection List</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-most-viewed-videos-on-youtube-of-all-time/"><u>2024 Approved Top 10 Most Viewed Videos on YouTube of All Time</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-guide-7-preferred-android-ad-blocking-tools/"><u>2024 Approved Ultimate Guide 7 Preferred Android Ad Blocking Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-videos-from-ordinary-to-extraordinary/"><u>Elevate Your Videos From Ordinary to Extraordinary</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-videos-top-rated-ipad-video-editors-for-2024/"><u>Elevate Your Videos Top-Rated iPad Video Editors for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/from-forgotten-frames-to-captivating-clip-sequences-for-2024/"><u>From Forgotten Frames to Captivating Clip Sequences for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-tecno-camon-20-premier-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Tecno Camon 20 Premier 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-guide-to-public-domain-video-downloads/"><u>In 2024, The Ultimate Guide to Public Domain Video Downloads</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-best-music-video-production-software-for-professional-results/"><u>New 2024 Approved Best Music Video Production Software for Professional Results</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-bring-your-ideas-to-life-the-top-8-animation-software-for-mac-and-windows/"><u>New 2024 Approved Bring Your Ideas to Life The Top 8 Animation Software for Mac and Windows</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-filmora-watermark-removal-free-trials-hacks-and-official-methods/"><u>New 2024 Approved Filmora Watermark Removal Free Trials, Hacks, and Official Methods</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-ranking-the-best-lego-stop-motion-producers-for-2024/"><u>New Ranking the Best Lego Stop Motion Producers for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-the-full-potential-of-your-apple-watch-with-this-simple-trick-enabling-and-using-the-convenient-double-tap-feature-explained/"><u>Unlock the Full Potential of Your Apple Watch with This Simple Trick: Enabling and Using the Convenient Double-Tap Feature Explained</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-durability-and-performance-of-mobvois-ticwatch-pro-a-focus-on-battery-efficiency-and-gps-technology/"><u>Unveiling the Durability and Performance of Mobvoi's TicWatch Pro 지도: A Focus on Battery Efficiency & GPS Technology</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-art-of-analytics-understanding-metrics-without-fancy-tools/"><u>[New] The Art of Analytics Understanding Metrics Without Fancy Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-simple-art-of-capturing-breathtaking-slow-motion-shots-with-android/"><u>[Updated] In 2024, The Simple Art of Capturing Breathtaking Slow-Motion Shots with Android</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2022s-golden-age-for-ice-dancing-showcases/"><u>2022'S Golden Age for Ice Dancing Showcases</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-maximizing-display-youtube-video-upgrades/"><u>2024 Approved Maximizing Display YouTube Video Upgrades</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-redmi-note-12-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi Redmi Note 12 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-mastering-filmora-scrn-a-beginners-guide-to-desktop-recording/"><u>New In 2024, Mastering Filmora Scrn A Beginners Guide to Desktop Recording</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-strategies-for-human-authors-surpassing-ai-composition/"><u>Top Strategies for Human Authors Surpassing AI Composition</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-capture-your-screen-a-beginners-guide-to-filmora-scrn-desktop-recording/"><u>Updated 2024 Approved Capture Your Screen A Beginners Guide to Filmora Scrn Desktop Recording</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-combine-wmv-videos-for-free-top-5-tools/"><u>Updated Combine WMV Videos for Free Top 5 Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-filmora-13-download-video-editing-software-for-2024/"><u>Updated Free Filmora 13 Download Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-pc-intro-maker-showdown-top-online-and-offline-tools/"><u>Updated PC Intro Maker Showdown Top Online and Offline Tools</u></a></li>
 </ul></div>
 

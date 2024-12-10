@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Level Up Your Video Editing with 20 Free Adobe Premiere Intro Templates
-date: 2024-11-27T14:33:25.074Z
-updated: 2024-12-02T11:53:13.744Z
+date: 2024-12-07T04:49:16.232Z
+updated: 2024-12-09T21:51:56.003Z
 tags: 
   - video editing software
   - video editing
@@ -58,10 +58,6 @@ His first title collection is consisting of 8 templates, including Lower Thirds 
 
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/premierepro-premiere-pro-title-collection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In case that you're just a beginner of video editing software, you can start with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) (Latest Filmora version 11) to add text to videos, which is powerful but easy-to-use for green hands. Download the Wondershare Filmora below.
 
 There are hundreds of Text and Titles presets available in Filmora, which allows you to add titles, subtitles, scrolling end credits, lower 3d, and openers with ease. You can also apply some animation effects to the selected title presets.
@@ -73,10 +69,6 @@ Besides the built-in title presets, Wondershare Filmora (Latest Filmora version 
 Currently, there are Title Expansion Set, business title set, wedding title set, and lower third expansion set to download. Check the video below to watch the Title Expansion set templates.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Learn more details about [How to Add Text to Video with Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -93,14 +85,6 @@ He has links to a sizable number of templates on Richard Harrington covering a r
 * More than title templates also has DVD menus and animated text
 
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/RichardHarrington.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3 [ProVideoCoalition](http://provideocoalition.com/ryoung/story/free%5Flower%5Fthirds%5Fand%5Ftutorials/)
 
@@ -129,6 +113,10 @@ All templates are quality professionally produced products and worth the visit a
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Coremelt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5 [Bestproaction](https://ezmediart.com/users/BestProAction)
 
 Another commercial site. This one has a range of free templates and presets to download for Premiere. Fourteen open items altogether can be downloaded. This site at least deserves a browse through their catalog after a download. The emphasis here is on low cost but high quality, useful templates, and plugins to suit any project.
@@ -142,6 +130,14 @@ Even for those of us with a limited budget, there may be something that catches 
 * You can create graphic elements
 
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/Bestproaction.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6 [FXFactory](http://fxfactory.com/free/)
 
@@ -180,6 +176,10 @@ However, all the products do have a free trial download, and as a bonus, the tri
 
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/Filmimpact.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9 Style4Type
 
 Style4Type is an exciting site regularly updated with new free templates as well as offering technical advice and having further templates available as commercial products.
@@ -195,10 +195,6 @@ There are already a lot of free templates on offer covering a wide variety of st
 
 ![Premiere Pro Title Templates](https://images.wondershare.com/filmora/article-images/Style4Type.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 10 [Premiere Beat](https://www.premiumbeat.com/blog/21-free-motion-graphics-templates-premiere-pro/)
 
 Lots of information on this site as its been running for a decade, it is a website that imparts a wealth of knowledge along the way on not just video editing but music.
@@ -209,10 +205,6 @@ The pack includes 21 Premiere title templates to use. Another site that you will
 
 * High-quality Premiere Pro templates to download
 * A large number of Premiere templates to use
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 11 [Clean Elegant Rotation Title](https://elements.envato.com/clean-elegant-rotation-title-2-VKRXBAZ?%5Fga=2.180445991.1265947295.1552031822-1152938851.1543284663)
 
@@ -237,7 +229,7 @@ It is a clean title template with an unfolding effect. Each text has two unfoldi
 ![free premiere pro templates](https://images.wondershare.com/filmora/filmorapro/premiere-title-unfolding.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 13 [Orange83](https://www.premierebro.com/premiere-in-post/orange83-5-pack-free-modern-clean-title-templates-for-premiere-pro)
@@ -248,6 +240,10 @@ These are five modern title packs for Premiere. With it, you don't need to use A
 
 * Include 5 title packs
 * Modern and clean titles
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 14 [Video Intro Templates](https://motionarray.com/premiere-pro-templates/video-intro-templates-15485) \- Premiere Pro intro template free download
 
@@ -276,10 +272,6 @@ You can use it for your presentation, promotional video, and product video. Besi
 ![premiere pro intro template free download Elegant Promo](https://images.wondershare.com/filmora/filmorapro/premiere-pro-intro-template-free-download.jpg)
 
 These are free templates, and they are enough to get anyone up and running with a new project. As said before, with the commercial enterprises that offer freebies, it's always worth checking out their paid for output as well, you may not be in the market for it right now, but something may stick for a later time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Bonus: Best 5 Premiere Pro Intro Templates Free Download
 
@@ -313,6 +305,10 @@ Even though this can be a bit inconvenient, it is very well worth the trouble si
 
 ![title template for Premiere Pro](https://images.wondershare.com/filmora/article-images/simple-titles-for-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 18. [EnvatoElements](https://elements.envato.com/)
 
 You can find much more than intro templates on the EnvatoElements platform since you can choose from 740.000 items you can use for anything from creating a WordPress website to preparing your next business presentation.
@@ -337,10 +333,6 @@ Furthermore, you can download presets for both Premiere Pro and After Effects th
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/Videohive.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 20. [RocketStock](https://www.rocketstock.com/free-after-effects-templates/free-cinematic-title-library-for-premiere-pro/)
 
 This option is best suited for video editors who want to create their intros because RocketStok's Cinematic Style Library extends the scope of options provided by Premiere Pro.
@@ -354,6 +346,14 @@ If you don't feel comfortable creating your titles or if you simply don't have t
 On the other hand, Premiere Pro's users who don't often use title templates can benefit from downloading RocketStock's intro library.
 
 ![free premiere pro templates](https://images.wondershare.com/filmora/article-images/RocketStock.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Import and Customize Title Templates in Premiere
 
@@ -369,10 +369,6 @@ It is easy to import and use it to touch up your video. Check out the steps belo
 
 **Note**: each version of Premiere's interface will look different, but the workflow is similar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Using title templates can help you achieve a certain visual style faster, so you don't have to spend a lot of time looking for a perfect background or animating the text.
@@ -386,6 +382,10 @@ If you want to make professional video editing and tired of Premiere, try [Filmo
 You can sync audio automatically, use detailed color correction to make your title and video like a movie. Download it now (FREE)!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -402,22 +402,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dancefloor-dynamics-free-pristine-dj-template-videos/"><u>[New] 2024 Approved Dancefloor Dynamics Free, Pristine DJ Template Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-harnessing-power-a-complete-ez-grabber-manual/"><u>[New] Harnessing Power A Complete EZ Grabber Manual</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-virtual-escapades-you-cant-afford-to-miss-for-2024/"><u>[New] Virtual Escapades You Can't Afford to Miss for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-zen-of-zoom-advanced-tips-for-flawless-audio-recording-on-video-platforms/"><u>[Updated] In 2024, The Zen of Zoom Advanced Tips for Flawless Audio Recording on Video Platforms</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-optimizing-edit-videos-with-m1-powered-macbook-air-for-2024/"><u>[Updated] Optimizing Edit Videos with M1 Powered MacBook Air for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-manual-on-deleting-a-defunct-linkedin-profile/"><u>[Updated] The Complete Manual on Deleting a Defunct LinkedIn Profile</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-your-ultimate-roadmap-for-optimal-youtube-video-resolution-width-and-height/"><u>[Updated] Your Ultimate Roadmap for Optimal YouTube Video Resolution, Width & Height</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-most-outstanding-television-models-reviewed-find-the-perfect-set-for-you/"><u>2024'S Most Outstanding Television Models Reviewed: Find the Perfect Set for You</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/modern-warfare-2-stability-guide-fixing-six-critical-crashes-on-pc-systems/"><u>Modern Warfare 2 Stability Guide: Fixing Six Critical Crashes on PC Systems</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unleash-your-creativity-top-video-animation-apps-for-smartphone-and-tablet-users/"><u>New In 2024, Unleash Your Creativity Top Video Animation Apps for Smartphone and Tablet Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-quicktime-video-editing-essentials-for-mac-beginners/"><u>New QuickTime Video Editing Essentials for Mac Beginners</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/stealthy-facebook-video-navigator/"><u>Stealthy Facebook Video Navigator</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-best-mp4-to-mp3-conversion-software-for-windows-and-mac/"><u>The Best MP4 to MP3 Conversion Software for Windows and Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/transform-your-chromebook-how-to-install-linux-and-unlock-new-features/"><u>Transform Your Chromebook How to Install Linux and Unlock New Features</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-tiktok-video-magic-how-to-reverse-speed-up-and-slow-down-your-clips/"><u>Updated 2024 Approved TikTok Video Magic How to Reverse, Speed Up, and Slow Down Your Clips</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-replace-pinnacle-studio-on-your-mac-with-these-top-picks/"><u>Updated Replace Pinnacle Studio on Your Mac with These Top Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-unbiased-review-sony-vegas-vs-adobe-premiere-pro-which-one-is-right-for-you/"><u>Updated Unbiased Review Sony Vegas vs Adobe Premiere Pro - Which One Is Right for You?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experts-choice-the-best-of-all-8k-cameras/"><u>[New] Expert's Choice The Best of All 8K Cameras</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mp4mpl2s-creation-from-twitter-videos-for-2024/"><u>[New] MP4/MPL2S Creation From Twitter Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nipperpro-suite/"><u>[New] SnipperPro Suite</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-notch-techniques-for-saving-online-radio-broadcasts-for-2024/"><u>[New] Top-Notch Techniques for Saving Online Radio Broadcasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-bandicam-your-compreayer-for-high-quality-screen-recording/"><u>[Updated] Bandicam Your Compreayer for High-Quality Screen Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-meme-creation-with-kinemaster/"><u>2024 Approved The Ultimate Meme Creation with KineMaster</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/inside-perspectives-unveiling-what-you-dont-know-about-story-watching-for-2024/"><u>Inside Perspectives Unveiling What You Don't Know About Story Watching for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-public-domain-video-downloads/"><u>New The Ultimate Guide to Public Domain Video Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-methods-for-uploading-high-quality-wmv-videos-on-youtube/"><u>Seamless Methods for Uploading High-Quality WMV Videos on YouTube</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/transform-your-videos-top-free-and-paid-android-video-editing-apps-for-2024/"><u>Transform Your Videos Top Free and Paid Android Video Editing Apps for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/trustworthy-jump-starter-for-your-vehicle-the-ultimate-guide-to-dbpower-600a-with-18000mah/"><u>Trustworthy Jump Starter for Your Vehicle: The Ultimate Guide to DBPOWER 지정 600A with 18,000mAh</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-beginner-friendly-video-editing-apps-no-cost-no-hassle/"><u>Updated In 2024, Beginner-Friendly Video Editing Apps No Cost, No Hassle</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-rea/"><u>Updated In 2024, Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-transform-your-videos-expert-techniques-for-achieving-a-professional-look/"><u>Updated In 2024, Transform Your Videos Expert Techniques for Achieving a Professional Look</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-young-cinematographer-empowering-kids-to-tell-their-stories/"><u>Updated The Young Cinematographer Empowering Kids to Tell Their Stories</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-young-directors-handbook-teach-kids-to-make-their-own-movies/"><u>Updated The Young Directors Handbook Teach Kids to Make Their Own Movies</u></a></li>
 </ul></div>
 

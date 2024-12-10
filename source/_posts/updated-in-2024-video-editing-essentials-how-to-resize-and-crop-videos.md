@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Video Editing Essentials How to Resize and Crop Videos
-date: 2024-11-25T08:33:24.497Z
-updated: 2024-12-01T16:59:48.496Z
+date: 2024-12-06T23:52:16.739Z
+updated: 2024-12-10T00:19:00.567Z
 tags: 
   - video editing software
   - video editing
@@ -34,6 +34,10 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Change Video Shape from Rectangle to Square
 
 Depending on the recording device and the target audiences a video is intended to be distributed to, the aspect ratio of the produced footage could be 16:9, 4:3, or 21:9 that makes the film rectangular-shaped. Given that, the aspect ratio can be modified to change the film shape from rectangle to square.
@@ -55,7 +59,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -63,10 +67,6 @@ For more details, please refer to this article: [How to Resize a Video to Right 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -87,7 +87,7 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -99,7 +99,7 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -153,7 +153,7 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,19 +171,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-boosting-engagement-profits-with-animated-ad-success-tactics-on-fb-for-2024/"><u>[New] Boosting Engagement, Profits with Animated Ad Success Tactics on FB for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-choreographers-guide-crafting-captivating-tiktok-dances-for-mac-users/"><u>[New] In 2024, The Choreographer's Guide Crafting Captivating TikTok Dances for Mac Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-vibes-for-top-tier-unpacked-videos/"><u>[New] Mastering Video Vibes for Top-Tier Unpacked Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-top-picks-online-tools-for-integrating-photo-frames-for-2024/"><u>[New] Top Picks Online Tools for Integrating Photo Frames for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-color-balance-pro/"><u>[Updated] Pinnacle Color Balance Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-best-zoomed-experience-in-virtual-meetings/"><u>[Updated] Unveiling the Best Zoomed Experience in Virtual Meetings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/basic-principles-of-story-artistry/"><u>Basic Principles of Story Artistry</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/boosting-visual-impact-incorporate-apple-music/"><u>Boosting Visual Impact Incorporate Apple Music</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/edit-videos-with-quicktime-player-on-mac/"><u>Edit Videos with QuickTime Player on Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-do-you-compress-mp4-videos-and-reduce-the-file-size-in-windows-10-for-free-in-this-article-ill-share-top-9-free-video-compression-software-for-windows-1/"><u>How Do You Compress Mp4 Videos and Reduce the File Size in Windows 10 for Free? In This Article, Ill Share Top 9 Free Video Compression Software for Windows 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Bootloader Easily</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-and-paid-android-video-editing-apps-compared-top-10/"><u>In 2024, Free and Paid Android Video Editing Apps Compared Top 10</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-merge-edit-and-share-top-video-collage-apps-for-iphone-and-ipad-users/"><u>In 2024, Merge, Edit, and Share Top Video Collage Apps for iPhone and iPad Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-s-top-intro-design-tools-for-pc-a-comprehensive-review/"><u>In 2024, S Top Intro Design Tools for PC A Comprehensive Review</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-discovering-the-best-youtube-mp3-transformers/"><u>[New] 2024 Approved Discovering the Best YouTube MP3 Transformers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-enhance-video-aesthetics-instagram-border-techniques/"><u>[New] Enhance Video Aesthetics Instagram Border Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-visual-communication-a-guide-to-gif-creation/"><u>[New] Expertise in Visual Communication A Guide to GIF Creation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-convert-youtube-videos-to-mp3-songs-on-mac-2023-update-for-2024/"><u>[Updated] How to Convert YouTube Videos to MP3 Songs on Mac-2023 Update for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/effortless-video-editing-on-mac-os-x-mavericks-tutorial/"><u>Effortless Video Editing on Mac OS X Mavericks Tutorial</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-graphics-update-available-for-windows-11/"><u>HP Graphics Update Available for Windows 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-protect-your-videos-with-these-free-watermarking-tools/"><u>In 2024, Protect Your Videos with These Free Watermarking Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unleash-your-creativity-best-online-collage-makers-for-photos-and-videos/"><u>In 2024, Unleash Your Creativity Best Online Collage Makers for Photos and Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-behind-the-scenes-10-movies-that-rely-on-final-cut-pro-for-editing/"><u>New 2024 Approved Behind the Scenes 10 Movies That Rely on Final Cut Pro for Editing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-20-adobe-premiere-titleintro-templates-free-download/"><u>Top 20 Adobe Premiere Title/Intro Templates Free Download</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-limits-why-chatgpt-struggles-with-self-detection-of-text-generation/"><u>Unveiling the Limits: Why ChatGPT Struggles with Self-Detection of Text Generation</u></a></li>
 </ul></div>
 

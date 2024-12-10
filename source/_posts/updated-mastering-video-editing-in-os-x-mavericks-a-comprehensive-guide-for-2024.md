@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Video Editing in OS X Mavericks A Comprehensive Guide for 2024
-date: 2024-11-27T01:07:45.340Z
-updated: 2024-12-02T15:23:29.836Z
+date: 2024-12-06T03:03:36.117Z
+updated: 2024-12-09T19:49:41.304Z
 tags: 
   - video editing software
   - video editing
@@ -29,7 +29,7 @@ As Mac OS X 10.14.3 Mavericks will become a popular and household operating syst
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Edit Videos in OS X Mavericks
@@ -40,6 +40,10 @@ Free download and run Filmora on Mac OS X Mavericks, go to File > Add Files or d
 
 ![how to edit videos on mavericks](https://images.wondershare.com/filmora/article-images/import-video-9-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2 Edit videos in OS X Mavericks
 
  **Trim, crop, rotate video, and add titles, filters, video effect etc.**
@@ -48,10 +52,6 @@ Filmora gives you much simpler videos editing experience on Mac OS X Mavericks. 
 
 ![edit videos mavericks](https://images.wondershare.com/filmora/article-images/edit-video-filmora-9-mac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Add transitions or credit/intro**
 
 To add transitions, you can click **Transitions** at the top, and then drag your favorite transition effect to the track over the video to apply. Then double click it to set the transition duration freely. As you can see, you can also apply one favorite transition effect to all the clips or let the software randomly add transitions for you. To make your videos more stunning, you can also switch to the “Intro/Credit” tab to add different intro/ credit effect to timeline. To change the effect and text, choose the “Title” function and customize it as you like.
@@ -59,7 +59,7 @@ To add transitions, you can click **Transitions** at the top, and then drag your
 ![edit video mac](https://images.wondershare.com/filmora/guide/add-transition-mac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3 Save the edited videos
@@ -68,18 +68,18 @@ Click the **EXPORT** button on the primary window to reveal the output window. T
 
 ![edit videos on mavericks](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now download this video resizer for Mavericks and explore more video editing functions!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -97,24 +97,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-converting-your-clips-upload-to-youtube-via-premiere/"><u>[New] 2024 Approved Converting Your Clips Upload to YouTube Via Premiere</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-essence-of-timelessness-instagrams-slow-motion-guide-for-2024/"><u>[New] The Essence of Timelessness Instagram's Slow-Motion Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai2024-iphoneandroid5/"><u>AI駆使した2024年度版: IPhone/Android両用、動画高画質化アプリトップ5選!</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-the-confusing-blue-screen-error-0x8007007e/"><u>Clearing Up the Confusing Blue Screen Error: 0X8007007E</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-solved-warno-pc-crashes-top-solutions-and-troubleshooting-steps/"><u>Fix [SOLVED] Warno PC Crashes: Top Solutions and Troubleshooting Steps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-gaming-install-funimate-via-apk-method/"><u>In 2024, Revolutionize Gaming - Install Funimate via APK Method</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211162654-9798888320143-my-encounter-with-god-as-a-commercial-truck-driver/"><u>My Encounter With God As A Commercial Truck Driver | Free Book</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-effortless-mkv-trimming-on-mac-the-best-tools/"><u>New In 2024, Effortless MKV Trimming on Mac The Best Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-android-podcast-options-for-2024/"><u>Premium Android Podcast Options for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-cream-of-the-crop-top-android-apps/"><u>The Cream of the Crop Top Android Apps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-itel-s23-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Itel S23 for Parents | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/understanding-the-video-space-in-high-capacity-drives/"><u>Understanding the Video Space in High-Capacity Drives</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-10-leading-image-to-video-conversion-software-online/"><u>Updated 10 Leading Image to Video Conversion Software Online</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-animate-like-a-pro-top-8-software-options-for-mac-and-windows/"><u>Updated Animate Like a Pro Top 8 Software Options for Mac and Windows</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-essential-adobe-premiere-pro-extensions-free-and-paid-options-for-2024/"><u>Updated Essential Adobe Premiere Pro Extensions Free & Paid Options for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-audio-fade-infade-out-secrets-unleash-the-power-of-final-cut-pro/"><u>Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-stunning-4k-videos-you-need-to-see/"><u>Updated In 2024, Stunning 4K Videos You Need to See</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-mac-video-editing-software-create-stunning-videos-in-minutes/"><u>Updated In 2024, Top Mac Video Editing Software Create Stunning Videos in Minutes</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-windows-live-movie-maker-tutorial-adding-a-slow-motion-effect-to-your-videos-for-2024/"><u>Updated Windows Live Movie Maker Tutorial Adding a Slow Motion Effect to Your Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-circular-captures-iphone-filmmaking-tips-for-social-media-for-2024/"><u>[New] Circular Captures IPhone Filmmaking Tips for Social Media for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/asily-download-specific-youtube-sections-for-2024/"><u>[New] Easily Download Specific YouTube Sections for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-charting-the-course-visual-content-in-educational-endeavors/"><u>2024 Approved Charting the Course Visual Content in Educational Endeavors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-the-cut-an-in-depth-look-at-d500-4k-for-2024/"><u>Inside the Cut An In-Depth Look at D500 4K for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-a-budget-friendly-triumph-in-sim-driving/"><u>MOZA R5: A Budget-Friendly Triumph in Sim Driving</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-kids-in-the-directors-chair-a-fun-guide-to-making-movies/"><u>New In 2024, Kids in the Directors Chair A Fun Guide to Making Movies</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-virtualdub-replacement-top-picks-for-video-editing-software/"><u>New In 2024, VirtualDub Replacement Top Picks for Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-s-hottest-android-video-editing-apps-free-and-paid-picks/"><u>New S Hottest Android Video Editing Apps Free and Paid Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/sound-design-on-a-budget-how-to-find-and-integrate-free-sound-effects-in-final-cut-pro-for-2024/"><u>Sound Design on a Budget How to Find and Integrate Free Sound Effects in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackle-the-trouble-proven-fixes-for-continuous-battlfield-2e42-crashes-on-pc/"><u>Tackle the Trouble: Proven Fixes for Continuous BattlField 2E42 Crashes on PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-3d-animation-software-free-and-paid-solutions-for-2024/"><u>The Ultimate Guide to 3D Animation Software Free and Paid Solutions for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-8-best-vr-controllers-to-check-out/"><u>Top 8 Best VR Controllers to Check Out</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-creativity-best-free-video-effects-apps-for-mobile-devices/"><u>Updated 2024 Approved Unleash Creativity Best Free Video Effects Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-video-editing-on-a-shoestring-16-free-and-intuitive-movie-makers/"><u>Updated 2024 Approved Video Editing on a Shoestring 16 Free and Intuitive Movie Makers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-free-video-editors-easy-peasy-for-newbies-for-2024/"><u>Updated Best Free Video Editors Easy Peasy for Newbies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/whats-the-real-distinction-between-youtube-and-dailymention-for-2024/"><u>What's the Real Distinction Between YouTube and DailyMention for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi 13T | Dr.fone</u></a></li>
 </ul></div>
 

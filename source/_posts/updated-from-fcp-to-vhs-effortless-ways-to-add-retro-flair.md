@@ -1,7 +1,7 @@
 ---
 title: Updated From FCP to VHS Effortless Ways to Add Retro Flair
-date: 2024-11-25T19:20:22.673Z
-updated: 2024-12-02T09:52:43.381Z
+date: 2024-12-07T02:05:02.206Z
+updated: 2024-12-09T23:51:55.966Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,10 @@ A VHS effect is a textured, warped effect that looks like an outdated analog vid
 
 ![vhs_effect](https://images.wondershare.com/filmora/images/final-cut-pro/vhs_effect.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to know how to add VHS effect to your videos without any plugins in Final Cut Pro X, then follow these steps:
 
 Open Final Cut Pro and click on New Project.
@@ -45,7 +49,7 @@ Name your project as VHS effect in the Project Name section. Change the Video fo
 ![change_project_name_and_format_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/change_project_name_and_format_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Drag and drop your footage in the timeline of FCPX. After this, scale your project so that it fits the frame.
@@ -61,7 +65,7 @@ Now go back to the search bar and type Gaussian Blur. Select that and drop it to
 ![add_guassian_blur_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_guassian_blur_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Go to the Gaussian settings and set the amount to roughly 2.0-3.0.
@@ -71,7 +75,7 @@ Go back to the search bar in FCPX and type Sharpen. Select the Sharpen effect an
 ![add_sharpness_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_sharpness_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Set the amount of sharpness to around 8.0-9.0.
@@ -86,6 +90,10 @@ Now go to the search bar again and type Prism. Select the prism effect and drop 
 
 ![add_prism_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_prism_effect_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Set the amount to around 13.0-14.0.
 
 Go back to the search bar and type Color Correction. Drag and drop this effect to your footage in Final Cut Pro.
@@ -98,14 +106,6 @@ After your video is rendered, you will get the final results using the VHS filte
 
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -117,6 +117,10 @@ First, if you haven't got Filmora, click here to download it for free!
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
@@ -154,7 +158,7 @@ Go to Effect, and in the search bar, type **VHS**.
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
@@ -165,10 +169,6 @@ Search for **Chromatic Aberration effect**.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now Search for **VCR Distortion** in the search bar.
 
@@ -210,7 +210,7 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Stories – Glitch & VHS Edition**
@@ -242,19 +242,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-office-design-evolution-trends-and-practices-for-maximum-output/"><u>[New] 2024 Approved Office Design Evolution Trends and Practices for Maximum Output</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-prioritize-performance-our-picks-for-the-best-video-players/"><u>[New] In 2024, Prioritize Performance Our Picks for the Best Video Players</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-boost-your-revenue-yielding-earnings-from-youtube-at-500-followers/"><u>[Updated] Boost Your Revenue Yielding Earnings From YouTube at 500 Followers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-macbook-cam-tutorial-for-smooth-video-capture/"><u>[Updated] MacBook Cam Tutorial for Smooth Video Capture</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-securing-your-apple-vision-pro-navigating-pre-order-challenges-revealed/"><u>1. Securing Your Apple Vision Pro: Navigating Pre-Order Challenges Revealed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capture-kings-warzone/"><u>In 2024, Capture Kings Warzone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nokia-c12-plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nokia C12 Plus Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/no-cost-video-blurring-the-best-online-tools-and-techniques/"><u>No-Cost Video Blurring The Best Online Tools and Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-essential-guide-to-crafting-memorable-posts-507-standout-instagram-captions/"><u>The Essential Guide to Crafting Memorable Posts: 507 Standout Instagram Captions</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/time-bending-techniques-in-final-cut-pro-x/"><u>Time-Bending Techniques in Final Cut Pro X</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-10-essential-animated-text-generators-to-elevate-your-visuals-for-2024/"><u>Updated 10 Essential Animated Text Generators to Elevate Your Visuals for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-best-of-the-best-top-hd-video-editing-software/"><u>Updated In 2024, Best of the Best Top HD Video Editing Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-do-vhs-effect-with-final-cut-pro-in-the-right-way/"><u>Updated In 2024, Do VHS Effect with Final Cut Pro in the Right Way</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-rated-free-video-editors-for-wmv-files-updated-2023/"><u>Updated Top-Rated Free Video Editors for WMV Files (Updated 2023)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-superior-skills-for-video-preservation-devices/"><u>[New] Superior Skills for Video Preservation Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-essential-manual-for-srt-conversion-techniques/"><u>[New] The Essential Manual for SRT Conversion Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-advanced-techniques-to-silence-background-noise-in-media/"><u>[Updated] Advanced Techniques to Silence Background Noise in Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-turn-video-soundtracks-into-audible-files-for-2024/"><u>[Updated] How to Turn Video Soundtracks Into Audible Files for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-understanding-and-utilizing-facebooks-updated-marketing-techniques/"><u>[Updated] Understanding & Utilizing Facebook’s Updated Marketing Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/allocating-budget-for-youtube-video-success/"><u>Allocating Budget for YouTube Video Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trustful-talkers-integrating-chatgpt-safely/"><u>Trustful Talkers: Integrating ChatGPT Safely</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-10plus-best-video-editing-apps-for-kids/"><u>Updated 10+ Best Video Editing Apps for Kids</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-convert-photo-to-cartoon-style-for-2024/"><u>Updated Convert Photo to Cartoon Style for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-countdown-magic-mastering-fcpx-timers-in-3-short-steps-for-2024/"><u>Updated Countdown Magic Mastering FCPX Timers in 3 Short Steps for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-unforgettable-home-videos-top-dvd-authoring-software-for-2024/"><u>Updated Create Unforgettable Home Videos Top DVD Authoring Software for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-time-lapse-mastery-unlock-the-power-of-accelerated-video/"><u>Updated In 2024, Time Lapse Mastery Unlock the Power of Accelerated Video</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-rated-online-tools-for-converting-images-to-videos/"><u>Updated Top-Rated Online Tools for Converting Images to Videos</u></a></li>
 </ul></div>
 
