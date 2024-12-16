@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The FCPX Shortcut Bible 40 Essential Commands to Know
-date: 2024-12-03T22:49:29.036Z
-updated: 2024-12-09T20:34:10.698Z
+date: 2024-12-10T08:09:18.944Z
+updated: 2024-12-16T06:50:40.442Z
 tags: 
   - video editing software
   - video editing
@@ -102,7 +102,7 @@ In this article, I share my Top 40 keyboard shortcuts. I use these beauties ever
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -122,7 +122,7 @@ Above are the top useful shortcuts that I used most when editing videos in Final
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -140,24 +140,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-evaluating-the-storage-power-of-64128gb-units-for-vids/"><u>[New] Evaluating the Storage Power of 64/128GB Units for Vids</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-portrait-to-panorama-a-guide-to-instagrams-rotation-revolution/"><u>[New] In 2024, From Portrait to Panorama A Guide to Instagram's Rotation Revolution</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-weekly-must-see-elite-igtv-talents-for-2024/"><u>[New] Weekly Must-See Elite IGTV Talents for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-peek-into-fb-episodes-unseen/"><u>[Updated] 2024 Approved Peek Into FB Episodes, Unseen</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-complete-guide-for-setting-up-and-managing-regular-meetings-on-google/"><u>[Updated] The Complete Guide for Setting Up and Managing Regular Meetings on Google</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-how-to-free-fix-a-corrupted-mp4-video-file-on-pc-or-mac-step-by-step-guide/"><u>1. How to Free Fix a Corrupted MP4 Video File on PC or Mac - Step by Step Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/edit-videos-for-free-top-14-watermark-free-software/"><u>Edit Videos for Free Top 14 Watermark-Free Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/edit-videos-online-for-free-the-best-tools-and-services-for-2024/"><u>Edit Videos Online for Free The Best Tools and Services for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tless-video-streams-youtube-loops-for-television-viewers/"><u>Effortless Video Streams YouTube Loops for Television Viewers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/from-flat-to-fabulous-converting-videos-for-vr-with-ease-for-2024/"><u>From Flat to Fabulous Converting Videos for VR with Ease for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/i-numero-italiani-in-forma-di-saghe-1-1000/"><u>I Numero Italiani in Forma Di Saghe (1-1000)</u></a></li>
-<li><a href="https://discover-able.techidaily.com/identifying-cpu-failure-symptoms-insights-by-yl-software-specialists/"><u>Identifying CPU Failure Symptoms: Insights by YL Software Specialists</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-13-ways-to-fine-tune-colors-in-photoshop-effortlessly/"><u>In 2024, 13 Ways to Fine-Tune Colors in Photoshop Effortlessly</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-chromebook-video-editing-software-top-10-online-options/"><u>In 2024, Chromebook Video Editing Software Top 10 Online Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-color-code-cracked-how-to-match-video-clips-in-powerdirector-like-a-pro/"><u>In 2024, Color Code Cracked How to Match Video Clips in PowerDirector Like a Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-split-screen-video-creators-for-mobile-phones/"><u>In 2024, Top-Rated Split Screen Video Creators for Mobile Phones</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unlock-the-power-of-the-ken-burns-effect-a-comprehensive-guide/"><u>In 2024, Unlock the Power of the Ken Burns Effect A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-bring-your-art-to-life-top-7-animation-software/"><u>New 2024 Approved Bring Your Art to Life Top 7 Animation Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-avi-to-mkv-streaming-any-video-format-to-google-chromecast/"><u>New 2024 Approved From AVI to MKV Streaming Any Video Format to Google Chromecast</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-halovision-highlights-critique/"><u>[New] HaloVision Highlights Critique</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-important-measures-to-adapt-music-tempoplay-on-spotify/"><u>2024 Approved Important Measures to Adapt Music Tempoplay on Spotify</u></a></li>
+<li><a href="https://extra-information.techidaily.com/concealing-identity-swift-methods-for-picscanner/"><u>Concealing Identity Swift Methods for PicScanner</u></a></li>
+<li><a href="https://discover-great.techidaily.com/die-effektivsten-methoden-zur-behebung-des-problems-externe-festplatte-erlaubt-keinen-zugriff-entdeckungen-und-losungen/"><u>Die Effektivsten Methoden Zur Behebung Des Problems: Externe Festplatte Erlaubt Keinen Zugriff - Entdeckungen Und Lösungen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lava-yuva-3-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lava Yuva 3 Without PUK Codes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multilingual-mastery-made-easy-with-mondlyar/"><u>Multilingual Mastery Made Easy with MondlyAR</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-no-cost-video-magic-the-best-online-editors-ranked/"><u>New No-Cost Video Magic The Best Online Editors Ranked</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/smooth-transitions-made-easy-2-methods-for-fading-audio-in-final-cut-pro/"><u>Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-making-the-most-of-your-meta-quest-mic/"><u>Step-by-Step Tutorial: Making the Most of Your Meta Quest Mic</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-apps-to-turn-videos-into-live-photos-on-iphoneandroid/"><u>Updated 2024 Approved Best Apps to Turn Videos Into Live Photos on iPhone/Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-audio-fade-ins-and-outs-made-easy-2-fcp-techniques/"><u>Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-fcp-x-the-ultimate-guide-to-creating-realistic-green-screen-composites/"><u>Updated FCP X The Ultimate Guide to Creating Realistic Green Screen Composites</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-of-both-worlds-video-makers-with-music-for-android-and-iphone/"><u>Updated In 2024, The Best of Both Worlds Video Makers with Music for Android and iPhone</u></a></li>
 </ul></div>
 

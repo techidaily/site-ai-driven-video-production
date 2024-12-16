@@ -1,7 +1,7 @@
 ---
 title: Updated Effortless Video Editing on Mac OS X Mavericks Tutorial
-date: 2024-12-08T23:44:47.333Z
-updated: 2024-12-10T06:57:37.921Z
+date: 2024-12-09T21:01:19.211Z
+updated: 2024-12-16T04:28:52.529Z
 tags: 
   - video editing software
   - video editing
@@ -37,7 +37,7 @@ Free download and run Filmora on Mac OS X Mavericks, go to File > Add Files or d
 ![how to edit videos on mavericks](https://images.wondershare.com/filmora/article-images/import-video-9-mac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2 Edit videos in OS X Mavericks
@@ -49,7 +49,7 @@ Filmora gives you much simpler videos editing experience on Mac OS X Mavericks. 
 ![edit videos mavericks](https://images.wondershare.com/filmora/article-images/edit-video-filmora-9-mac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Add transitions or credit/intro**
@@ -59,7 +59,7 @@ To add transitions, you can click **Transitions** at the top, and then drag your
 ![edit video mac](https://images.wondershare.com/filmora/guide/add-transition-mac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3 Save the edited videos
@@ -68,19 +68,19 @@ Click the **EXPORT** button on the primary window to reveal the output window. T
 
 ![edit videos on mavericks](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now download this video resizer for Mavericks and explore more video editing functions!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -97,18 +97,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-laugh-hard-best-meme-app-for-you/"><u>[New] In 2024, Laugh Hard Best Meme App for You</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-decoding-vivacut-video-editing-essentials-for-2024/"><u>[Updated] Decoding VivaCut Video Editing Essentials for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-get-to-grips-with-final-cut-pro-step-by-step-tutorial/"><u>[Updated] Get to Grips with Final Cut Pro – Step by Step Tutorial</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-perfecting-synchronized-recording-webcam-plus-display-techniques/"><u>2024 Approved Perfecting Synchronized Recording Webcam + Display Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tlessly-replay-videos-on-iphone-for-2024/"><u>Effortlessly Replay Videos on iPhone for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elite-laptop-lineup-for-2amo-thoroughly-analyzed-and-critiqued-by-specialists/"><u>Elite Laptop Lineup for 2Amo: Thoroughly Analyzed & Critiqued by Specialists</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-10-most-popular-free-video-compressor-apps-for-windows-10/"><u>New In 2024, The 10 Most Popular Free Video Compressor Apps for Windows 10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-6-platforms-revolutionizing-business-social-interaction/"><u>Top 6 Platforms Revolutionizing Business-Social Interaction</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/two-screens-one-goal-the-best-split-screen-video-apps-for-ios-and-android-users/"><u>Two Screens, One Goal The Best Split-Screen Video Apps for iOS and Android Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-the-power-of-linux-on-your-chromebook-an-installation-guide-for-20/"><u>Updated 2024 Approved Unleash the Power of Linux on Your Chromebook An Installation Guide for 20</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-video-looping-websites-top-10-picks-for-seamless-repeats/"><u>Updated In 2024, Free Video Looping Websites Top 10 Picks for Seamless Repeats</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-rotate-your-avi-videos-with-ease-top-5-free-tools/"><u>Updated In 2024, Rotate Your AVI Videos with Ease Top 5 Free Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-best-webcams-for-streaming-elevate-your-viewer-experience-on-twitch/"><u>[New] Best Webcams for Streaming Elevate Your Viewer Experience on Twitch</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-a-decades-best-anime-opening-songs-compiled-for-2024/"><u>[Updated] A Decade's Best Anime Opening Songs Compiled for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-audience-engagement-meets-technology-four-recording-ways-on-facebook-for-2024/"><u>[Updated] Audience Engagement Meets Technology Four Recording Ways on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mp3-masterclass-easy-audio-to-video-for-youtube-enthusiasts-for-2024/"><u>[Updated] MP3 Masterclass Easy Audio to Video for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2023s-ultimate-selection-of-ios-devices-for-classic-psp-games-for-2024/"><u>2023'S Ultimate Selection of iOS Devices for Classic PSP Games for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-cinematic-zoom-effect-focus-on-film/"><u>2024 Approved The Cinematic Zoom Effect Focus on Film</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-started-with-video-editing-15-free-and-easy-to-use-tools/"><u>New In 2024, Get Started with Video Editing 15 Free and Easy-to-Use Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-official-100-valid-wondershare-filmora-coupon-code-up-to-54-off-for-2024/"><u>New Official 100 Valid Wondershare Filmora Coupon Code Up to 54 OFF for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-pip-like-a-pro-advanced-techniques-in-final-cut-pro-for-2024/"><u>New PiP Like a Pro Advanced Techniques in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-art-of-stillness-freezing-frames-in-videos-made-easy/"><u>New The Art of Stillness Freezing Frames in Videos Made Easy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-creating-videots-folders-from-dvds-on-your-pc/"><u>Step-by-Step Guide: Creating Video_TS Folders From DVDs on Your PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-title-magic-in-fcpx-how-to-create-eye-catching-headlines/"><u>Updated 2024 Approved Title Magic in FCPX How to Create Eye-Catching Headlines</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-mobile-video-to-audio-conversion-made-easy-top-apps-reviewed/"><u>Updated In 2024, Mobile Video to Audio Conversion Made Easy Top Apps Reviewed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unlock-stunning-gopro-footage-easy-editing-for-beginners/"><u>Updated In 2024, Unlock Stunning GoPro Footage Easy Editing for Beginners</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-xml-files-in-fcpx-tips-tricks-and-best-practices/"><u>Updated In 2024, XML Files in FCPX Tips, Tricks, and Best Practices</u></a></li>
 </ul></div>
 

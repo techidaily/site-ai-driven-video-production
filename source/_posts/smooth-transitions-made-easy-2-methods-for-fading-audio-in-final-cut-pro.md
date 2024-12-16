@@ -1,7 +1,7 @@
 ---
 title: Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro
-date: 2024-12-09T05:51:51.393Z
-updated: 2024-12-09T16:00:35.452Z
+date: 2024-12-12T05:16:35.001Z
+updated: 2024-12-16T05:41:48.474Z
 tags: 
   - video editing software
   - video editing
@@ -44,6 +44,10 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -53,7 +57,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
@@ -61,7 +65,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
@@ -89,11 +93,11 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -101,10 +105,6 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -134,21 +134,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/anticipating-the-new-pixel-timepiece-expected-costs-arrival-timeline-and-teasers-about-its-capabilities/"><u>Anticipating the New Pixel Timepiece: Expected Costs, Arrival Timeline, & Teasers About Its Capabilities</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/avoiding-pitfalls-tiktok-video-copyright-verification-guide/"><u>Avoiding Pitfalls TikTok Video Copyright Verification Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-the-lock-essential-tpm-hacks-for-windows-11/"><u>Bypassing the Lock: Essential TPM Hacks for Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/differentiating-nlp-and-ml-insights-into-their-unique-roles-in-artificebeforeal/"><u>Differentiating NLP and ML: Insights Into Their Unique Roles in Artificebeforeal</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-ringtone-deals-from-gots-best-online-sources-for-2024/"><u>Exclusive Ringtone Deals From GoT's Best Online Sources for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-note-30i-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Note 30i Phones with/without a PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-itel-p55-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Itel P55 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win11.techidaily.com/keeping-epic-game-launcher-running-smoothly-on-win-1011/"><u>Keeping Epic Game Launcher Running Smoothly on Win 10/11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-how-to-reverse-a-video-in-final-cut-pro/"><u>New In 2024, How to Reverse A Video in Final Cut Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-loop-it-10-best-free-online-video-looping-software-this-year/"><u>New In 2024, Loop It! 10 Best Free Online Video Looping Software This Year</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/noteworthy-14-dynamic-text-artworks/"><u>Noteworthy 14 Dynamic Text Artworks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/produce-professional-looking-videos-with-fcpx-stabilization-tools-for-2024/"><u>Produce Professional-Looking Videos with FCPX Stabilization Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/unlock-fcps-full-potential-5-expert-editing-tips-you-need-to-know-for-2024/"><u>Unlock FCPs Full Potential 5 Expert Editing Tips You Need to Know for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-in-this-article-we-will-introduce-how-to-make-a-time-lapse-video-with-photos-and-videos-with-one-of-the-best-time-lapse-software-filmo/"><u>Updated 2024 Approved In This Article, We Will Introduce How to Make a Time Lapse Video with Photos and Videos with One of the Best Time Lapse Software Filmora in Details</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-s-top-free-cctv-software-for-home-and-business-security-for-2024/"><u>Updated S Top Free CCTV Software for Home and Business Security for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/video-to-live-photo-conversion-made-easy-top-tools-and-how-tos/"><u>Video to Live Photo Conversion Made Easy Top Tools and How-Tos</u></a></li>
+<li><a href="https://fox-where.techidaily.com/bitcoin-wallets-sichern-best-practices-fur-nutzer-von-windows-11-8-und-7/"><u>Bitcoin Wallets Sichern – Best Practices Für Nutzer Von Windows 11, 8 Und 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-7-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 7 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/descubre-and-elimine-comodamente-las-areas-borron-y-busque-ocultas-de-tu-memoria-flash/"><u>Descubre & Elimine Cómodamente Las Áreas Borrón Y Busque Ocultas De Tu Memoria Flash</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellent-pictorial-archive-networks-for-2024/"><u>Excellent Pictorial Archive Networks for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-steps-in-mastering-the-av1-codec-for-2024/"><u>First Steps in Mastering the AV1 Codec for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-cutting-edge-avi-video-cutters-top-16-picks-for-professionals-and-beginners-for-2024/"><u>New Cutting-Edge AVI Video Cutters Top 16 Picks for Professionals and Beginners for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-discover-the-best-online-neon-sign-tools-for-beginners-for-2024/"><u>New Discover the Best Online Neon Sign Tools for Beginners for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-download-edit-and-share-the-complete-online-video-guide-for-2024/"><u>New Download, Edit, and Share The Complete Online Video Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-epic-video-editing-add-mind-blowing-effects-to-your-videos-for-2024/"><u>New Epic Video Editing Add Mind-Blowing Effects to Your Videos for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-essential-adobe-premiere-hotkeys-to-boost-productivity/"><u>New Essential Adobe Premiere Hotkeys to Boost Productivity</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-exploring-vn-video-editor-pro-is-this-app-right-for-you-for-2024/"><u>New Exploring VN Video Editor Pro Is This App Right for You for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-editing-software-for-dummies-top-picks-for-easy-edits/"><u>New Free Video Editing Software for Dummies Top Picks for Easy Edits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/starting-off-understanding-av1-compression-for-2024/"><u>Starting Off Understanding AV1 Compression for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-razer-book-13s-capabilities-and-performance-expert-evaluation/"><u>Unpacking the Razer Book 13'S Capabilities and Performance - Expert Evaluation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207691368-what-to-do-if-windows-10-doesnt-recognize-your-logitech-keyboard/"><u>What to Do if Windows 10 Doesn’t Recognize Your Logitech Keyboard</u></a></li>
 </ul></div>
 

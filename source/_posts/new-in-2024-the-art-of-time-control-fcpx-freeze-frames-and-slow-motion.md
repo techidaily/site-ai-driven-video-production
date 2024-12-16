@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Art of Time Control FCPX Freeze Frames and Slow Motion
-date: 2024-11-28T15:26:33.596Z
-updated: 2024-12-02T02:44:31.197Z
+date: 2024-12-09T10:26:52.588Z
+updated: 2024-12-16T07:40:24.315Z
 tags: 
   - video editing software
   - video editing
@@ -31,7 +31,7 @@ This article shows you how to do this using Final Cut Pro X.
 For more tutorials on slow-motion please refer to this article: [Top 10 Slow Motion Video Editing Software.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Freeze-Frames and Slow Motion in Final Cut Pro X
@@ -39,6 +39,10 @@ For more tutorials on slow-motion please refer to this article: [Top 10 Slow Mot
 #### 1\.  STILL FRAMES
 
 ![still frames](https://images.wondershare.com/multimedia/speed001.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A still-frame freezes action. For instance, here is a clip of a hummingbird getting ready to land on a bird feeder. I want to create a freeze-frame of the bird in flight. (Um, yeah, I use "freeze-frame" and "still-frame" interchangeably.)
 
@@ -49,6 +53,10 @@ In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freez
 This creates a two-second freeze-frame at the position of the playhead.
 
 ![create freeze frame](https://images.wondershare.com/multimedia/speed003.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
 
@@ -70,6 +78,10 @@ This locates the source clip in the Browser, selects both the Browser and the cl
 
 ![match clips](https://images.wondershare.com/multimedia/speed006.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, with the Browser selected, type Option+F. This creates a freeze-frame of the Browser clip and places it at the location of the playhead as a connected clip in the Timeline.
 
 As a connected clip, we can move this new freeze-frame wherever we want. However, be careful in moving the clip, because, unless you mark the original frame with a marker (type "M"), there's no easy way to match the still frame with the source frame, once the still frame is moved somewhere else.
@@ -83,20 +95,20 @@ A Hold Frame is similar to an in-line still frame, but with more flexibility.
 ![hold frame](https://images.wondershare.com/multimedia/speed013.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
 
 ![hold frames in fcp x](https://images.wondershare.com/multimedia/speed014.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This displays the orange Retime editor bar above the clip, with a small red portion indicating the Hold frame.
 
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
@@ -105,10 +117,6 @@ Change the duration of the Hold frame by dragging the small thumb at the right e
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
 
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
 
@@ -138,10 +146,6 @@ Three things happen at once:
 
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
 There are two ways to change the speed of a clip.
@@ -153,6 +157,10 @@ The easy way is to grab the small handle at the end of the clip and drag left or
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This opens a new dialog allowing a number of changes:
 
@@ -185,10 +193,6 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 #### SUMMARY
@@ -196,10 +200,6 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -216,17 +216,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-guide-to-adding-creative-closure-in-vimeo-videos/"><u>[New] In 2024, Guide to Adding Creative Closure in Vimeo Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-tv-streaming-platforms-in-depth-comparisons/"><u>[New] Top 10 TV Streaming Platforms In-Depth Comparisons</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-avi-player-for-pc-and-mobile/"><u>[Updated] Best AVI Player for PC and Mobile</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-guide-windows-movie-maker-60-configuration/"><u>[Updated] Expert Guide Windows Movie Maker 6.0 Configuration</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-twitter-elite-moments-live-on-snapchat-for-2024/"><u>[Updated] Twitter Elite Moments Live on Snapchat for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-primer-to-perfect-hdr-cameras-the-definitive-list/"><u>2024 Approved A Primer to Perfect HDR Cameras The Definitive List</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-time-lapse-apps-for-iphone-and-android-for-2024/"><u>New The Ultimate Guide to Time-Lapse Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unlock-stunning-1080p-video-edits-with-the-best-software/"><u>Updated 2024 Approved Unlock Stunning 1080P Video Edits with the Best Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-fcpx-plugin-collection-free-and-paid-gems/"><u>Updated In 2024, The Ultimate FCPX Plugin Collection Free and Paid Gems</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-ultimate-guide-to-3d-animation-software-free-paid-and-everything-in-between/"><u>Updated Ultimate Guide to 3D Animation Software Free, Paid, and Everything in Between</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-cutting-edge-recording-for-a-greener-planet/"><u>[New] 2024 Approved Cutting Edge Recording for a Greener Planet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-step-by-step-approach-to-typography-addition-in-ae/"><u>[New] In 2024, A Step-by-Step Approach to Typography Addition in AE</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-host-a-webinar-on-youtube-for-free-for-2024/"><u>[Updated] How to Host a Webinar on YouTube for Free for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-leveraging-instagrams-video-features-a-how-to-guide/"><u>2024 Approved Leveraging Instagram's Video Features A How-To Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-rapid-camera-movements-home-filmmakers-guide/"><u>2024 Approved Rapid Camera Movements Home Filmmaker's Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-hp-officejet-pro-8740-driver-software-compatible-with-windows-11108/"><u>Download HP OfficeJet Pro ˈ8740 Driver Software Compatible with Windows 11/10/8</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-face-off-what-sets-pro-apart-from-express/"><u>Final Cut Face-Off What Sets Pro Apart From Express</u></a></li>
+<li><a href="https://extra-information.techidaily.com/graphic-design-evolution-post-acid-review/"><u>Graphic Design Evolution Post-ACID Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mac-video-editing-made-easy-vn-video-editor-and-its-alternatives/"><u>In 2024, Mac Video Editing Made Easy VN Video Editor and Its Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-revive-your-videos-as-live-photos-best-conversion-tools-and-tips/"><u>In 2024, Revive Your Videos as Live Photos Best Conversion Tools and Tips</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-webm-to-mp3-top-10-webm-to-mp3-converters/"><u>In 2024, WebM to MP3 Top 10 WebM to MP3 Converters</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-beyond-fcpx-10-video-editing-software-solutions-worth-exploring/"><u>New 2024 Approved Beyond FCPX 10 Video Editing Software Solutions Worth Exploring</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-adobe-premiere-cheat-sheet-6-time-saving-tips/"><u>New 2024 Approved The Ultimate Adobe Premiere Cheat Sheet 6 Time-Saving Tips</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unleash-creative-freedom-best-public-domain-video-resources/"><u>New 2024 Approved Unleash Creative Freedom Best Public Domain Video Resources</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-wevideo-the-simple-way-to-create-professional-looking-videos/"><u>New 2024 Approved WeVideo The Simple Way to Create Professional-Looking Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved PiP Like a Pro Advanced Techniques in Final Cut Pro
-date: 2024-12-08T19:23:40.468Z
-updated: 2024-12-09T22:17:16.666Z
+date: 2024-12-13T23:17:04.724Z
+updated: 2024-12-15T20:58:29.141Z
 tags: 
   - video editing software
   - video editing
@@ -39,7 +39,7 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Make a Time-Lapse Video in Final Cut Pro
@@ -55,7 +55,7 @@ Click the **Retime** pop-up menu below the viewer and choose **Fast** (or you ca
 ![ Apply Timelapse effect -1](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can set any speed by adjusting the **Rate**. Reset the speed by clicking on the little arrow on the right side of the window.
@@ -63,7 +63,7 @@ You can set any speed by adjusting the **Rate**. Reset the speed by clicking on 
 ![ Apply Timelapse effect -2](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can also drag the retiming handle to adjust the speed: dragging to the left increases the speed, and dragging to the right decreases it.
@@ -73,7 +73,7 @@ You can also drag the retiming handle to adjust the speed: dragging to the left 
 ![ Apply Timelapse effect -3](https://images.wondershare.com/filmora/article-images/timelapse-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That's it. You may also want to learn this: [how to add a countdown-timer in fcpx](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -83,7 +83,7 @@ If you have any questions about making time-lapse videos, feel free to drop a li
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -101,17 +101,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-orchestrate-your-pixels-with-offline-harmony/"><u>[New] In 2024, Orchestrate Your Pixels With Offline Harmony</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/2024iphone-dvdtop7-iphonedvd/"><u>2024年の最強iPhone DVDインポートソフトTOP7 - 新しい方法でiPhoneにDVDを組み込む</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-windows-experience-with-these-top-7-tips-36/"><u>Elevate Your Windows Experience with These Top 7 Tips (36)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/expert-recommended-free-video-splitters-for-2024/"><u>Expert-Recommended Free Video Splitters for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-13c-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi 13C FRP Locks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-3gp-file-cutter-extract-specific-parts-of-your-video/"><u>In 2024, 3GP File Cutter Extract Specific Parts of Your Video</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-create-stunning-animations-5-best-online-stop-motion-makers/"><u>In 2024, Create Stunning Animations 5 Best Online Stop Motion Makers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-from-beginner-to-pro-5-final-cut-pro-editing-tips-to-up-your-game/"><u>In 2024, From Beginner to Pro 5 Final Cut Pro Editing Tips to Up Your Game</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/1716806191942-in-2024-how-to-record-good-audio-without-a-microphone/"><u>In 2024, How to Record Good Audio Without a Microphone?</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/mastering-sql-constraint-removal-for-enhanced-data-management-and-adaptability/"><u>Mastering SQL Constraint Removal for Enhanced Data Management and Adaptability</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-10-best-free-dvd-players-compatible-with-windows-10/"><u>New 2024 Approved The 10 Best Free DVD Players Compatible with Windows 10</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capturing-and-polishing-videography-in-adobe-connect/"><u>[New] Capturing and Polishing Videography in Adobe Connect</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-charting-earnings-from-youtube-adsense-what-you-can-expect-per-1000-views-for-2024/"><u>[New] Charting Earnings From YouTube AdSense What You Can Expect per 1,000 Views for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/recision-in-perspective-mastery-of-youtube-video-degrees/"><u>[New] Precision in Perspective Mastery of Youtube Video Degrees</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unveiling-the-wonders-of-vita-video-editing-comprehensive-guide-2024/"><u>[New] Unveiling the Wonders of Vita Video Editing Comprehensive Guide, 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-superior-free-viewing-software-guide-top-16/"><u>[Updated] 2024 Approved Superior Free Viewing Software Guide - Top 16</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-tecno-spark-10-pro-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Tecno Spark 10 Pro lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-non-existent-lock-screen-countdown/"><u>How to Rectify Non-Existent Lock Screen Countdown</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-kids-in-the-directors-chair-a-fun-guide-to-making-movies/"><u>New In 2024, Kids in the Directors Chair A Fun Guide to Making Movies</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-virtualdub-replacement-top-picks-for-video-editing-software/"><u>New In 2024, VirtualDub Replacement Top Picks for Video Editing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-s-hottest-android-video-editing-apps-free-and-paid-picks/"><u>New S Hottest Android Video Editing Apps Free and Paid Picks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revitalize-your-system-easy-ways-to-refresh-cpu-driver-software-in-windows-operating-systems/"><u>Revitalize Your System: Easy Ways to Refresh CPU Driver Software in Windows Operating Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/safeguard-your-iphone-top-antivirus-solutions-reviewed/"><u>Safeguard Your iPhone: Top Antivirus Solutions Reviewed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-3d-animation-software-free-and-paid-solutions-for-2024/"><u>The Ultimate Guide to 3D Animation Software Free and Paid Solutions for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-creativity-best-free-video-effects-apps-for-mobile-devices/"><u>Updated 2024 Approved Unleash Creativity Best Free Video Effects Apps for Mobile Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-video-editing-on-a-shoestring-16-free-and-intuitive-movie-makers/"><u>Updated 2024 Approved Video Editing on a Shoestring 16 Free and Intuitive Movie Makers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-free-video-editors-easy-peasy-for-newbies-for-2024/"><u>Updated Best Free Video Editors Easy Peasy for Newbies for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Smoother Skin in Minutes A Plugin-Free FCPX Editing Technique for 2024
-date: 2024-12-08T21:42:48.306Z
-updated: 2024-12-10T05:58:23.162Z
+date: 2024-12-12T06:22:25.748Z
+updated: 2024-12-16T05:37:35.287Z
 tags: 
   - video editing software
   - video editing
@@ -55,10 +55,14 @@ step3Now, go to the top of the Inspector and turn on the blue checkbox next to G
 ![Skin_Smoother_Effect_3](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For better results, add a Vignette by selecting and combining the two clips into a Compound Clip. From the Effects Browser, select Stylize > Vignette and adjust drag the vignette. Now, customize the compound clip settings in the Inspector pane until you achieve your desired look. Compare the results between two images before and after editing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Where to Find Good Skin Smoother Plugins?
 
@@ -83,6 +87,10 @@ Skin Smoother 2 is a powerful and easy-to-use plugin that allows you to smooth o
 Color Finale is a user-friendly, fine-tuned, and fully-featured professional skin smoother plugin purpose bit for FCP.
 
 ![color-finale-2](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-color-finale-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Price:** $152
 
@@ -117,26 +125,22 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
 
 Wondershare Filmora features advanced tuning tools and a variety of video filters and overlays. Learn how to smooth skin or beautify your face in the video with this advanced video-editing software.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
@@ -164,10 +168,6 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -183,20 +183,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-decoding-digital-dazzle-an-initial-journey-into-video-standards/"><u>[New] Decoding Digital Dazzle An Initial Journey Into Video Standards</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unlock-your-videos-potential-with-youtube-link-building-techniques/"><u>[New] In 2024, Unlock Your Video's Potential with YouTube Link Building Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/intage-video-production-techniques-for-timelessness-for-2024/"><u>[New] Vintage Video Production Techniques for Timelessness for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-comprehensive-guide-to-youtube-video-editing-tools/"><u>[Updated] 2024 Approved Comprehensive Guide to YouTube Video Editing Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-optimal-7-dslr-recommendations-for-dynamic-video-content/"><u>[Updated] 2024 Approved Optimal 7 DSLR Recommendations For Dynamic Video Content</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-pova-6-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Pova 6 Pro 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/filmora-promo-code-secrets-4-proven-ways-to-save-big/"><u>Filmora Promo Code Secrets 4 Proven Ways to Save Big</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-10-most-popular-free-gaming-platforms-for-pc-and-android/"><u>In 2024, 10 Most Popular Free Gaming Platforms for PC and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-avi-file-joiner-top-10-free-and-easy-to-use-software-options/"><u>In 2024, AVI File Joiner Top 10 Free and Easy-to-Use Software Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-vn-video-editor-pro-apk-a-professional-level-video-editing-experience/"><u>In 2024, VN Video Editor Pro Apk A Professional-Level Video Editing Experience?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/merge-mpeg-videos-for-free-top-5-programs/"><u>Merge MPEG Videos for Free Top 5 Programs</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-10-best-free-online-video-compressors-no-download/"><u>New 10 Best Free Online Video Compressors No Download</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-great-debate-final-cut-pro-vs-lumafusion-for-video-editing/"><u>New 2024 Approved The Great Debate Final Cut Pro vs LumaFusion for Video Editing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-video-compression-made-easy-5-free-apps-for-iphone-and-ipad/"><u>New 2024 Approved Video Compression Made Easy 5 Free Apps for iPhone and iPad</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/resolving-windows-10-error-0x87e00196-a-step-by-step-guide/"><u>Resolving Windows 10 Error 0X87E00196: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-step-by-step-crafting-your-own-android-ringtones-and-sounds/"><u>[Updated] 2024 Approved Step-By-Step Crafting Your Own Android Ringtones and Sounds</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-essential-guide-to-windows-11-photovideo-importing-techniques-for-2024/"><u>[Updated] Essential Guide to Windows 11 Photo/Video Importing Techniques for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/anomaly-elimination-the-obscure-x-mistake-in-league/"><u>Anomaly Elimination: The Obscure X Mistake in League</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/corporate-hesitations-5-factors-deterring-ai-integration/"><u>Corporate Hesitations: 5 Factors Deterring AI Integration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/exploring-the-best-features-in-the-google-pixel-3-for-authentic-android-users/"><u>Exploring the Best Features in the Google Pixel 3 for Authentic Android Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-freshly-updated-amd-radeon-r5-graphics-drivers-for-win-11-10-8-and-ebx/"><u>Get Freshly Updated AMD Radeon R5 Graphics Drivers for Win 11, 10, 8 & Ebx</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-in-depth-review-tunefabs-latest-in-screen-capture-tech/"><u>In 2024, In-Depth Review Tunefab's Latest in Screen Capture Tech</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-trim-and-cut-avi-files-like-a-pro-top-tools-for-every-platform-windows-mac-android-iphone-online/"><u>New Trim and Cut AVI Files Like a Pro Top Tools for Every Platform Windows, MAC, Android, iPhone, Online</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/pc-mp4-editor-for-windows-8-simplify-your-video-editing-process/"><u>PC MP4 Editor for Windows 8 Simplify Your Video Editing Process</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/photo-and-video-collage-software-top-picks-for-online-creators-for-2024/"><u>Photo and Video Collage Software Top Picks for Online Creators for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-10-invisible-observers-of-instagram-stories-for-2024/"><u>Top 10 Invisible Observers of Instagram Stories for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-convert-video-to-audio-top-mp4-to-mp3-converters-for-windows-mac-and-online/"><u>Updated 2024 Approved Convert Video to Audio Top MP4 to MP3 Converters for Windows, Mac, and Online</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-guide-to-adobe-premiere-rush-alternatives-updated-2023/"><u>Updated 2024 Approved The Ultimate Guide to Adobe Premiere Rush Alternatives (Updated 2023)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-mac-video-editor-reviews-find-the-perfect-tool-for-your-needs/"><u>Updated In 2024, Mac Video Editor Reviews Find the Perfect Tool for Your Needs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-shaky-footage-no-problem-fcpx-stabilization-techniques/"><u>Updated In 2024, Shaky Footage? No Problem! FCPX Stabilization Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-record-like-a-pro-10-best-webcam-software-for-windows-10-for-2024/"><u>Updated Record Like a Pro 10 Best Webcam Software for Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/why-is-instagram-turning-my-videos-sideways-for-2024/"><u>Why Is Instagram Turning My Videos Sideways for 2024</u></a></li>
 </ul></div>
 

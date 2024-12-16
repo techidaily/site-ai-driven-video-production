@@ -1,7 +1,7 @@
 ---
 title: Updated From Import to Export Video Editing on Mac OS X Yosemite Explained
-date: 2024-12-03T20:08:03.579Z
-updated: 2024-12-10T03:02:57.163Z
+date: 2024-12-12T05:14:22.193Z
+updated: 2024-12-15T22:49:46.253Z
 tags: 
   - video editing software
   - video editing
@@ -31,7 +31,7 @@ Although Apple’s new operating system - Mac OS X 10.10 Yosemite will bring new
 Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite – Wondershare [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is recommended. It supports almost all the popular video formats including AVI, WMV, MP4, FLV, MKV, MOV, 3GP, etc. With it, you can put together your video clips or split to segments to get creative and customized brand new videos. Here is a detailed guide on how to create videos on Yosemite with this smart video editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1. Import media files to edit
@@ -39,10 +39,6 @@ Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite �
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
 
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
 
@@ -54,19 +50,11 @@ You have two different ways to edit the video. One is to double click the video 
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Edit and enhance audio**
 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Add transition and other effects**
 
@@ -75,7 +63,11 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
@@ -84,7 +76,15 @@ After you preview the effect, just click the “Export” button to export the v
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -103,16 +103,14 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-spectacular-screen-collaborations-selecting-an-mcn/"><u>[Updated] 2024 Approved Spectacular Screen Collaborations Selecting an MCN</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-valorant-image-magic-quick-professionally-crafted-portraits/"><u>[Updated] In 2024, Valorant Image Magic Quick, Professionally Crafted Portraits</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-step-by-step-record-your-powerpoint-presentation-for-2024/"><u>[Updated] Step-by-Step Record Your PowerPoint Presentation for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fb-video-to-mp3-digital-audio-extraction-guide/"><u>2024 Approved FB Video to MP3 Digital Audio Extraction Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-now-rolls-out-to-android-users-easy-conversational-ai-at-your-fingertps/"><u>ChatGPT Now Rolls Out to Android Users – Easy Conversational AI at Your Fingertps</u></a></li>
-<li><a href="https://discover-community.techidaily.com/comparaison-complet-aac-vs-mp3-decouvrez-quelle-technologie-audio-offre-de-meilleures-caracteristiques/"><u>Comparaison Complet AAC Vs. MP3 - Découvrez Quelle Technologie Audio Offre De Meilleures Caractéristiques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-free-avi-video-rotators-compared-top-5-choices-for-2024/"><u>New Free AVI Video Rotators Compared Top 5 Choices for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-create-neon-text-like-a-pro-top-online-tools-and-resources/"><u>New In 2024, Create Neon Text Like a Pro Top Online Tools and Resources</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-10-webm-converters-to-mp4-expert-reviews/"><u>New In 2024, Top 10 WebM Converters to MP4 Expert Reviews</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-vn-video-editor-pc-review-is-it-the-right-choice-for-you/"><u>New In 2024, VN Video Editor PC Review Is It the Right Choice for You?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-stabilize-your-footage-for-free-the-best-online-video-stabilizers-for-2024/"><u>New Stabilize Your Footage for Free The Best Online Video Stabilizers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-canvas-hidden-gems-for-crafting-visual-magic-for-2024/"><u>[New] Canva's Hidden Gems for Crafting Visual Magic for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-beginners-guide-going-live-with-ease-on-facebook/"><u>[Updated] 2024 Approved Beginner’s Guide Going Live with Ease on Facebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-langchain-llm-an-introductory-primer/"><u>Demystifying LangChain LLM: An Introductory Primer</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unlock-fcpxs-full-potential-the-top-10-plugins-you-should-know-about-for-2024/"><u>New Unlock FCPXs Full Potential The Top 10 Plugins You Should Know About for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-videopad-video-editor-review-a-closer-look-at-its-capabilities-and-limitations-for-2024/"><u>New Videopad Video Editor Review A Closer Look at Its Capabilities and Limitations for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/pcmoverwindows/"><u>PCmoverよりも安全で簡単なWindowsパソコンのシステム移行ソフトを見つける</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/take-your-designs-to-the-next-level-10-top-animated-text-tools-for-2024/"><u>Take Your Designs to the Next Level 10 Top Animated Text Tools for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-3g-networks-and-plans-for-gamers-on-a-budget/"><u>Top 3G Networks & Plans for Gamers on a Budget</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-rated-video-promo-maker-websites-for-2024/"><u>Updated Top-Rated Video Promo Maker Websites for 2024</u></a></li>
 </ul></div>
 

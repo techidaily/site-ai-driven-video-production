@@ -1,7 +1,7 @@
 ---
 title: New The Great DVR Debate TiVo vs Comcasts Features and Pricing
-date: 2024-12-04T02:48:07.407Z
-updated: 2024-12-09T19:02:34.234Z
+date: 2024-12-09T20:43:14.533Z
+updated: 2024-12-16T08:21:37.123Z
 tags: 
   - video editing software
   - video editing
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  Let’s look at a few of the main features of both so you can do a comparison. We’ll look at five factors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. TiVo vs Comcast: Cost and rent versus own
 
  With a Comcast DVR, you are renting it from the cable company at a cost of $10 to $16 a month, depending on your market. There are no upfront costs, and should the device fail, you can swap it at no cost at your local Comcast service center. Some folks have found that the new X1 boxes are prone to crashes, so that free swap is handy.
@@ -49,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Comcast interface
 
 ![comcast-menu](https://images.wondershare.com/multimedia/comcast-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  TiVo interface
 
@@ -76,17 +76,9 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. TiVo vs Comcast: Recording capacity
 
@@ -97,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. TiVo vs Comcast: User interface
@@ -109,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -145,18 +145,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-gain-command-over-youtubes-video-playback-speed/"><u>[New] In 2024, Gain Command Over YouTube's Video Playback Speed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-how-does-youtube-work-after-a-video-is-uploaded/"><u>2024 Approved How Does YouTube Work After a Video Is Uploaded</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-virtual-journey-logging-top-6-methods-for-minecraft-recordings/"><u>2024 Approved Virtual Journey Logging Top 6 Methods for Minecraft Recordings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expanding-horizons-mint-mobile-enhances-global-connectivity-with-new-international-roaming-features/"><u>Expanding Horizons: Mint Mobile Enhances Global Connectivity with New International Roaming Features</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/exploring-the-impactful-role-of-digital-resources-key-benefits-for-learning-environments/"><u>Exploring the Impactful Role of Digital Resources: Key Benefits for Learning Environments</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-sony-xperia-5-v-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Sony Xperia 5 V to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-optimal-viewing-verticalhorizontal-in-fb-videos/"><u>In 2024, Optimal Viewing - Vertical/Horizontal in FB Videos?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-game-on-top-10-websites-to-download-pc-games-this-year/"><u>New In 2024, Game On! Top 10 Websites to Download PC Games This Year</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-streamline-video-editing-fast-and-easy-ways-to-trim-large-files-on-mac/"><u>New In 2024, Streamline Video Editing Fast and Easy Ways to Trim Large Files on Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-guides-on-computers-and-gadgets/"><u>Tom's Tech Hub: Expert Guides on Computers and Gadgets</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-combine-videos-without-branding-7-essential-tools-for-2024/"><u>Updated Combine Videos Without Branding 7 Essential Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-mastering-avi-file-editing-how-to-split-cut-and-trim-with-confidence/"><u>Updated Mastering AVI File Editing How to Split, Cut, and Trim with Confidence</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-track-your-moves-best-apps-for-android-and-iphone/"><u>Updated Track Your Moves Best Apps for Android and iPhone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/1719062254633-new-2024-approved-why-does-imovie-crop-my-videos/"><u>[New] 2024 Approved Why Does iMovie Crop My Videos?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-apowersoft-vs-competitors-screen-capture/"><u>[New] Apowersoft Vs. Competitor's Screen Capture</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/custom-templatesn-indicates-a-new-line-for-readability-create-your-own-unique-project-design-using-the-template-editor-available-under-file-)-new-template-s29/"><u>Custom Templates( n Indicates a New Line for Readability): Create Your Own Unique Project Design Using the Template Editor Available Under File > New Template. Save as a .macxdvd File to Use in Future Projects.</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-engaging-instagram-stories-with-animated-text-effects/"><u>In 2024, Engaging Instagram Stories with Animated Text Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tackling-blurred-images-in-online-meetings-with-zoom-techniques/"><u>In 2024, Tackling Blurred Images in Online Meetings with Zoom Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-tecno-camon-20-premier-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Tecno Camon 20 Premier 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/managing-and-reducing-chromes-memory-footprint-for-a-smoother-experience/"><u>Managing and Reducing Chrome's Memory Footprint for a Smoother Experience</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-fix-plugins-not-working-in-final-cut-pro-x/"><u>New How to Fix Plugins Not Working in Final Cut Pro X?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-how-to-download-filmora-torrent-for-free/"><u>New In 2024, How to Download Filmora Torrent for FREE?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-take-final-cut-pro-for-a-spin-90-day-free-trial-no-credit-card-required/"><u>New Take Final Cut Pro for a Spin 90-Day Free Trial, No Credit Card Required</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-itel-s23plus-by-fonelab-android-recover-music/"><u>The way to get back lost music from Itel S23+</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-dual-boot-like-a-pro-linux-and-chrome-os-on-one-device/"><u>Updated 2024 Approved Dual-Boot Like a Pro Linux and Chrome OS on One Device</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-say-goodbye-to-windows-10-photos-top-8-image-editing-solutions-youll-love/"><u>Updated 2024 Approved Say Goodbye to Windows 10 Photos Top 8 Image Editing Solutions Youll Love</u></a></li>
 </ul></div>
 

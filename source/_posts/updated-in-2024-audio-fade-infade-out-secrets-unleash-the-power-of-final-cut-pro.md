@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2024-12-04T05:34:50.080Z
-updated: 2024-12-09T17:43:01.284Z
+date: 2024-12-15T07:28:31.427Z
+updated: 2024-12-15T23:46:00.980Z
 tags: 
   - video editing software
   - video editing
@@ -44,6 +44,10 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -53,7 +57,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
@@ -61,16 +65,12 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
@@ -93,11 +93,7 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -105,6 +101,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -134,16 +134,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/coustic-mastery-secrets-for-exceptional-audio-capture/"><u>[New] Acoustic Mastery Secrets for Exceptional Audio Capture</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/inecraft-branding-resources-for-youtubers-for-2024/"><u>[New] Minecraft Branding Resources for YouTubers for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-quick-pexels-tips-for-visual-explorers/"><u>[New] Quick Pexels Tips for Visual Explorers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-filmmaking-the-essential-cinematic-tips-of-24/"><u>Cutting Edge Filmmaking The Essential Cinematic Tips of '24</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-leading-titles-for-3d-visuals-and-lustrous-text-online/"><u>In 2024, Leading Titles for 3D Visuals & Lustrous Text Online</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-filmora-savings-hacks-4-expert-approved-methods-to-get-discounts/"><u>New In 2024, Filmora Savings Hacks 4 Expert-Approved Methods to Get Discounts</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-how-to-rotate-iphone-videos-for-free-top-app-choices/"><u>New In 2024, How to Rotate iPhone Videos for Free Top App Choices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/revolutionize-your-reaction-videos-expert-tips-for-using-filmora/"><u>Revolutionize Your Reaction Videos Expert Tips for Using Filmora</u></a></li>
-<li><a href="https://win-answers.techidaily.com/spotting-redundancies-with-ease-effective-strategies-for-conditional-formatting-in-excel/"><u>Spotting Redundancies with Ease: Effective Strategies for Conditional Formatting in Excel</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/unveiling-the-secrets-to-viral-tiktok-with-these-best-captions-for-2024/"><u>Unveiling the Secrets to Viral TikTok with These Best Captions for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-capture-perfection-top-rated-webcam-recording-software-for-windows-10/"><u>Updated In 2024, Capture Perfection Top-Rated Webcam Recording Software for Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-screen-scanning-mastery-using-fraps-tools/"><u>[New] Screen Scanning Mastery Using Fraps Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enhancing-cognitive-abilities-the-benefits-of-bilingualism/"><u>Enhancing Cognitive Abilities: The Benefits of Bilingualism</u></a></li>
+<li><a href="https://article-tips.techidaily.com/from-hobbyist-to-pro-the-audacity-journey-for-2024/"><u>From Hobbyist to Pro The Audacity Journey for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-integration-gopro-hacks-for-360-degree-cinematography/"><u>In 2024, Seamless Integration GoPro Hacks for 360-Degree Cinematography</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-honor-90-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Honor 90 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-fcpx-visual-effects-freeze-frames-slow-motion-and-advanced-editing/"><u>Updated In 2024, FCPX Visual Effects Freeze Frames, Slow Motion, and Advanced Editing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-how-to-reverse-a-tiktok-video-with-ease-an-ultimate-guide/"><u>Updated In 2024, How to Reverse A TikTok Video with Ease An Ultimate Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-fcpx-skin-smoother-a-comprehensive-guide/"><u>Updated In 2024, The Ultimate FCPX Skin Smoother A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-rated-free-wmv-video-editing-tools-expert-recommendations/"><u>Updated In 2024, Top-Rated Free WMV Video Editing Tools Expert Recommendations</u></a></li>
 </ul></div>
 
