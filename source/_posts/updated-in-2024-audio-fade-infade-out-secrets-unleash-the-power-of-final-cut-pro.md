@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2024-12-15T07:28:31.427Z
-updated: 2024-12-15T23:46:00.980Z
+date: 2024-12-19T05:18:14.761Z
+updated: 2024-12-25T03:59:25.638Z
 tags: 
   - video editing software
   - video editing
@@ -44,10 +44,6 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -57,16 +53,12 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
@@ -75,6 +67,10 @@ You should remember that the fades appear at the beginning and the end of each c
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -93,7 +89,7 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -103,7 +99,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -118,6 +114,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,14 +134,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-screen-scanning-mastery-using-fraps-tools/"><u>[New] Screen Scanning Mastery Using Fraps Tools</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/enhancing-cognitive-abilities-the-benefits-of-bilingualism/"><u>Enhancing Cognitive Abilities: The Benefits of Bilingualism</u></a></li>
-<li><a href="https://article-tips.techidaily.com/from-hobbyist-to-pro-the-audacity-journey-for-2024/"><u>From Hobbyist to Pro The Audacity Journey for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-integration-gopro-hacks-for-360-degree-cinematography/"><u>In 2024, Seamless Integration GoPro Hacks for 360-Degree Cinematography</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-honor-90-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Honor 90 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-fcpx-visual-effects-freeze-frames-slow-motion-and-advanced-editing/"><u>Updated In 2024, FCPX Visual Effects Freeze Frames, Slow Motion, and Advanced Editing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-how-to-reverse-a-tiktok-video-with-ease-an-ultimate-guide/"><u>Updated In 2024, How to Reverse A TikTok Video with Ease An Ultimate Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-fcpx-skin-smoother-a-comprehensive-guide/"><u>Updated In 2024, The Ultimate FCPX Skin Smoother A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-rated-free-wmv-video-editing-tools-expert-recommendations/"><u>Updated In 2024, Top-Rated Free WMV Video Editing Tools Expert Recommendations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-complete-manual-on-deleting-a-defunct-linkedin-profile/"><u>[Updated] 2024 Approved The Complete Manual on Deleting a Defunct LinkedIn Profile</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-everlasting-deactivation-tactics-against-youtubes-sneaky-snack-for-2024/"><u>[Updated] Everlasting Deactivation Tactics Against YouTube's Sneaky Snack for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-navigating-the-world-of-vr-playback-technology/"><u>[Updated] Navigating the World of VR Playback Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-8-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 8 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-magic-vs-2-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Magic Vs 2? Try These Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/metaverse-on-facebook-three-pivotal-warnings-to-consider/"><u>Metaverse on Facebook: Three Pivotal Warnings to Consider</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-the-digital-landscape-an-app-by-app-analysis-with-tiktok-and-snap/"><u>Navigating The Digital Landscape An App-by-App Analysis with TikTok & Snap</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-accurate-timing-made-simple-8-best-timecode-conversion-apps-and-websites-for-2024/"><u>New Accurate Timing Made Simple 8 Best Timecode Conversion Apps and Websites for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-of-the-web-free-video-editors-for-online-use-for-2024/"><u>New Best of the Web Free Video Editors for Online Use for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-easily-combine-photos-and-videos-best-online-collage-generators-for-2024/"><u>New Easily Combine Photos and Videos Best Online Collage Generators for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-storytelling-easy-online-video-creation-with-wevideo-for-2024/"><u>New Elevate Your Storytelling Easy Online Video Creation with WeVideo for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-fcp-audio-essentials-2-techniques-for-seamless-transitions/"><u>New FCP Audio Essentials 2 Techniques for Seamless Transitions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-fcpx-2024-essentials-how-to-sync-audio-and-video-like-a-pro/"><u>New FCPX 2024 Essentials How to Sync Audio and Video Like a Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-get-started-with-video-editing-on-mac-os-x-yosemite-a-quick-start-guide-for-2024/"><u>New Get Started with Video Editing on Mac OS X Yosemite A Quick Start Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-get-your-glitch-on-the-best-free-online-generators-and-tools/"><u>New Get Your Glitch On The Best Free Online Generators and Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-tricks-to-solve-steams-corrupted-disc-issue/"><u>Simple Tricks to Solve Steam's Corrupted Disc Issue</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-infinix-hot-40i-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Infinix Hot 40i for Parents | Dr.fone</u></a></li>
 </ul></div>
 

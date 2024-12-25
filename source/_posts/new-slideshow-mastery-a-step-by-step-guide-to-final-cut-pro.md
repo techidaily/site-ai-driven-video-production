@@ -1,7 +1,7 @@
 ---
 title: New Slideshow Mastery A Step-by-Step Guide to Final Cut Pro
-date: 2024-12-10T02:03:07.264Z
-updated: 2024-12-15T19:11:49.350Z
+date: 2024-12-22T17:08:26.672Z
+updated: 2024-12-25T03:55:04.525Z
 tags: 
   - video editing software
   - video editing
@@ -49,10 +49,6 @@ Final Cut Pro is an amazing software that makes slideshow creation as simple as 
 6. To add opening or closing credits, click **Effects > Video Generators.** Now, double-click **Text** and **Text** From the newly opened window, click **Controls** and type your desired text to be displayed in your video slideshow. Now, click **Video** and drag the video box into the Timeline to your desired location where it should appear.
 7. To export your video slideshow, click **File > Export > QuickTime Movie.** Based on your requirement, select your desired video quality and click OK.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Where to Find Video Slideshow Templates for Free?
 
 Templates make it easier for you to design unique slideshow videos with Final Cut Pro. Both premium and free templates are available online with different styles such as product showcases, wedding albums, social media promos, and corporate events, etc.
@@ -65,11 +61,19 @@ Motion array is famous for providing both free and paid templates and plugins fo
 
 ![Motion_array](https://images.wondershare.com/filmora/images/final-cut-pro/Motion_array.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **[FilmStock](https://tools.techidaily.com/wondershare/filmora/download/)**
 
 As a resource library built for Filmora, FilmStock provides tons of media and effects for you to choose from. You can adopt different styles in one video, or make a video collection with a consistent tone by applying packages in FilmStock.
 
 ![Filmstock_info](https://images.wondershare.com/filmora/images/final-cut-pro/Filmstock_info.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Design Shack**
 
@@ -87,27 +91,19 @@ Adopting templates to create amazing video slideshows with Final Cut Pro is very
 2. Copy and paste the folder where FCP can find it. If you don't have Apple Motion, right-click on the FCP icon and select Show Package Contents from the dropdown menu. Now, navigate to the Titles or Generators folder.![adopt_templates2](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates2.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Open FCP and go to Titles and Generators sidebar.![adopt_templates3](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates3.jpg)
 4. Search for the Title or Generator you installed under each label.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Or use the search bar to find your installed Title or Generator.
 6. Drag the template to the FCP timeline.![adopt_templates4](https://images.wondershare.com/filmora/images/final-cut-pro/adopt_templates4.jpg)
 7. Use the Published Parameters panel to edit the template. Check all parameters to see editing options available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Add Music and Text in a Video Slideshow with Final Cut Pro?
 
@@ -125,6 +121,10 @@ Do you want to create an amazing video slideshow conveniently? Try Wondershare F
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Follow these steps to make a slideshow with Wondershare Filmora X:
 
 1. Open Wondershare Filmora, add multiple photos into the applications. Adding multiple folders would make it easy for you to sort the images.
@@ -133,21 +133,17 @@ Follow these steps to make a slideshow with Wondershare Filmora X:
 
 4. Drag and drop all images you want to add to the timeline and set their hue, aspect ratio, saturation, contrast, and brightness.![filmora_slideshow2](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow2.jpg)
 
-5. Add transitions between images.![filmora_slideshow3](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Add transitions between images.![filmora_slideshow3](https://images.wondershare.com/filmora/images/final-cut-pro/filmora_slideshow3.jpg)
 
 6. Use filters and overlays to improve your slideshow’s appearance. Since this is a core step, make sure you spend ample time on it.
 
 7. Export your video slideshow to your desired format and quality.
 
 Don’t worry if you are a beginner and don’t have the advanced skills to create a video slideshow. There are multiple websites like Canva where you build amazing slideshows for free and impress your family and friends. Given below are simple steps to create video slideshows online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 6: How to make a simple Slideshow Free & Online?
 
@@ -169,6 +165,10 @@ For more slideshow-making tutorials with other editors, see this article: [How t
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -184,22 +184,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-10-best-live-streaming-apps-for-android-and-iphone/"><u>[New] FREE 10 Best Live Streaming Apps for Android and iPhone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-professional-youtube-editing-secrets/"><u>[New] In 2024, From Script to Screen Professional YouTube Editing Secrets</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-the-ultimate-decipherment-insiders-look-at-xvideo-hub-review/"><u>[New] In 2024, The Ultimate Decipherment Insider's Look at XVideo Hub Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unraveling-the-web-of-social-media-illusions-for-marketers/"><u>[New] Unraveling the Web of Social Media Illusions for Marketers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-light-it-right-elevating-your-youtube-video-presence/"><u>2024 Approved Light It Right Elevating Your YouTube Video Presence</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-canon-mp280-printer-drivers-windows-10-8-and-7-guide/"><u>Download Canon MP280 Printer Drivers: Windows 10, 8, and 7 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-your-it-administrator-has-limited-access-windows-security-error/"><u>How to Fix the “Your IT Administrator Has Limited Access” Windows Security Error</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snapseed-simplified-photo-edits-for-beginners/"><u>In 2024, Snapseed Simplified Photo Edits for Beginners</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-hop-into-savings-wondershare-filmora-easter-discount-code-limited-time-offer-for-2024/"><u>New Hop Into Savings Wondershare Filmora Easter Discount Code - Limited Time Offer for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-seamless-storytelling-3-ways-to-use-transitions-in-final-cut-pro/"><u>New Seamless Storytelling 3 Ways to Use Transitions in Final Cut Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-video-editing-essentials-import-edit-and-export-in-adobe-premiere-2023/"><u>Updated 2024 Approved Video Editing Essentials Import, Edit, and Export in Adobe Premiere 2023</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-voice-over-like-a-pro-essential-fcp-recording-tips/"><u>Updated 2024 Approved Voice Over Like a Pro Essential FCP Recording Tips</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-discover-the-best-free-dvd-player-for-windows-10-top-10-list/"><u>Updated Discover the Best Free DVD Player for Windows 10 Top 10 List</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-elevate-your-video-experience-best-resolution-enhancement-tools-for-2024/"><u>Updated Elevate Your Video Experience Best Resolution Enhancement Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-digitalize-your-dvds-a-beginners-guide-to-video-conversion/"><u>Updated In 2024, Digitalize Your DVDs A Beginners Guide to Video Conversion</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-level-up-your-videos-20-best-free-adobe-premiere-title-templates-for-2024/"><u>Updated Level Up Your Videos 20 Best Free Adobe Premiere Title Templates for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/video-editing-basics-cutting-footage-with-vlc-on-pc-and-mac/"><u>Video Editing Basics: Cutting Footage with VLC on PC & Mac</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-pinnacle-edition-tweets-transformed-into-timeless-gifs/"><u>[New] In 2024, Pinnacle Edition - Tweets Transformed Into Timeless GIFs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tightening-the-focus-fine-tuning-your-roblox-experience/"><u>[New] Tightening the Focus Fine-Tuning Your Roblox Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlock-video-communication-using-whatsapp-browser-on-your-notebook-pc/"><u>[Updated] In 2024, Unlock Video Communication Using WhatsApp Browser on Your Notebook PC</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-trend-driven-savings-check-out-these-must-know-amazon-and-tiktok-picks/"><u>[Updated] Trend-Driven Savings? Check Out These Must-Know Amazon & TikTok Picks</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-se-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone SE to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-v30-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo V30</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-ae-text-styles-the-ultimate-selection/"><u>In 2024, AE Text Styles The Ultimate Selection</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-building-a-business-on-snapchat-a-beginners-blueprint/"><u>In 2024, Building a Business on Snapchat A Beginner's Blueprint</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-4-best-video-resume-makers/"><u>New 4 Best Video Resume Makers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-animate-like-a-pro-top-8-software-options-for-mac-and-windows-for-2024/"><u>New Animate Like a Pro Top 8 Software Options for Mac and Windows for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-video-rotation-apps-for-android-iphone-windows-and-mac/"><u>New Best Free Video Rotation Apps for Android, iPhone, Windows, and Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-iphone-video-orientation-changers-5-free-options-for-2024/"><u>New Best iPhone Video Orientation Changers 5 Free Options for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-desktop-video-editing-gopro-quik-and-beyond-for-2024/"><u>New Desktop Video Editing GoPro Quik and Beyond for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-effortless-video-editing-microsoft-video-editor-for-windows-users/"><u>New Effortless Video Editing Microsoft Video Editor for Windows Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-concept-to-reality-10-best-music-video-making-companies-for-2024/"><u>New From Concept to Reality 10 Best Music Video Making Companies for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-get-started-with-wax-a-free-video-editing-software-tutorial/"><u>New Get Started with Wax A Free Video Editing Software Tutorial</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-shunned-the-triple-list-of-no-facebook-nations/"><u>Social Media Shunned: The Triple List of No-Facebook Nations</u></a></li>
 </ul></div>
 

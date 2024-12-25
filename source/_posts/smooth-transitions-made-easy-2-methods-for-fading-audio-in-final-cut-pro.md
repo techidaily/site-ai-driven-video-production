@@ -1,7 +1,7 @@
 ---
 title: Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro
-date: 2024-12-12T05:16:35.001Z
-updated: 2024-12-16T05:41:48.474Z
+date: 2024-12-20T19:03:46.164Z
+updated: 2024-12-25T05:58:07.575Z
 tags: 
   - video editing software
   - video editing
@@ -44,10 +44,6 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -57,7 +53,7 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
@@ -65,12 +61,16 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
@@ -93,11 +93,7 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -119,6 +115,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -134,21 +134,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-where.techidaily.com/bitcoin-wallets-sichern-best-practices-fur-nutzer-von-windows-11-8-und-7/"><u>Bitcoin Wallets Sichern – Best Practices Für Nutzer Von Windows 11, 8 Und 7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-7-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 7 Plus Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/descubre-and-elimine-comodamente-las-areas-borron-y-busque-ocultas-de-tu-memoria-flash/"><u>Descubre & Elimine Cómodamente Las Áreas Borrón Y Busque Ocultas De Tu Memoria Flash</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellent-pictorial-archive-networks-for-2024/"><u>Excellent Pictorial Archive Networks for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/first-steps-in-mastering-the-av1-codec-for-2024/"><u>First Steps in Mastering the AV1 Codec for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-cutting-edge-avi-video-cutters-top-16-picks-for-professionals-and-beginners-for-2024/"><u>New Cutting-Edge AVI Video Cutters Top 16 Picks for Professionals and Beginners for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-discover-the-best-online-neon-sign-tools-for-beginners-for-2024/"><u>New Discover the Best Online Neon Sign Tools for Beginners for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-download-edit-and-share-the-complete-online-video-guide-for-2024/"><u>New Download, Edit, and Share The Complete Online Video Guide for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-epic-video-editing-add-mind-blowing-effects-to-your-videos-for-2024/"><u>New Epic Video Editing Add Mind-Blowing Effects to Your Videos for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-essential-adobe-premiere-hotkeys-to-boost-productivity/"><u>New Essential Adobe Premiere Hotkeys to Boost Productivity</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-exploring-vn-video-editor-pro-is-this-app-right-for-you-for-2024/"><u>New Exploring VN Video Editor Pro Is This App Right for You for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-editing-software-for-dummies-top-picks-for-easy-edits/"><u>New Free Video Editing Software for Dummies Top Picks for Easy Edits</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/starting-off-understanding-av1-compression-for-2024/"><u>Starting Off Understanding AV1 Compression for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-razer-book-13s-capabilities-and-performance-expert-evaluation/"><u>Unpacking the Razer Book 13'S Capabilities and Performance - Expert Evaluation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207691368-what-to-do-if-windows-10-doesnt-recognize-your-logitech-keyboard/"><u>What to Do if Windows 10 Doesn’t Recognize Your Logitech Keyboard</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites/"><u>[New] In 2024, The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pro-tips-uncovering-12-prime-websites-for-affordable-images-for-2024/"><u>[New] Pro Tips Uncovering 12 Prime Websites for Affordable Images for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-techniques-to-brighten-up-your-content-creation-spaces/"><u>[Updated] In 2024, Techniques to Brighten Up Your Content Creation Spaces</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tiktokplusinstagram-social-media-fusion-guide-for-2024/"><u>[Updated] TikTok+Instagram Social Media Fusion Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-evaluating-zdsofts-prowess-in-screen-recorder-tech/"><u>2024 Approved Evaluating ZDSoft's Prowess in Screen Recorder Tech</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/high-definition-heroes-the-best-4k8k-video-editing-software/"><u>High-Definition Heroes The Best 4K/8K Video Editing Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy S24+</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-ditch-windows-10-photos-discover-the-best-photo-editing-alternatives/"><u>In 2024, Ditch Windows 10 Photos Discover the Best Photo Editing Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-final-cut-pro-for-free-take-advantage-of-our-90-day-trial/"><u>In 2024, Final Cut Pro for Free Take Advantage of Our 90-Day Trial</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-wmv-video-merger-software-top-picks/"><u>In 2024, Free WMV Video Merger Software Top Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-update-fails-commonly-overlooked-drawbacks-when-upgrading-your-iphone-were-not-the-only-ones-struggling/"><u>IOS 18 Update Fails: Commonly Overlooked Drawbacks When Upgrading Your iPhone - We're Not the Only Ones Struggling!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/make-your-followers-go-wow-how-to-create-engaging-stop-motion-videos-on-instagram-for-2024/"><u>Make Your Followers Go Wow How to Create Engaging Stop Motion Videos on Instagram for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-essential-guide-to-choosing-the-best-3d-video-maker/"><u>New 2024 Approved The Essential Guide to Choosing the Best 3D Video Maker</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-guide-to-vlog-video-editing-best-software-for-creators/"><u>New 2024 Approved The Ultimate Guide to Vlog Video Editing Best Software for Creators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secretive-windows-personality-vault-guide-to-accessing-internal-evaluator/"><u>Secretive Windows Personality Vault: Guide to Accessing Internal Evaluator</u></a></li>
 </ul></div>
 
