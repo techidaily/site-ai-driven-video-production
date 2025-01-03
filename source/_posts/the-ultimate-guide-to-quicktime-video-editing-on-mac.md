@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to QuickTime Video Editing on Mac
-date: 2024-12-14T19:10:51.758Z
-updated: 2024-12-16T02:41:08.407Z
+date: 2024-12-29T05:03:56.584Z
+updated: 2025-01-02T17:06:14.326Z
 tags: 
   - video editing software
   - video editing
@@ -49,20 +49,20 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2: Click here to edit > trim from the menu bar.
 
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4: When you have done, click on “Trim”.
@@ -70,7 +70,7 @@ Step4: When you have done, click on “Trim”.
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Split Video With QuickTime Player on Mac
@@ -114,7 +114,7 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Wondershare Filmora Worth for Trying?
@@ -123,11 +123,11 @@ As we mentioned above, Wondershare Filmora is an elegant, full-featured video ed
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -144,22 +144,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-the-world-of-content-delivery-a-comprehensive-video-upload-guide-for-youtube/"><u>[New] 2024 Approved Navigating the World of Content Delivery A Comprehensive Video Upload Guide for YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-social-stage-this-years-viral-video-vanguards-on-twitter-for-2024/"><u>[New] The Social Stage This Year's Viral Video Vanguards on Twitter for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-color-coding-mastery-the-most-essential-lightroom-luts-you-need-to-know/"><u>2024 Approved Color Coding Mastery The Most Essential Lightroom LUTs You Need to Know</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-zte-nubia-flip-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track ZTE Nubia Flip 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/buyers-guide-to-selecting-between-a-roku-or-fire-tv-stick/"><u>Buyer's Guide to Selecting Between a Roku or Fire TV Stick</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/effortless-transformation-guide-turn-your-animated-png-images-into-gifs-instantly/"><u>Effortless Transformation Guide: Turn Your Animated PNG Images Into GIFs Instantly</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ensuring-smooth-and-reliable-video-streams/"><u>Ensuring Smooth and Reliable Video Streams</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-easily-resolve-your-astro-a20-microphone-malfunction/"><u>How to Easily Resolve Your Astro A20 Microphone Malfunction</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastering-complex-video-effects-and-transitions-in-gopro-studio-for-2024/"><u>Mastering Complex Video Effects and Transitions in GoPro Studio for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-streamline-your-workflow-top-adobe-premiere-shortcuts/"><u>New Streamline Your Workflow Top Adobe Premiere Shortcuts</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/premiere-pro-transitions-list-of-10-best-transition-plugins-for-2024/"><u>Premiere Pro Transitions List of 10 Best Transition Plugins for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/story-lore-who-are-the-premier-channels-for-2024/"><u>Story Lore Who Are the Premier Channels for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-rated-mac-mkv-editors-for-trimming-videos/"><u>Updated 2024 Approved Top-Rated Mac MKV Editors for Trimming Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-what-is-an-xml-file-and-how-to-export-xml-in-final-cut-pro-x/"><u>Updated 2024 Approved What Is an XML File and How to Export XML in Final Cut Pro X?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-cutting-edge-mkv-editing-tools-for-mac/"><u>Updated Cutting-Edge MKV Editing Tools for Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-download-now-the-top-10-free-game-sites-for-pc-android-and-more-for-2024/"><u>Updated Download Now The Top 10 Free Game Sites for PC, Android, and More for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-mov-video-trimming-made-easy-top-6-free-tools-for-2024/"><u>Updated MOV Video Trimming Made Easy Top 6 Free Tools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-top-10-hilarious-song-mock-ups-laughter-unleashed/"><u>[New] In 2024, Top 10 Hilarious Song Mock-Ups Laughter Unleashed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-navigating-the-nuances-of-sound-reduction-in-pp-projects/"><u>[New] Navigating the Nuances of Sound Reduction in PP Projects</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-revealing-the-best-in-class-splitcams-videography-edge/"><u>2024 Approved Revealing the Best in Class SplitCam's Videography Edge</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-16-avi-trimmers-cut-and-edit-avi-files-with-ease-windows-mac-android/"><u>In 2024, Best 16 AVI Trimmers Cut and Edit AVI Files with Ease Windows, MAC, Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-fcpx-power-tools-top-10-plugins-to-boost-your-video-editing-productivity/"><u>In 2024, FCPX Power Tools Top 10 Plugins to Boost Your Video Editing Productivity</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-final-cut-pro-time-lapse-tutorial-from-start-to-finish/"><u>In 2024, Final Cut Pro Time Lapse Tutorial From Start to Finish</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-merge-multiple-mov-files-for-free-top-tools/"><u>In 2024, Merge Multiple MOV Files for Free Top Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-speedsters-top-windows-photos-viewer/"><u>In 2024, Speedster's Top Windows Photos Viewer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/insightful-guide-to-apc-back-ups-pro-1500va-stellar-performance-ample-outlets-and-hot-swappable-battery-design/"><u>Insightful Guide to APC Back-UPS Pro 1500VA - Stellar Performance, Ample Outlets and Hot Swappable Battery Design</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/make-every-frame-count-best-1080p-video-editing-software-for-film-quality-results-for-2024/"><u>Make Every Frame Count Best 1080P Video Editing Software for Film-Quality Results for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly-for-2024/"><u>Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-low-cost-film-production-software-top-picks-for-emerging-creators/"><u>New 2024 Approved Low-Cost Film Production Software Top Picks for Emerging Creators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-best-motion-sensing-apps-for-android-iphone-and-ipad/"><u>New 2024 Approved The Best Motion Sensing Apps for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-guide-to-exceptional-instagram-stories-for-2024/"><u>Step-by-Step Guide to Exceptional Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-pick-drones-compatible-with-gopro-cameras/"><u>Top Pick Drones Compatible with GoPro Cameras</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-twitch-community-quirks-insights-for-first-time-watchers/"><u>Understanding Twitch Community Quirks: Insights for First-Time Watchers</u></a></li>
 </ul></div>
 

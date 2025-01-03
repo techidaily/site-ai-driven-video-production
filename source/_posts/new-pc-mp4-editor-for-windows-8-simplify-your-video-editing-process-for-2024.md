@@ -1,7 +1,7 @@
 ---
 title: New PC MP4 Editor for Windows 8 Simplify Your Video Editing Process for 2024
-date: 2024-12-12T04:10:15.187Z
-updated: 2024-12-16T09:58:54.046Z
+date: 2024-12-28T13:32:17.384Z
+updated: 2025-01-03T01:19:50.959Z
 tags: 
   - video editing software
   - video editing
@@ -31,7 +31,7 @@ In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easily Edit MP4 Files on PC
@@ -43,6 +43,10 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\.  Easy MP4 editing in Windows 8
 
@@ -60,15 +64,15 @@ Select a clip in the Timeline, drag the Indicator to where you want to split and
 
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
 
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
 
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Add Scene Transition
 
@@ -77,7 +81,7 @@ Click "Transition" tab on the main interface and drag one scene transition you l
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -88,16 +92,12 @@ MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) f
 
 ![edit mp4 in windows 8](https://images.wondershare.com/filmora/article-images/filmora9-export-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -117,19 +117,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-10-best-mp4-players-for-music-enthusiasts/"><u>[New] 10 Best MP4 Players for Music Enthusiasts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-detailed-look-into-youtubes-featured-community-dialogue/"><u>[New] 2024 Approved Detailed Look Into YouTube's Featured Community Dialogue</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-videovisionary-pro8/"><u>[Updated] 2024 Approved VideoVisionary Pro8</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-mute-non-stop-fb-video-ad-content/"><u>[Updated] How to Mute Non-Stop FB Video Ad Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-key-to-spreading-online-jokes-fast/"><u>[Updated] The Key to Spreading Online Jokes Fast</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comprehensive-guide-in-depth-analysis-and-review-of-beachbodys-piyo-fitness-dvd-collection/"><u>Comprehensive Guide: In-Depth Analysis & Review of Beachbody's PiYo Fitness DVD Collection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Xiaomi Redmi Note 12T Pro.</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-video-subtitle-fabricator/"><u>In 2024, Video Subtitle Fabricator</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-video-creator-the-ultimate-guide-to-making-professional-looking-videos/"><u>New Mac Video Creator The Ultimate Guide to Making Professional-Looking Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-time-lapse-video-editing-software-free-and-paid/"><u>New The Ultimate Guide to Time-Lapse Video Editing Software (Free & Paid)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-sony-vegas-alternatives-for-windows-a-comprehensive-guide-for-2024/"><u>New Top Sony Vegas Alternatives for Windows A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-unlock-chromecasts-full-potential-streaming-local-videos-from-windows-mac-android-and-ios-devices/"><u>New Unlock Chromecasts Full Potential Streaming Local Videos From Windows, Mac, Android, and iOS Devices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/unleash-creativity-top-10-must-have-plugins-for-final-cut-pro-x-users/"><u>Unleash Creativity Top 10 Must-Have Plugins for Final Cut Pro X Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unbiased-avs-video-editor-review-2023-features-pricing-and-more/"><u>Updated In 2024, Unbiased AVS Video Editor Review 2023 Features, Pricing, and More</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-android-users-the-top-6-video-downloaders-for-easy-access/"><u>[Updated] 2024 Approved Android Users The Top 6 Video Downloaders for Easy Access</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-deciphering-how-to-find-my-youtube-comments-posts/"><u>[Updated] 2024 Approved Deciphering How To Find My YouTube Comments Posts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-zeroes-to-heroes-amplifying-your-youtube-following/"><u>[Updated] From Zeroes to Heroes Amplifying Your Youtube Following</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/best-infinix-frp-bypass-guide-by-drfone-android/"><u>Best Infinix FRP Bypass Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-storytelling-how-to-create-professional-looking-films-on-a-budget-for-2024/"><u>Elevate Your Storytelling How to Create Professional-Looking Films on a Budget for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12r-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus 12R Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-navigating-video-dimensions-a-focused-look-at-aspect-ratios/"><u>In 2024, Navigating Video Dimensions A Focused Look at ASPECT RATIOS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-say-goodbye-to-windows-10-photos-top-alternative-photo-editors/"><u>In 2024, Say Goodbye to Windows 10 Photos Top Alternative Photo Editors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mac-green-screen-software-finding-the-perfect-fit-for-you/"><u>Mac Green Screen Software Finding the Perfect Fit for You</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mastering-3gp-video-cutting-tips-and-tricks/"><u>Mastering 3GP Video Cutting Tips and Tricks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-beam-local-content-to-chromecast-easy-setup-for-windows-mac-android-and-ios-users/"><u>New 2024 Approved Beam Local Content to Chromecast Easy Setup for Windows, Mac, Android, and iOS Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-chromebook-linux-installation-tutorial-the-ultimate-guide/"><u>New 2024 Approved Chromebook Linux Installation Tutorial The Ultimate Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-mkv-trimming-software-top-10-picks/"><u>New 2024 Approved Free MKV Trimming Software Top 10 Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-here-are-top-5-free-watermark-software-to-help-you-add-watermark-to-your-files-try-any-of-these-easy-to-use-software-to-add-watermark-to-v/"><u>New 2024 Approved Here Are Top 5 Free Watermark Software to Help You Add Watermark to Your Files. Try Any of These Easy to Use Software to Add Watermark to Video Files for Free</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-gopro-quik-for-computer-top-picks-and-alternatives-for-2024/"><u>New GoPro Quik for Computer Top Picks and Alternatives for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-free-dvd-decoding-applications-compatible-with-multiple-windows-versions-11-10-8-7-vista-xp/"><u>Top Free DVD Decoding Applications Compatible with Multiple Windows Versions (11, 10, 8, 7, Vista, XP)</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/zero-cost-win10-file-retrieval-toolkit-portable-free-usb-booting-software-solution/"><u>Zero-Cost Win10 File Retrieval Toolkit - Portable, Free USB Booting Software Solution</u></a></li>
 </ul></div>
 

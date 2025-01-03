@@ -1,7 +1,7 @@
 ---
 title: Updated From FCP to VHS Effortless Ways to Add Retro Flair
-date: 2024-12-20T17:21:40.627Z
-updated: 2024-12-25T00:32:30.444Z
+date: 2024-12-26T21:55:48.531Z
+updated: 2025-01-03T05:52:59.872Z
 tags: 
   - video editing software
   - video editing
@@ -37,7 +37,7 @@ A VHS effect is a textured, warped effect that looks like an outdated analog vid
 ![vhs_effect](https://images.wondershare.com/filmora/images/final-cut-pro/vhs_effect.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you want to know how to add VHS effect to your videos without any plugins in Final Cut Pro X, then follow these steps:
@@ -67,7 +67,7 @@ Go back to the search bar in FCPX and type Sharpen. Select the Sharpen effect an
 ![add_sharpness_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_sharpness_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Set the amount of sharpness to around 8.0-9.0.
@@ -82,10 +82,6 @@ Now go to the search bar again and type Prism. Select the prism effect and drop 
 
 ![add_prism_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_prism_effect_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Set the amount to around 13.0-14.0.
 
 Go back to the search bar and type Color Correction. Drag and drop this effect to your footage in Final Cut Pro.
@@ -93,7 +89,7 @@ Go back to the search bar and type Color Correction. Drag and drop this effect t
 ![color_correction_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/color_correction_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on Exposure and adjust the Highlights, Midtones, and Shadow. Go to the Saturation option and lower it. Now go to the Color and adjust the tint of your video by changing the Global option. Also, adjust the Highlights, Midtones, and Shadows. Wait for a few minutes for it to render.
@@ -103,7 +99,7 @@ After your video is rendered, you will get the final results using the VHS filte
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part2: How to do VHS effect in easy steps?
@@ -115,7 +111,7 @@ First, if you haven't got Filmora, click here to download it for free!
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To do VHS effects quickly, follow these steps:
@@ -149,6 +145,10 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now search for the **Strong Glitch effect**.
 
 * Drag and drop it above the previous layer.
@@ -158,7 +158,7 @@ Go to Effect, and in the search bar, type **VHS**.
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Search for **Chromatic Aberration effect**.
@@ -209,6 +209,10 @@ Click to learn more about [glitch effect in Filmstock.](https://tools.techidaily
 
 ![filmstock-effects](https://images.wondershare.com/filmora/images/final-cut-pro/filmstock-effects.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Stories – Glitch & VHS Edition**
 
 This template is ideal for use with mobile apps like Instagram Stories. You'll get two vertical video openers, complete with glitches and VHS effects. Premiere Pro CC 2017 and newer are supported!
@@ -222,10 +226,6 @@ The look of a VHS glitch effect is basic yet incredibly authentic. This one was 
 The appearance and feel of your production may be significantly enhanced by using VHS video effects. Nothing brings back memories for a viewer like a VHS video. By following the steps mentioned above, you can easily use the VHS effect in your video. However, we recommend you use Wondershare Filmore to create VHS effect as you wouldn't require any plugin. What are some of your favorite VHS effects?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -242,18 +242,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-master-commanders-unleashed-ranking-7-total-war-champions-for-2024/"><u>[New] Master Commanders Unleashed Ranking 7 Total War Champions for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sparkle-with-style-animating-text-in-your-insta-stories/"><u>[New] Sparkle with Style Animating Text in Your Insta Stories</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-perfecting-close-angles-in-movie-filming/"><u>2024 Approved Perfecting Close Angles in Movie Filming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-trends-what-causes-the-diminishing-demand-for-high-performance-sd-cards-despite-their-advantages/"><u>Exploring Trends: What Causes the Diminishing Demand for High-Performance SD Cards Despite Their Advantages?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c210-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nokia C210 Phone with Broken Screen</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-easy-movie-maker-how-to-easily-make-a-movie/"><u>New In 2024, Easy Movie Maker How to Easily Make a Movie</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-powerdirector-color-correction-a-step-by-step-guide-to-perfecting-your-footage/"><u>New PowerDirector Color Correction A Step-by-Step Guide to Perfecting Your Footage</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/spark-the-motivation-top-inspirational-youtube-videos/"><u>Spark the Motivation Top Inspirational YouTube Videos</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-process-for-detecting-and-fixing-cpu-malfunctions-with-yl-software-insights/"><u>Step-by-Step Process for Detecting & Fixing CPU Malfunctions with YL Software Insights</u></a></li>
-<li><a href="https://article-helps.techidaily.com/streamlining-data-management-5-leading-cloud-providers/"><u>Streamlining Data Management 5 Leading Cloud Providers</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unavailable-roblox-due-to-user-configs-on-windows/"><u>Troubleshooting Unavailable Roblox Due to User Configs on WINDOWS</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-s-top-rated-free-home-security-camera-apps/"><u>Updated In 2024, S Top-Rated Free Home Security Camera Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-free-online-tool-to-convert-dailymotion-videos/"><u>Updated In 2024, The Best Free Online Tool to Convert Dailymotion Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-level-up-with-no-hassle-the-prime-free-voice-change-for-valorant-gamers/"><u>[Updated] 2024 Approved Level Up with No Hassle The Prime Free Voice Change for Valorant Gamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-adding-captions-to-videos-using-microsoft-photos-windows-11/"><u>[Updated] Adding Captions to Videos Using Microsoft Photos (Windows 11)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-learn-to-record-mi-11s-display-effortlessly/"><u>[Updated] Learn to Record Mi 11'S Display Effortlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-engagement-on-youtube-by-adding-emojis-for-2024/"><u>Boost Engagement on YouTube by Adding Emojis for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/googles-major-stories-of-the-year-a-review/"><u>Google’s Major Stories of the Year: A Review</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-13-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 13?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-usb-wireless-routers-the-definitive-list-of-2024-picks/"><u>Leading USB Wireless Routers: The Definitive List of 2024 Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-reversing-tiktok-videos-101-master-the-technique-with-this-ultimate-guide/"><u>New In 2024, Reversing TikTok Videos 101 Master the Technique with This Ultimate Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/seamlessly-transform-your-wmv-videos-into-mp4-with-our-step-by-step-guide-mac-os-x-windows-10/"><u>Seamlessly Transform Your WMV Videos Into MP4 with Our Step-by-Step Guide (Mac OS X / Windows 10)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-large-language-models-concepts-and-operation/"><u>Unveiling Large Language Models: Concepts & Operation</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-effortless-avi-editing-a-step-by-step-guide-to-splitting-and-trimming-for-2024/"><u>Updated Effortless AVI Editing A Step-by-Step Guide to Splitting and Trimming for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-simple-and-free-the-best-online-tone-generators-reviewed/"><u>Updated Simple and Free The Best Online Tone Generators Reviewed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-slow-down-and-freeze-advanced-fcpx-editing-techniques-for-2024/"><u>Updated Slow Down and Freeze Advanced FCPX Editing Techniques for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-10-best-free-dvd-players-compatible-with-windows-10/"><u>Updated The 10 Best Free DVD Players Compatible with Windows 10</u></a></li>
 </ul></div>
 

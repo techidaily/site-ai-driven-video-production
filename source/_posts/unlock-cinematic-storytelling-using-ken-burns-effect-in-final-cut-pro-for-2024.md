@@ -1,7 +1,7 @@
 ---
 title: Unlock Cinematic Storytelling Using Ken Burns Effect in Final Cut Pro for 2024
-date: 2024-12-10T20:38:00.718Z
-updated: 2024-12-15T18:41:39.300Z
+date: 2024-12-31T04:36:41.010Z
+updated: 2025-01-03T02:59:21.764Z
 tags: 
   - video editing software
   - video editing
@@ -30,7 +30,7 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
@@ -38,6 +38,10 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
 
@@ -48,7 +52,7 @@ The Ken Burns Effect in Final Cut Pro X allows the editor to zoom in and out, sl
 Anyway, let’s look at how you implement the Ken Burns Effect in Final Cut Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Making the Ken Burns Effect Final Cut Pro
@@ -60,7 +64,7 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
@@ -78,10 +82,6 @@ You can also customize the ken burns effects in Final Cut.
 **Step 2** – Adjust the green box’s size, shape, and height until you are happy with where it is placed.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
@@ -101,6 +101,10 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 
 ![scale and position](https://images.wondershare.com/filmora/filmorapro/scale-and-position-final-cut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4** – Follow keyframe > size > position and ensure your clip is covered as you need it. You can always come back to this step a few times if you don’t get it immediately right.
 
 **Step 5** – Set the playhead where you want the clip and animation to end. Remember – if you zoom or pan too fast, you might glitch in your footage. Do it on time for the best results.
@@ -114,10 +118,6 @@ The Ken Burns Effect is famous for a reason. It allows you to fill up space if y
 The Ken Burns Effect, Final Cut Pro (X) technique lets filmmakers go to places that they wouldn’t otherwise get to. It is excellent for both glimpsing into the past, and for flashing forward into imagined futures. Best of all, it lets you go there when you aren’t a big-budget Hollywood film producer. We love anything that saves a buck or two while we edit.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,15 +134,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-secrets-of-snapsharing-creating-invisible-chronicles-for-2024/"><u>[New] Secrets of Snapsharing Creating Invisible Chronicles for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-asmr-video-knowledge-for-beginners-for-2024/"><u>[Updated] ASMR Video Knowledge for Beginners for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-captions-to-youtube-videos/"><u>[Updated] In 2024, How To Add Captions to YouTube Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tactics-for-excelling-in-twitters-real-time-responses/"><u>[Updated] In 2024, Tactics for Excelling in Twitter's Real-Time Responses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-mechanics-of-t-mobiles-internal-mobile-roaming-strategy/"><u>Decoding the Mechanics of T-Mobile's Internal Mobile Roaming Strategy</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-webm-video-compression-made-easy-best-online-services/"><u>New In 2024, WebM Video Compression Made Easy Best Online Services</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/swiftly-resolving-the-top-20-most-frequent-video-mishaps/"><u>Swiftly Resolving the Top 20 Most Frequent Video Mishaps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-early-black-friday-game-sales-exclusive-offers-await-in-oct-24-featured/"><u>Top-Rated Early Black Friday Game Sales: Exclusive Offers Await in Oct '24 - Featured</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-3d-animation-software-roundup-top-picks-for-every-budget-for-2024/"><u>Updated 3D Animation Software Roundup Top Picks for Every Budget for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-3d-animation-tools-free-and-premium-options-compared/"><u>Updated In 2024, Top 3D Animation Tools Free and Premium Options Compared</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-vanished-video-suggestions-explained/"><u>[New] Facebook's Vanished Video Suggestions Explained</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-engagement-on-youtube-fending-off-automated-audiences/"><u>[Updated] 2024 Approved Elevate Engagement on YouTube Fending Off Automated Audiences</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-capitalization-clues-starting-your-podcast-path/"><u>2024 Approved Comprehensive Capitalization Clues Starting Your Podcast Path</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-craft-a-vibrant-youtube-experience-with-tracks/"><u>2024 Approved Craft a Vibrant Youtube Experience with Tracks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/free-mov-video-joiner-top-5-picks-for-2024/"><u>Free MOV Video Joiner Top 5 Picks for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/free-video-editing-made-easy-top-online-choices/"><u>Free Video Editing Made Easy Top Online Choices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-content-creators-preferences-vimeo-or-youtube/"><u>In 2024, Content Creators' Preferences Vimeo or YouTube?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-expert-review-avs-video-editor-2023-the-good-the-bad-and-the-ugly/"><u>In 2024, Expert Review AVS Video Editor 2023 - The Good, the Bad, and the Ugly</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-video-editing-apps-with-advanced-effects-for-ios-and-android/"><u>In 2024, Free Video Editing Apps with Advanced Effects for iOS and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-list-10-best-cartoon-video-makers-for-pc-and-web/"><u>In 2024, The Ultimate List 10 Best Cartoon Video Makers for PC and Web</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mobile-split-screen-video-editors-the-best-for-ios-and-android-for-2024/"><u>Mobile Split Screen Video Editors The Best for iOS and Android for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mobile-video-invitation-makers-top-picks-for-iphone-and-android-users/"><u>Mobile Video Invitation Makers Top Picks for iPhone and Android Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-kids-smart-snacks-app-child-health-advocate-in-2017s-top-games/"><u>Mondly Kids Smart Snacks App: Child Health Advocate in 2017'S Top Games</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-effortless-video-organization-on-mac-top-8-metadata-editors/"><u>New 2024 Approved Effortless Video Organization on Mac Top 8 Metadata Editors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-5-best-imovie-replacements-for-windows-10/"><u>New 2024 Approved Top 5 Best iMovie Replacements for Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/void-virtuoso-investigating-new-tech-brands/"><u>Void Virtuoso: Investigating New Tech Brands</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/what-is-the-best-mp4-cutter-for-youtubers-on-mac-in-2024/"><u>What Is the Best MP4 Cutter for YouTubers On Mac, In 2024</u></a></li>
 </ul></div>
 

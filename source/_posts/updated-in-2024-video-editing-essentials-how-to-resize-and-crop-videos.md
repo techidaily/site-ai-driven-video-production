@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Video Editing Essentials How to Resize and Crop Videos
-date: 2024-12-14T08:05:57.553Z
-updated: 2024-12-16T02:38:05.464Z
+date: 2024-12-30T04:15:42.728Z
+updated: 2025-01-03T01:39:23.817Z
 tags: 
   - video editing software
   - video editing
@@ -35,7 +35,7 @@ Want to learn more about aspect ratio of your video? [Click here!](https://tools
 Or, you just want to [transfer your video into vertical.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Change Video Shape from Rectangle to Square
@@ -59,7 +59,7 @@ Click **EXPORT** from the top-center area of the interface, go to the **Local** 
 For more details, please refer to this article: [How to Resize a Video to Right Aspect Ratio and Size.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Change Video Shape by Cropping
@@ -67,10 +67,6 @@ For more details, please refer to this article: [How to Resize a Video to Right 
 If your preferred aspect ratio isn’t available in the ‘Ratio’ drop-down list of the ‘Crop and Zoom’ window, Wondershare Filmora allows you to manually change the video to a custom shape.
 
 ![crop-video-9](https://images.wondershare.com/filmora/article-images/crop-video-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can learn **how to change the shape of a video** to an unlisted aspect ratio by following the instructions given below:
 
@@ -91,7 +87,7 @@ Drag the cropping handles from any one edge of the video. Repeat this process fo
 Follow the process explained in **Step 3** of **Part 1** to export the modified video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Change Video Shape to Circle or Other Shapes in Filmora
@@ -103,7 +99,7 @@ In Filmora you can apply image masks either from the existing presets, i.e. circ
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 On the other hand, shape masking allows you to mask a background video with a foreground footage in a custom shape.
@@ -156,6 +152,10 @@ A) At the time of this writing, Wondershare Filmora has around 40 image mask pre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -171,18 +171,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-leveraging-social-media-for-increased-video-engagement-on-youtube/"><u>[Updated] Leveraging Social Media for Increased Video Engagement on YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-step-by-step-for-entering-google-meet-via-devices/"><u>2024 Approved Step-by-Step for Entering Google Meet via Devices</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/behebung-von-stottern-und-verzogerungen-bei-der-wiedergabe-von-mkv-dateien-unter-windows-und-macos/"><u>Behebung Von Stottern Und Verzögerungen Bei Der Wiedergabe Von MKV-Dateien Unter Windows Und macOS</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-far-cry-not-launching-on-pc-error-complete-guide/"><u>Bypassing the 'Far Cry Not Launching on PC' Error - Complete Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-claude-2-functions-uses-and-advantages-revealed/"><u>Demystifying Claude 2: Functions, Uses, and Advantages Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-elite-access-to-gpt-justifiable/"><u>Is Elite Access to GPT Justifiable?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-in-class-audio-editing-software-for-professionals-top-picks/"><u>New In 2024, Best-in-Class Audio Editing Software for Professionals Top Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-compress-videos-online-for-free-10-best-web-based-solutions/"><u>New In 2024, Compress Videos Online for Free 10 Best Web-Based Solutions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-giants-how-facebook-stacks-up-against-twitter-instagram-and-youtube/"><u>Social Media Giants: How Facebook Stacks Up Against Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-mastering-animation-drawing-a-guide-to-the-best-software/"><u>Updated 2024 Approved Mastering Animation Drawing A Guide to the Best Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-video-editing-on-the-go-top-5-iphone-apps/"><u>Updated In 2024, Video Editing on the Go Top 5 iPhone Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-things-in-life-are-free-top-10-fcpx-plugins-at-no-cost/"><u>Updated The Best Things in Life Are Free Top 10 FCPX Plugins at No Cost</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/videopad-video-editor-is-it-worth-the-investment-in-2024/"><u>Videopad Video Editor Is It Worth the Investment, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-going-bold-on-instagram-techniques-to-trend-worldwide/"><u>[Updated] 2024 Approved Going Bold on Instagram Techniques to Trend Worldwide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-online-beat-detectors-you-should-try-now-online-and-free/"><u>[Updated] In 2024, Online Beat Detectors You Should Try Now [Online & Free]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-quadcopters-unveiled-decoding-their-mechanism-and-functions-for-2024/"><u>[Updated] Quadcopters Unveiled Decoding Their Mechanism and Functions for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/1-clear-up-space-on-your-pc-memory-management-tips-yl-computing/"><u>1. Clear Up Space on Your PC: Memory Management Tips - YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>In 2024, The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-animation-software-for-pros-mac-and-windows-compatible/"><u>New Best Animation Software for Pros Mac and Windows Compatible</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-video-editing-software-for-32-bit-windows/"><u>New Best Free Video Editing Software for 32-Bit Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-chromebook-linux-installation-a-simple-step-by-step-process-updated/"><u>New Chromebook Linux Installation A Simple, Step-by-Step Process (Updated )</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-editing-solutions-for-32-bit-windows-top-picks-for-2024/"><u>New Free Video Editing Solutions for 32-Bit Windows Top Picks for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-generate-tones-with-ease-5-free-online-options-for-2024/"><u>New Generate Tones with Ease 5 Free Online Options for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/quick-shot-screen-plus-sound-combo/"><u>Quick Shot Screen + Sound Combo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/scaling-creativity-mass-producing-visuals-with-canva-and-gpt/"><u>Scaling Creativity: Mass Producing Visuals with Canva & GPT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visualizing-success-with-the-right-video-ratio/"><u>Visualizing Success with the Right Video Ratio</u></a></li>
 </ul></div>
 
