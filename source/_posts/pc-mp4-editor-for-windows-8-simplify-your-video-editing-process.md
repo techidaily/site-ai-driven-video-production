@@ -1,7 +1,7 @@
 ---
 title: PC MP4 Editor for Windows 8 Simplify Your Video Editing Process
-date: 2024-12-28T21:59:55.692Z
-updated: 2025-01-03T04:39:17.973Z
+date: 2025-01-06T06:26:46.236Z
+updated: 2025-01-10T03:57:39.248Z
 tags: 
   - video editing software
   - video editing
@@ -30,10 +30,6 @@ In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Easily Edit MP4 Files on PC
 
 #### 1\.  Import your MP4 videos
@@ -43,6 +39,10 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\.  Easy MP4 editing in Windows 8
 
@@ -60,10 +60,6 @@ Select a clip in the Timeline, drag the Indicator to where you want to split and
 
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
 
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
@@ -71,7 +67,7 @@ To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wonders
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Add Scene Transition
@@ -79,6 +75,10 @@ To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wonders
 Click "Transition" tab on the main interface and drag one scene transition you like to your video, or you can right click on a favorite transition and choose the option "Apply to All", which can apply the certain transition effect to all your videos.
 
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -93,13 +93,13 @@ Also view a step by step video guide on how to edit MP4 files in Windows 8:
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -117,19 +117,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/-compreehed-guide-to-online-identity-youtube-account-setup-for-2024/"><u>[New] A Compreehed Guide to Online Identity YouTube Account Setup for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ecure-footage-leading-stabilizers-on-youtube/"><u>[New] Secure Footage Leading Stabilizers on YouTube</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-art-of-needlework-learning-from-tiktok-stars/"><u>[Updated] 2024 Approved The Art of Needlework Learning From TikTok Stars</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-discovering-the-best-portable-audio-recording-tech-for-macs/"><u>[Updated] Discovering the Best Portable Audio Recording Tech for Macs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-why-photo-booth-videos-freeze-suddenly/"><u>[Updated] Exploring Why Photo Booth Videos Freeze Suddenly</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/byb-e430-led-swing-arm-light-fixture-review-exceptional-quality-and-design/"><u>BYB E430 LED Swing Arm Light Fixture Review: Exceptional Quality and Design</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-discover-the-best-free-3d-animation-apps-for-android-iphone-and-ipad/"><u>In 2024, Discover the Best Free 3D Animation Apps for Android, iPhone, and iPad</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mastering-pip-a-step-by-step-guide-to-creating-picture-in-picture-effects-in-final-cut-pro/"><u>In 2024, Mastering PiP A Step-by-Step Guide to Creating Picture-in-Picture Effects in Final Cut Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-subscription-with-prime-gaming-guide/"><u>Navigate Subscription with Prime Gaming Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-do-you-want-to-find-out-the-alternatives-of-windows-10-photos-this-article-will-let-you-know-8-best-windows-10-photos-alternatives-check-i/"><u>New 2024 Approved Do You Want to Find Out the Alternatives of Windows 10 Photos? This Article Will Let You Know 8 Best Windows 10 Photos Alternatives. Check It Out</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-how-to-reverse-a-tiktok-video-with-ease-an-ultimate-guide/"><u>New 2024 Approved How to Reverse A TikTok Video with Ease An Ultimate Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-10plus-best-free-online-video-editors/"><u>New 2024 Approved Top 10+ Best Free Online Video Editors</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-transform-your-images-into-videos-with-these-10-online-tools/"><u>New 2024 Approved Transform Your Images Into Videos with These 10 Online Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silence-broken-how-to-get-sound-working-again-in-world-of-warcraft/"><u>Silence Broken: How to Get Sound Working Again in World of Warcraft</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-power-of-spotifys-advertising-potential/"><u>2024 Approved Unlock the Power of Spotify’s Advertising Potential</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-critical-examination-of-vlcs-rivals/"><u>A Critical Examination of VLC's Rivals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/clear-out-that-unused-windows-rebuild-zone-a-how-to/"><u>Clear Out That Unused Windows Rebuild Zone – A How-To</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/collaborative-sing-along-tiktok-feature/"><u>Collaborative Sing-Along TikTok Feature</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/download-apple-podcasts-instinctively/"><u>Download Apple Podcasts Instinctively</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-asus-rog-phone-8-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Asus ROG Phone 8 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-mac-video-production-powerhouse-adobe-premiere-pro/"><u>New In 2024, Mac Video Production Powerhouse Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-os-x-mavericks-video-editors-handbook/"><u>The Ultimate OS X Mavericks Video Editors Handbook</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-your-inner-comedian-top-video-dubbing-software/"><u>Updated 2024 Approved Unleash Your Inner Comedian Top Video Dubbing Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-expert-recommended-video-animation-apps-for-mobile/"><u>Updated In 2024, Expert-Recommended Video Animation Apps for Mobile</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-10-animation-software-for-creating-stunning-animated-videos/"><u>Updated In 2024, Top 10 Animation Software for Creating Stunning Animated Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-6-video-voiceover-tools-for-windows-free-to-try/"><u>Updated Top 6 Video Voiceover Tools for Windows Free to Try</u></a></li>
+<li><a href="https://win-online.techidaily.com/updating-your-video-cards-drivers-made-easy-with-advice-from-yl-software-experts/"><u>Updating Your Video Card's Drivers Made Easy with Advice From YL Software Experts</u></a></li>
 </ul></div>
 

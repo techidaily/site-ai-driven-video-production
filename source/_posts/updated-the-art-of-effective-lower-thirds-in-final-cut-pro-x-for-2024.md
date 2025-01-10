@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Effective Lower Thirds in Final Cut Pro X for 2024
-date: 2024-12-27T10:33:37.460Z
-updated: 2025-01-03T13:56:24.404Z
+date: 2025-01-06T06:52:42.819Z
+updated: 2025-01-09T23:23:39.958Z
 tags: 
   - video editing software
   - video editing
@@ -86,11 +86,7 @@ Proper alignment and the best coordinates on the screen make the lower third mod
  ![logo-shapes](https://images.wondershare.com/filmora/images/final-cut-pro/logo-shapes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part3: How to make a lower third quickly in final cut pro X?**
@@ -109,6 +105,10 @@ Features of Final Cut Pro X to design lower third module element
 
 ![final-cut-pro-x](https://images.wondershare.com/filmora/images/final-cut-pro/final-cut-pro-x.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this section, you will learn to make a lower third element using a Final Cut Pro X tool. It is high to check out the steps in detail.
 
 **1Step 1: Download the tool**
@@ -117,15 +117,15 @@ You can download the app and install them in your system. Launch the tool by dou
 
 ![download-app](https://images.wondershare.com/filmora/images/final-cut-pro/download-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2Step 2: Add the Title**
 
 In the home screen, import the video that requires the edits and then tap the ‘Titles’ tab at the left top of the screen. Click the ‘Build-in/Build-out’ option to custom the Title element. According to your needs, you can repeat it to insert the desired titles on the video screen.
 
 ![built-in-title](https://images.wondershare.com/filmora/images/final-cut-pro/built-in-title.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3Step 3: Customize the Title**
 
@@ -138,6 +138,14 @@ Use the above instructions, insert the lower third element in your video effortl
 For those who still need more guides about making lower thirds, this Filmora tutorial may help a lot.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 4: Where to find great lower thirds templates for final cut pro X?**
 
@@ -157,10 +165,6 @@ Colorful and yet attractive design from the Evanto elements. This design has a f
 
 In this template group, you can find the design seems to be simple and minimal. It offers a lighter touch to your videos. The text overlays do not distract the viewers. Everything looks the same but still, you can feel the difference in it when you customize it according to your needs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 Thus, this article had given you enlightening discussion about the lower third elements. Insert this module optimally in your videos and obtain the desired outcomes. Enhance the design of the lower third element using the Final Cut Pro X app and feel the difference in your video.
@@ -168,10 +172,6 @@ Thus, this article had given you enlightening discussion about the lower third e
 Display the texts promptly to enlighten the audience. Connect the texts to the target audience without distracting them. Work on this challenging element using a professional app like the Final Cut Pro X program. Stay tuned with this article to discover the new horizons of video editing.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -188,20 +188,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-video-grabbers-for-windows-10-pc/"><u>[New] 2024 Approved Best Video Grabbers for Windows 10 PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-game-streams-with-ai-enhanced-portraits/"><u>[New] 2024 Approved Mastering Game Streams with AI-Enhanced Portraits</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-zen-of-zoom-talk-top-strategies-for-smooth-virtual-dialogue/"><u>[New] In 2024, The Zen of Zoom Talk Top Strategies for Smooth Virtual Dialogue</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-explore-the-best-free-youtube-video-editor-apps-for-android-for-2024/"><u>[Updated] Explore the Best Free YouTube Video Editor Apps for Android for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-mfc-9130cw-printer-software-free-downloads-available/"><u>Brother MFC-9130CW Printer Software - Free Downloads Available</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-the-innovative-features-of-mods-newest-easyside-carrier-ebike-model/"><u>Explore the Innovative Features of Mod's Newest EasySide Carrier eBike Model</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sever-onedrive-connection-with-ms-account-on-windows/"><u>Sever OneDrive Connection with MS Account on Windows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-evolution-of-the-first-risc-v-laptop-doubling-processor-cores-accelerating-to-an-unprecedented-2ghz-and-introducing-next-gen-ai-tools/"><u>The Ultimate Evolution of the First RISC-V Laptop: Doubling Processor Cores, Accelerating to an Unprecedented 2GHz & Introducing Next-Gen AI Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/uncomplicate-your-workflow-5-free-online-tone-tools/"><u>Uncomplicate Your Workflow 5 Free Online Tone Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-say-goodbye-to-grainy-videos-top-enhancement-software-picks/"><u>Updated 2024 Approved Say Goodbye to Grainy Videos Top Enhancement Software Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-windows-10-webcam-recording-made-easy-top-10-software-picks/"><u>Updated 2024 Approved Windows 10 Webcam Recording Made Easy Top 10 Software Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-effortless-flv-video-editing-on-windows-8-the-ultimate-guide/"><u>Updated Effortless FLV Video Editing on Windows 8 The Ultimate Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-final-cut-pro-meets-vhs-easy-tutorials-for-a-retro-look-for-2024/"><u>Updated Final Cut Pro Meets VHS Easy Tutorials for a Retro Look for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-guide-to-online-animation-software-top-10-picks/"><u>Updated In 2024, The Ultimate Guide to Online Animation Software Top 10 Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-say-goodbye-to-shaky-footage-8-free-online-video-stabilizers-2024-review/"><u>Updated Say Goodbye to Shaky Footage 8 Free Online Video Stabilizers (2024 Review)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-new-dimension-understanding-the-innovations-in-hp-envy-27-monitor/"><u>[New] A New Dimension Understanding the Innovations in HP Envy 27 Monitor</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-video-inversion-step-by-step-strategy-for-2024/"><u>[Updated] Instagram Video Inversion Step-by-Step Strategy for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleash-the-potential-latest-win11-applications-and-games/"><u>[Updated] Unleash the Potential Latest Win11 Applications and Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-cutting-edge-techniques-for-stellar-fb-hd-video/"><u>2024 Approved Cutting-Edge Techniques for Stellar FB HD Video</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-get-your-nvidia-gpus-updated-drivers-on-windows-1nt-step-by-step/"><u>How to Securely Get Your NVIDIA GPU's Updated Drivers on Windows 1nT – Step-by-Step</u></a></li>
+<li><a href="https://some-tips.techidaily.com/implementing-updates-in-installed-software-via-windows-installer-xml-wix/"><u>Implementing Updates in Installed Software via Windows Installer XML (WiX)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-14-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi 14 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-cheap-but-powerful-video-editing-software-options-for-2024/"><u>New Cheap but Powerful Video Editing Software Options for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-cut-to-the-chase-filmora-coupon-codes-without-the-fuss-for-2024/"><u>New Cut to the Chase Filmora Coupon Codes Without the Fuss for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-edit-m4a-files-for-free-top-software-picks/"><u>New Edit M4A Files for Free Top Software Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-storytelling-adding-picture-in-picture-elements-to-your-fcp-projects-for-2024/"><u>New Elevate Your Storytelling Adding Picture-in-Picture Elements to Your FCP Projects for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-here-are-10-best-trailer-makers-for-mac-and-windows-to-creating-attractive-movie-trailers-for-2024/"><u>New Here Are 10 Best Trailer Makers for Mac and Windows to Creating Attractive Movie Trailers for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-android-essentials-must-have-apps-from-google-play/"><u>Updated Android Essentials Must-Have Apps From Google Play</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-to-merge-clips-in-davinci-resolve-simple-steps/"><u>Updated In 2024, Learn to Merge Clips in DaVinci Resolve Simple Steps</u></a></li>
 </ul></div>
 

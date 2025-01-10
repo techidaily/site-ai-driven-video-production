@@ -1,7 +1,7 @@
 ---
 title: Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro
-date: 2024-12-30T19:48:32.929Z
-updated: 2025-01-02T19:53:54.172Z
+date: 2025-01-04T06:09:52.541Z
+updated: 2025-01-09T16:11:16.501Z
 tags: 
   - video editing software
   - video editing
@@ -45,7 +45,7 @@ Before we get started, you can firstly detach the audio from video to better edi
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Fade Audio by using the Modify Menu
@@ -57,12 +57,16 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
@@ -71,10 +75,6 @@ You should remember that the fades appear at the beginning and the end of each c
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -92,10 +92,6 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
@@ -103,7 +99,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -118,6 +114,10 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,21 +134,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/eciphering-the-code-youtube-community-rules-explained-for-2024/"><u>[New] Deciphering the Code YouTube Community Rules Explained for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/wiftness-at-a-click-managing-youtubes-video-speed-settings-for-2024/"><u>[New] Swiftness at a Click Managing YouTube's Video Speed Settings for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-capture-the-best-moments-select-6-top-ranked-short-video-download-tools/"><u>2024 Approved Capture the Best Moments Select 6 Top-Ranked Short Video Download Tools</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-calculating-clickers-contribution-to-youtube-earnings/"><u>In 2024, Calculating Clickers' Contribution to YouTube Earnings</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-from-blurry-to-brilliant-top-video-resolution-enhancers/"><u>New 2024 Approved From Blurry to Brilliant Top Video Resolution Enhancers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-transform-your-footage-mastering-the-ken-burns-effect-in-final-cut-pro-with-ease/"><u>New In 2024, Transform Your Footage Mastering the Ken Burns Effect in Final Cut Pro with Ease</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mastering-pip-in-final-cut-pro-a-step-by-step-guide-for-2024/"><u>New Mastering PiP in Final Cut Pro A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-11-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-no-cost-wmv-video-editing-the-best-free-software/"><u>New No-Cost WMV Video Editing The Best Free Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013183034-solving-the-puzzle-of-football-manager-2022s-missing-debut-tips-and-tricks/"><u>Solving the Puzzle of Football Manager 2022'S Missing Debut – Tips and Tricks!</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-elevate-your-video-game-best-4k8k-video-editing-software-for-2024/"><u>Updated Elevate Your Video Game Best 4K/8K Video Editing Software for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-generate-mind-bending-glitches-with-these-free-online-tools-for-2024/"><u>Updated Generate Mind-Bending Glitches with These Free Online Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-no-hassle-just-tones-5-free-online-generators/"><u>Updated In 2024, No Hassle, Just Tones 5 Free Online Generators</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-vignette-editing-apps-for-mobile-devices-free-and-premium-options/"><u>Updated In 2024, Top Vignette Editing Apps for Mobile Devices Free and Premium Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-os-x-mavericks-video-editing-tutorial-from-basics-to-advanced-for-2024/"><u>Updated OS X Mavericks Video Editing Tutorial From Basics to Advanced for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-videos-which-aspect-ratio-fits/"><u>[New] 2024 Approved Facebook Videos Which Aspect Ratio Fits?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>[New] 2024 Approved From Zero to Hero YouTube Intro Wonders with iMovie</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-epic-tvs-for-xbox-series-x-and-playstation-5-gamers-for-2024/"><u>[Updated] Epic TVs for Xbox Series X & PlayStation 5 Gamers for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-htc-u23-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass HTC U23 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x6-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Poco X6 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-s-best-free-avi-video-rotators-expert-recommendations/"><u>New In 2024, S Best Free AVI Video Rotators Expert Recommendations</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-users-download-splice-video-editor-now-and-edit-like-a-pro/"><u>New Mac Users, Download Splice Video Editor Now and Edit Like a Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/say-goodbye-to-windows-10-photos-top-8-image-editing-solutions-youll-love/"><u>Say Goodbye to Windows 10 Photos Top 8 Image Editing Solutions Youll Love</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-forward-to-reverse-mastering-video-reversal-in-final-cut-pro/"><u>Updated In 2024, From Forward to Reverse Mastering Video Reversal in Final Cut Pro</u></a></li>
 </ul></div>
 

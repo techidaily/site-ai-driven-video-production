@@ -1,7 +1,7 @@
 ---
 title: New Mac Video Editing Made Easy Yosemite Edition
-date: 2024-12-29T19:44:51.828Z
-updated: 2025-01-02T19:13:35.825Z
+date: 2025-01-07T02:05:16.888Z
+updated: 2025-01-10T06:25:40.732Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,10 @@ Although Apple’s new operating system - Mac OS X 10.10 Yosemite will bring new
 
 Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite – Wondershare [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is recommended. It supports almost all the popular video formats including AVI, WMV, MP4, FLV, MKV, MOV, 3GP, etc. With it, you can put together your video clips or split to segments to get creative and customized brand new videos. Here is a detailed guide on how to create videos on Yosemite with this smart video editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1. Import media files to edit
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
@@ -37,7 +41,11 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
@@ -50,19 +58,11 @@ You have two different ways to edit the video. One is to double click the video 
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Edit and enhance audio**
 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Add transition and other effects**
 
@@ -77,16 +77,16 @@ After you preview the effect, just click the “Export” button to export the v
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -103,18 +103,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-engaging-verbal-communicator-study-part-8/"><u>[New] 2024 Approved Engaging Verbal Communicator Study, Part 8</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-audiovisual-authority-the-finest-computers-for-professional-edits/"><u>[New] In 2024, Audiovisual Authority The Finest Computers for Professional Edits</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhance-your-imagery-a-step-by-step-guide-for-instagram-videos/"><u>[Updated] 2024 Approved Enhance Your Imagery A Step-by-Step Guide for Instagram Videos</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oppo-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Oppo online without jailbreak</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-s-best-face-swap-apps-for-iphone-and-android/"><u>In 2024, S Best Face Swap Apps for iPhone and Android</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/master-plan-top-6-modernist-minecraft-villas/"><u>Master Plan Top 6 Modernist Minecraft Villas</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-video-cutting-and-joining-apps-for-android-and-ios-2023-review/"><u>New 2024 Approved Free Video Cutting and Joining Apps for Android and iOS (2023 Review)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-how-to-easily-make-professional-looking-movies/"><u>New 2024 Approved How to Easily Make Professional-Looking Movies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-text-animation-apps-for-mobile-video-editing/"><u>New 2024 Approved Top Text Animation Apps for Mobile Video Editing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-7-reliable-video-merging-tools-with-no-watermark-output/"><u>New In 2024, 7 Reliable Video Merging Tools with No Watermark Output</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-final-cut-pro-voice-over-secrets-boost-your-audio-game/"><u>New In 2024, Final Cut Pro Voice Over Secrets Boost Your Audio Game</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-oppo-a2-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Oppo A2</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-non-dell-and-non-lenovo-business-laptops-the-best-alternatives-for-your-workspace/"><u>Top Non-Dell and Non-Lenovo Business Laptops: The Best Alternatives for Your Workspace</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-secrets-to-proficient-mobile-and-desktop-film-recording/"><u>[New] Secrets to Proficient Mobile and Desktop Film Recording</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-designing-your-digital-persona-for-the-metaverse/"><u>[Updated] 2024 Approved Designing Your Digital Persona for the Metaverse</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-digital-sound-logging-system-inputs/"><u>2024 Approved Digital Sound Logging System Inputs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/affordable-wonderfox-dvd-ripper-discounts-and-product-gifts/"><u>Affordable WonderFox DVD Ripper - Discounts & Product Gifts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-guide-updating-wonderfox-dvd-ripper-to-newest-release/"><u>Comprehensive Guide: Updating WonderFox DVD Ripper to Newest Release</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effective-methods-to-connect-iphone-with-computer-without-data-loss/"><u>Effective Methods to Connect iPhone with Computer Without Data Loss</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-12-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus 12 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-become-a-pip-expert-enhancing-visual-narratives-on-macos-sierra/"><u>In 2024, Become a PIP Expert Enhancing Visual Narratives on macOS Sierra</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-cartoon-video-creation-tools-for-pc-and-online-use/"><u>New In 2024, Top Cartoon Video Creation Tools for PC and Online Use</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-virtualdub-review-and-best-alternatives/"><u>New In 2024, Virtualdub Review and Best Alternatives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-free-video-cutters-for-mov-file-editing-for-2024/"><u>New The Best Free Video Cutters for MOV File Editing for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ai-potential-in-domestic-task-planning/"><u>Unveiling AI Potential in Domestic Task Planning</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-combine-mov-files-for-free-5-excellent-options/"><u>Updated 2024 Approved Combine MOV Files for Free 5 Excellent Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-convert-mp4-to-mp3-best-apps-for-iphone-and-android/"><u>Updated Convert MP4 to MP3 Best Apps for iPhone and Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-bring-your-logo-to-life-top-10-free-animated-logo-makers/"><u>Updated In 2024, Bring Your Logo to Life Top 10 Free Animated Logo Makers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-expert-approved-video-editing-tools-and-apps/"><u>Updated In 2024, Expert-Approved Video Editing Tools and Apps</u></a></li>
 </ul></div>
 
