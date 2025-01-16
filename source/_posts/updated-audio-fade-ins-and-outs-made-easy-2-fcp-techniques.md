@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2025-01-07T03:26:03.692Z
-updated: 2025-01-10T05:30:46.470Z
+date: 2025-01-13T00:21:58.996Z
+updated: 2025-01-15T21:07:46.841Z
 tags: 
   - video editing software
   - video editing
@@ -44,6 +44,10 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -51,6 +55,10 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
@@ -61,16 +69,12 @@ You should remember that the fades appear at the beginning and the end of each c
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -89,7 +93,7 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -97,10 +101,6 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -116,7 +116,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,20 +134,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-excelling-at-content-creation-a-guide-to-gamers-success/"><u>[Updated] 2024 Approved Excelling at Content Creation A Guide to Gamers' Success</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-caption-creation-process-for-compelling-facebook-media/"><u>[Updated] 2024 Approved The Ultimate Caption Creation Process for Compelling Facebook Media</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-dusks-descent-pre-pro-screen-transitions/"><u>[Updated] Dusk's Descent Pre-Pro Screen Transitions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-video-content-defeating-10-vlogging-hurdles/"><u>[Updated] Mastering Video Content Defeating 10 Vlogging Hurdles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-must-see-vr-movies-for-film-enthusiasts/"><u>2024 Approved Must-See VR Movies for Film Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bring-imagination-alive-start-with-microsofts-movie-maker-on-w11-for-2024/"><u>Bring Imagination Alive Start with Microsoft's Movie Maker on W11 for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/imagecheck-reviews-station-for-2024/"><u>ImageCheck Reviews Station for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-expert-takes-best-camcorders-for-video/"><u>In 2024, Expert Takes Best Camcorders for Video</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-getting-ahead-with-professional-itunes-capture-methods/"><u>In 2024, Getting Ahead with Professional iTunes Capture Methods</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unlock-pro-quality-videos-gopro-quik-editing-on-macbook-made-simple/"><u>New In 2024, Unlock Pro-Quality Videos GoPro Quik Editing on MacBook Made Simple</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-best-cartoon-video-maker-software-for-newbies/"><u>New The Ultimate List Best Cartoon Video Maker Software for Newbies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-audio-editing-essentials-2-ways-to-fade-in-and-out-in-fcp/"><u>Updated Audio Editing Essentials 2 Ways to Fade In and Out in FCP</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unbrand-your-videos-remove-filmora-watermark-for-freepaid/"><u>Updated In 2024, Unbrand Your Videos Remove Filmora Watermark for Free/Paid</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-5-best-free-divx-video-cutters-for-2024/"><u>Updated Top 5 Best Free Divx Video Cutters for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/want-to-find-a-high-quality-video-editing-tool-for-your-64-bit-operating-system-youve-come-to-the-right-place-for-2024/"><u>Want to Find a High-Quality Video Editing Tool for Your 64 Bit Operating System? Youve Come to the Right Place for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-review-for-hero4-black/"><u>[New] Full Review for Hero4 Black</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-wealth-of-mr-beast-for-2024/"><u>[New] The Wealth of Mr. Beast for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-cross-platform-video-sharing-tiktok-and-twitter/"><u>[Updated] 2024 Approved Cross-Platform Video Sharing TikTok & Twitter</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-video-experience-free-online-quality-enhancement-tools/"><u>Elevate Your Video Experience Free Online Quality Enhancement Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-poco-c65-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Poco C65 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-create-your-masterpiece-easy-film-making-for-everyone/"><u>In 2024, Create Your Masterpiece Easy Film Making for Everyone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-video-editing-tools-for-professionals/"><u>In 2024, Top Video Editing Tools for Professionals</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-10-music-video-creation-tools-for-stunning-visuals/"><u>New 2024 Approved Top 10 Music Video Creation Tools for Stunning Visuals</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-the-internet-explorer-has-stopped-working-problem/"><u>Troubleshooting Tips for the 'Internet Explorer Has Stopped Working' Problem</u></a></li>
 </ul></div>
 

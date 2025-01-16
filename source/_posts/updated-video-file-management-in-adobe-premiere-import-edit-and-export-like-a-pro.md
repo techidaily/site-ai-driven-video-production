@@ -1,7 +1,7 @@
 ---
 title: Updated Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro
-date: 2024-12-09T05:44:28.901Z
-updated: 2024-12-16T05:46:22.876Z
+date: 2025-01-09T18:24:14.288Z
+updated: 2025-01-15T23:22:21.636Z
 tags: 
   - video editing software
   - video editing
@@ -34,10 +34,6 @@ This is a basic tutorial about Adobe Premiere, professional video editing softwa
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Importing
 
 There are two main ways to import media into Premiere, the import command and the media browser. They do things slightly differently and have uses they are both best suited to, here we will look at the process itself and which method to use in a given situation.
@@ -51,7 +47,7 @@ Whichever way you access it, you get the standard for the platform import dialog
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This method of importing is best suited to self-contained media such as audio or graphics, or video files such as MP4 that are single files themselves, whose location on your computer you know so you can navigate to them easily. This is not the way to import videos from cameras, as they invariably create complex file and folder arrangements that make choosing the correct files difficult. This is where you would opt for the media browser method instead.
@@ -63,7 +59,7 @@ Whilst on the surface media browser appears to do the same job as the import com
 ![Import videos to Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The media browser panel is found in the project panel, which on the standard layout is the bottom left corner, and can also be accessed by the Shift+8 shortcut. As you can see from the screenshot it works like an operating system file browser and allows you to navigate through the file directories of hard drives and removable media connected to the system.
@@ -78,10 +74,6 @@ There are some exceptions to this, however, despite having a huge number of file
 
 [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) offers an easy way to convert any file you may have into media that Premiere can use quickly and efficiently, and is a great tool to have alongside premiere if you commonly work with multiple file types.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Exporting
 
 The ultimate aim of any project is obviously to finish it and let others see the result of your creativity, and that means exporting your work into a format that is suitable for the medium you wish the project to be viewed on. Premiere offers a number of options regarding export, you can select an entire sequence to export as a single file for the web or disc, choose a single frame to post to a website, blog or to distribute through email, you can export just the audio, or just the video from a sequence, and if you have the right hardware, can export directly to tape or disk.
@@ -90,15 +82,27 @@ To export a project that closely matches the original media in quality and frame
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Which opens the media export dialogue.
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Selecting 'Match Sequence Settings' here creates a finished file that matches the quality of the original source media. Then you simply choose a suitable name for the file in the Output Name field, and click export. This creates in essence a digital clone of the sequence, and best practice is to always do this for any project, however, for many projects, this is not necessarily the format you would want the final product to be in, those concentrating on YouTube output, or someone wanting to author a DVD for instance will need other options.
 
 Thankfully Premiere caters here as well. Instead of selecting the 'Match Sequence Settings' within export dialogue, you can click on the 'Format' field to change the type of file that is produced. What options here can vary depending on codecs installed, this screenshot shows only those that are included with the product for clarity.
 
 ![Export videos in Adobe Premiere](https://images.wondershare.com/images/multimedia/video-editor/import-export-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Depending on which format you choose. The preset below will allow you to choose a wide range of output settings to suit the intended platform. For instance, selecting  format brings up a huge number of presets for various Tablets and Phones, but also for Vimeo and YouTube, which is why it is one of the most common output formats. Here's a look at some of the presets available from the menu.
 
@@ -111,10 +115,6 @@ The other common requirement is for DVD or Blu-Ray files. Whilst you need access
 With the addition of [Wondershare Video Converter Ultimate](https://tools.techidaily.com/wondershare/videoconverter/download/) you have a workflow that can ingest and export any type of media file you will ever come across with the minimum of fuss.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -131,16 +131,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfect-video-conferencing-the-essential-list-of-10-free-recorders/"><u>[New] 2024 Approved Perfect Video Conferencing The Essential List of 10 Free Recorders</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-choreographing-narrative-news-wrappers/"><u>[New] In 2024, Choreographing Narrative News Wrappers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-keyword-mastery-unlocking-the-potential-of-youtube-tags/"><u>[New] Keyword Mastery Unlocking the Potential of YouTube Tags</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-leading-websites-your-source-for-legal-skype-ringtones/"><u>[Updated] In 2024, Leading Websites Your Source for Legal Skype Ringtones</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-rid-of-crashes-for-good-troubleshooting-steps-to-improve-darkest-dungeon-2-performance-on-pc/"><u>Get Rid of Crashes for Good! Troubleshooting Steps to Improve Darkest Dungeon 2 Performance on PC</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/hand-drawn-whiteboard-animation-top-tools-and-software-for-2024/"><u>Hand-Drawn Whiteboard Animation Top Tools and Software for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-4k-video-collection-must-watch-clips/"><u>In 2024, The Ultimate 4K Video Collection Must-Watch Clips</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-vn-video-editor-app-review-editing-made-easy-on-android/"><u>In 2024, VN Video Editor App Review Editing Made Easy on Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/maximize-your-gopro-experience-a-quik-review-and-top-pc-video-editing-solutions-for-2024/"><u>Maximize Your GoPro Experience A Quik Review and Top PC Video Editing Solutions for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-internet-speed-techniques-to-decrease-latency/"><u>Optimal Internet Speed: Techniques to Decrease Latency</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/techniques-enabling-malware-delivery-via-scripting-insights-from-malwarefox/"><u>Techniques Enabling Malware Delivery via Scripting: Insights From MalwareFox</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-direct-download-of-youtube-videos/"><u>[Updated] 2024 Approved Direct Download of YouTube Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chromes-fullscreen-mode-a-complete-guide-to-pip-usage/"><u>[Updated] Chrome's Fullscreen Mode A Complete Guide to PIP Usage</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-design-tips-for-captivating-facebook-slideshows/"><u>[Updated] Design Tips for Captivating Facebook Slideshows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-of-stretching-seconds-creating-spectaculous-slow-mo-videos-with-photos-and-web-tools/"><u>2024 Approved Unveiling the Secrets of Stretching Seconds Creating Spectaculous Slow-Mo Videos with Photos & Web Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-13-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 13 screen turns black? | Stellar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-knowledge-sharing-broad-impact/"><u>ChatGPT Knowledge Sharing: Broad Impact</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprendre-le-transfert-dappareil-ios-comment-deplacer-vos-fichiers-de-liphone-a-un-autre-modele-ou-vers-votre-pcandroide/"><u>Comprendre Le Transfert D'appareil iOS - Comment Déplacer Vos Fichiers De L’iPhone À Un Autre Modèle Ou Vers Votre PC/Androïde</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-master-your-images-with-the-best-overlay-apps-for-ios-and-android/"><u>In 2024, Master Your Images with the Best Overlay Apps for iOS & Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-and-panache-creating-perfect-crossfades/"><u>In 2024, Precision and Panache Creating Perfect Crossfades</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-trimming-vlc-videos-on-mac-without-compromising-quality-for-2024/"><u>New The Ultimate Guide to Trimming VLC Videos on Mac Without Compromising Quality for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970068698-step-up-your-biometric-game-with-our-validity-fingerprint-sensor-driver-download-instantly/"><u>Step Up Your Biometric Game with Our Validity Fingerprint Sensor Driver - Download Instantly</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/streamline-your-workflow-how-to-optimize-your-macs-storage-for-fcpx/"><u>Streamline Your Workflow How to Optimize Your Macs Storage for FCPX</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-sound-of-silence-expert-advice-on-noise-reduction-in-final-cut-pro-x/"><u>Updated 2024 Approved The Sound of Silence Expert Advice on Noise Reduction in Final Cut Pro X</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-list-of-video-editing-software-for-beginners/"><u>Updated 2024 Approved The Ultimate List of Video Editing Software for Beginners</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-discover-the-power-of-fcp-90-days-free-no-strings-attached-for-2024/"><u>Updated Discover the Power of FCP 90 Days Free, No Strings Attached for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-windows-users-rejoice-the-best-sony-vegas-alternatives-you-need-to-know/"><u>Updated In 2024, Windows Users Rejoice The Best Sony Vegas Alternatives You Need to Know</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-minitool-movie-maker-a-detailed-review-user-manual-and-alternative-solutions/"><u>Updated Minitool Movie Maker A Detailed Review, User Manual, and Alternative Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-top-4k-video-editing-solutions-for-professionals/"><u>Updated The Top 4K Video Editing Solutions for Professionals</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-free-video-editors-for-32-bit-windows-computers-for-2024/"><u>Updated Top Free Video Editors for 32-Bit Windows Computers for 2024</u></a></li>
 </ul></div>
 

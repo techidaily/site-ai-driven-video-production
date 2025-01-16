@@ -1,7 +1,7 @@
 ---
 title: New The Great DVR Debate TiVo vs Comcasts Features and Pricing
-date: 2025-01-04T04:03:20.524Z
-updated: 2025-01-10T02:52:37.059Z
+date: 2025-01-12T02:53:08.353Z
+updated: 2025-01-15T19:38:21.812Z
 tags: 
   - video editing software
   - video editing
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  The menus are slightly different, as you can see below.
 
 ![tivo comcast interface](https://images.wondershare.com/multimedia/tivo-comcast-interface.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Comcast interface
 
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. TiVo vs Comcast: Connection to a network
 
  TiVos can be connected to your home computer network, and the newest one, the Roamio, comes with built-in wifi, for total freedom of use. Because it’s on the network, you can stream shows from your computer through the TiVo box for later playback. It supports channels like Netflix, Hulu Plus, and Amazon Instant. You can also stream shows to your Apple portable devices and then take the shows with you on the plane or to the gym, or use the device as a remote control. (Android devices will have the same capacity soon.) The network capacity also means you can use your computer to control the TiVo box and view content wherever you are.
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  The iPhone app remote screen looks like this:
 
 ![iphone app](https://images.wondershare.com/multimedia/iphone-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A TiVo does have limitations of who can access which channels. For instance, it does not stream HBOGo, nor does it interface with Apple’s TV programming. For that you still need an AppleTV device.
 
@@ -88,19 +88,23 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
 
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
@@ -109,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  TiVo’s device remote has a sleek layout called the “peanut”.
 
 ![tivo remote](https://images.wondershare.com/multimedia/tivo-remote.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Summary**
 
@@ -145,20 +145,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-tips-for-efficient-screenshotting-with-zd-softwares-advanced-features/"><u>[New] 2024 Approved Expert Tips for Efficient Screenshotting with ZD Software's Advanced Features</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instantaneous-instagram-video-experience/"><u>[New] 2024 Approved Instantaneous Instagram Video Experience</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-learn-to-mute-igs-personalized-prompts/"><u>[Updated] 2024 Approved Learn to Mute IG's Personalized Prompts</u></a></li>
-<li><a href="https://win-online.techidaily.com/effortless-guide-transferring-and-storing-your-gmail-emails-onto-a-usb-drive/"><u>Effortless Guide: Transferring and Storing Your Gmail Emails Onto a USB Drive</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-cold-wars-stubborn-startup-lag-on-all-devices-a-step-by-step-guide-for-gamers/"><u>Fixing Cold War’s Stubborn Startup Lag on All Devices - A Step-by-Step Guide for Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-brother-mfc-7360n-driver-update-smooth-setup-on-windows-1087/"><u>Get the Newest Brother MFC-7360N Driver Update – Smooth Setup on Windows 10/8/7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-galaxy-a25-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Galaxy A25 5G.</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-tone-generation-made-simple-5-top-online-options/"><u>New In 2024, Tone Generation Made Simple 5 Top Online Options</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-installation-of-libreoffice-for-mac-users-seeking-free-office-software-solutions/"><u>Step-by-Step Installation of LibreOffice for Mac Users Seeking Free Office Software Solutions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-know-capcut-has-some-amazing-slow-motion-templates-you-can-utilize-read-this-article-to-access-the-slow-motion-capcut-templates-link./"><u>Updated In 2024, Do You Know CapCut Has some Amazing Slow-Motion Templates You Can Utilize? Read This Article to Access the Slow-Motion CapCut Templates Link</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-easily-blur-video-backgrounds-or-faces-with-these-top-apps/"><u>Updated In 2024, Easily Blur Video Backgrounds or Faces with These Top Apps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-expert-recommended-3d-video-creators-you-cant-miss/"><u>Updated In 2024, Expert-Recommended 3D Video Creators You Cant Miss</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-how-to-enable-audio-in-avidemux-quick-troubleshooting/"><u>Updated In 2024, How to Enable Audio in Avidemux Quick Troubleshooting</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-windows-10-video-editing-programs-for-beginners/"><u>Updated In 2024, Top Windows 10 Video Editing Programs for Beginners</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-quality-movie-maker-turn-everyday-video-clips-into-a-high-quality-movie-for-2024/"><u>Updated Quality Movie Maker Turn Everyday Video Clips Into a High Quality Movie for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-climbing-the-social-ladder-6-precise-methods-for-gaining-instagram-verification/"><u>[New] 2024 Approved Climbing the Social Ladder 6 Precise Methods for Gaining Instagram Verification</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-explore-the-world-of-photo-videos-your-pixiz-companion-for-2024/"><u>[Updated] Explore the World of Photo-Videos Your Pixiz Companion for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-easily-obtain-unique-epilogue-audio-files-online/"><u>[Updated] In 2024, Easily Obtain Unique Epilogue Audio Files Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-simplifying-electric-vehicle-charging-how-chargepoints-universal-connection-aims-to-resolve-charger-compatibility-issues/"><u>1. Simplifying Electric Vehicle Charging: How ChargePoint's Universal Connection Aims to Resolve Charger Compatibility Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-innovative-artists-guide-to-best-free-3d-psds/"><u>2024 Approved Innovative Artists' Guide to Best Free 3D PSDs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-through-premium-hdr-camera-options/"><u>2024 Approved Navigating Through Premium HDR Camera Options</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-x80131500-windows-store-breakdown/"><u>Correcting X80131500: Windows Store Breakdown</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/how-to-download-and-install-kinemaster-on-your-mac/"><u>How to Download and Install KineMaster on Your Mac</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-dailymotion-converter-download-and-convert-videos-in-seconds/"><u>In 2024, Free Dailymotion Converter Download and Convert Videos in Seconds</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-from-console-to-cloud-sharing-ps4-screenshots-on-social-media/"><u>In 2024, From Console to Cloud Sharing PS4 Screenshots on Social Media</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-get-started-with-video-editing-on-mac-os-x-yosemite-a-quick-start-guide/"><u>In 2024, Get Started with Video Editing on Mac OS X Yosemite A Quick Start Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-tecno-spark-10-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Spark 10 4G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mastering-fcp-5-essential-editing-tricks-to-elevate-your-workflow/"><u>In 2024, Mastering FCP 5 Essential Editing Tricks to Elevate Your Workflow</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-guide-to-vertical-video-editing-on-mobile-devices/"><u>In 2024, The Ultimate Guide to Vertical Video Editing on Mobile Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-10-neon-sign-makers-free-online-tools-for-custom-text/"><u>In 2024, Top 10 Neon Sign Makers Free Online Tools for Custom Text</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/make-stunning-videos-in-minutes-wevideo-online-editor/"><u>Make Stunning Videos in Minutes WeVideo Online Editor</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-no-downloads-needed-10-free-online-video-compressor-options/"><u>New 2024 Approved No Downloads Needed 10 Free Online Video Compressor Options</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-retrograde-your-footage-easy-vhs-effects-in-final-cut-pro/"><u>Updated In 2024, Retrograde Your Footage Easy VHS Effects in Final Cut Pro</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/vrij-van-kosten-converteren-van-ram-naar-mp4-formaat-online-met-movavi/"><u>Vrij Van Kosten! Converteren Van RAM Naar MP4-Formaat Online Met Movavi</u></a></li>
 </ul></div>
 
