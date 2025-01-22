@@ -1,7 +1,7 @@
 ---
 title: New The Great DVR Debate TiVo vs Comcasts Features and Pricing
-date: 2025-01-12T02:53:08.353Z
-updated: 2025-01-15T19:38:21.812Z
+date: 2025-01-14T21:27:25.098Z
+updated: 2025-01-22T02:20:37.579Z
 tags: 
   - video editing software
   - video editing
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  A TiVo is yours to keep as long as it lasts or as long as you want it, whichever comes first. It has an initial cost of between $200 and $600, depending on the model. Plus, you have the subscription cost on top of the unit price, which is $15 a month or $500 for a “lifetime” subscription, which TiVo may or may not give you partial credit for should your device fail and you need a new one. Like the Comcast DVRs, some TiVo boxes are less than stable. It’s the nature of electronics. TiVos also have advertising on them, which some Comcast channels do also, like MusicChoice, but not on all of them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. TiVo vs Comcast: Services available
 
  With a DVR from Comcast, you can only record shows that are broadcast on one of Comcast’s channels or play shows that are loaded into its On Demand section. A TiVo can be connected to a number of sources, including cable via a cable card, and allow you to combine all of your viewing sources into the one box. It even connects to a high definition antenna.
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  Down the road, Comcast is planning the X2 system which would have cloud recording capacity, thus ending the need for a box in your house at all. TiVo has not yet announced such a plan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. TiVo vs Comcast: Connection to a network
 
  TiVos can be connected to your home computer network, and the newest one, the Roamio, comes with built-in wifi, for total freedom of use. Because it’s on the network, you can stream shows from your computer through the TiVo box for later playback. It supports channels like Netflix, Hulu Plus, and Amazon Instant. You can also stream shows to your Apple portable devices and then take the shows with you on the plane or to the gym, or use the device as a remote control. (Android devices will have the same capacity soon.) The network capacity also means you can use your computer to control the TiVo box and view content wherever you are.
@@ -80,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  Comcast boxes simply do not network well. They are designed to broadcast the cable signals through your TV, but not on a home network. They are often easier to connect, however, just requiring a cable from the box to be plugged into the TV.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. TiVo vs Comcast: Recording capacity
 
  The new TiVo, the Roamio, has as many as six tuners that can record at the same time with up to 150 hours of high definition programming. You’ll never have another scheduling conflict again!
@@ -88,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  The Comcast X1 DVR has four tuners and it can record them simultaneously. You can watch a prerecorded program while it’s recording, too. It can hold 120 hours of HD or 600 hours of SD programming.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. TiVo vs Comcast: User interface
 
  The Comcast X1 DVR system has a voice-activated interface and a completely different look and layout than their standard system has.
@@ -99,12 +91,16 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 ![x1 remoteerer](https://images.wondershare.com/multimedia/x1-remoteerer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The basic Comcast remote is a multi-function remote and capable of controlling all functions, but it does not have the ability to connect to a portable device like a tablet or a smartphone to have connectivity that way like a TiVo can through an app. The remote has to be line of sight in order to work.
 
 ![comcast remotes](https://images.wondershare.com/multimedia/comcast-remotes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The TiVo device menu is in standard definition, so for those who have a high definition set up, you may find this a bit distraction or fuzzy. It does come with apps for extending what the box can do, including games for kids.
 
@@ -113,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 ![tivo menu](https://images.wondershare.com/multimedia/tivo-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the TiVo Roamio, connecting to a tablet allows you to be in another room and still operate the “remote” for the TiVo DVR. Download the app onto your device and you’re ready to go.
@@ -127,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
  What it all comes down to is looking at how you use your TV, where you get your sources from, and what your budget is. Each device has its own set of things that are appealing, and its own drawbacks. For flexibility of being able to use multiple sources and devices, the TiVo is the clear winner. For cost in the long run, it’s almost a draw. For ease of connection to a TV, the Comcast box comes out on top. No matter which one you pick, you’ll never run out of great programs to watch.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -145,24 +145,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-climbing-the-social-ladder-6-precise-methods-for-gaining-instagram-verification/"><u>[New] 2024 Approved Climbing the Social Ladder 6 Precise Methods for Gaining Instagram Verification</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-explore-the-world-of-photo-videos-your-pixiz-companion-for-2024/"><u>[Updated] Explore the World of Photo-Videos Your Pixiz Companion for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-easily-obtain-unique-epilogue-audio-files-online/"><u>[Updated] In 2024, Easily Obtain Unique Epilogue Audio Files Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-simplifying-electric-vehicle-charging-how-chargepoints-universal-connection-aims-to-resolve-charger-compatibility-issues/"><u>1. Simplifying Electric Vehicle Charging: How ChargePoint's Universal Connection Aims to Resolve Charger Compatibility Issues</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-innovative-artists-guide-to-best-free-3d-psds/"><u>2024 Approved Innovative Artists' Guide to Best Free 3D PSDs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-through-premium-hdr-camera-options/"><u>2024 Approved Navigating Through Premium HDR Camera Options</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-x80131500-windows-store-breakdown/"><u>Correcting X80131500: Windows Store Breakdown</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-download-and-install-kinemaster-on-your-mac/"><u>How to Download and Install KineMaster on Your Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-dailymotion-converter-download-and-convert-videos-in-seconds/"><u>In 2024, Free Dailymotion Converter Download and Convert Videos in Seconds</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-from-console-to-cloud-sharing-ps4-screenshots-on-social-media/"><u>In 2024, From Console to Cloud Sharing PS4 Screenshots on Social Media</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-get-started-with-video-editing-on-mac-os-x-yosemite-a-quick-start-guide/"><u>In 2024, Get Started with Video Editing on Mac OS X Yosemite A Quick Start Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-tecno-spark-10-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Spark 10 4G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mastering-fcp-5-essential-editing-tricks-to-elevate-your-workflow/"><u>In 2024, Mastering FCP 5 Essential Editing Tricks to Elevate Your Workflow</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-guide-to-vertical-video-editing-on-mobile-devices/"><u>In 2024, The Ultimate Guide to Vertical Video Editing on Mobile Devices</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-10-neon-sign-makers-free-online-tools-for-custom-text/"><u>In 2024, Top 10 Neon Sign Makers Free Online Tools for Custom Text</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/make-stunning-videos-in-minutes-wevideo-online-editor/"><u>Make Stunning Videos in Minutes WeVideo Online Editor</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-no-downloads-needed-10-free-online-video-compressor-options/"><u>New 2024 Approved No Downloads Needed 10 Free Online Video Compressor Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-retrograde-your-footage-easy-vhs-effects-in-final-cut-pro/"><u>Updated In 2024, Retrograde Your Footage Easy VHS Effects in Final Cut Pro</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/vrij-van-kosten-converteren-van-ram-naar-mp4-formaat-online-met-movavi/"><u>Vrij Van Kosten! Converteren Van RAM Naar MP4-Formaat Online Met Movavi</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-online-sources-for-3d-glitter-text-designs/"><u>[New] 2024 Approved Top Online Sources for 3D Glitter Text Designs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-ensuring-visual-presentation-youtube-shorts-thumbnails-fix/"><u>[Updated] 2024 Approved Ensuring Visual Presentation YouTube Shorts Thumbnails Fix</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fashion-meets-makeup-brilliance/"><u>[Updated] Fashion Meets Makeup Brilliance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-guide-to-professional-streaming-on-fb/"><u>[Updated] The Ultimate Guide to Professional Streaming on FB</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-sci-fi-virtual-horizons-a-selection-of-epic-movies-in-the-metaverse-realm/"><u>2024 Approved Sci-Fi Virtual Horizons A Selection of Epic Movies in the Metaverse Realm</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-v-purse-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor V Purse Unlock Without Password</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-lego-stop-motion-makers/"><u>In 2024, Best Lego Stop Motion Makers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-create-a-viral-hit-10-best-music-video-producers/"><u>In 2024, Create a Viral Hit 10 Best Music Video Producers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-creme-de-la-creme-of-4k-unforgettable-video-clips/"><u>In 2024, The Crème De La Crème of 4K Unforgettable Video Clips</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-lumafusion-on-mac-os-a-complete-installation-and-alternative-guide/"><u>New 2024 Approved Lumafusion on Mac OS A Complete Installation and Alternative Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-ps4-screen-capture-and-share-a-beginners-guide/"><u>New 2024 Approved PS4 Screen Capture and Share A Beginners Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/swift-and-smooth-your-ultimate-guide-to-iphone-podcast-downloading/"><u>Swift & Smooth Your Ultimate Guide to iPhone Podcast Downloading</u></a></li>
 </ul></div>
 

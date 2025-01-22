@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2025-01-09T16:42:48.707Z
-updated: 2025-01-16T00:25:51.519Z
+date: 2025-01-15T05:05:54.955Z
+updated: 2025-01-21T23:19:26.862Z
 tags: 
   - video editing software
   - video editing
@@ -52,12 +52,16 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
@@ -65,16 +69,12 @@ You should remember that the fades appear at the beginning and the end of each c
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -93,7 +93,7 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -116,7 +116,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,21 +134,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-stories-harmonizing-photos-for-maximum-impact/"><u>[New] In 2024, Instagram Stories Harmonizing Photos for Maximum Impact</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unified-streaming-techniques-for-youtube-and-top-networks/"><u>[New] In 2024, Unified Streaming Techniques for YouTube & Top Networks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-peephole-to-private-facebook-worlds/"><u>[Updated] 2024 Approved Peephole to Private Facebook Worlds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-your-brand-with-brilliant-educational-videos-a-guide-to-youtube-excellence/"><u>[Updated] In 2024, Building Your Brand with Brilliant Educational Videos A Guide to YouTube Excellence</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/enable-your-pcs-built-in-security-the-ultimate-tutorial-for-windows-defender-by-yl-software/"><u>Enable Your PC's Built-In Security: The Ultimate Tutorial for Windows Defender by YL Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/free-filmora-download-avoid-viruses-and-scams-with-our-tips/"><u>Free Filmora Download Avoid Viruses and Scams with Our Tips</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-elevate-your-videos-a-beginners-guide-to-using-ken-burns-effect-in-final-cut-pro/"><u>In 2024, Elevate Your Videos A Beginners Guide to Using Ken Burns Effect in Final Cut Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-tecno-pop-8-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Tecno Pop 8? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-quik-but-not-limited-a-review-of-gopros-video-editor-and-pc-based-options/"><u>In 2024, Quik, But Not Limited A Review of GoPros Video Editor and PC-Based Options</u></a></li>
-<li><a href="https://some-tips.techidaily.com/major-security-incident-australia-shop-owner-suffers-data-leak-via-vendor-hacking-zdnet/"><u>Major Security Incident: Australia Shop Owner Suffers Data Leak via Vendor Hacking - ZDNet</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-accelerate-video-playback-in-quicktime-a-step-by-step-guide/"><u>New 2024 Approved Accelerate Video Playback in QuickTime A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-expert-approved-ipad-video-editors-top-5-for/"><u>New 2024 Approved Expert-Approved iPad Video Editors Top 5 For</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-guide-to-mp4-tag-editors-for-windows-and-mac/"><u>New 2024 Approved The Ultimate Guide to MP4 Tag Editors for Windows and Mac</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-rated-free-video-editing-apps-with-effects-for-mobile/"><u>New 2024 Approved Top-Rated Free Video Editing Apps with Effects for Mobile</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-call-of-duty-wwiis-windows-black-screen-fault-expert-solutions-unlocked/"><u>Overcoming Call of Duty WWII's Windows Black Screen Fault - Expert Solutions Unlocked</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-iphone-video-rotation-software/"><u>Updated Discover the Best Free iPhone Video Rotation Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-investment-alert-avoid-the-trap-of-artificial-youtube-engagement/"><u>[New] Investment Alert Avoid the Trap of Artificial YouTube Engagement</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/outube-shorts-monetization-how-to-make-money-on-youtube-shorts/"><u>[New] YouTube Shorts Monetization How to Make Money on YouTube Shorts?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-pcs-ultimate-selection-of-ps3-emulation-tools/"><u>[Updated] PC's Ultimate Selection of PS3 Emulation Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-harnessing-the-full-potential-of-windows-11s-auto-hdr-feature/"><u>2024 Approved Harnessing the Full Potential of Windows 11'S Auto HDR Feature</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/competitor-cameras-rising-the-ultimate-guide-to-substitutes-for-samsungs-gear-360/"><u>Competitor Cameras Rising The Ultimate Guide to Substitutes for Samsung's Gear 360</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/engage-inspire-convert-strategizing-for-impactful-instavideo-content/"><u>Engage, Inspire, Convert Strategizing for Impactful InstaVideo Content</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/from-smartphone-to-stardom-best-vertical-video-editing-apps-for-2024/"><u>From Smartphone to Stardom Best Vertical Video Editing Apps for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/how-to-import-and-export-videos-in-adobe-premiere-for-2024/"><u>How to Import and Export Videos in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-compression-mastery-how-to-get-the-most-out-of-compressor-in-fcpx/"><u>In 2024, Compression Mastery How to Get the Most Out of Compressor in FCPX</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-free-online-video-production-tools/"><u>In 2024, Top-Rated Free Online Video Production Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-professional-development-courses-on-linkedin/"><u>Leading Professional Development Courses on LinkedIn</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/maximize-your-online-presence-10-best-free-video-hosting-sites/"><u>Maximize Your Online Presence 10 Best Free Video Hosting Sites</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-convert-webm-to-mp3-best-tools-for-the-job/"><u>New 2024 Approved Convert WebM to MP3 Best Tools for the Job</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-the-heart-tips-and-tricks-for-making-a-meaningful-valentines-day-video/"><u>New 2024 Approved From the Heart Tips and Tricks for Making a Meaningful Valentines Day Video</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-revamp-your-footage-top-rated-free-online-video-enhancers/"><u>New 2024 Approved Revamp Your Footage Top-Rated Free Online Video Enhancers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/optimize-your-media-output-with-our-top-10-online-subtitles-tools/"><u>Optimize Your Media Output With Our Top 10 Online Subtitles Tools</u></a></li>
 </ul></div>
 

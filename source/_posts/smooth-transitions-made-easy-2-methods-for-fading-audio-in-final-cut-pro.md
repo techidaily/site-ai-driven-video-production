@@ -1,7 +1,7 @@
 ---
 title: Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro
-date: 2025-01-14T20:31:08.974Z
-updated: 2025-01-15T22:27:52.294Z
+date: 2025-01-19T20:06:16.632Z
+updated: 2025-01-21T23:53:50.141Z
 tags: 
   - video editing software
   - video editing
@@ -44,6 +44,10 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -52,20 +56,20 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
@@ -73,7 +77,7 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
@@ -98,10 +102,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
 * +3dB: Picks up quickly and then gradually peters out toward the end. This is the considered to be the most useful mode while choosing a quick fade.
@@ -116,7 +116,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,24 +134,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-cheats.techidaily.com/comment-supprimer-completement-un-disque-dur-pour-le-reutiliser-2-approches-efficaces/"><u>« Comment Supprimer Complètement Un Disque Dur Pour Le Réutiliser : 2 Approches Efficaces »</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-breaking-down-the-selfie-security-on-insta/"><u>[New] In 2024, Breaking Down the Selfie Security on Insta</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-skype-the-top-10-audio-capture-tools/"><u>[New] In 2024, Skype The Top 10 Audio Capture Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-converging-music-and-imagery-online/"><u>2024 Approved Converging Music and Imagery Online</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/acquiring-large-format-fb-videos-effortlessly/"><u>Acquiring Large-Format FB Videos Effortlessly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-itel-a05s-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Itel A05s.</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-compression-crash-course-from-basics-to-advanced/"><u>FCPX Compression Crash Course From Basics to Advanced</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/free-webm-video-editing-software-top-picks/"><u>Free WebM Video Editing Software Top Picks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-compress-videos-for-free-10-best-online-tools-with-no-downloads/"><u>In 2024, Compress Videos for Free 10 Best Online Tools with No Downloads</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-edit-on-the-fly-10-free-video-speed-changing-apps-for-mobile-devices/"><u>In 2024, Edit on the Fly 10 Free Video Speed Changing Apps for Mobile Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-innovation-at-its-peak-8-leaders-in-photogridding/"><u>In 2024, Image Innovation at Its Peak 8 Leaders in Photogridding</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-installing-videoleap-on-macbook-a-step-by-step-guide/"><u>In 2024, Installing Videoleap on MacBook A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-s-hottest-4k8k-video-editing-tools-a-comprehensive-guide/"><u>In 2024, S Hottest 4K/8K Video Editing Tools A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-fast/"><u>In 2024, Times Running Out! Learn to Add a Countdown Timer in FCPX Fast</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-we-have-listed-the-top-10-free-final-cut-pro-x-plugins-with-their-respective-uses-also-you-can-check-a-quick-step-by-step-guide-to-install-such-plug/"><u>In 2024, We Have Listed the Top 10 Free Final Cut Pro X Plugins with Their Respective Uses. Also, You Can Check a Quick Step-by-Step Guide to Install Such Plugins</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-cropping-images-in-final-cut-pro-x-a-comprehensive-guide/"><u>New 2024 Approved Cropping Images in Final Cut Pro X A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-launch-failures-effective-solutions-for-minecraft-on-windows-systems/"><u>Overcoming Launch Failures: Effective Solutions for Minecraft on Windows Systems</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-youtube-link-shortener-you-must-try-for-2024/"><u>Top 5 YouTube Link Shortener You Must Try for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/user-frustration-mounts-as-ios-18-update-leaves-others-behind-a-shared-ordeal/"><u>User Frustration Mounts as iOS 18 Update Leaves Others Behind - A Shared Ordeal</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-achieve-stardom-in-the-digital-world-by-growing-your-facebook-followers/"><u>[New] 2024 Approved Achieve Stardom in the Digital World by Growing Your Facebook Followers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-ultimate-guide-to-altering-video-speed-in-stories/"><u>[New] In 2024, The Ultimate Guide to Altering Video Speed in Stories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-social-networks-the-pathway-to-a-facebook-profile-for-2024/"><u>[Updated] Unlocking Social Networks The Pathway to a Facebook Profile for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-crafting-a-unique-identity-step-by-step-audio-customizations-on-android-phones/"><u>2024 Approved Crafting a Unique Identity Step-by-Step Audio Customizations on Android Phones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725288789441-dvd-4/"><u>DVD・動画・音声ファイル再生方法集:全面カバレッジガイド - 第4ページ範囲内</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebooks-ultimate-guide-selective-downloader-addons-and-extensions-for-firefox-for-2024/"><u>Facebook's Ultimate Guide Selective Downloader Addons & Extensions for Firefox for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-making-a-movie-simplified-for-2024/"><u>New The Ultimate Guide to Making a Movie Simplified for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-dota-2s-frame-rate-drop-problems-across-windows-11-and-10-devices/"><u>Resolving Dota 2'S Frame Rate Drop Problems Across Windows 11 and 10 Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-4k-video-editing-top-software-for-creators-for-2024/"><u>The Ultimate Guide to 4K Video Editing Top Software for Creators for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-converters-turn-videos-into-live-photos-with-ease/"><u>Top Converters Turn Videos Into Live Photos with Ease</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-effortless-video-editing-on-mac-os-x-mavericks-tutorial/"><u>Updated Effortless Video Editing on Mac OS X Mavericks Tutorial</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-premiere-pro-or-vegas-pro-which-video-editor-reigns-supreme/"><u>Updated In 2024, Premiere Pro or Vegas Pro Which Video Editor Reigns Supreme ?</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo S18e | Dr.fone</u></a></li>
 </ul></div>
 
