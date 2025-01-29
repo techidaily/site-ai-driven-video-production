@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Freeze, Rewind, Repeat FCPX Time Manipulation Mastery
-date: 2025-01-18T22:06:27.881Z
-updated: 2025-01-22T07:09:04.836Z
+date: 2025-01-24T16:24:22.507Z
+updated: 2025-01-29T17:47:14.082Z
 tags: 
   - video editing software
   - video editing
@@ -30,10 +30,6 @@ This article shows you how to do this using Final Cut Pro X.
 
 For more tutorials on slow-motion please refer to this article: [Top 10 Slow Motion Video Editing Software.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Freeze-Frames and Slow Motion in Final Cut Pro X
 
 #### 1\.  STILL FRAMES
@@ -50,13 +46,13 @@ This creates a two-second freeze-frame at the position of the playhead.
 
 ![create freeze frame](https://images.wondershare.com/multimedia/speed003.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Adjust the duration of the frame by trimming the edge; just like any other clip. Here, for example, I'm making the duration of the freeze-frame 11 frames shorter.
 
 ![freeze frames in FCP X](https://images.wondershare.com/multimedia/speed004.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In case you were wondering, this is what the freeze looks like. It freezes the flight of the hummingbird in the middle of playback, allowing us to add graphics or other text then resume the action as though nothing had happened.
 
@@ -94,12 +90,16 @@ This displays the orange Retime editor bar above the clip, with a small red port
 
 ![create hold frames](https://images.wondershare.com/multimedia/speed015.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
@@ -107,7 +107,7 @@ Add a speed ramp transition at the end of the Hold frame by clicking the downwar
 ![speed018](https://images.wondershare.com/multimedia/speed018.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To change the actual frame being held, double-click the bar icon to the LEFT of the red Hold section and choose Source Frame (Edit). This allows you to slide the Hold frame selection left or right.
@@ -138,6 +138,10 @@ Three things happen at once:
 
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
 There are two ways to change the speed of a clip.
@@ -149,10 +153,6 @@ The easy way is to grab the small handle at the end of the clip and drag left or
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This opens a new dialog allowing a number of changes:
 
@@ -168,10 +168,6 @@ You will get the smoothest speed changes when the percentage you choose divides 
 There is one more setting to consider when slowing a clip. (This does not apply when creating fast motion.)
 
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
 
@@ -190,7 +186,7 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -200,6 +196,10 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -216,18 +216,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-a-detailed-guide-to-crop-your-video-for-instagram/"><u>2024 Approved A Detailed Guide to Crop Your Video for Instagram</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/adopt-a-new-mindset-integrate-chatgpt-into-your-meditation-habit-formation-plan/"><u>Adopt a New Mindset: Integrate ChatGPT Into Your Meditation Habit Formation Plan</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-video-game-top-4k8k-video-editing-solutions/"><u>Elevate Your Video Game Top 4K/8K Video Editing Solutions</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/free-dailymotion-to-mp4-converter-fast-and-easy/"><u>Free Dailymotion to MP4 Converter - Fast and Easy</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-5-best-online-video-trailer-makers/"><u>In 2024, 5 Best Online Video Trailer Makers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-htc-vive-unveiled-mastering-your-3d-world/"><u>In 2024, HTC Vive Unveiled Mastering Your 3D World</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-guide-to-rapid-video-trimming-on-mac-updated-2023/"><u>In 2024, The Ultimate Guide to Rapid Video Trimming on Mac (Updated 2023)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-indoor-brightness-sunlight-strategies-inside-for-2024/"><u>Mastering Indoor Brightness Sunlight Strategies Inside for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-cutting-3gp-files-heres-a-simple-and-fast-solution/"><u>New 2024 Approved Cutting 3GP Files? Heres a Simple and Fast Solution</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-rated-4k-video-conversion-software-2023-edition/"><u>New 2024 Approved Top-Rated 4K Video Conversion Software 2023 Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-linux-notebooks-comprehensive-testing-and-in-depth-analysis-by-tech-experts/"><u>Top-Rated Linux Notebooks : Comprehensive Testing & In-Depth Analysis by Tech Experts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ultimate-ringtone-collection-top-download-locales/"><u>Ultimate Ringtone Collection Top Download Locales</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-securing-memories-a-comprehensive-guide-for-scanning-and-storing-vintage-photos/"><u>[Updated] Securing Memories A Comprehensive Guide for Scanning and Storing Vintage Photos</u></a></li>
+<li><a href="https://win-guides.techidaily.com/easy-tutorial-how-to-install-and-operate-the-amazon-s3-browser-on-windows-systems/"><u>Easy Tutorial: How to Install and Operate the Amazon S3 Browser on Windows Systems</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/elevating-your-macs-tiktok-opener-quality/"><u>Elevating Your Mac's TikTok Opener Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-consolidate-multiple-jpeg-pictures-into-one-pdf-document/"><u>How to Consolidate Multiple JPEG Pictures Into One PDF Document</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/lift-run-dance-select-the-most-motivating-exercise-tracks/"><u>Lift, Run, Dance - Select the Most Motivating Exercise Tracks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-complete-guide-to-video-editing-with-windows-movie-maker/"><u>New In 2024, The Complete Guide to Video Editing with Windows Movie Maker</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-two-screens-one-goal-the-best-split-screen-video-apps-for-ios-and-android-users/"><u>New In 2024, Two Screens, One Goal The Best Split-Screen Video Apps for iOS and Android Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-of-the-best-top-ipad-video-editing-software/"><u>New The Best of the Best Top iPad Video Editing Software</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-universal-watcher-exclusive-local-and-live-streaming/"><u>The Universal Watcher Exclusive Local and Live Streaming</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/tiktok-video-reversal-made-easy-a-beginners-guide-2023-edition/"><u>TikTok Video Reversal Made Easy A Beginners Guide 2023 Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-8-drawing-apps-for-ipados/"><u>Top 8 Drawing Apps for iPadOS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trusted-results-with-movavi-premier-multimedia-editing-tools/"><u>Trusted Results with Movavi – Premier Multimedia Editing Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-dual-view-video-recording-top-apps-for-iphone-and-android-for-2024/"><u>Updated Dual-View Video Recording Top Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-elevate-your-visuals-creating-a-cinematic-look-with-fcpx/"><u>Updated Elevate Your Visuals Creating a Cinematic Look with FCPX</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-from-import-to-export-video-editing-on-mac-os-x-yosemite-explained/"><u>Updated From Import to Export Video Editing on Mac OS X Yosemite Explained</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-10-free-video-compression-software-for-windows-10-users/"><u>Updated Top 10 Free Video Compression Software for Windows 10 Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-uncover-the-best-green-screen-software-for-mac-video-editing/"><u>Updated Uncover the Best Green Screen Software for Mac Video Editing</u></a></li>
 </ul></div>
 
