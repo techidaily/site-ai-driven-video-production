@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Audio Fade-In/Fade-Out Secrets Unleash the Power of Final Cut Pro
-date: 2025-01-27T16:50:07.607Z
-updated: 2025-01-29T17:39:24.406Z
+date: 2025-02-06T01:25:03.299Z
+updated: 2025-02-09T19:01:35.260Z
 tags: 
   - video editing software
   - video editing
@@ -44,10 +44,6 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
@@ -56,21 +52,33 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -89,7 +97,7 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -97,10 +105,6 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -114,10 +118,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,19 +134,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/2024-approved-discover-the-power-of-4k-with-asus-mg28uq-monitor-review/"><u>2024 Approved Discover the Power of 4K with ASUS MG28UQ Monitor Review</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-faulty-window-graphics-linkage/"><u>Corrected Faulty Window Graphics Linkage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-does-downloading-windows-vary-between-online-and-offline/"><u>How Does Downloading Windows Vary Between Online & Offline?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-connect-a-docking-station-to-thinkpads-type-c-interface/"><u>How to Connect a Docking Station to ThinkPad's Type-C Interface</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-vivo-y36i-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y36i Phone that is Locked?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-vs-2-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic Vs 2 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-fcpx-audio-editing-how-to-minimize-background-noise-for-crisp-sound/"><u>New In 2024, FCPX Audio Editing How to Minimize Background Noise for Crisp Sound</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-stop-time-in-its-tracks-how-to-freeze-frame-in-videos-easily/"><u>New In 2024, Stop Time in Its Tracks How to Freeze Frame in Videos Easily</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-subtitle-editing-made-easy-top-subtitle-edit-alternatives/"><u>New Mac Subtitle Editing Made Easy Top Subtitle Edit Alternatives</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-mac-video-editing-install-lumafusion-or-try-these-other-options/"><u>Updated 2024 Approved Mac Video Editing Install Lumafusion or Try These Other Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-s-best-face-swap-apps-for-iphone-and-android/"><u>Updated 2024 Approved S Best Face Swap Apps for iPhone and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-transition-like-a-pro-top-10-premiere-pro-plugin-essentials/"><u>Updated In 2024, Transition Like a Pro Top 10 Premiere Pro Plugin Essentials</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/who-are-the-worlds-most-popular-youtube-channels/"><u>Who Are the World's Most Popular YouTube Channels?</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-new-release-of-robust-enduring-linux-kernel-for-extended-lifetime-support/"><u>ZDNet Exclusive: New Release of Robust, Enduring Linux Kernel for Extended Lifetime Support</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-address-identity-discreprancy-on-facebook-platform/"><u>[New] 2024 Approved Address Identity Discreprancy on Facebook Platform</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-s17e-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/effortless-video-editing-how-to-add-effects-in-fcp-x-3-simple-steps/"><u>Effortless Video Editing How to Add Effects in FCP X (3 Simple Steps)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/exploring-advanced-whatsapp-techniques-for-efficiency-for-2024/"><u>Exploring Advanced WhatsApp Techniques for Efficiency for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-clear-up-cloudy-captures-uncover-the-best-10-web-enhancers-ranked/"><u>In 2024, Clear Up Cloudy Captures Uncover the Best 10 Web Enhancers Ranked</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-y100t-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo Y100t Phones</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unlock-the-power-of-dvd-creation-a-beginners-guide-to-movie-making-software/"><u>In 2024, Unlock the Power of DVD Creation A Beginners Guide to Movie Making Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mts-video-editing-software-5-top-rated-options/"><u>MTS Video Editing Software 5 Top-Rated Options</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-live-action-to-toon-town-how-to-turn-videos-into-cartoons/"><u>New 2024 Approved From Live-Action to Toon Town How to Turn Videos Into Cartoons</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-steps-for-continuous-startup-failure-in-server-2012-presenting-blue-screen-choice-prompt/"><u>Troubleshooting Steps for Continuous Startup Failure in Server 2012 Presenting Blue Screen Choice Prompt</u></a></li>
 </ul></div>
 

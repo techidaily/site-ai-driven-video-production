@@ -1,7 +1,7 @@
 ---
 title: Unlock Cinematic Storytelling Using Ken Burns Effect in Final Cut Pro for 2024
-date: 2025-01-20T06:23:00.676Z
-updated: 2025-01-21T17:08:45.163Z
+date: 2025-02-03T16:12:47.663Z
+updated: 2025-02-09T23:44:55.366Z
 tags: 
   - video editing software
   - video editing
@@ -30,7 +30,7 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 * [**Part 2: How to Zoom in Final Cut Pro Using Keyframing**](#Zoom-in-Final-Cut-Pro-Keyframing)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Make Ken Burns Effect Final Cut Pro
@@ -38,6 +38,10 @@ Those new to the Final Cut Pro or Pro X programs will be finding it a little cha
 To make a Ken Burns Effect, Final Cut Pro X (or a Ken Burns Effect on Final Cut, since they are both extensions of one another) simply follow our guide.
 
 First, let’s talk about what Ken Burns is and why he has an effect named after him in Final Cut programs!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is the Ken Burns Effect
 
@@ -55,19 +59,11 @@ Now that we know what is Ken Burns Effect. Let’s go over the steps to making t
 
 ![import media](https://images.wondershare.com/filmora/filmorapro/import-media-final-cut-pro.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2** – Enter into the viewer mode to do this. From here, select the pop-up menu from the list of options at the bottom of the screen.
 
 **Step 3** – Hold down both the shift key and the letter C. This is the fast way to cut out what you need. You can always stick to the right-click to cut a clip if you are more comfortable with this.
 
 **Step 4** – scroll down until you find the Ken Burns Effect option in the control panel. The effect should now appear on your page, in the area you selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Ken Burns Customization
 
@@ -79,12 +75,16 @@ You can also customize the ken burns effects in Final Cut.
 
 ![customize ken burns effects](https://images.wondershare.com/filmora/filmorapro/customize-ken-burns-effects-box.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3** – Checking what you have already put in place using the preview option is a good idea at this stage. You can edit mistakes out later, but when you are trying to edit for speed, it is best to get it right the first time around!
 
 **Step 4** – Adjust the viewer to accommodate any changes you need to make – don’t click the done button until you are sure. That being said, you can always back-step should you mis-click. You can also just start over with the effect customization if you messed up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom in Final Cut Pro Using Keyframing
@@ -108,7 +108,7 @@ You can use keyframing to zoom and pan. We will talk you through how you use it 
 **As a Pro Tip**: you will be baled to view all keyframes on your clip if you select show video animation from your timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Ken Burns Conclusion
@@ -134,18 +134,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>[New] 2024 Approved From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-free-video-capture-test-apowersoft-and-more/"><u>[Updated] 2024 Approved Free Video Capture Test Apowersoft & More</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dell-pc-cleanup-procedures-a-comprehensive-tutorial/"><u>Dell PC Cleanup Procedures: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-great.techidaily.com/fehler-wiederherstellungspunkt-kann-nicht-erstellt-werden-top-3-losungsmoglichkeiten/"><u>Fehler: Wiederherstellungspunkt Kann Nicht Erstellt Werden – Top-3 Lösungsmöglichkeiten</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://discover-data.techidaily.com/guide-complet-comment-recuperer-les-photos-supprimees-de-votre-appareil-canon/"><u>Guide Complet : Comment Récupérer Les Photos Supprimées De Votre Appareil Canon</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-essential-10-fcp-plugin-tools/"><u>In 2024, Essential 10 FCP Plugin Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-final-cut-pro-tutorial-adding-emotional-depth-with-ken-burns-effect/"><u>New In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-premiere-rush-not-your-cup-of-tea-try-these-4-alternatives/"><u>New Premiere Rush Not Your Cup of Tea? Try These 4 Alternatives</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-of-free-mkv-cutters/"><u>New The Ultimate List of Free MKV Cutters</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-10-best-free-avi-concatenators-for-seamless-video-editing-for-2024/"><u>The 10 Best Free AVI Concatenators for Seamless Video Editing for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-engaging-videos-online-with-wevideo-for-2024/"><u>Updated Create Engaging Videos Online with WeVideo for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-there-are-two-different-ways-to-install-linux-on-a-chromebook-you-can-either-do-it-using-gallium-os-or-chrubuntu-or-in-a-chroot-environment-using-cr/"><u>Updated There Are Two Different Ways to Install Linux on a Chromebook, You Can Either Do It Using Gallium OS or ChrUbuntu or in a Chroot Environment Using Crouton. Lets Check How</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-fbx-capturing-games-live/"><u>[New] In 2024, Mastering FBX Capturing Games Live</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-steps-create-bootable-usb-with-windows-1011-clone/"><u>Easy Steps: Create Bootable USB with Windows 10/11 Clone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-on-launching-call-of-duty-black-ops-4-successfully-after-initial-failure/"><u>Expert Tips on Launching Call of Duty: Black Ops 4 Successfully After Initial Failure</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-first-home-frontier-top-6-beginner-friendly-mc-abodes/"><u>In 2024, First Home Frontier Top 6 Beginner-Friendly MC Abodes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-finding-solid-video-editing-software-can-be-hard-thankfully-we-have-produced-a-top-five-list-of-the-best-free-mp4-video-editing-toolscheck-now.m/"><u>New In 2024, Finding Solid Video Editing Software Can Be Hard. Thankfully, We Have Produced a Top Five List of the Best Free MP4 Video Editing tools.Check Now</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-time-lapse-made-easy-2-simple-methods-to-speed-up-your-videos/"><u>New In 2024, Time Lapse Made Easy 2 Simple Methods to Speed Up Your Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/online-network-strives-for-authenticity-with-new-fb-penalties/"><u>Online Network Strives for Authenticity with New FB Penalties</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-your-ps5-environment/"><u>Tailoring Your PS5 Environment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-vivas-video-experience-for-2024/"><u>Understanding Viva's Video Experience for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-security-camera-solutions-top-picks-and-reviews-for-2024/"><u>Updated Free Security Camera Solutions Top Picks and Reviews for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-gif-speed-controller-best-online-and-mobile-solutions-for-2024/"><u>Updated GIF Speed Controller Best Online and Mobile Solutions for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-elevate-your-videos-top-free-special-effects-apps-for-mobile-video-editing/"><u>Updated In 2024, Elevate Your Videos Top Free Special Effects Apps for Mobile Video Editing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-of-4k-proxy-video-editing-software-for-2024/"><u>Updated The Ultimate List of 4K Proxy Video Editing Software for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-top-free-online-video-merging-software/"><u>Updated The Ultimate List Top Free Online Video Merging Software</u></a></li>
 </ul></div>
 

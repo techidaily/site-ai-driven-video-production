@@ -1,7 +1,7 @@
 ---
 title: New Mac Video Editing Made Easy Yosemite Edition
-date: 2025-01-20T03:37:14.051Z
-updated: 2025-01-21T16:38:10.364Z
+date: 2025-02-07T02:27:01.736Z
+updated: 2025-02-09T16:53:44.363Z
 tags: 
   - video editing software
   - video editing
@@ -30,10 +30,6 @@ Although Apple’s new operating system - Mac OS X 10.10 Yosemite will bring new
 
 Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite – Wondershare [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is recommended. It supports almost all the popular video formats including AVI, WMV, MP4, FLV, MKV, MOV, 3GP, etc. With it, you can put together your video clips or split to segments to get creative and customized brand new videos. Here is a detailed guide on how to create videos on Yosemite with this smart video editor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1. Import media files to edit
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
@@ -41,7 +37,7 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
@@ -53,6 +49,10 @@ When all the media files have been imported to the software, drag and drop them 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Edit and enhance audio**
 
@@ -67,7 +67,7 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
@@ -76,17 +76,17 @@ After you preview the effect, just click the “Export” button to export the v
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -103,20 +103,15 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-loop-a-youtube-video-the-ultimate-guide/"><u>[New] In 2024, How to Loop a YouTube Video The Ultimate Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>[New] Streamline Your Podcasts Effective Editing Tips for GarageBand Users</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unleash-your-creativity-the-best-10-igtv-techniques-to-skyrocket-your-brand-for-2024/"><u>[New] Unleash Your Creativity The Best 10 IGTV Techniques to Skyrocket Your Brand for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-mirrorless-mastery-with-best-gimbals-selection/"><u>[Updated] Mirrorless Mastery with Best Gimbals Selection</u></a></li>
-<li><a href="https://fox-links.techidaily.com/best-10-free-jpg-to-gif-conversion-tools/"><u>Best 10 Free JPG to GIF Conversion Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-eliminate-the-windows-11-red-screen-error-effectively/"><u>How to Repair and Eliminate the Windows 11 Red Screen Error Effectively</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-s-hottest-explainer-video-creation-software-reviews-and-comparisons/"><u>New S Hottest Explainer Video Creation Software Reviews and Comparisons</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-smooth-transitions-mastering-l-cuts-and-j-cuts-in-final-cut-pro-x/"><u>New Smooth Transitions Mastering L-Cuts and J-Cuts in Final Cut Pro X</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/top-mp4-metadata-editors-for-pc-and-mac-for-2024/"><u>Top MP4 Metadata Editors for PC and Mac for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-jaycut-for-beginners-learn-how-to-edit-videos-online-for-free/"><u>Updated In 2024, Jaycut for Beginners Learn How to Edit Videos Online for Free</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-fcpx-plugin-troubleshooting-checklist-updated-2023/"><u>Updated The Ultimate FCPX Plugin Troubleshooting Checklist (Updated 2023)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlocking-the-potential-of-your-sony-camcorder-video-editing-essentials-for-2024/"><u>Updated Unlocking the Potential of Your Sony Camcorder Video Editing Essentials for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-mastery-essential-tech-to-enhance-your-streams-for-2024/"><u>YouTube Mastery Essential Tech to Enhance Your Streams for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elevate-your-vimeo-media-with-well-defined-chapters/"><u>[Updated] Elevate Your Vimeo Media with Well-Defined Chapters</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-mg2900-up-to-date-with-fresh-printer-drivers-here/"><u>Get Your Canon MG2900 Up to Date with Fresh Printer Drivers Here!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-m14-4g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy M14 4G PC | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mastering-voice-over-in-final-cut-pro-quick-start-guide-for-2024/"><u>New Mastering Voice Over in Final Cut Pro Quick Start Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-windows-10-power-and-sleep-options-a-comprehensive-guide/"><u>Understanding the Windows 10 Power & Sleep Options: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-the-audio-best-mp4-to-mp3-converters-for-music-lovers/"><u>Updated 2024 Approved Unleash the Audio Best MP4 to MP3 Converters for Music Lovers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-windows-10-webcam-recording-made-easy-top-10-software-picks/"><u>Updated 2024 Approved Windows 10 Webcam Recording Made Easy Top 10 Software Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-guide-to-online-animation-software-top-10-picks/"><u>Updated In 2024, The Ultimate Guide to Online Animation Software Top 10 Picks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
 </ul></div>
 

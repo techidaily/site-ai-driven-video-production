@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques
-date: 2025-01-27T19:56:38.789Z
-updated: 2025-01-29T18:36:49.118Z
+date: 2025-02-08T19:30:03.169Z
+updated: 2025-02-09T21:05:40.925Z
 tags: 
   - video editing software
   - video editing
@@ -53,28 +53,28 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
 
 See more details on how to fade audio in Final Cut Pro from the following video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Music by using Fade Handles
 
@@ -93,7 +93,7 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tips: How to change fade shapes while using the fade handle
@@ -116,7 +116,7 @@ You can easily change the sound of your fades by modifying the default fade shap
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -134,24 +134,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-syncing-songs-with-stories-and-videos-on-instagram/"><u>[New] Syncing Songs with Stories and Videos on Instagram</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boosting-sales-through-effective-strategies-for-channel-trailer-creation/"><u>[Updated] 2024 Approved Boosting Sales Through Effective Strategies for Channel Trailer Creation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-steady-shots-expert-tips-on-tripods-in-vlog-production/"><u>[Updated] Steady Shots Expert Tips on Tripods in Vlog Production</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-top-15-webcams-for-quality-youtube-live-streams/"><u>2024 Approved Top 15 Webcams for Quality YouTube Live Streams</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-car-news-update-potential-launch-timeline-price-estimates-and-revolutionary-features-explored/"><u>Apple Car News Update: Potential Launch Timeline, Price Estimates, and Revolutionary Features Explored</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-vision-add-movie-maker-to-your-win11-media-suite/"><u>Capture Vision Add Movie Maker to Your Win11 Media Suite</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-gt-5-240w-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/expensive-shortcuts-why-skimping-on-windows-auth-keys-is-not-ideal/"><u>Expensive Shortcuts: Why Skimping on Windows Auth Keys Is Not Ideal</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-rated-free-webm-video-editing-tools/"><u>New Top-Rated Free WebM Video Editing Tools</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-wbk-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .wbk file documents online</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-fcpx-plugin-collection-free-and-paid-gems-for-2024/"><u>The Ultimate FCPX Plugin Collection Free and Paid Gems for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-picks-for-extended-range-routers-best-options-available/"><u>Top Picks for Extended Range Routers - Best Options Available</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-free-video-cutting-software-for-mp4-files/"><u>Updated 2024 Approved Best Free Video Cutting Software for MP4 Files</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-easy-desktop-recording-with-filmora-scrn-a-quick-start-guide/"><u>Updated 2024 Approved Easy Desktop Recording with Filmora Scrn A Quick Start Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-list-of-sony-vegas-alternatives-for-windows-video-editors/"><u>Updated 2024 Approved The Ultimate List of Sony Vegas Alternatives for Windows Video Editors</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-elevate-your-video-game-6-expert-adobe-premiere-techniques-to-know/"><u>Updated Elevate Your Video Game 6 Expert Adobe Premiere Techniques to Know</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-extract-audio-from-video-top-mp4-to-mp3-apps-for-2024/"><u>Updated Extract Audio From Video Top MP4 to MP3 Apps for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-fun-ahead-top-10-game-download-sites-for-pc-android-and-beyond/"><u>Updated Free Fun Ahead Top 10 Game Download Sites for PC, Android, and Beyond</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-notch-mts-video-editors-5-recommendations/"><u>Updated In 2024, Top-Notch MTS Video Editors 5 Recommendations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-list-of-free-user-friendly-editing-apps/"><u>[New] The Ultimate List of Free, User-Friendly Editing Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-undercover-approach-to-instagram-stories-on-modern-tech/"><u>[New] Undercover Approach to Instagram Stories on Modern Tech</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-motorola-g24-power-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Motorola G24 Power to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/how-to-blur-faces-or-backgrounds-in-videos-using-mobile-apps-for-2024/"><u>How to Blur Faces or Backgrounds in Videos Using Mobile Apps for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mastering-green-screen-in-fcp-x-a-step-by-step-guide-for-2024/"><u>Mastering Green Screen in FCP X A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mastering-jump-cuts-in-fcpx-a-step-by-step-guide/"><u>Mastering Jump Cuts in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-10-best-vlog-editor-apps-ios-and-android/"><u>New 10 Best Vlog Editor Apps iOS & Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-mpeg-merger-tools-top-5-picks/"><u>New 2024 Approved Free MPEG Merger Tools Top 5 Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reveals-straightforward-techniques-for-increasing-apple-watch-functionality-and-challenges/"><u>ZDNet Reveals Straightforward Techniques for Increasing Apple Watch Functionality and Challenges</u></a></li>
 </ul></div>
 
