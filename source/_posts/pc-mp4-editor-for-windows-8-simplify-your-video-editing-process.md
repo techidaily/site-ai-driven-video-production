@@ -1,7 +1,7 @@
 ---
 title: PC MP4 Editor for Windows 8 Simplify Your Video Editing Process
-date: 2025-02-03T00:16:23.682Z
-updated: 2025-02-09T22:58:15.861Z
+date: 2025-02-14T23:19:17.252Z
+updated: 2025-02-19T22:51:39.863Z
 tags: 
   - video editing software
   - video editing
@@ -30,10 +30,6 @@ In this article, a stylish and versatile MP4 editor for Windows 8 - [Wondershare
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Easily Edit MP4 Files on PC
 
 #### 1\.  Import your MP4 videos
@@ -43,10 +39,6 @@ Click Import or directly drop and drop to load your source videos into Filmora a
 The imported MP4 videos will show as thumbnails in the user's album's item tray. Double click it, you can preview them on the right screen (full screen is available), and take snapshots freely.
 
 ![how to edit mp4 on windows 8](https://images.wondershare.com/filmora/article-images/import-source-image2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2\.  Easy MP4 editing in Windows 8
 
@@ -64,11 +56,19 @@ Select a clip in the Timeline, drag the Indicator to where you want to split and
 
 ![best mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-split-trim.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Rotate, Crop, Adjust Brightness, Speed, etc
 
 To rotate video, [crop some unwanted parts](https://tools.techidaily.com/wondershare/filmora/download/) of the video, you can select the editing box as your editing helper. Double click the video clip, or right click and choose Edit option, you'll go to the edit window.
 
 ![simple mp4 editor windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-video-audio-editing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Add Scene Transition
 
@@ -77,7 +77,7 @@ Click "Transition" tab on the main interface and drag one scene transition you l
 ![mp4 editor for windows 8](https://images.wondershare.com/images/multimedia/video-editor/video-editor-transition.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In all, with this MP4 editor for Windows 8, everything is at your fingertips. If you also want to add [intro/credits](https://tools.techidaily.com/wondershare/filmora/download/), apply special effects, create picture-in-picture effects, etc., please go to the [detailed guide](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -89,18 +89,18 @@ MP4 [video editor](https://tools.techidaily.com/wondershare/filmora/download/) f
 ![edit mp4 in windows 8](https://images.wondershare.com/filmora/article-images/filmora9-export-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Also view a step by step video guide on how to edit MP4 files in Windows 8:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -117,24 +117,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mend-iphones-facebook-video-displays/"><u>[New] 2024 Approved Mend iPhones' Facebook Video Displays</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-5-ios-apps-for-efficient-podcasting/"><u>[New] Best 5 iOS Apps for Efficient Podcasting</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/levate-your-content-game-with-these-5-proven-youtube-marketing-hacks-for-2024/"><u>[New] Elevate Your Content Game with These 5 Proven YouTube Marketing Hacks for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-kids-camera-guide-top-11-easy-waterproof-options/"><u>[Updated] 2024 Approved The Ultimate Kids' Camera Guide - Top 11 Easy, Waterproof Options</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-identifying-the-perfect-hashtag-for-your-tiktok-profile/"><u>[Updated] In 2024, Identifying the Perfect Hashtag for Your TikTok Profile</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhance-your-streams-with-manycam-top-notch-software-for-seamless-virtual-webcams-and-live-video-production/"><u>Enhance Your Streams with ManyCam - Top-Notch Software for Seamless Virtual Webcams and Live Video Production</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-become-an-fcp-virtuoso-with-this-guide/"><u>In 2024, Become an FCP Virtuoso with This Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone SE</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-breaking-free-from-g/"><u>New In 2024, Breaking Free From G</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mastering-video-editing-in-os-x-mavericks-a-comprehensive-guide/"><u>New Mastering Video Editing in OS X Mavericks A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-powerdirector-competitors-best-mobile-video-editors-for-android-and-ios/"><u>New PowerDirector Competitors Best Mobile Video Editors for Android & iOS</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-unlock-your-gopros-potential-best-alternative-video-editing-software/"><u>New Unlock Your GoPros Potential Best Alternative Video Editing Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-free-green-screen-apps-for-android-and-ios-for-2024/"><u>The Ultimate Guide to Free Green Screen Apps for Android and iOS for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-replace-sony-vegas-discover-the-best-video-editing-software-for-windows/"><u>Updated 2024 Approved Replace Sony Vegas Discover the Best Video Editing Software for Windows</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-editstudio-for-macos/"><u>Updated In 2024, EditStudio for macOS</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-no-cost-split-screen-video-creators-web-based-and-downloadable-options/"><u>Updated No-Cost Split Screen Video Creators Web-Based and Downloadable Options</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-showdown-adobe-premiere-vs-after-effects-for-video-creators/"><u>Updated The Ultimate Showdown Adobe Premiere vs After Effects for Video Creators</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-video-to-live-photo-best-apps-and-step-by-step-guides-for-2024/"><u>Updated Video to Live Photo Best Apps and Step-by-Step Guides for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cutting-out-distractions-in-photos/"><u>[Updated] Cutting Out Distractions in Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ending-automatic-video-captures-in-qt-player/"><u>[Updated] Ending Automatic Video Captures in QT Player</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-enhancing-social-reach-joining-instagram-and-facebook/"><u>[Updated] Enhancing Social Reach Joining Instagram & Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-androids-finest-moba-battles-compilation-10-edition/"><u>2024 Approved Android's Finest MOBA Battles Compilation (#10 Edition)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-simplifying-the-process-of-watching-fb-live-on-roku/"><u>2024 Approved Simplifying the Process of Watching FB Live on Roku</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-tseries-income-stream-from-youtube-content-consumption/"><u>2024 Approved Unveiling TSeries’ Income Stream From Youtube Content Consumption</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-plugin-roundup-the-best-of-both-worlds-free-and-paid/"><u>FCPX Plugin Roundup The Best of Both Worlds (Free & Paid)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/free-cam-software-roundup-innovation-at-your-fingertips/"><u>Free Cam Software Roundup Innovation at Your Fingertips</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/from-zero-to-hero-best-3d-video-making-software-free-and-paid-for-2024/"><u>From Zero to Hero Best 3D Video Making Software Free and Paid for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-free-video-cutting-tools-for-divx-files-updated-2023/"><u>In 2024, Best Free Video Cutting Tools for Divx Files (Updated 2023)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-of-the-best-free-avi-video-rotation-software/"><u>In 2024, Best of the Best Free AVI Video Rotation Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unleash-your-creativity-mp4-video-editing-tips-and-tricks-for-mac-and-windows/"><u>In 2024, Unleash Your Creativity MP4 Video Editing Tips and Tricks for Mac and Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-video-editing-essentials-how-to-resize-and-crop-videos/"><u>In 2024, Video Editing Essentials How to Resize and Crop Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-pro-level-jump-cuts-in-final-cut-pro-x-tips-and-tricks/"><u>New 2024 Approved Pro-Level Jump Cuts in Final Cut Pro X Tips and Tricks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-art-of-dvd-creation-tips-and-tricks-for-amateur-filmmakers/"><u>New 2024 Approved The Art of DVD Creation Tips and Tricks for Amateur Filmmakers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-elite-costless-mp3-collision-system-2023s-recommended-choices/"><u>New In 2024, Elite Costless MP3 Collision System 2023S Recommended Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-varied-chess-worlds-with-these-6-apps/"><u>Step Into Varied Chess Worlds with These 6 Apps</u></a></li>
 </ul></div>
 

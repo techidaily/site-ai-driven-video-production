@@ -1,7 +1,7 @@
 ---
 title: No Luck with WhatsApp Backups on iCloud? Here's What You Need to Know
-date: 2025-02-05T18:49:45.861Z
-updated: 2025-02-09T19:47:34.649Z
+date: 2025-02-18T03:56:41.494Z
+updated: 2025-02-19T22:09:07.325Z
 tags:
   - iphone
   - apple
@@ -18,23 +18,23 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 
  But sometimes this backup feature stops working on iPhones because of issues like improper iCloud settings. Luckily, you can easily get your WhatsApp backups up and running. Here are some easy fixes to try when WhatsApp isn't backing up to iCloud:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check if WhatsApp Is Enabled for iCloud Backup
 
 ![name in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/name-in-iphone-settings-1.jpg)
 
 ![icloud settings in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![show all option in icloud iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/show-all-option-in-icloud-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![apps using icloud in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apps-using-icloud-in-iphone-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -48,11 +48,11 @@ Close
 
 ![chat backup option in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![chats section in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chats-section-in-whatsapp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Whatsapp chat backup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-chat-backup.jpg)
 
@@ -72,27 +72,19 @@ To check your available iCloud storage space:
 
 ![icloud settings in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![manage account storage option in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-account-storage-option-in-iphone.jpg)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Perform a Manual Backup on WhatsApp
 
 ![chat backup option in whatsapp-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Backing up now in Whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/backing-up-now-in-whatsapp.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -106,7 +98,7 @@ Here's how you can do that:
  While not necessary, consider keeping WhatsApp open during this manual backup. This means not swiping the WhatsApp page up in the app switcher. You may use other apps or put your iPhone to sleep during this time though.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Check the iCloud Server Status
@@ -114,7 +106,7 @@ Here's how you can do that:
 ![Apple server status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-server-status.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes, the issue may not be with your device or with WhatsApp, but rather with iCloud services. Visit the [Apple System Status](https://www.apple.com/support/systemstatus/) page to see whether iCloud servers are down or having server issues.
@@ -136,6 +128,10 @@ To restart your device:
 
 ![General Section in iPhone Setttings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-section-in-iphone-setttings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Software Update in iPhone General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-iphone-general-settings.jpg)
 
 Close
@@ -149,10 +145,6 @@ To update your iPhone, follow these steps:
 3. Once done, select**Install Now** and accept the terms and conditions to initiate the installation process.
 
  WhatsApp also routinely updates its application to resolve bug fixes and system glitches. That's [why you should never disable automatic updates on your phone](https://www.makeuseof.com/never-disable-auto-app-updates-android-iphone/) if you're looking to use the best version of WhatsApp. To update the app, head on over to the**App Store,** search WhatsApp, and check if an update is available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Remove Videos From Your iCloud Backup
 
@@ -169,6 +161,10 @@ To do this, follow these steps:
 
 ![whatsapp messenger section in icloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-messenger-section-in-icloud-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![whatsapp data in icloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-data-in-icloud.jpg)
 
 Close
@@ -179,6 +175,10 @@ Close
 2. Tap**WhatsApp Messenger** .
 3. Tap**Delete Data from iCloud**
 4. Once the backup has been deleted, return to WhatsApp and start a fresh backup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Seamless WhatsApp Backups Can Give You Peace of Mind
 
@@ -201,22 +201,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tweetpic-puller-extract-visuals-from-twitter-feed/"><u>[New] 2024 Approved TweetPic Puller Extract Visuals From Twitter Feed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-video-speed-on-instagram-desktop-guide-for-2024/"><u>[New] Elevate Your Video Speed on Instagram Desktop Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-from-basic-to-advanced-usage-maximize-your-experience-with-macs-preview/"><u>[Updated] 2024 Approved From Basic to Advanced Usage Maximize Your Experience with Mac's Preview</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovating-with-color-a-complete-look-at-ps-3d-luts/"><u>[Updated] Innovating with Color A Complete Look at PS 3D LUTs</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-reactivating-one-or-more-malfunctioning-sound-services/"><u>Expert Advice on Reactivating One or More Malfunctioning Sound Services</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-recommendations-the-finest-fee-free-streamers-and-tools-for-2024/"><u>Expert Recommendations The Finest, Fee-Free Streamers and Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/from-idea-to-screen-easy-film-production-for-beginners/"><u>From Idea to Screen Easy Film Production for Beginners</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-brother-hl-l237aster-printer-drivers-easy-and-secure-download/"><u>Get the Newest Brother HL-L237aster Printer Drivers – Easy and Secure Download!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-best-webm-to-mp3-converters-for-fast-and-easy-file-conversion/"><u>In 2024, Best WebM to MP3 Converters for Fast and Easy File Conversion</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-s-best-face-swap-apps-for-iphone-and-android/"><u>In 2024, S Best Face Swap Apps for iPhone and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-webm-video-editing-made-easy-top-10-free-tools/"><u>In 2024, WebM Video Editing Made Easy Top 10 Free Tools</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mastering-the-craft-how-to-produce-mukbang-videos/"><u>Mastering the Craft How to Produce Mukbang Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-video-cutting-and-joining-apps-for-android-and-ios-2023-review/"><u>New 2024 Approved Free Video Cutting and Joining Apps for Android and iOS (2023 Review)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-capture-to-share-mastering-gopro-quik-video-editing-on-macbook/"><u>New 2024 Approved From Capture to Share Mastering GoPro Quik Video Editing on MacBook</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-how-to-easily-make-professional-looking-movies/"><u>New 2024 Approved How to Easily Make Professional-Looking Movies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-text-animation-apps-for-mobile-video-editing/"><u>New 2024 Approved Top Text Animation Apps for Mobile Video Editing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-high-end-gamers-guide-to-switch-recordings/"><u>[New] In 2024, High-End Gamers' Guide to Switch Recordings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-behind-the-scenes-choosing-ideal-winter-backdrops/"><u>[Updated] 2024 Approved Behind the Scenes Choosing Ideal Winter Backdrops</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-simple-approach-to-youtube-statistics-review-for-2024/"><u>[Updated] A Simple Approach to YouTube Statistics Review for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-scale-examination-unboxing-the-dji-phantom-4/"><u>2024 Approved Full-Scale Examination Unboxing the DJI Phantom 4</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harness-youtubes-power-with-these-top-7-affordable-easy-to-use-tag-extractor-tools/"><u>2024 Approved Harness YouTube's Power with These Top 7 Affordable, Easy-to-Use Tag Extractor Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensible-approach-to-adding-dates-on-youtube-videos/"><u>In 2024, A Comprehensible Approach to Adding Dates on YouTube Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-cable-modems-of-the-year-2024-picks/"><u>Leading Cable Modems of the Year: 2024 Picks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-avi-video-rotation-software-the-ultimate-cross-platform-guide/"><u>New In 2024, Free AVI Video Rotation Software The Ultimate Cross-Platform Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mastering-final-cut-pro-reversing-video-footage-with-ease/"><u>New Mastering Final Cut Pro Reversing Video Footage with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-image-enhancement-with-audio/"><u>Online Image Enhancement with Audio</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlined-mobile-play-your-guide-to-fortnite-with-nvidia/"><u>Streamlined Mobile Play: Your Guide to Fortnite with Nvidia</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-avchd-video-editing-programs/"><u>Top-Rated AVCHD Video Editing Programs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-10-simple-yet-effective-neon-text-generators-online-for-2024/"><u>Updated 10 Simple Yet Effective Neon Text Generators Online for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-get-started-with-vn-video-editor-on-mac-or-find-suitable-replacements/"><u>Updated 2024 Approved Get Started with VN Video Editor on Mac or Find Suitable Replacements</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-vegas-or-premiere-choosing-the-best-video-editing-software-for-you/"><u>Updated 2024 Approved Vegas or Premiere? Choosing the Best Video Editing Software for You</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-flv-editor-for-windows-8-easily-edit-flv-videos-on-pc/"><u>Updated FLV Editor for Windows 8 Easily Edit FLV Videos on PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-still-to-stunning-how-to-use-ken-burns-effect-in-final-cut-pro-for-maximum-impact/"><u>Updated In 2024, From Still to Stunning How to Use Ken Burns Effect in Final Cut Pro for Maximum Impact</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/vignette-perfection-discover-the-best-apps-for-ios-and-android-for-2024/"><u>Vignette Perfection Discover the Best Apps for iOS and Android for 2024</u></a></li>
 </ul></div>
 

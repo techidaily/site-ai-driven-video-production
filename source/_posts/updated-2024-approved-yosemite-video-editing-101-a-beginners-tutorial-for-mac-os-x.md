@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X
-date: 2025-01-14T22:19:03.652Z
-updated: 2025-01-15T23:42:40.112Z
+date: 2025-02-15T07:10:40.426Z
+updated: 2025-02-20T06:18:58.875Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,10 @@ Although Apple’s new operating system - Mac OS X 10.10 Yosemite will bring new
 
 Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite – Wondershare [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is recommended. It supports almost all the popular video formats including AVI, WMV, MP4, FLV, MKV, MOV, 3GP, etc. With it, you can put together your video clips or split to segments to get creative and customized brand new videos. Here is a detailed guide on how to create videos on Yosemite with this smart video editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1. Import media files to edit
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
@@ -37,7 +41,7 @@ To import videos, audio, photos to edit, you can go to “File”>”Import Medi
 ![import video in Yosemite Video Editor ](https://images.wondershare.com/filmora/article-images/filmora9-mac-import-videos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2. Edit videos, audio and photos
@@ -56,10 +60,6 @@ If you want to add an additional audio file as the background music to the video
 
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Add transition and other effects**
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
@@ -67,11 +67,7 @@ This app also allows you to add cool transitions and other effects to your video
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3. Export your video creation
@@ -80,12 +76,16 @@ After you preview the effect, just click the “Export” button to export the v
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -103,14 +103,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-android-gaming-elevated-in-depth-look-at-the-breakthrough-app-kinemaster/"><u>[New] Android Gaming Elevated - In-Depth Look at the Breakthrough App, KineMaster</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-investing-wisdom-in-webcams-finest-stocks-channels/"><u>[Updated] In 2024, Investing Wisdom in Webcams Finest Stocks Channels</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/convenient-ways-to-merge-igtv-and-insta-stories-for-2024/"><u>Convenient Ways to Merge IGTV & Insta Stories for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-c22-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia C22 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-from-glitch-to-glory-how-to-reset-final-cut-pro-x-for-error-free-video-editing/"><u>New In 2024, From Glitch to Glory How to Reset Final Cut Pro X for Error-Free Video Editing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-top-mac-video-editors-of-for-2024/"><u>New Top Mac Video Editors Of for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-unleashing-creativity-the-top-10-final-cut-pro-movies/"><u>New Unleashing Creativity The Top 10 Final Cut Pro Movies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sony-wireless-noise-cancelling-wh-1000xm5-the-ultimate-audio-experience-reviewed-by-techexperts/"><u>Sony Wireless Noise-Cancelling WH-1000XM5: The Ultimate Audio Experience Reviewed by TechExperts</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-steady-your-shot-the-best-free-online-video-stabilizers/"><u>Updated In 2024, Steady Your Shot The Best Free Online Video Stabilizers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skys-biggest-load-carriers-drones-ranked/"><u>[New] Sky's Biggest Load Carriers Drones Ranked</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-spiritual-slow-motion-videoworkshop-for-2024/"><u>[New] Spiritual Slow-Motion Videoworkshop for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-tints-and-tonality-applying-theoretical-insight/"><u>[New] Tints & Tonality Applying Theoretical Insight</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-teaching-technology-trends-the-top-10-audio-visual-devices-for-classrooms/"><u>[Updated] In 2024, Teaching Technology Trends The Top 10 Audio-Visual Devices for Classrooms</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-itel-a60-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Itel A60 FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-complete-unpacking-of-ricohs-theta-vr-solution/"><u>In 2024, Complete Unpacking of Ricoh's Theta VR Solution</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-enhancing-media-workflow-the-rise-of-magix-vpx/"><u>In 2024, Enhancing Media Workflow The Rise of Magix VPX</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-dvd-ripping-toolkit-for-windows-users-acclaimed-features-and-comprehensive-tutorials/"><u>MacX DVD Ripping Toolkit for Windows Users - Acclaimed Features and Comprehensive Tutorials!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-cut-to-the-chase-filmora-coupon-codes-without-the-fuss/"><u>New In 2024, Cut to the Chase Filmora Coupon Codes Without the Fuss</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-mobile-split-screen-mastery-top-video-apps/"><u>New In 2024, Mobile Split Screen Mastery Top Video Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-honest-guide-to-getting-filmora-for-free-no-illegal-downloads/"><u>New In 2024, The Honest Guide to Getting Filmora for Free (No Illegal Downloads)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/reaction-video-mastery-top-ios-and-android-apps/"><u>Reaction Video Mastery Top iOS and Android Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-replace-vsdc-with-these-powerful-mac-video-editors/"><u>Updated Replace VSDC with These Powerful Mac Video Editors</u></a></li>
 </ul></div>
 
